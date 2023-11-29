@@ -58,8 +58,8 @@ For most of the witnesses, [existing editions](#references) of the text could be
 - `viz`: Folder with figures, images and tables
 - `html`:
 - `rich_txt`: 17 raw text files, manually enriched them with semantic markup: [legend](#legend-rich_txt_martijn)
-- `plain_txt`: 17 txt-files generated from `xml_martijn` with markup applied (see src > xml_editions > `xml2txt.ipynb`) 
-- `xml`: 17 xml-files generated from the `rich_txt_martijn` (see src > xml_editions > `parse_to_mvvnxml.ipynb`)
+- `plain_txt`: 17 txt-files generated from `xml` with markup applied (scripts > `xml2txt.ipynb`) 
+- `xml`: 17 xml-files generated from the `rich_txt` (scripts > `txt2xml.ipynb`)
 
 **scripts**
 - `viz.ipynb`: Code to create figures, images,...
