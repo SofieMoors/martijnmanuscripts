@@ -67,7 +67,7 @@ For most of the witnesses, [existing editions](#references) of the text could be
 - `xml2txt.ipynb`: Code to convert `xml` to `plain_txt`
 - `xml2xlsx.ipynb`: Code to convert `xml` to `xlsx`
 
-# LEGEND rich_txt_martijn:
+# LEGEND rich_txt:
 
 | TRANSCRIPTION RICH_TXT_MARTIJN |  EXAMPLE        |        INFORMATION               |        
 |--------------------------|------------------------------|-----------------------------|
