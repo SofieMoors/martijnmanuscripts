@@ -1,17 +1,16 @@
-# <p align = center> collateconstraints</center> 
-## <p align = center>Repo for dra. Sofie Moors' project *Constrained* on the collation of textual variants of the Middle Dutch *Martijn trilogy* and *Dietsche Catoen*. </center> 
+# <p align = center> The Martijn Trilogy Manuscripts: An Open Dataset for Analyzing Scribal Variation</center> 
 
 *Constrained* is a research project funded by the Research Foundation - Flanders, File Number 1182723N. 
 
 Cite this code as: [![DOI](https://zenodo.org/badge/457832412.svg)](https://zenodo.org/badge/latestdoi/457832412)
 
 # ABSTRACT: 
-Recent international research increasingly focuses on the spread and survival of medieval literature. During the Middle Ages, the material transmission of texts depended entirely on the manual transcription of literature, granting texts a fluid character. This project will investigate which coping mechanisms helped to guarantee the sustainable exchange of information in textual cultures that are characterized by unstable transmission modes. An important aspect of the survival of literature that deserves further empirical research is the text form. To examine whether formal aspects can be labelled as 'constraints' that limit changes, the complete transmission of two short 13th-century Middle Dutch texts will be compared in a digitally supported way, namely: the *Martijn trilogy* of the Flemish poet Jacob van Maerlant, and *Dietsche Catoen*, a translation of the Latin *Distichs of Cato*. The results will be controlled with a control corpus, namely Maerlant's voluminous *Scolastica* (1271). Because the texts differ significantly in terms of formal characteristics, this project wants to examine whether and which formal aspects of a text (such as rhyme and text structure) can be considered as 'coping mechanisms' in the transmission. It can be expected, for instance, that the *Martijn trilogy*, which is built according to complex rhyme schemes, shows less variation in the transmission than *Dietsche Catoen*, in which the only formal requirements are the four-line stanzas and the paired rhyme.
+We present a dataset of transcriptions of manuscripts from the Middle Dutch strophic poem Martijn Trilogy by the Flemish poet Jacob van Maerlant. Of his very large oeuvre, Maerlant’s Strophic Poems had the longest tradition: he wrote them in the thirteenth century, but copyists and printers distributed them until about 1500. These ten shorter poems on social, religious, and ethical issues stand out for their unusual and complex stanza form. The Martijn Trilogy was the most successful strophic poem: we have 17 text witnesses, and the trilogy was imitated and even translated into French and Latin. This dataset contains transcriptions of all witnesses, which forms a total of 15,811 verses or 79,359 words. These transcriptions are open access and available in TXT, XML, XLSX and HTML. Since the editions are diplomatic, this corpus is ideal for research on scribal attributions, abbreviations, stemmatology, textual stability and more.
 
 # DATA COLLECTION: 
 The 17 different text witnesses of the *Martijn Trilogy* are manuscripts, fragments, and prints dating from the 14th century until ca. 1500. 
 <p align="center">
-  <img src="https://github.com/SofieMoors/collateconstraints/blob/main/data/figures_images_tables/Timeline_manuscripts.png" />
+  <img src="https://github.com/SofieMoors/martijnmanuscripts/blob/main/data/viz/mytimeline.png" />
 </p>
 
 For most of the witnesses, [existing editions](#references) of the text could be digitized using Optical Character Recognition.
@@ -55,35 +54,36 @@ For most of the witnesses, [existing editions](#references) of the text could be
 
 
 # DATA PREPROCESSING: 
-<p align="center">
-  <img src="https://github.com/SofieMoors/collateconstraints/blob/main/data/figures_images_tables/flowchart.drawio.svg" />
-</p>
+**data**
+- `viz`: Folder with figures, images and tables
+- `html`:
+- `rich_txt`: 17 raw text files, manually enriched them with semantic markup: [legend](#legend-rich_txt_martijn)
+- `plain_txt`: 17 txt-files generated from `xml_martijn` with markup applied (see src > xml_editions > `xml2txt.ipynb`) 
+- `xml`: 17 xml-files generated from the `rich_txt_martijn` (see src > xml_editions > `parse_to_mvvnxml.ipynb`)
 
-**Data**
-- `figures_images_tables` --> Folder with all figures, images and tables
-- `rich_txt_martijn` --> 17 raw text files, manually enriched them with semantic markup: [legend](#legend-rich_txt_martijn)
-- `plain_txt_martijn` --> 17 txt-files generated from `xml_martijn` with markup applied (see src > xml_editions > `xml2txt.ipynb`) 
-- `tsv_files` and `tsv_files_corrected` --> 17 tsv-files generated from `xml_martijn` by lemmatizer PIE (see src > lemmatizer > `pie_martijntrilogy.ipynb`), the 'corrected' ones are manually corrected (work-in-progress)
-- `xml_lemmatizer` --> 17 xml-files with lemma's generated from the `tsv-files` (see src > lemmatizer > `tsv_to_xml.ipynb`) (work-in-progress)
-- `xml_martijn` --> 17 xml-files generated from the `rich_txt_martijn` (see src > xml_editions > `parse_to_mvvnxml.ipynb`)
-
-**Scripts**
-
-*abbreviations* (work-in-progress)
-
-*collation*
-- `align.ipynb` and `collatexalign.ipynb` --> Code for aligning `xml_martijn` with Needleman-wunsch and CollateX
-
-*lemmatizer*
-- `pie_martijntrilogy.ipynb` -> Code to convert `xml_martijn` to `tsv_files` with lemma's (work-in-progress)
-- `tsv_to_xml.ipynb` -> Code to convert (corrected) `tsv_files` to `xml_lemmatizer` (work-in-progress)
-
-*xml_editions*
-- `parse_to_mvvnxml.ipynb` -> Code to convert `rich_txt_martijn` to `xml_martijn`
-- `xml2txt.ipynb` -> Code to convert `xml_martijn` to `plain_txt_martijn`
+**scripts**
+- `viz.ipynb`: Code to create figures, images,...
+- `txt2xml.ipynb`: Code to convert `rich_txt` to `xml`
+- `xml2txt.ipynb`: Code to convert `xml` to `plain_txt`
+- `xml2xlsx.ipynb`: Code to convert `xml` to `xlsx`
 
 # LEGEND rich_txt_martijn:
-<p align="center">
-  <img src="https://github.com/SofieMoors/collateconstraints/blob/main/data/figures_images_tables/Legend_rich_txt_files.drawio.svg"/>
-</p>
+
+| TRANSCRIPTION RICH_TXT_MARTIJN |  EXAMPLE        |        INFORMATION               |        
+|--------------------------|------------------------------|-----------------------------|
+| &FOLIO_COLUMN&           | &2ra&, &112vb&               | New page and column          |                                            
+| \_TEXTPART\_                | \_M1\_                         | New text part (M1, M2 or M3) |                                            
+| _____                    | _____                        | End of text part             |                                            
+| §STROPHE§                | §03§; §20§                   | New strophe                 |                                            
+| <CHARACTER_HEIGHT>       | <O_3>m, <D>e                 | Capital letter and height of letter |                                      
+| {CHARACTER}              | {per}semier, dor{per}hede, or{con}de | Special abbreviatory glyphs (ꝫ, ꝑ, ꝰ, …) |                            
+| CHARACTER(CHARACTER)     | en(de), co(ninc)             | Macron                      |                                            
+| CHARACTER%CHARACTER%     | n%iet%, g%roe%t              | Abbreviation marked by superscript letter |                                  
+| CHARACTER#               | siechei#                     | Hyphenation                 |                                            
+| [...]                    | es [...], m[...]             | Damage gap                  |                                            
+| *CHARACTER*              | *t*                          | Uncertain reading            |                                            
+| CHARACTER[CHARACTER]     | s[er]e                       | Abbreviation marked by ʼ    |                                            
+| Ø                        | Ø                            | Missing line (copyist error) |                                            
+| «CHARACTER»              | «koen»                       | Word added below the line   |                                            
+
 
