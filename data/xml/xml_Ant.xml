@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MVN xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Jacob van Maerlant, Martijn</title><editor xml:id="SM">Sofie Moors</editor></titleStmt>
+            <publicationStmt>
+                <p>Transcription based on: Sleiderink, R., Moors, S., and De Schepper, M. (2020). Bandwerk. Een nieuw fragment van Wapene Martijn van Jacob van Maerlant (Antwerpen, Universiteitsbibliotheek, Bijzondere Collecties, MAG-P 64.20). Queeste, 27: 43-62.</p>
+            </publicationStmt>
+            <sourceDesc>
+<msDesc>
+          <msIdentifier>
+            <settlement>Antwerp</settlement>
+            <institution>University Library Special Collections</institution>
+            <idno>MAG-P 64.20</idno>
+            <msName>Ant</msName>
+          </msIdentifier>
+ <p>...</p>
+        </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+ <charDecl><char xml:id="rrot">
+                <charName>LATIN SMALL LETTER R ROTUNDA</charName>
+                <mapping type="junicode">ꝛ</mapping>
+                <mapping type="mufi">ꝛ</mapping>
+                <mapping type="standard">ꝛ</mapping>
+            </char></charDecl>
+            <xi:include href="http://www.huygensinstituut.knaw.nl/projecten/mvn/webfiles/charDecl.xml"  
+                xmlns:xi="http://www.w3.org/2001/XInclude">
+                <xi:fallback>
+                    <xi:include href="charDecl/charDecl.xml"/>
+                </xi:fallback>
+            </xi:include>
+            <editorialDecl>
+                <p><!-- Verantwoording van de editie --></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <handNotes>
+                <handNote xml:id="h1"><p>...</p></handNote>
+            </handNotes>
+        </profileDesc>
+    </teiHeader>
+    <text xml:id="Martijn">
+        <group><pb xml:id="Ant.f5ra" n="5ra"/>
+
+
+<text n="Eerste Martijn" xml:id="M1">
+<body>
+<p><lg type="stanza" n="47">
+<lb n="1" xml:id="Antf5ra.1"/><l n="Ant_M1_47_606"><damage><gap></gap></damage></l>
+<lb n="2" xml:id="Antf5ra.2"/><l n="Ant_M1_47_607"><damage><gap></gap></damage></l>
+<lb n="3" xml:id="Antf5ra.3"/><l n="Ant_M1_47_608"><damage><gap></gap></damage>ijt</l>
+<lb n="4" xml:id="Antf5ra.4"/><l n="Ant_M1_47_609"><damage><gap></gap></damage></l>
+<lb n="5" xml:id="Antf5ra.5"/><l n="Ant_M1_47_610"><damage><gap></gap></damage></l>
+<lb n="6" xml:id="Antf5ra.6"/><l n="Ant_M1_47_611"><damage><gap></gap></damage></l>
+</lg>
+<lg type="stanza" n="48">
+<lb n="7" xml:id="Antf5ra.7"/><l n="Ant_M1_48_612"><damage><gap></gap></damage></l>
+<lb n="8" xml:id="Antf5ra.8"/><l n="Ant_M1_48_613"><damage><gap></gap></damage></l>
+<lb n="9" xml:id="Antf5ra.9"/><l n="Ant_M1_48_614"><damage><gap></gap></damage></l>
+<lb n="10" xml:id="Antf5ra.10"/><l n="Ant_M1_48_615"><damage><gap></gap></damage></l>
+<lb n="11" xml:id="Antf5ra.11"/><l n="Ant_M1_48_616"><damage><gap></gap></damage>jn</l>
+<lb n="12" xml:id="Antf5ra.12"/><l n="Ant_M1_48_617"><damage><gap></gap></damage></l>
+<lb n="13" xml:id="Antf5ra.13"/><l n="Ant_M1_48_618"><damage><gap></gap></damage></l>
+<lb n="14" xml:id="Antf5ra.14"/><l n="Ant_M1_48_619"><damage><gap></gap></damage></l>
+<lb n="15" xml:id="Antf5ra.15"/><l n="Ant_M1_48_620"><damage><gap></gap></damage></l>
+<lb n="16" xml:id="Antf5ra.16"/><l n="Ant_M1_48_621"><damage><gap></gap></damage></l>
+<lb n="17" xml:id="Antf5ra.17"/><l n="Ant_M1_48_622"><damage><gap></gap></damage></l>
+<lb n="18" xml:id="Antf5ra.18"/><l n="Ant_M1_48_623"><damage><gap></gap></damage></l>
+<lb n="19" xml:id="Antf5ra.19"/><l n="Ant_M1_48_624"><damage><gap></gap></damage></l>
+</lg>
+<lg type="stanza" n="49">
+<lb n="20" xml:id="Antf5ra.20"/><l n="Ant_M1_49_625"><damage><gap></gap></damage></l>
+<lb n="21" xml:id="Antf5ra.21"/><l n="Ant_M1_49_626"><damage><gap></gap></damage><unclear>t</unclear></l>
+<lb n="22" xml:id="Antf5ra.22"/><l n="Ant_M1_49_627"><damage><gap></gap></damage></l>
+<lb n="23" xml:id="Antf5ra.23"/><l n="Ant_M1_49_628"><damage><gap></gap></damage></l>
+<lb n="24" xml:id="Antf5ra.24"/><l n="Ant_M1_49_629"><damage><gap></gap></damage></l>
+<lb n="25" xml:id="Antf5ra.25"/><l n="Ant_M1_49_630"><damage><gap></gap></damage></l>
+<lb n="26" xml:id="Antf5ra.26"/><l n="Ant_M1_49_631"><damage><gap></gap></damage></l>
+<lb n="27" xml:id="Antf5ra.27"/><l n="Ant_M1_49_632"><damage><gap></gap></damage></l>
+<lb n="28" xml:id="Antf5ra.28"/><l n="Ant_M1_49_633"><damage><gap></gap></damage></l>
+<lb n="29" xml:id="Antf5ra.29"/><l n="Ant_M1_49_634"><damage><gap></gap></damage></l>
+<lb n="30" xml:id="Antf5ra.30"/><l n="Ant_M1_49_635"><damage><gap></gap></damage></l>
+<lb n="31" xml:id="Antf5ra.31"/><l n="Ant_M1_49_636"><damage><gap></gap></damage></l>
+<lb n="32" xml:id="Antf5ra.32"/><l n="Ant_M1_49_637"><damage><gap></gap></damage></l>
+</lg>
+<lg type="stanza" n="50">
+<lb n="33" xml:id="Antf5ra.33"/><l n="Ant_M1_50_638"><damage><gap></gap></damage></l>
+<lb n="34" xml:id="Antf5ra.34"/><l n="Ant_M1_50_639"><damage><gap></gap></damage></l>
+<lb n="35" xml:id="Antf5ra.35"/><l n="Ant_M1_50_640"><damage><gap></gap></damage></l>
+<lb n="36" xml:id="Antf5ra.36"/><l n="Ant_M1_50_641"><damage><gap></gap></damage></l>
+<lb n="37" xml:id="Antf5ra.37"/><l n="Ant_M1_50_642"><damage><gap></gap></damage></l>
+<lb n="38" xml:id="Antf5ra.38"/><l n="Ant_M1_50_643"><damage><gap></gap></damage></l>
+
+
+<pb xml:id="Ant.f5rb" n="5rb"/>
+<lb n="1" xml:id="Antf5rb.1"/><l n="Ant_M1_50_644"><hi rend="capitalsize1">S</hi>oe viel <damage><gap></gap></damage></l>
+<lb n="2" xml:id="Antf5rb.2"/><l n="Ant_M1_50_645"><hi rend="capitalsize1">D</hi>us moch<damage><gap></gap></damage></l>
+<lb n="3" xml:id="Antf5rb.3"/><l n="Ant_M1_50_646"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> clare<damage><gap></gap></damage></l>
+<lb n="4" xml:id="Antf5rb.4"/><l n="Ant_M1_50_647"><hi rend="capitalsize1">M</hi>iltheit h<damage><gap></gap></damage></l>
+<lb n="5" xml:id="Antf5rb.5"/><l n="Ant_M1_50_648"><hi rend="capitalsize1">V</hi>recheit l<damage><gap></gap></damage></l>
+<lb n="6" xml:id="Antf5rb.6"/><l n="Ant_M1_50_649"><hi rend="capitalsize1">D</hi>it proeu<damage><gap></gap></damage></l>
+<lb n="7" xml:id="Antf5rb.7"/><l n="Ant_M1_50_650"><hi rend="capitalsize1">D</hi>ie winn<damage><gap></gap></damage></l>
+</lg>
+<lg type="stanza" n="51">
+<lb n="8" xml:id="Antf5rb.8"/><l n="Ant_M1_51_651"><hi rend="capitalsize2">I</hi>Acob e<damage><gap></gap></damage></l>
+<lb n="9" xml:id="Antf5rb.9"/><l n="Ant_M1_51_652"><hi rend="capitalsize1">A</hi>ls d<damage><gap></gap></damage></l>
+<lb n="10" xml:id="Antf5rb.10"/><l n="Ant_M1_51_653"><hi rend="capitalsize1">V</hi>an gher<damage><gap></gap></damage></l>
+<lb n="11" xml:id="Antf5rb.11"/><l n="Ant_M1_51_654"><hi rend="capitalsize1">D</hi>oet <choice><abbr>d<g ref="#apomod"/></abbr><expan>d<ex>er</ex></expan></choice> og<damage><gap></gap></damage></l>
+<lb n="12" xml:id="Antf5rb.12"/><l n="Ant_M1_51_655"><hi rend="capitalsize1">O</hi>ft comt<damage><gap></gap></damage></l>
+<lb n="13" xml:id="Antf5rb.13"/><l n="Ant_M1_51_656"><hi rend="capitalsize1">D</hi>it euel t<damage><gap></gap></damage></l>
+<lb n="14" xml:id="Antf5rb.14"/><l n="Ant_M1_51_657"><hi rend="capitalsize1">I</hi>c liet m<damage><gap></gap></damage></l>
+<lb n="15" xml:id="Antf5rb.15"/><l n="Ant_M1_51_658"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> ics vr<damage><gap></gap></damage></l>
+<lb n="16" xml:id="Antf5rb.16"/><l n="Ant_M1_51_659"><hi rend="capitalsize1">M</hi>aect mi <damage><gap></gap></damage></l>
+<lb n="17" xml:id="Antf5rb.17"/><l n="Ant_M1_51_660"><hi rend="capitalsize1">M</hi>ijn hert<damage><gap></gap></damage></l>
+<lb n="18" xml:id="Antf5rb.18"/><l n="Ant_M1_51_661"><hi rend="capitalsize1">M</hi>ine besce<damage><gap></gap></damage></l>
+<lb n="19" xml:id="Antf5rb.19"/><l n="Ant_M1_51_662"><hi rend="capitalsize1">E</hi>n es niet<damage><gap></gap></damage></l>
+<lb n="20" xml:id="Antf5rb.20"/><l n="Ant_M1_51_663"><hi rend="capitalsize1">N</hi>a dat ic<damage><gap></gap></damage></l>
+</lg>
+<lg type="stanza" n="52">
+<lb n="21" xml:id="Antf5rb.21"/><l n="Ant_M1_52_664"><choice><abbr><hi rend="capitalsize1">M</hi>Erte<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">M</hi>Erte<ex>n</ex></expan></choice> du <damage><gap></gap></damage></l>
+<lb n="22" xml:id="Antf5rb.22"/><l n="Ant_M1_52_665"><hi rend="capitalsize1">D</hi>u spr<damage><gap></gap></damage></l>
+<lb n="23" xml:id="Antf5rb.23"/><l n="Ant_M1_52_666"><hi rend="capitalsize1">D</hi>ie noch n<damage><gap></gap></damage></l>
+<lb n="24" xml:id="Antf5rb.24"/><l n="Ant_M1_52_667"><hi rend="capitalsize1">A</hi>lrehand<damage><gap></gap></damage></l>
+<lb n="25" xml:id="Antf5rb.25"/><l n="Ant_M1_52_668"><hi rend="capitalsize1">C</hi>omt van<damage><gap></gap></damage></l>
+<lb n="26" xml:id="Antf5rb.26"/><l n="Ant_M1_52_669"><choice><abbr><hi rend="capitalsize1">D</hi><g ref="#etfin"/></abbr><expan><hi rend="capitalsize1">D</hi><ex>at</ex></expan></choice> noit do<damage><gap></gap></damage></l>
+<lb n="27" xml:id="Antf5rb.27"/><l n="Ant_M1_52_670"><hi rend="capitalsize1">H</hi>em en m<damage><gap></gap></damage></l>
+<lb n="28" xml:id="Antf5rb.28"/><l n="Ant_M1_52_671"><hi rend="capitalsize1">D</hi>ie stille <damage><gap></gap></damage></l>
+<lb n="29" xml:id="Antf5rb.29"/><l n="Ant_M1_52_672"><damage><gap></gap></damage></l>
+<lb n="30" xml:id="Antf5rb.30"/><l n="Ant_M1_52_673"><damage><gap></gap></damage></l>
+<lb n="31" xml:id="Antf5rb.31"/><l n="Ant_M1_52_674"><damage><gap></gap></damage></l>
+<lb n="32" xml:id="Antf5rb.32"/><l n="Ant_M1_52_675"><damage><gap></gap></damage></l>
+<lb n="33" xml:id="Antf5rb.33"/><l n="Ant_M1_52_676"><damage><gap></gap></damage></l>
+</lg>
+<lg type="stanza" n="53">
+<lb n="34" xml:id="Antf5rb.34"/><l n="Ant_M1_53_677"><damage><gap></gap></damage></l>
+<lb n="35" xml:id="Antf5rb.35"/><l n="Ant_M1_53_678"><damage><gap></gap></damage></l>
+<lb n="36" xml:id="Antf5rb.36"/><l n="Ant_M1_53_679"><damage><gap></gap></damage></l>
+<lb n="37" xml:id="Antf5rb.37"/><l n="Ant_M1_53_680"><damage><gap></gap></damage></l>
+<lb n="38" xml:id="Antf5rb.38"/><l n="Ant_M1_53_681"><damage><gap></gap></damage></l>
+
+
+<pb xml:id="Ant.f5va" n="5va"/>
+<lb n="1" xml:id="Antf5va.1"/><l n="Ant_M1_53_682"><damage><gap></gap></damage>en</l>
+<lb n="2" xml:id="Antf5va.2"/><l n="Ant_M1_53_683"><damage><gap></gap></damage>n wijt</l>
+<lb n="3" xml:id="Antf5va.3"/><l n="Ant_M1_53_684"><damage><gap></gap></damage>r di lijt</l>
+<lb n="4" xml:id="Antf5va.4"/><l n="Ant_M1_53_685"><damage><gap></gap></damage>ts <choice><abbr>geloge<g ref="#bar"/></abbr><expan>geloge<ex>n</ex></expan></choice></l>
+<lb n="5" xml:id="Antf5va.5"/><l n="Ant_M1_53_686"><choice><abbr><damage><gap></gap></damage>neg<g ref="#apomod"/></abbr><expan><damage><gap></gap></damage>neg<ex>er</ex></expan></choice> tijt</l>
+<lb n="6" xml:id="Antf5va.6"/><l n="Ant_M1_53_687"><damage><gap></gap></damage>vor lijt</l>
+<lb n="7" xml:id="Antf5va.7"/><l n="Ant_M1_53_688"><damage><gap></gap></damage>gen</l>
+<lb n="8" xml:id="Antf5va.8"/><l n="Ant_M1_53_689"><damage><gap></gap></damage>n</l>
+</lg>
+<lg type="stanza" n="54">
+<lb n="9" xml:id="Antf5va.9"/><l n="Ant_M1_54_690"><damage><gap></gap></damage>elijc viant</l>
+<lb n="10" xml:id="Antf5va.10"/><l n="Ant_M1_54_691"><choice><abbr><damage><gap></gap></damage>menege<g ref="#bar"/></abbr><expan><damage><gap></gap></damage>menege<ex>n</ex></expan></choice> pant</l>
+<lb n="11" xml:id="Antf5va.11"/><l n="Ant_M1_54_692"><damage><gap></gap></damage></l>
+<lb n="12" xml:id="Antf5va.12"/><l n="Ant_M1_54_693"><damage><gap></gap></damage>ere di vant</l>
+<lb n="13" xml:id="Antf5va.13"/><l n="Ant_M1_54_694"><damage><gap></gap></damage>uus <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> lant</l>
+<lb n="14" xml:id="Antf5va.14"/><l n="Ant_M1_54_695"><damage><gap></gap></damage> houde</l>
+<lb n="15" xml:id="Antf5va.15"/><l n="Ant_M1_54_696"><damage><gap></gap></damage>en bant</l>
+<lb n="16" xml:id="Antf5va.16"/><l n="Ant_M1_54_697"><damage><gap></gap></damage>n .I. sant</l>
+<lb n="17" xml:id="Antf5va.17"/><l n="Ant_M1_54_698"><damage><gap></gap></damage>ude</l>
+<lb n="18" xml:id="Antf5va.18"/><l n="Ant_M1_54_699"><choice><abbr><damage><gap></gap></damage>metterha<g ref="#bar"/>t</abbr><expan><damage><gap></gap></damage>metterha<ex>n</ex>t</expan></choice></l>
+<lb n="19" xml:id="Antf5va.19"/><l n="Ant_M1_54_700"><choice><abbr><damage><gap></gap></damage>lke<g ref="#bar"/></abbr><expan><damage><gap></gap></damage>lke<ex>n</ex></expan></choice> pant</l>
+<lb n="20" xml:id="Antf5va.20"/><l n="Ant_M1_54_701"><damage><gap></gap></damage>moude</l>
+<lb n="21" xml:id="Antf5va.21"/><l n="Ant_M1_54_702"><damage><gap></gap></damage>woude</l>
+</lg>
+<lg type="stanza" n="55">
+<lb n="22" xml:id="Antf5va.22"/><l n="Ant_M1_55_703"><damage><gap></gap></damage>ge sprac</l>
+<lb n="23" xml:id="Antf5va.23"/><l n="Ant_M1_55_704"><damage><gap></gap></damage>ins gebrac</l>
+<lb n="24" xml:id="Antf5va.24"/><l n="Ant_M1_55_705"><damage><gap></gap></damage>nne</l>
+<lb n="25" xml:id="Antf5va.25"/><l n="Ant_M1_55_706"><damage><gap></gap></damage>ongemac</l>
+<lb n="26" xml:id="Antf5va.26"/><l n="Ant_M1_55_707"><damage><gap></gap></damage>uwert lac</l>
+<lb n="27" xml:id="Antf5va.27"/><l n="Ant_M1_55_708"><damage><gap></gap></damage>emt mi <choice><abbr>i<g ref="#bar"/>ne</abbr><expan>i<ex>n</ex>ne</expan></choice></l>
+<lb n="28" xml:id="Antf5va.28"/><l n="Ant_M1_55_709"><damage><gap></gap></damage>le wt stac</l>
+</lg>
+</p>
+</body>
+</text>
+        </group>
+    </text>
+ </MVN>

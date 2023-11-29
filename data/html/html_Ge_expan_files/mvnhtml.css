@@ -1,0 +1,153 @@
+div.group {
+width:1200px;
+    margin:20px;
+    padding:20px;
+     overflow: hidden;
+}
+div.groupbody{
+    width:580px}
+
+div.text {
+width:1200px;
+    margin:20px;
+    padding:20px;
+    border: 1px solid grey;
+     overflow: hidden;
+}
+div.textbody{
+    border: 1px dotted grey;
+    width:580px}
+    
+div.textnotes{
+    width:580px;
+    float:right;
+    border: 1px dotted grey;}
+
+div.note{
+     overflow: hidden;
+}
+div.notebody{
+     float: right;
+     width:480px;
+}
+div.notenum{
+     float: right;
+     width: 90px;
+}
+
+
+p {
+   position:relative;
+    left:100px;
+}
+span.add {
+    text-decoration:underline;
+    color:green
+}
+span.capitalsize2 {
+  font-size:130%;
+}
+span.capitalsize3 {
+  font-size:160%;
+}
+span.capitalsize4 {
+  font-size:190%;
+}
+span.capitalsize5 {
+  font-size:220%;
+}
+span.capitalsize6 {
+  font-size:250%;
+}
+span.capitalsize7 {
+  font-size:270%;
+}
+span.capitalsize8 {
+  font-size:300%;
+}
+span.choice {
+    color:gray;
+}
+span.bold {
+    font-weight:bold;
+}
+span.del {
+    text-decoration:line-through;
+    color:red
+}
+span.ex{
+    font-style:italic;
+}
+span.fwheader{
+  display: block;
+  font-size:150%;
+   position:relative;
+    left:200px;
+}
+span.junicode {
+    font-family:junicode, sans-serif;
+}
+span.linenum {
+    position:absolute;
+   left:-60px;
+}
+span.linenumnewline {
+   position:absolute;
+    left:-50px;
+}
+span.mentioned {
+    font-style:italic;
+}
+span.mentioned span.ex {
+    font-style:normal;
+}
+span.moveleft {
+   position:absolute;
+    left:-80px;
+}
+span.note {
+    text-decoration:none;
+    color:maroon;
+   position:absolute;
+    left:600px;
+    display:inline-block;
+    width:450px
+}
+span.restore{
+    border:thin solid green;
+}
+span.romannumber{
+    font-variant:small-caps;
+    color:Tomato
+}
+span.rubric {
+  display: inline;
+  color:red;
+}
+span.subst {
+    border:thin solid green;
+}
+span.superscript {
+    vertical-align: super;
+    font-size: 70%;
+    line-height: 0;
+}
+span.ul {
+  display: inline;
+  text-decoration: underline;
+}
+span.ulr {
+  display: inline;
+  border-bottom:thin solid red;
+}
+span.underline {
+  display: inline;
+  text-decoration: underline;
+}
+span.verseline {
+   position:absolute;
+    left:550px;
+}
+span.ex {
+    font-style:italic;
+}

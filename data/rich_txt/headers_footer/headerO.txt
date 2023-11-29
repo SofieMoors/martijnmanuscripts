@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MVN xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Jacob van Maerlant, Martijn</title><editor xml:id="SM">Sofie Moors</editor></titleStmt>
+            <publicationStmt>
+                <p>Transcription based on: 
+- Verdam, J., and Leendertz, P. (ed.) (1918). Jacob van Maerlant’s Strophische gedichten. Nieuwe bewerking der uitgave van Franck en Verdam. Leiden: A.W. Sijthoff’s.
+- Mertens, Th. (ed.) (1978). Den anderen merten. Synoptische archiefeditie van Jacob van Maerlant’s tweede Martijn. Nijmegen: Alfa.</p>
+            </publicationStmt>
+            <sourceDesc>
+           <msDesc>
+          <msIdentifier>
+            <settlement>Oxford 
+
+ </settlement>
+            <institution>Bodleian Library </institution>
+            <idno>Canonici Miscellanei 278 </idno>
+            <msName>O</msName>
+          </msIdentifier>
+ <p>...</p>
+        </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+ <charDecl><char xml:id="rrot">
+                <charName>LATIN SMALL LETTER R ROTUNDA</charName>
+                <mapping type="junicode">ꝛ</mapping>
+                <mapping type="mufi">ꝛ</mapping>
+                <mapping type="standard">ꝛ</mapping>
+            </char></charDecl>
+            <xi:include href="http://www.huygensinstituut.knaw.nl/projecten/mvn/webfiles/charDecl.xml"  
+                xmlns:xi="http://www.w3.org/2001/XInclude">
+                <xi:fallback>
+                    <xi:include href="charDecl/charDecl.xml"/>
+                </xi:fallback>
+            </xi:include>
+            <editorialDecl>
+                <p><!-- Verantwoording van de editie --></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <handNotes>
+                <handNote xml:id="h1"><p>...</p></handNote>
+            </handNotes>
+        </profileDesc>
+    </teiHeader>
+    <text xml:id="Martijn">
+        <group>

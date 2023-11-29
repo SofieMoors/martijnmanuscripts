@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MVN xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title><!-- Auteur, titel --></title></titleStmt>
+            <publicationStmt>
+                <p><!-- Gegevens over uitgave --></p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>...</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <xi:include href="http://www.huygensinstituut.knaw.nl/projecten/mvn/webfiles/charDecl.xml"  
+                xmlns:xi="http://www.w3.org/2001/XInclude">
+                <xi:fallback>
+                    <xi:include href="charDecl.xml"/>
+                </xi:fallback>
+            </xi:include>
+            <editorialDecl>
+                <p><!-- Verantwoording van de editie --></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <handNotes>
+                <handNote xml:id="h1"><p>...</p></handNote>
+            </handNotes>
+        </profileDesc>
+    </teiHeader>
+    <text xml:id="sig">
+        <group>
+            <text n="1" xml:id="sig1">
+                <body>
+                    <p>...</p>
+                </body>
+            </text>
+        </group>
+    </text>
+ </MVN>
+                        

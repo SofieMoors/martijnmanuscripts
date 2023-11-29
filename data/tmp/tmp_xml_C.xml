@@ -1,0 +1,1879 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MVN xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Jacob van Maerlant, Martijn</title><editor xml:id="SM">Sofie Moors</editor></titleStmt>
+            <publicationStmt>
+                <p>Transcription based on: 
+- Staring van den Wildenborch, A.C.W. (1834). ‘De Wapene Martijn van Jacob van Maerlant, naar het Zutphense hs. medegedeeld, met eene inleiding en aanteekeningen van M. Siegenbeek.’ Nieuwe Werken van de Maatschappij der Nederlandsche Letterkunde te Leiden, deel III, 2de stuk. Dordrecht: Blussé and Van Braam, pp. 81-225.
+- Meijer, G. J. (1838). ‘Van der Drievoudichede; van Jacob van Maerlant.’ Nalezingen op het leven van Jezus, enz: verslag van den roman van Walewein, en andere bijdragen tot de oude Nederlandsche letterkunde. Groningen: J. Oomkens, pp. 119-152.</p>
+            </publicationStmt>
+            <sourceDesc>
+               <msDesc>
+          <msIdentifier>
+            <settlement>Groningen </settlement>
+            <institution>University of Groningen Library </institution>
+            <idno>HS 405</idno>
+            <msName>Gronings-Zutphens Maerlant Manuscrip, C</msName>
+          </msIdentifier>
+ <p>...</p>
+        </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+ <charDecl><char xml:id="rrot">
+                <charName>LATIN SMALL LETTER R ROTUNDA</charName>
+                <mapping type="junicode">ꝛ</mapping>
+                <mapping type="mufi">ꝛ</mapping>
+                <mapping type="standard">ꝛ</mapping>
+            </char></charDecl>
+            <xi:include href="http://www.huygensinstituut.knaw.nl/projecten/mvn/webfiles/charDecl.xml"  
+                xmlns:xi="http://www.w3.org/2001/XInclude">
+                <xi:fallback>
+                    <xi:include href="charDecl/charDecl.xml"/>
+                </xi:fallback>
+            </xi:include>
+            <editorialDecl>
+                <p><!-- Verantwoording van de editie --></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <handNotes>
+                <handNote xml:id="h1"><p>...</p></handNote>
+            </handNotes>
+        </profileDesc>
+    </teiHeader>
+    <text xml:id="Martijn">
+        <group><pb xml:id="C.f217ra" n="217ra"/>
+
+
+<text n="Derde Martijn" xml:id="M3">
+<body>
+<p><lg type="stanza" n="01">
+<lb n="1" xml:id="Cf217ra.1"/><l n="C_M3_01_000"><hi rend="capitalsize1">V</hi>an der drieuoudicheide..</l>
+<lb n="2" xml:id="Cf217ra.2"/><l n="C_M3_01_001"><hi rend="capitalsize12">I</hi>c mane den mannen metten wiuen</l>
+<lb n="3" xml:id="Cf217ra.3"/><l n="C_M3_01_002">die dit lesen zoelen ofte scriuen</l>
+<lb n="4" xml:id="Cf217ra.4"/><l n="C_M3_01_003">op den hoechsden ban</l>
+<lb n="5" xml:id="Cf217ra.5"/><l n="C_M3_01_004">dat zij dit dicht laten bliuen</l>
+<lb n="6" xml:id="Cf217ra.6"/><l n="C_M3_01_005">reine <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> zire niet in en driuen</l>
+<lb n="7" xml:id="Cf217ra.7"/><l n="C_M3_01_006">woert litter af noch an</l>
+<lb n="8" xml:id="Cf217ra.8"/><l n="C_M3_01_007">doen zijt oec hem zal becliuen</l>
+<lb n="9" xml:id="Cf217ra.9"/><l n="C_M3_01_008">mijn ban <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> zine zoelent afwriuen</l>
+<lb n="10" xml:id="Cf217ra.10"/><l n="C_M3_01_009">moeghen oec niet nochtan</l>
+<lb n="11" xml:id="Cf217ra.11"/><l n="C_M3_01_010">dit en is gheen spot van keytiuen</l>
+<lb n="12" xml:id="Cf217ra.12"/><l n="C_M3_01_011">hets daer ic mi eer om liet ontliuen</l>
+<lb n="13" xml:id="Cf217ra.13"/><l n="C_M3_01_012">eer icker sciede van</l>
+<lb n="14" xml:id="Cf217ra.14"/><l n="C_M3_01_013">hoert mi dat ict leren can.</l>
+</lg>
+<lg type="stanza" n="02">
+<lb n="15" xml:id="Cf217ra.15"/><l n="C_M3_02_014"><hi rend="capitalsize2">I</hi>acob wij hebben onderlinghe</l>
+<lb n="16" xml:id="Cf217ra.16"/><l n="C_M3_02_015">ghehandelt menegherande dinghe</l>
+<lb n="17" xml:id="Cf217ra.17"/><l n="C_M3_02_016">andworde mi op een</l>
+<lb n="18" xml:id="Cf217ra.18"/><l n="C_M3_02_017">leer mi eer ic di ontspringhe</l>
+<lb n="19" xml:id="Cf217ra.19"/><l n="C_M3_02_018">hoe ic mijn herte daer toe bringhe</l>
+<lb n="20" xml:id="Cf217ra.20"/><l n="C_M3_02_019">te kennen hem dien wij vleen</l>
+<lb n="21" xml:id="Cf217ra.21"/><l n="C_M3_02_020">ic lese zomwile <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> zinghe</l>
+<lb n="22" xml:id="Cf217ra.22"/><l n="C_M3_02_021">dat gode te kennen bi <choice><abbr>zine<g ref="#bar"/></abbr><expan>zine<ex>n</ex></expan></choice> ghehinghe</l>
+<lb n="23" xml:id="Cf217ra.23"/><l n="C_M3_02_022">is leuen zonder ween</l>
+<lb n="24" xml:id="Cf217ra.24"/><l n="C_M3_02_023">dits waereit claer <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> biechtinghe</l>
+<lb n="25" xml:id="Cf217ra.25"/><l n="C_M3_02_024">subtijl waer therte diet beuinghe</l>
+<lb n="26" xml:id="Cf217ra.26"/><l n="C_M3_02_025">want hogher dinc en is engheen</l>
+<lb n="27" xml:id="Cf217ra.27"/><l n="C_M3_02_026">nu andworde mi tusghen ons tween.</l>
+</lg>
+<lg type="stanza" n="03">
+<lb n="28" xml:id="Cf217ra.28"/><l n="C_M3_03_027"><hi rend="capitalsize2">M</hi>artijn du vraghes mi tehoghe</l>
+<lb n="29" xml:id="Cf217ra.29"/><l n="C_M3_03_028">al vloghic bouen der yngle vloghe</l>
+<lb n="30" xml:id="Cf217ra.30"/><l n="C_M3_03_029">bouuen cerub <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> seraf</l>
+<lb n="31" xml:id="Cf217ra.31"/><l n="C_M3_03_030">zoe weet ic wel dat ic en moghe</l>
+<lb n="32" xml:id="Cf217ra.32"/><l n="C_M3_03_031">berichten dat te uollen doghe</l>
+<lb n="33" xml:id="Cf217ra.33"/><l n="C_M3_03_032">in woerden hier af</l>
+<lb n="34" xml:id="Cf217ra.34"/><l n="C_M3_03_033">alle zinne zijn te droghe</l>
+<lb n="35" xml:id="Cf217ra.35"/><l n="C_M3_03_034">alle creaturen hoe men poghe</l>
+<lb n="36" xml:id="Cf217ra.36"/><l n="C_M3_03_035">en doeghen niet een caf</l>
+<lb n="37" xml:id="Cf217ra.37"/><l n="C_M3_03_036">dat hoer enich te uollen toghe</l>
+<lb n="38" xml:id="Cf217ra.38"/><l n="C_M3_03_037">mer nu verscarp dijns zins oghe</l>
+<lb n="39" xml:id="Cf217ra.39"/><l n="C_M3_03_038">hoer wat mi scrifture gaf</l>
+<lb n="40" xml:id="Cf217ra.40"/><l n="C_M3_03_039">hout in dijnre herten graf.</l>
+</lg>
+<lg type="stanza" n="04">
+<lb n="41" xml:id="Cf217ra.41"/><l n="C_M3_04_040"><hi rend="capitalsize2">M</hi>oyses spreect in zinen boeken</l>
+<lb n="42" xml:id="Cf217ra.42"/><l n="C_M3_04_041">die beesten die den bergh besoeken</l>
+<lb n="43" xml:id="Cf217ra.43"/><l n="C_M3_04_042">moeten zijn ghesteent</l>
+<lb n="44" xml:id="Cf217ra.44"/><l n="C_M3_04_043">beest is die mensche die wil roeken</l>
+<lb n="45" xml:id="Cf217ra.45"/><l n="C_M3_04_044">tenauwe om die godheit loeken</l>
+<lb n="46" xml:id="Cf217ra.46"/><l n="C_M3_04_045">hets recht dat hijt beweent</l>
+<lb n="47" xml:id="Cf217ra.47"/><l n="C_M3_04_046">du zoecs mi in allen hoeken</l>
+<lb n="48" xml:id="Cf217ra.48"/><l n="C_M3_04_047">mit rime zonder valscheit van doeken</l>
+<lb n="49" xml:id="Cf217ra.49"/><l n="C_M3_04_048">is dit goet ic waene neent</l>
+<lb n="50" xml:id="Cf217ra.50"/><l n="C_M3_04_049">du telles mi niet wisen cloeken</l>
+<lb n="51" xml:id="Cf217ra.51"/><l n="C_M3_04_050">dorstic ic zouder di om vloeken</l>
+<lb n="52" xml:id="Cf217ra.52"/><l n="C_M3_04_051">ic waen dijn herte meent.</l>
+<lb n="53" xml:id="Cf217ra.53"/><l n="C_M3_04_052">dat du nu heues verleent.</l>
+
+
+<pb xml:id="C.f217rb" n="217rb"/>
+</lg>
+<lg type="stanza" n="05">
+<lb n="1" xml:id="Cf217rb.1"/><l n="C_M3_05_053"><hi rend="capitalsize2">I</hi>acob du ne zoelt di niet vergramen</l>
+<lb n="2" xml:id="Cf217rb.2"/><l n="C_M3_05_054">ic zouds mi in mi zeluen scamen</l>
+<lb n="3" xml:id="Cf217rb.3"/><l n="C_M3_05_055">haddict ie ghedocht</l>
+<lb n="4" xml:id="Cf217rb.4"/><l n="C_M3_05_056">oec lie ics met di tesamen</l>
+<lb n="5" xml:id="Cf217rb.5"/><l n="C_M3_05_057">dat die hoecheit der hogher namen</l>
+<lb n="6" xml:id="Cf217rb.6"/><l n="C_M3_05_058">te uerre niet en doech ghesocht</l>
+<lb n="7" xml:id="Cf217rb.7"/><l n="C_M3_05_059">al waert dat alle die ingle quamen</l>
+<lb n="8" xml:id="Cf217rb.8"/><l n="C_M3_05_060">zine consten die hoecheit niet ghehamen</l>
+<lb n="9" xml:id="Cf217rb.9"/><l n="C_M3_05_061">dit al af ghecnocht</l>
+<lb n="10" xml:id="Cf217rb.10"/><l n="C_M3_05_062">mer eer minen cranken zin minen <choice><abbr>lame<g ref="#bar"/></abbr><expan>lame<ex>n</ex></expan></choice></l>
+<lb n="11" xml:id="Cf217rb.11"/><l n="C_M3_05_063">ghewont metter zonden bramen</l>
+<lb n="12" xml:id="Cf217rb.12"/><l n="C_M3_05_064">van dat du vermocht</l>
+<lb n="13" xml:id="Cf217rb.13"/><l n="C_M3_05_065">zoe is mijn wille volbrocht.</l>
+</lg>
+<lg type="stanza" n="06">
+<lb n="14" xml:id="Cf217rb.14"/><l n="C_M3_06_066"><hi rend="capitalsize2">M</hi>artijn merc wel in dinen zinne</l>
+<lb n="15" xml:id="Cf217rb.15"/><l n="C_M3_06_067">god is een wesen voer alle beghinne</l>
+<lb n="16" xml:id="Cf217rb.16"/><l n="C_M3_06_068">ende tedelste bouuen al</l>
+<lb n="17" xml:id="Cf217rb.17"/><l n="C_M3_06_069">zijn wesen is alse ict kinne</l>
+<lb n="18" xml:id="Cf217rb.18"/><l n="C_M3_06_070">die ouerste god <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> die hoechste minne</l>
+<lb n="19" xml:id="Cf217rb.19"/><l n="C_M3_06_071">die is of wesen zal</l>
+<lb n="20" xml:id="Cf217rb.20"/><l n="C_M3_06_072">zine ghewerke daer men kent inne</l>
+<lb n="21" xml:id="Cf217rb.21"/><l n="C_M3_06_073">is zo groet dat zij zijn dinne</l>
+<lb n="22" xml:id="Cf217rb.22"/><l n="C_M3_06_074">diet kinnen ende smal</l>
+<lb n="23" xml:id="Cf217rb.23"/><l n="C_M3_06_075">zine wijsheit is conninghinne</l>
+<lb n="24" xml:id="Cf217rb.24"/><l n="C_M3_06_076">bouuen alrehande ghewinne</l>
+<lb n="25" xml:id="Cf217rb.25"/><l n="C_M3_06_077"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> bouuen al gheual</l>
+<lb n="26" xml:id="Cf217rb.26"/><l n="C_M3_06_078">daer bouuen of hier int dal.</l>
+</lg>
+<lg type="stanza" n="07">
+<lb n="27" xml:id="Cf217rb.27"/><l n="C_M3_07_079"><hi rend="capitalsize2">D</hi>en hemel <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> den troen die merke</l>
+<lb n="28" xml:id="Cf217rb.28"/><l n="C_M3_07_080">god is bouuen alle zine ghewerke</l>
+<lb n="29" xml:id="Cf217rb.29"/><l n="C_M3_07_081"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> onder alle zine dinc</l>
+<lb n="30" xml:id="Cf217rb.30"/><l n="C_M3_07_082">noch is hi buten al nu herke</l>
+<lb n="31" xml:id="Cf217rb.31"/><l n="C_M3_07_083"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> binnen al dit hout wel sterke</l>
+<lb n="32" xml:id="Cf217rb.32"/><l n="C_M3_07_084"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> hier vut niet en sprinc</l>
+<lb n="33" xml:id="Cf217rb.33"/><l n="C_M3_07_085">noch zegghen ons die wise clerke</l>
+<lb n="34" xml:id="Cf217rb.34"/><l n="C_M3_07_086">hi en is niet ghedeelt in perke</l>
+<lb n="35" xml:id="Cf217rb.35"/><l n="C_M3_07_087">hiertoe dijn herte dwinc</l>
+<lb n="36" xml:id="Cf217rb.36"/><l n="C_M3_07_088">mer al gheheel in elke merke</l>
+<lb n="37" xml:id="Cf217rb.37"/><l n="C_M3_07_089">buten binnen in water in swerke</l>
+<lb n="38" xml:id="Cf217rb.38"/><l n="C_M3_07_090">in dit dijn herte brinc</l>
+<lb n="39" xml:id="Cf217rb.39"/><l n="C_M3_07_091">zonder bosen winc.</l>
+</lg>
+<lg type="stanza" n="08">
+<lb n="40" xml:id="Cf217rb.40"/><l n="C_M3_08_092"><hi rend="capitalsize2">B</hi>ouen al is god alse here</l>
+<lb n="41" xml:id="Cf217rb.41"/><l n="C_M3_08_093">die besitter is emmermere</l>
+<lb n="42" xml:id="Cf217rb.42"/><l n="C_M3_08_094">alre dinc die men weet.</l>
+<lb n="43" xml:id="Cf217rb.43"/><l n="C_M3_08_095">onder die in alle kere</l>
+<lb n="44" xml:id="Cf217rb.44"/><l n="C_M3_08_096">die dinc houdt moghentlike sere</l>
+<lb n="45" xml:id="Cf217rb.45"/><l n="C_M3_08_097">jeghens al versceet</l>
+<lb n="46" xml:id="Cf217rb.46"/><l n="C_M3_08_098">buten alse die met zire were</l>
+<lb n="47" xml:id="Cf217rb.47"/><l n="C_M3_08_099">zijn werc behoedt dat hem en dere</l>
+<lb n="48" xml:id="Cf217rb.48"/><l n="C_M3_08_100">gheen dinc cout noch heet</l>
+<lb n="49" xml:id="Cf217rb.49"/><l n="C_M3_08_101">binnen alse die met zire lere</l>
+<lb n="50" xml:id="Cf217rb.50"/><l n="C_M3_08_102">zijn werc veruult met zulker ere</l>
+<lb n="51" xml:id="Cf217rb.51"/><l n="C_M3_08_103">daert ewelike steet.</l>
+<lb n="52" xml:id="Cf217rb.52"/><l n="C_M3_08_104">wient lief zi ofte leet.</l>
+
+
+<pb xml:id="C.f217va" n="217va"/>
+</lg>
+<lg type="stanza" n="09">
+<lb n="1" xml:id="Cf217va.1"/><l n="C_M3_09_105"><hi rend="capitalsize2">B</hi>ouuen is god onghedraghen</l>
+<lb n="2" xml:id="Cf217va.2"/><l n="C_M3_09_106">noch ghene dinc mach haer beclaghen</l>
+<lb n="3" xml:id="Cf217va.3"/><l n="C_M3_09_107">dat hi ze verlast</l>
+<lb n="4" xml:id="Cf217va.4"/><l n="C_M3_09_108">onder zonder last van waghen</l>
+<lb n="5" xml:id="Cf217va.5"/><l n="C_M3_09_109">want hem en moyet rasten noch jaghen</l>
+<lb n="6" xml:id="Cf217va.6"/><l n="C_M3_09_110">zijn wesen is zo vast</l>
+<lb n="7" xml:id="Cf217va.7"/><l n="C_M3_09_111">buten en breet niewer zijn draghen</l>
+<lb n="8" xml:id="Cf217va.8"/><l n="C_M3_09_112">want hi is altoes zonder vraghen</l>
+<lb n="9" xml:id="Cf217va.9"/><l n="C_M3_09_113">weert voghet <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> niet gast</l>
+<lb n="10" xml:id="Cf217va.10"/><l n="C_M3_09_114">binnen veruult hi ieghens plaghen</l>
+<lb n="11" xml:id="Cf217va.11"/><l n="C_M3_09_115">dat zine dinc met ghenen vlaghen</l>
+<lb n="12" xml:id="Cf217va.12"/><l n="C_M3_09_116">en zi ongherast</l>
+<lb n="13" xml:id="Cf217va.13"/><l n="C_M3_09_117">noch ghequest van enen bast.</l>
+</lg>
+<lg type="stanza" n="10">
+<lb n="14" xml:id="Cf217va.14"/><l n="C_M3_10_118"><hi rend="capitalsize2">V</hi>an enen god spreke wij <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> van enen</l>
+<lb n="15" xml:id="Cf217va.15"/><l n="C_M3_10_119">dien wij vader <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> zoene menen</l>
+<lb n="16" xml:id="Cf217va.16"/><l n="C_M3_10_120"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> den heylighen gheest</l>
+<lb n="17" xml:id="Cf217va.17"/><l n="C_M3_10_121"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> weet wel dat wire enghenen</l>
+<lb n="18" xml:id="Cf217va.18"/><l n="C_M3_10_122">zo groet menen of zo clenen</l>
+<lb n="19" xml:id="Cf217va.19"/><l n="C_M3_10_123">datter iement is meest</l>
+<lb n="20" xml:id="Cf217va.20"/><l n="C_M3_10_124">enen god zegghe wij <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> enen renen</l>
+<lb n="21" xml:id="Cf217va.21"/><l n="C_M3_10_125">noch veruoghende noch verbenen</l>
+<lb n="22" xml:id="Cf217va.22"/><l n="C_M3_10_126">isser aen gheureest</l>
+<lb n="23" xml:id="Cf217va.23"/><l n="C_M3_10_127">die zinen zin zoe laet verstenen</l>
+<lb n="24" xml:id="Cf217va.24"/><l n="C_M3_10_128">dat hi des loghent hi moet wenen</l>
+<lb n="25" xml:id="Cf217va.25"/><l n="C_M3_10_129"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> ewelec zijn gheureest</l>
+<lb n="26" xml:id="Cf217va.26"/><l n="C_M3_10_130">in den helschen tempeest.</l>
+</lg>
+<lg type="stanza" n="11">
+<lb n="27" xml:id="Cf217va.27"/><l n="C_M3_11_131"><hi rend="capitalsize2">W</hi>ij zetten den vader voren</l>
+<lb n="28" xml:id="Cf217va.28"/><l n="C_M3_11_132">onghewonnen <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> ongheboren</l>
+<lb n="29" xml:id="Cf217va.29"/><l n="C_M3_11_133"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> voer al beghin</l>
+<lb n="30" xml:id="Cf217va.30"/><l n="C_M3_11_134">daerna den zoene vutuercoren</l>
+<lb n="31" xml:id="Cf217va.31"/><l n="C_M3_11_135">van hem ghewonnen alst wijt horen</l>
+<lb n="32" xml:id="Cf217va.32"/><l n="C_M3_11_136">eer oyt beghin ghienc in</l>
+<lb n="33" xml:id="Cf217va.33"/><l n="C_M3_11_137">den heilighen gheest leer wij den doren</l>
+<lb n="34" xml:id="Cf217va.34"/><l n="C_M3_11_138">vut desen comen ondoe zine oren</l>
+<lb n="35" xml:id="Cf217va.35"/><l n="C_M3_11_139">elc mensche <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> zinen zin</l>
+<lb n="36" xml:id="Cf217va.36"/><l n="C_M3_11_140"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> en laet tgheloue niet testoren</l>
+<lb n="37" xml:id="Cf217va.37"/><l n="C_M3_11_141">want al hadt alle die werelt ghesworen</l>
+<lb n="38" xml:id="Cf217va.38"/><l n="C_M3_11_142">zine conden om ghewin</l>
+<lb n="39" xml:id="Cf217va.39"/><l n="C_M3_11_143">dit ghegronden meer noch min.</l>
+</lg>
+<lg type="stanza" n="12">
+<lb n="40" xml:id="Cf217va.40"/><l n="C_M3_12_144"><hi rend="capitalsize2">E</hi>er of achter tijt of stonde</l>
+<lb n="41" xml:id="Cf217va.41"/><l n="C_M3_12_145">dat verneemt van <choice><abbr>mine<g ref="#bar"/></abbr><expan>mine<ex>n</ex></expan></choice> monde</l>
+<lb n="42" xml:id="Cf217va.42"/><l n="C_M3_12_146">en is niet dan dese drie</l>
+<lb n="43" xml:id="Cf217va.43"/><l n="C_M3_12_147">den vader zette wij alse ten gronde</l>
+<lb n="44" xml:id="Cf217va.44"/><l n="C_M3_12_148">daer alle doeghet vut begonde</l>
+<lb n="45" xml:id="Cf217va.45"/><l n="C_M3_12_149">die men verstaet ofte zie</l>
+<lb n="46" xml:id="Cf217va.46"/><l n="C_M3_12_150">den zoene alse wijsheit diet al conde</l>
+<lb n="47" xml:id="Cf217va.47"/><l n="C_M3_12_151">des vader claerheit van zire orconde</l>
+<lb n="48" xml:id="Cf217va.48"/><l n="C_M3_12_152">die van hem en sciede nie</l>
+<lb n="49" xml:id="Cf217va.49"/><l n="C_M3_12_153">die van den heilighen gheest ontbonde</l>
+<lb n="50" xml:id="Cf217va.50"/><l n="C_M3_12_154">haer twier woert hi daer in vonde</l>
+<lb n="51" xml:id="Cf217va.51"/><l n="C_M3_12_155">dese waren oyt <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> ie:</l>
+<lb n="52" xml:id="Cf217va.52"/><l n="C_M3_12_156">een god diet wel besie.</l>
+
+
+<pb xml:id="C.f217vb" n="217vb"/>
+</lg>
+<lg type="stanza" n="13">
+<lb n="1" xml:id="Cf217vb.1"/><l n="C_M3_13_157"><hi rend="capitalsize2">N</hi>iement en is die iet wil maken</l>
+<lb n="2" xml:id="Cf217vb.2"/><l n="C_M3_13_158">hine moet in hem zeluen <choice><abbr>smake<g ref="#bar"/></abbr><expan>smake<ex>n</ex></expan></choice></l>
+<lb n="3" xml:id="Cf217vb.3"/><l n="C_M3_13_159">eenrehande triniteit</l>
+<lb n="4" xml:id="Cf217vb.4"/><l n="C_M3_13_160">want hi moet moeghen ter dinc <choice><abbr>ghenake<g ref="#bar"/></abbr><expan>ghenake<ex>n</ex></expan></choice></l>
+<lb n="5" xml:id="Cf217vb.5"/><l n="C_M3_13_161"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> hi moet om die dinc gheraken</l>
+<lb n="6" xml:id="Cf217vb.6"/><l n="C_M3_13_162">of hets hem al ontseit</l>
+<lb n="7" xml:id="Cf217vb.7"/><l n="C_M3_13_163">oec moet hi daer omme waken</l>
+<lb n="8" xml:id="Cf217vb.8"/><l n="C_M3_13_164">cracht const <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> wille dese drie zaken</l>
+<lb n="9" xml:id="Cf217vb.9"/><l n="C_M3_13_165">vijntmen <choice><abbr>i<g ref="#bar"/></abbr><expan>i<ex>n</ex></expan></choice> die menschlicheit</l>
+<lb n="10" xml:id="Cf217vb.10"/><l n="C_M3_13_166">die desen noten wel can craken</l>
+<lb n="11" xml:id="Cf217vb.11"/><l n="C_M3_13_167">hine darf niet beiden nochte haken</l>
+<lb n="12" xml:id="Cf217vb.12"/><l n="C_M3_13_168">hine vijnt in ene godheit</l>
+<lb n="13" xml:id="Cf217vb.13"/><l n="C_M3_13_169">drie persone ghereit.</l>
+</lg>
+<lg type="stanza" n="14">
+<lb n="14" xml:id="Cf217vb.14"/><l n="C_M3_14_170"><hi rend="capitalsize2">D</hi>ese god daer wij af leren</l>
+<lb n="15" xml:id="Cf217vb.15"/><l n="C_M3_14_171">doet troen zonne <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> sterren keren</l>
+<lb n="16" xml:id="Cf217vb.16"/><l n="C_M3_14_172"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> al dat roerende zi</l>
+<lb n="17" xml:id="Cf217vb.17"/><l n="C_M3_14_173">zijn rusten is nochtan zo vol eren</l>
+<lb n="18" xml:id="Cf217vb.18"/><l n="C_M3_14_174">dat hem niet en can ghederen</l>
+<lb n="19" xml:id="Cf217vb.19"/><l n="C_M3_14_175">gheen porren na noch bi</l>
+<lb n="20" xml:id="Cf217vb.20"/><l n="C_M3_14_176">hi is dat hi was dit en is gheen sceren</l>
+<lb n="21" xml:id="Cf217vb.21"/><l n="C_M3_14_177">hine wil minren noch meren</l>
+<lb n="22" xml:id="Cf217vb.22"/><l n="C_M3_14_178">hi is zijns zelues vri</l>
+<lb n="23" xml:id="Cf217vb.23"/><l n="C_M3_14_179">Hi doet haer elcke dinc gheneren</l>
+<lb n="24" xml:id="Cf217vb.24"/><l n="C_M3_14_180">zine rijcheit mach niement verteren</l>
+<lb n="25" xml:id="Cf217vb.25"/><l n="C_M3_14_181">alle steden veruult hi</l>
+<lb n="26" xml:id="Cf217vb.26"/><l n="C_M3_14_182">dus leert tgheloue mi.</l>
+</lg>
+<lg type="stanza" n="15">
+<lb n="27" xml:id="Cf217vb.27"/><l n="C_M3_15_183"><hi rend="capitalsize2">G</hi>od en sluyt en ghene stede</l>
+<lb n="28" xml:id="Cf217vb.28"/><l n="C_M3_15_184">mer alle <choice><abbr>stede<g ref="#bar"/></abbr><expan>stede<ex>n</ex></expan></choice> beluket hi mede</l>
+<lb n="29" xml:id="Cf217vb.29"/><l n="C_M3_15_185">in zire godheit</l>
+<lb n="30" xml:id="Cf217vb.30"/><l n="C_M3_15_186">die iaren keert zine moghenthede</l>
+<lb n="31" xml:id="Cf217vb.31"/><l n="C_M3_15_187"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> niet en is datten verkeren dede</l>
+<lb n="32" xml:id="Cf217vb.32"/><l n="C_M3_15_188">zine macht is zo breit</l>
+<lb n="33" xml:id="Cf217vb.33"/><l n="C_M3_15_189">noch cracht noch noet noch gheen onvrede</l>
+<lb n="34" xml:id="Cf217vb.34"/><l n="C_M3_15_190">en mach hem doen onledichede</l>
+<lb n="35" xml:id="Cf217vb.35"/><l n="C_M3_15_191">hoe zo die zake gheit</l>
+<lb n="36" xml:id="Cf217vb.36"/><l n="C_M3_15_192">zo ghestade is god in die zede</l>
+<lb n="37" xml:id="Cf217vb.37"/><l n="C_M3_15_193">dat hem macht noch ghene bede</l>
+<lb n="38" xml:id="Cf217vb.38"/><l n="C_M3_15_194">buten zinen wille leit</l>
+<lb n="39" xml:id="Cf217vb.39"/><l n="C_M3_15_195">dits al waer gheseit</l>
+</lg>
+<lg type="stanza" n="16">
+<lb n="40" xml:id="Cf217vb.40"/><l n="C_M3_16_196"><hi rend="capitalsize2">H</hi>uden ghistren is onze leuen</l>
+<lb n="41" xml:id="Cf217vb.41"/><l n="C_M3_16_197"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> daer is einde aen ghegheuen</l>
+<lb n="42" xml:id="Cf217vb.42"/><l n="C_M3_16_198">het si cort of lanc</l>
+<lb n="43" xml:id="Cf217vb.43"/><l n="C_M3_16_199">mer alsmen vijnt van gode bescreuen</l>
+<lb n="44" xml:id="Cf217vb.44"/><l n="C_M3_16_200">dit woert heden zo isser aen bleuen</l>
+<lb n="45" xml:id="Cf217vb.45"/><l n="C_M3_16_201">een ewelijc ommeganc</l>
+<lb n="46" xml:id="Cf217vb.46"/><l n="C_M3_16_202">daer gheen beghin aen mach cleuen</l>
+<lb n="47" xml:id="Cf217vb.47"/><l n="C_M3_16_203">noch gheen beghin en waert verheuen</l>
+<lb n="48" xml:id="Cf217vb.48"/><l n="C_M3_16_204">zijn wesen is zo stranc</l>
+<lb n="49" xml:id="Cf217vb.49"/><l n="C_M3_16_205">zine ieghenwordicheit is beneuen</l>
+<lb n="50" xml:id="Cf217vb.50"/><l n="C_M3_16_206">dat was <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> is dus eest bescreuen</l>
+<lb n="51" xml:id="Cf217vb.51"/><l n="C_M3_16_207"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> nu eest ghemanc.</l>
+<lb n="52" xml:id="Cf217vb.52"/><l n="C_M3_16_208"><hi rend="capitalsize1">I</hi>n dese werelt cranc.</l>
+
+
+<pb xml:id="C.f218ra" n="218ra"/>
+</lg>
+<lg type="stanza" n="17">
+<lb n="1" xml:id="Cf218ra.1"/><l n="C_M3_17_209"><hi rend="capitalsize2">M</hi>artijn nu en claghe noch en crone</l>
+<lb n="2" xml:id="Cf218ra.2"/><l n="C_M3_17_210">dits een god in drie persone</l>
+<lb n="3" xml:id="Cf218ra.3"/><l n="C_M3_17_211">daer ic af sprac te die</l>
+<lb n="4" xml:id="Cf218ra.4"/><l n="C_M3_17_212">euen ghelike euen scone</l>
+<lb n="5" xml:id="Cf218ra.5"/><l n="C_M3_17_213">euen ghelike in der werelt in den trone</l>
+<lb n="6" xml:id="Cf218ra.6"/><l n="C_M3_17_214">zijn dese enighe drie</l>
+<lb n="7" xml:id="Cf218ra.7"/><l n="C_M3_17_215">redene en draghet hier niet die crone</l>
+<lb n="8" xml:id="Cf218ra.8"/><l n="C_M3_17_216">mer tgheloue zonder hone</l>
+<lb n="9" xml:id="Cf218ra.9"/><l n="C_M3_17_217">dat en twiuelde nie</l>
+<lb n="10" xml:id="Cf218ra.10"/><l n="C_M3_17_218">wat eren had wijs of wat lone</l>
+<lb n="11" xml:id="Cf218ra.11"/><l n="C_M3_17_219">of wie die niet doghen ene bone</l>
+<lb n="12" xml:id="Cf218ra.12"/><l n="C_M3_17_220">gheloeft dat elc zie</l>
+<lb n="13" xml:id="Cf218ra.13"/><l n="C_M3_17_221">nu andworde mi <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> ghie</l>
+</lg>
+<lg type="stanza" n="18">
+<lb n="14" xml:id="Cf218ra.14"/><l n="C_M3_18_222"><hi rend="capitalsize2">I</hi>acob ic andworde ten beghinne</l>
+<lb n="15" xml:id="Cf218ra.15"/><l n="C_M3_18_223">dat ic subtijlre woerde van zinne</l>
+<lb n="16" xml:id="Cf218ra.16"/><l n="C_M3_18_224">nie en hebbe ghehoert</l>
+<lb n="17" xml:id="Cf218ra.17"/><l n="C_M3_18_225">dan di mi hier maecs an inne</l>
+<lb n="18" xml:id="Cf218ra.18"/><l n="C_M3_18_226">doch proeue ic wel <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> kinne</l>
+<lb n="19" xml:id="Cf218ra.19"/><l n="C_M3_18_227">te gronde dese woert</l>
+<lb n="20" xml:id="Cf218ra.20"/><l n="C_M3_18_228">dat onze redene is wel dinne</l>
+<lb n="21" xml:id="Cf218ra.21"/><l n="C_M3_18_229">ons en trecke gheloue <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> minne</l>
+<lb n="22" xml:id="Cf218ra.22"/><l n="C_M3_18_230">opwaert ter hemelscher poert</l>
+<lb n="23" xml:id="Cf218ra.23"/><l n="C_M3_18_231">daer god is loen bouen alle ghewinne</l>
+<lb n="24" xml:id="Cf218ra.24"/><l n="C_M3_18_232"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> daer tgheloue is coninghinne</l>
+<lb n="25" xml:id="Cf218ra.25"/><l n="C_M3_18_233">nu andworde mi bet voert</l>
+<lb n="26" xml:id="Cf218ra.26"/><l n="C_M3_18_234">of ics niene heb verboert</l>
+</lg>
+<lg type="stanza" n="19">
+<lb n="27" xml:id="Cf218ra.27"/><l n="C_M3_19_235"><hi rend="capitalsize2">A</hi>n den vader van hemelrike</l>
+<lb n="28" xml:id="Cf218ra.28"/><l n="C_M3_19_236"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> aen den zoene dies ghelike</l>
+<lb n="29" xml:id="Cf218ra.29"/><l n="C_M3_19_237"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> an den heilighen gheest</l>
+<lb n="30" xml:id="Cf218ra.30"/><l n="C_M3_19_238">zo is mijn gheloue also rike</l>
+<lb n="31" xml:id="Cf218ra.31"/><l n="C_M3_19_239">dat een god is des ic niene wike</l>
+<lb n="32" xml:id="Cf218ra.32"/><l n="C_M3_19_240">hoe zoet woerde vereest</l>
+<lb n="33" xml:id="Cf218ra.33"/><l n="C_M3_19_241">mer zegh mi alse claer dat het blike</l>
+<lb n="34" xml:id="Cf218ra.34"/><l n="C_M3_19_242">hoe die zoene die ewelike</l>
+<lb n="35" xml:id="Cf218ra.35"/><l n="C_M3_19_243">den vader is alreneest</l>
+<lb n="36" xml:id="Cf218ra.36"/><l n="C_M3_19_244">menscheit ontfienc <choice><abbr>va<g ref="#bar"/></abbr><expan>va<ex>n</ex></expan></choice> onsen slike</l>
+<lb n="37" xml:id="Cf218ra.37"/><l n="C_M3_19_245">dat di die ghene niene beswike</l>
+<lb n="38" xml:id="Cf218ra.38"/><l n="C_M3_19_246"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> hi doe di volleest</l>
+<lb n="39" xml:id="Cf218ra.39"/><l n="C_M3_19_247">die minst waert <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> was meest.</l>
+</lg>
+<lg type="stanza" n="20">
+<lb n="40" xml:id="Cf218ra.40"/><l n="C_M3_20_248"><hi rend="capitalsize2">E</hi>nde om dat onse bede te bet ghedijen</l>
+<lb n="41" xml:id="Cf218ra.41"/><l n="C_M3_20_249">zo bidde wij der maghet marien</l>
+<lb n="42" xml:id="Cf218ra.42"/><l n="C_M3_20_250">diene maecht ontfinc</l>
+<lb n="43" xml:id="Cf218ra.43"/><l n="C_M3_20_251"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> maecht ghenas des wij alle lijen</l>
+<lb n="44" xml:id="Cf218ra.44"/><l n="C_M3_20_252">daer wij ze omme noch ghebenedijen</l>
+<lb n="45" xml:id="Cf218ra.45"/><l n="C_M3_20_253">dat zi starke onze dinc</l>
+<lb n="46" xml:id="Cf218ra.46"/><l n="C_M3_20_254"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> moet claren <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> wijen</l>
+<lb n="47" xml:id="Cf218ra.47"/><l n="C_M3_20_255">minen zin <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> zo <choice><abbr>va<g ref="#bar"/></abbr><expan>va<ex>n</ex></expan></choice> zonden vrijen</l>
+<lb n="48" xml:id="Cf218ra.48"/><l n="C_M3_20_256">dat therte zi zonder winc</l>
+<lb n="49" xml:id="Cf218ra.49"/><l n="C_M3_20_257">van enighen dorpernijen</l>
+<lb n="50" xml:id="Cf218ra.50"/><l n="C_M3_20_258">du ne moets mi oec niet tijen</l>
+<lb n="51" xml:id="Cf218ra.51"/><l n="C_M3_20_259">dat ic di te na ghinc</l>
+
+
+<pb xml:id="C.f218rb" n="218rb"/>
+<lb n="1" xml:id="Cf218rb.1"/><l n="C_M3_20_260">mer minen wille volbrinc</l>
+</lg>
+<lg type="stanza" n="21">
+<lb n="2" xml:id="Cf218rb.2"/><l n="C_M3_21_261"><hi rend="capitalsize2">M</hi>artijn die val van lucifere</l>
+<lb n="3" xml:id="Cf218rb.3"/><l n="C_M3_21_262">der houaerden <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> des nijds here</l>
+<lb n="4" xml:id="Cf218rb.4"/><l n="C_M3_21_263">die was also groet</l>
+<lb n="5" xml:id="Cf218rb.5"/><l n="C_M3_21_264">dat vele inglen ontgouden zere</l>
+<lb n="6" xml:id="Cf218rb.6"/><l n="C_M3_21_265">die met hem waren buten kere</l>
+<lb n="7" xml:id="Cf218rb.7"/><l n="C_M3_21_266"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> viel in die doet</l>
+<lb n="8" xml:id="Cf218rb.8"/><l n="C_M3_21_267">doe dede god den mensche die eere</l>
+<lb n="9" xml:id="Cf218rb.9"/><l n="C_M3_21_268">dat hi ne ghesciep om dat hi lere</l>
+<lb n="10" xml:id="Cf218rb.10"/><l n="C_M3_21_269">te doene dat god gheboet</l>
+<lb n="11" xml:id="Cf218rb.11"/><l n="C_M3_21_270"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> hi besit emmermere</l>
+<lb n="12" xml:id="Cf218rb.12"/><l n="C_M3_21_271">der ingle stoel te hoeren ere</l>
+<lb n="13" xml:id="Cf218rb.13"/><l n="C_M3_21_272"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> nut dat hemelsche broet</l>
+<lb n="14" xml:id="Cf218rb.14"/><l n="C_M3_21_273">zonder wederstoet.</l>
+</lg>
+<lg type="stanza" n="22">
+<lb n="15" xml:id="Cf218rb.15"/><l n="C_M3_22_274"><hi rend="capitalsize2">D</hi>it heeft die duuel <choice><abbr>vernome<g ref="#bar"/></abbr><expan>vernome<ex>n</ex></expan></choice></l>
+<lb n="16" xml:id="Cf218rb.16"/><l n="C_M3_22_275"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> is tot der menscheit comen</l>
+<lb n="17" xml:id="Cf218rb.17"/><l n="C_M3_22_276">sprekende int serpent</l>
+<lb n="18" xml:id="Cf218rb.18"/><l n="C_M3_22_277"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> heeft te onzer onvromen</l>
+<lb n="19" xml:id="Cf218rb.19"/><l n="C_M3_22_278">onze vorders ghedaen verdomen</l>
+<lb n="20" xml:id="Cf218rb.20"/><l n="C_M3_22_279"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> swaerlike ghescent</l>
+<lb n="21" xml:id="Cf218rb.21"/><l n="C_M3_22_280">dit was zijn zonderlinghe beromen</l>
+<lb n="22" xml:id="Cf218rb.22"/><l n="C_M3_22_281">dat hi alle gader niet hem zomen</l>
+<lb n="23" xml:id="Cf218rb.23"/><l n="C_M3_22_282">dat volc heeft verblent</l>
+<lb n="24" xml:id="Cf218rb.24"/><l n="C_M3_22_283">dus wil hi vten hemel dromen</l>
+<lb n="25" xml:id="Cf218rb.25"/><l n="C_M3_22_284">den mensche dat hem die hemelsce <choice><abbr>blome<g ref="#bar"/></abbr><expan>blome<ex>n</ex></expan></choice></l>
+<lb n="26" xml:id="Cf218rb.26"/><l n="C_M3_22_285">niene worde bekent</l>
+<lb n="27" xml:id="Cf218rb.27"/><l n="C_M3_22_286">daer hi af was blent.</l>
+</lg>
+<lg type="stanza" n="23">
+<lb n="28" xml:id="Cf218rb.28"/><l n="C_M3_23_287"><hi rend="capitalsize2">D</hi>ie godszoene zach den man <choice><abbr>v<g ref="#apomod"/>raden</abbr><expan>v<ex>er</ex>raden</expan></choice></l>
+<lb n="29" xml:id="Cf218rb.29"/><l n="C_M3_23_288"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> den viant van ouerdaden</l>
+<lb n="30" xml:id="Cf218rb.30"/><l n="C_M3_23_289">in roeme e zeer groet</l>
+<lb n="31" xml:id="Cf218rb.31"/><l n="C_M3_23_290"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> wil hem staen in staden</l>
+<lb n="32" xml:id="Cf218rb.32"/><l n="C_M3_23_291">zo dat hi bi zier ghenaden</l>
+<lb n="33" xml:id="Cf218rb.33"/><l n="C_M3_23_292">marien dat ontboet</l>
+<lb n="34" xml:id="Cf218rb.34"/><l n="C_M3_23_293">dat zi met hem worde gheladen</l>
+<lb n="35" xml:id="Cf218rb.35"/><l n="C_M3_23_294">zonder last <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> point van scaden</l>
+<lb n="36" xml:id="Cf218rb.36"/><l n="C_M3_23_295"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> zonder enighe noet</l>
+<lb n="37" xml:id="Cf218rb.37"/><l n="C_M3_23_296">moeste zine zoghen <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> baden</l>
+<lb n="38" xml:id="Cf218rb.38"/><l n="C_M3_23_297">die alle dinghe mach versaden</l>
+<lb n="39" xml:id="Cf218rb.39"/><l n="C_M3_23_298"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> hauden in haren scoet</l>
+<lb n="40" xml:id="Cf218rb.40"/><l n="C_M3_23_299">dies haer niene verdroet.</l>
+</lg>
+<lg type="stanza" n="24">
+<lb n="41" xml:id="Cf218rb.41"/><l n="C_M3_24_300"><hi rend="capitalsize2">A</hi>lgheheel <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> altemale</l>
+<lb n="42" xml:id="Cf218rb.42"/><l n="C_M3_24_301">ruste hi in de maghet smale</l>
+<lb n="43" xml:id="Cf218rb.43"/><l n="C_M3_24_302">die godsoene godskint</l>
+<lb n="44" xml:id="Cf218rb.44"/><l n="C_M3_24_303"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> algheheel oec also wale</l>
+<lb n="45" xml:id="Cf218rb.45"/><l n="C_M3_24_304">was hi in des vader zale</l>
+<lb n="46" xml:id="Cf218rb.46"/><l n="C_M3_24_305">met hem en twiuels niet een twint</l>
+<lb n="47" xml:id="Cf218rb.47"/><l n="C_M3_24_306">die menscheit des en is ghene hale</l>
+<lb n="48" xml:id="Cf218rb.48"/><l n="C_M3_24_307">en besloet niet in desen dale</l>
+<lb n="49" xml:id="Cf218rb.49"/><l n="C_M3_24_308">die godheit diet al bint</l>
+<lb n="50" xml:id="Cf218rb.50"/><l n="C_M3_24_309">die godlicheit en heeft ghene pale:</l>
+<lb n="51" xml:id="Cf218rb.51"/><l n="C_M3_24_310">die menscheit dat meent mine tale</l>
+
+
+<pb xml:id="C.f218va" n="218va"/>
+<lb n="1" xml:id="Cf218va.1"/><l n="C_M3_24_311">ontfienc god diet al mint</l>
+<lb n="2" xml:id="Cf218va.2"/><l n="C_M3_24_312">in hem dus eest bekent.</l>
+</lg>
+<lg type="stanza" n="25">
+<lb n="3" xml:id="Cf218va.3"/><l n="C_M3_25_313"><hi rend="capitalsize2">E</hi>uengheweldich <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> here</l>
+<lb n="4" xml:id="Cf218va.4"/><l n="C_M3_25_314">is hi <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> was emmermere</l>
+<lb n="5" xml:id="Cf218va.5"/><l n="C_M3_25_315">den vader in der godheit</l>
+<lb n="6" xml:id="Cf218va.6"/><l n="C_M3_25_316">mer eest dat menscheit kere</l>
+<lb n="7" xml:id="Cf218va.7"/><l n="C_M3_25_317">so was hi vele minre sere</l>
+<lb n="8" xml:id="Cf218va.8"/><l n="C_M3_25_318">na die menschlicheit</l>
+<lb n="9" xml:id="Cf218va.9"/><l n="C_M3_25_319">na die godheit spreect onze lere</l>
+<lb n="10" xml:id="Cf218va.10"/><l n="C_M3_25_320">zo was onsteruelijc zijn ere</l>
+<lb n="11" xml:id="Cf218va.11"/><l n="C_M3_25_321">dits een besceit</l>
+<lb n="12" xml:id="Cf218va.12"/><l n="C_M3_25_322">die menscheit doghede als ic sprac ere</l>
+<lb n="13" xml:id="Cf218va.13"/><l n="C_M3_25_323">der nagle wonden <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> dat spere</l>
+<lb n="14" xml:id="Cf218va.14"/><l n="C_M3_25_324"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> die doet <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> ander leit</l>
+<lb n="15" xml:id="Cf218va.15"/><l n="C_M3_25_325"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> der joeden pleit.</l>
+</lg>
+<lg type="stanza" n="26">
+<lb n="16" xml:id="Cf218va.16"/><l n="C_M3_26_326"><hi rend="capitalsize1">D</hi>ie menscheit liet haer besniden</l>
+<lb n="17" xml:id="Cf218va.17"/><l n="C_M3_26_327">dopen proeuen in desen tiden</l>
+<lb n="18" xml:id="Cf218va.18"/><l n="C_M3_26_328">van den ouden viant</l>
+<lb n="19" xml:id="Cf218va.19"/><l n="C_M3_26_329">zi liet haer vaen <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> beniden</l>
+<lb n="20" xml:id="Cf218va.20"/><l n="C_M3_26_330">doerboren hande voete <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> ziden</l>
+<lb n="21" xml:id="Cf218va.21"/><l n="C_M3_26_331">zi starf dus eest becant</l>
+<lb n="22" xml:id="Cf218va.22"/><l n="C_M3_26_332">die ziele wilde ter hellen tiden</l>
+<lb n="23" xml:id="Cf218va.23"/><l n="C_M3_26_333">daer zi die ghene wilde verbliden</l>
+<lb n="24" xml:id="Cf218va.24"/><l n="C_M3_26_334">die die duuel bant</l>
+<lb n="25" xml:id="Cf218va.25"/><l n="C_M3_26_335">ay hoe zi gode benediden</l>
+<lb n="26" xml:id="Cf218va.26"/><l n="C_M3_26_336">die heilighen diene zaghen striden</l>
+<lb n="27" xml:id="Cf218va.27"/><l n="C_M3_26_337">jeghen des duuels brant</l>
+<lb n="28" xml:id="Cf218va.28"/><l n="C_M3_26_338">daer hise inne vant.</l>
+</lg>
+<lg type="stanza" n="27">
+<lb n="29" xml:id="Cf218va.29"/><l n="C_M3_27_339"><hi rend="capitalsize2">G</hi>od weckede van dode teliue</l>
+<lb n="30" xml:id="Cf218va.30"/><l n="C_M3_27_340">dat uleesch dat hi <choice><abbr>va<g ref="#bar"/></abbr><expan>va<ex>n</ex></expan></choice> <choice><abbr>de<g ref="#bar"/></abbr><expan>de<ex>n</ex></expan></choice> <choice><abbr>reine<g ref="#bar"/></abbr><expan>reine<ex>n</ex></expan></choice> wiue</l>
+<lb n="31" xml:id="Cf218va.31"/><l n="C_M3_27_341">ver marien nam</l>
+<lb n="32" xml:id="Cf218va.32"/><l n="C_M3_27_342">hi troeste zine lieue keytiue</l>
+<lb n="33" xml:id="Cf218va.33"/><l n="C_M3_27_343">hier twe: hier drie. hier vier. hier viue</l>
+<lb n="34" xml:id="Cf218va.34"/><l n="C_M3_27_344">met hem hi eten quam</l>
+<lb n="35" xml:id="Cf218va.35"/><l n="C_M3_27_345">dus is die godsoene alsic scriue</l>
+<lb n="36" xml:id="Cf218va.36"/><l n="C_M3_27_346">god <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> mensche elc man bliue</l>
+<lb n="37" xml:id="Cf218va.37"/><l n="C_M3_27_347">in desen ghehoersam</l>
+<lb n="38" xml:id="Cf218va.38"/><l n="C_M3_27_348">is enich zin so stiue</l>
+<lb n="39" xml:id="Cf218va.39"/><l n="C_M3_27_349">die jeghen dit gheloue kiue</l>
+<lb n="40" xml:id="Cf218va.40"/><l n="C_M3_27_350">hem zal themelsche lam</l>
+<lb n="41" xml:id="Cf218va.41"/><l n="C_M3_27_351">ten jonxten werden gram.</l>
+</lg>
+<lg type="stanza" n="28">
+<lb n="42" xml:id="Cf218va.42"/><l n="C_M3_28_352"><hi rend="capitalsize2">I</hi>n den hemel is hi gheuaren</l>
+<lb n="43" xml:id="Cf218va.43"/><l n="C_M3_28_353">daert die zine aenzaghen twaren</l>
+<lb n="44" xml:id="Cf218va.44"/><l n="C_M3_28_354">tes vaders rechterhant</l>
+<lb n="45" xml:id="Cf218va.45"/><l n="C_M3_28_355">daer hi altoes <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> zonder sparen</l>
+<lb n="46" xml:id="Cf218va.46"/><l n="C_M3_28_356">den vader bidt voer zine caren</l>
+<lb n="47" xml:id="Cf218va.47"/><l n="C_M3_28_357">die hem hier zijn becant</l>
+<lb n="48" xml:id="Cf218va.48"/><l n="C_M3_28_358">noch coemt hi hem hier verbaren</l>
+<lb n="49" xml:id="Cf218va.49"/><l n="C_M3_28_359">domen die werelt met zinen scaren</l>
+<lb n="50" xml:id="Cf218va.50"/><l n="C_M3_28_360"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> den helschen viant</l>
+<lb n="51" xml:id="Cf218va.51"/><l n="C_M3_28_361">zonne <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> mane zal hi verclaren</l>
+
+
+<pb xml:id="C.f218vb" n="218vb"/>
+<lb n="1" xml:id="Cf218vb.1"/><l n="C_M3_28_362">die bi adaem verdonkert waren</l>
+<lb n="2" xml:id="Cf218vb.2"/><l n="C_M3_28_363">locht water <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> lant</l>
+<lb n="3" xml:id="Cf218vb.3"/><l n="C_M3_28_364">zal purgeren een brant.</l>
+</lg>
+<lg type="stanza" n="29">
+<lb n="4" xml:id="Cf218vb.4"/><l n="C_M3_29_365"><hi rend="capitalsize2">A</hi>l eest dat hi dus opwaert rande</l>
+<lb n="5" xml:id="Cf218vb.5"/><l n="C_M3_29_366">hi liet den zinen te pande</l>
+<lb n="6" xml:id="Cf218vb.6"/><l n="C_M3_29_367">zijn vleesch <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> zijn bloet</l>
+<lb n="7" xml:id="Cf218vb.7"/><l n="C_M3_29_368">te sacreren ints priesters hande</l>
+<lb n="8" xml:id="Cf218vb.8"/><l n="C_M3_29_369">wie was die dierre gaue cande</l>
+<lb n="9" xml:id="Cf218vb.9"/><l n="C_M3_29_370">of beter of zo goet</l>
+<lb n="10" xml:id="Cf218vb.10"/><l n="C_M3_29_371">ay god nu brec onze bande</l>
+<lb n="11" xml:id="Cf218vb.11"/><l n="C_M3_29_372"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> verghef ons dine ande</l>
+<lb n="12" xml:id="Cf218vb.12"/><l n="C_M3_29_373"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> dinen euelen moet</l>
+<lb n="13" xml:id="Cf218vb.13"/><l n="C_M3_29_374">dat onze mont <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> onze hande</l>
+<lb n="14" xml:id="Cf218vb.14"/><l n="C_M3_29_375">dat smaken moet al zonder scande</l>
+<lb n="15" xml:id="Cf218vb.15"/><l n="C_M3_29_376">dijn vleisch dijn rode bloet</l>
+<lb n="16" xml:id="Cf218vb.16"/><l n="C_M3_29_377">dat vut dijnre ziden woet.</l>
+</lg>
+<lg type="stanza" n="30">
+<lb n="17" xml:id="Cf218vb.17"/><l n="C_M3_30_378"><hi rend="capitalsize2">V</hi>ut desen zoene vut desen wonden</l>
+<lb n="18" xml:id="Cf218vb.18"/><l n="C_M3_30_379">wies godheit niemen mach <choice><abbr>ghegronde<g ref="#bar"/></abbr><expan>ghegronde<ex>n</ex></expan></choice></l>
+<lb n="19" xml:id="Cf218vb.19"/><l n="C_M3_30_380">noch zine menschelicheit</l>
+<lb n="20" xml:id="Cf218vb.20"/><l n="C_M3_30_381">zo vloiden <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> zo begonden</l>
+<lb n="21" xml:id="Cf218vb.21"/><l n="C_M3_30_382">die sacramente te dien stonden</l>
+<lb n="22" xml:id="Cf218vb.22"/><l n="C_M3_30_383"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> alle zaelicheit.</l>
+<lb n="23" xml:id="Cf218vb.23"/><l n="C_M3_30_384">nu heb ic di tgheloue ontbonden</l>
+<lb n="24" xml:id="Cf218vb.24"/><l n="C_M3_30_385">zo ic nauste hebbe onderuonden</l>
+<lb n="25" xml:id="Cf218vb.25"/><l n="C_M3_30_386">na mire moeghentheit</l>
+<lb n="26" xml:id="Cf218vb.26"/><l n="C_M3_30_387">die dit gheloue uast orkonden</l>
+<lb n="27" xml:id="Cf218vb.27"/><l n="C_M3_30_388">aflaet groet van haren zonden</l>
+<lb n="28" xml:id="Cf218vb.28"/><l n="C_M3_30_389">is hem altoes ghereit</l>
+<lb n="29" xml:id="Cf218vb.29"/><l n="C_M3_30_390">op dat hire inne volsteit.</l>
+</lg>
+<lg type="stanza" n="31">
+<lb n="30" xml:id="Cf218vb.30"/><l n="C_M3_31_391"><hi rend="capitalsize2">I</hi>acob du berichts mi scone</l>
+<lb n="31" xml:id="Cf218vb.31"/><l n="C_M3_31_392">nu zech mi van dien persone</l>
+<lb n="32" xml:id="Cf218vb.32"/><l n="C_M3_31_393">die men heet heilighe gheest</l>
+<lb n="33" xml:id="Cf218vb.33"/><l n="C_M3_31_394">hoe mijn gheloue zonder hone</l>
+<lb n="34" xml:id="Cf218vb.34"/><l n="C_M3_31_395">tehem waert <choice><abbr>cli<g ref="#bar"/>me</abbr><expan>cli<ex>m</ex>me</expan></choice> <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> winne die crone</l>
+<lb n="35" xml:id="Cf218vb.35"/><l n="C_M3_31_396">die alre gauen is meest</l>
+<lb n="36" xml:id="Cf218vb.36"/><l n="C_M3_31_397"><choice><abbr>wa<g ref="#bar"/>t</abbr><expan>wa<ex>n</ex>t</expan></choice> van den vader <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> van den zone</l>
+<lb n="37" xml:id="Cf218vb.37"/><l n="C_M3_31_398">heb ic bi di dat di god lone</l>
+<lb n="38" xml:id="Cf218vb.38"/><l n="C_M3_31_399">scone berichte vereest</l>
+<lb n="39" xml:id="Cf218vb.39"/><l n="C_M3_31_400">dies danke di der martelien vrone</l>
+<lb n="40" xml:id="Cf218vb.40"/><l n="C_M3_31_401">daer bouen in den hoghen trone</l>
+<lb n="41" xml:id="Cf218vb.41"/><l n="C_M3_31_402"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> die ghene die volleest</l>
+<lb n="42" xml:id="Cf218vb.42"/><l n="C_M3_31_403">dat dure coems ongheureest.</l>
+</lg>
+<lg type="stanza" n="32">
+<lb n="43" xml:id="Cf218vb.43"/><l n="C_M3_32_404"><hi rend="capitalsize2">M</hi>artijn ons leert die scrifture</l>
+<lb n="44" xml:id="Cf218vb.44"/><l n="C_M3_32_405">dat een god <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> ene nature</l>
+<lb n="45" xml:id="Cf218vb.45"/><l n="C_M3_32_406">emmer zijn dese drie</l>
+<lb n="46" xml:id="Cf218vb.46"/><l n="C_M3_32_407">altoes euen na ghebure</l>
+<lb n="47" xml:id="Cf218vb.47"/><l n="C_M3_32_408">noch versceden te gheenre vre</l>
+<lb n="48" xml:id="Cf218vb.48"/><l n="C_M3_32_409">noch en verscieden nie</l>
+<lb n="49" xml:id="Cf218vb.49"/><l n="C_M3_32_410">vader kijnt verstant tercure</l>
+<lb n="50" xml:id="Cf218vb.50"/><l n="C_M3_32_411">vut deser dobbel gods dure</l>
+<lb n="51" xml:id="Cf218vb.51"/><l n="C_M3_32_412">wie can ghegronden wie</l>
+
+
+<pb xml:id="C.f219ra" n="219ra"/>
+<lb n="1" xml:id="Cf219ra.1"/><l n="C_M3_32_413">coemt die gheest die zoete gure</l>
+<lb n="2" xml:id="Cf219ra.2"/><l n="C_M3_32_414">die reine godheit <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> die pure</l>
+<lb n="3" xml:id="Cf219ra.3"/><l n="C_M3_32_415">hier op proef <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> zie</l>
+<lb n="4" xml:id="Cf219ra.4"/><l n="C_M3_32_416">met herten <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> des ghie.</l>
+</lg>
+<lg type="stanza" n="33">
+<lb n="5" xml:id="Cf219ra.5"/><l n="C_M3_33_417"><hi rend="capitalsize2">D</hi>its die troest die alremeest</l>
+<lb n="6" xml:id="Cf219ra.6"/><l n="C_M3_33_418">hem die aerme zijn van gheest</l>
+<lb n="7" xml:id="Cf219ra.7"/><l n="C_M3_33_419">leert hi blide zijn</l>
+<lb n="8" xml:id="Cf219ra.8"/><l n="C_M3_33_420">hi is in pinen altoes feest</l>
+<lb n="9" xml:id="Cf219ra.9"/><l n="C_M3_33_421">hi doet meneghen die ierst was beest</l>
+<lb n="10" xml:id="Cf219ra.10"/><l n="C_M3_33_422">zijn zuuer wijs <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> fijn</l>
+<lb n="11" xml:id="Cf219ra.11"/><l n="C_M3_33_423">wapene god die dat vreest</l>
+<lb n="12" xml:id="Cf219ra.12"/><l n="C_M3_33_424">dat hi van zinen volleest</l>
+<lb n="13" xml:id="Cf219ra.13"/><l n="C_M3_33_425">smaecte een droepelkijn</l>
+<lb n="14" xml:id="Cf219ra.14"/><l n="C_M3_33_426">die waer gode alre neest</l>
+<lb n="15" xml:id="Cf219ra.15"/><l n="C_M3_33_427">want ghene vrese van tempeest</l>
+<lb n="16" xml:id="Cf219ra.16"/><l n="C_M3_33_428">noch gheen venijn</l>
+<lb n="17" xml:id="Cf219ra.17"/><l n="C_M3_33_429">en scade der zielen zijn.</l>
+</lg>
+<lg type="stanza" n="34">
+<lb n="18" xml:id="Cf219ra.18"/><l n="C_M3_34_430"><hi rend="capitalsize2">D</hi>its vaders <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> zoens gaue</l>
+<lb n="19" xml:id="Cf219ra.19"/><l n="C_M3_34_431">rijcheit bouen alrehande haue</l>
+<lb n="20" xml:id="Cf219ra.20"/><l n="C_M3_34_432">fonteine des leuens al</l>
+<lb n="21" xml:id="Cf219ra.21"/><l n="C_M3_34_433">wie zo gheport wordt hier aue</l>
+<lb n="22" xml:id="Cf219ra.22"/><l n="C_M3_34_434">wat rijcheiden men hem anders gaue</l>
+<lb n="23" xml:id="Cf219ra.23"/><l n="C_M3_34_435">zoude hem dunken smal</l>
+<lb n="24" xml:id="Cf219ra.24"/><l n="C_M3_34_436">rijcheit die coninc heeft of graue</l>
+<lb n="25" xml:id="Cf219ra.25"/><l n="C_M3_34_437">en is tiendedeel niet <choice><abbr>va<g ref="#bar"/></abbr><expan>va<ex>n</ex></expan></choice> enen caue</l>
+<lb n="26" xml:id="Cf219ra.26"/><l n="C_M3_34_438">ghemict ieghen dit gheual</l>
+<lb n="27" xml:id="Cf219ra.27"/><l n="C_M3_34_439">jhesu du die rustes in den graue</l>
+<lb n="28" xml:id="Cf219ra.28"/><l n="C_M3_34_440">met deser edelheit zo laue</l>
+<lb n="29" xml:id="Cf219ra.29"/><l n="C_M3_34_441">ons allen alsmen rumen zal</l>
+<lb n="30" xml:id="Cf219ra.30"/><l n="C_M3_34_442">dit aerme aerdsce dal.</l>
+</lg>
+<lg type="stanza" n="35">
+<lb n="31" xml:id="Cf219ra.31"/><l n="C_M3_35_443"><hi rend="capitalsize2">D</hi>its vaders <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> zoens minne</l>
+<lb n="32" xml:id="Cf219ra.32"/><l n="C_M3_35_444">dits caritate daer altoes inne</l>
+<lb n="33" xml:id="Cf219ra.33"/><l n="C_M3_35_445">ruste die triniteit</l>
+<lb n="34" xml:id="Cf219ra.34"/><l n="C_M3_35_446">hi is die der propheten zinne</l>
+<lb n="35" xml:id="Cf219ra.35"/><l n="C_M3_35_447">leerde <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> maecte an inne</l>
+<lb n="36" xml:id="Cf219ra.36"/><l n="C_M3_35_448">des godszoene menschlijcheit</l>
+<lb n="37" xml:id="Cf219ra.37"/><l n="C_M3_35_449">hen is coninc noch coninghinne</l>
+<lb n="38" xml:id="Cf219ra.38"/><l n="C_M3_35_450">die emmermeer aflaet ghewinne</l>
+<lb n="39" xml:id="Cf219ra.39"/><l n="C_M3_35_451">van zijnre onsaelicheit</l>
+<lb n="40" xml:id="Cf219ra.40"/><l n="C_M3_35_452">hi ne hebbe een traen al waert oec dinne</l>
+<lb n="41" xml:id="Cf219ra.41"/><l n="C_M3_35_453">van desen dauwe te zinen beghinne</l>
+<lb n="42" xml:id="Cf219ra.42"/><l n="C_M3_35_454">al weluaren is ontfeit</l>
+<lb n="43" xml:id="Cf219ra.43"/><l n="C_M3_35_455">daer dese is onghereit</l>
+</lg>
+<lg type="stanza" n="36">
+<lb n="44" xml:id="Cf219ra.44"/><l n="C_M3_36_456"><hi rend="capitalsize2">D</hi>ese leerde den apostelen twaren</l>
+<lb n="45" xml:id="Cf219ra.45"/><l n="C_M3_36_457">alle tonghen die doe waren</l>
+<lb n="46" xml:id="Cf219ra.46"/><l n="C_M3_36_458">in der werelt breet</l>
+<lb n="47" xml:id="Cf219ra.47"/><l n="C_M3_36_459">dese gaf den martelaren</l>
+<lb n="48" xml:id="Cf219ra.48"/><l n="C_M3_36_460">dat zij conden zonder misbaren</l>
+<lb n="49" xml:id="Cf219ra.49"/><l n="C_M3_36_461">doghen menich leet</l>
+<lb n="50" xml:id="Cf219ra.50"/><l n="C_M3_36_462">dese can die zinne verclaren</l>
+<lb n="51" xml:id="Cf219ra.51"/><l n="C_M3_36_463">die met zonden hem verswaren</l>
+
+
+<pb xml:id="C.f219rb" n="219rb"/>
+<lb n="1" xml:id="Cf219rb.1"/><l n="C_M3_36_464">ende coude maken heet</l>
+<lb n="2" xml:id="Cf219rb.2"/><l n="C_M3_36_465">zinen lieuen zinen caren</l>
+<lb n="3" xml:id="Cf219rb.3"/><l n="C_M3_36_466">gheeft hi zonder enich sparen</l>
+<lb n="4" xml:id="Cf219rb.4"/><l n="C_M3_36_467">dat godlijc cleet</l>
+<lb n="5" xml:id="Cf219rb.5"/><l n="C_M3_36_468">dat nummermeer tegheet.</l>
+</lg>
+<lg type="stanza" n="37">
+
+<note n="C_M3_37_469">Line_number 469 is missing</note>
+
+<note n="C_M3_37_470">Line_number 470 is missing</note>
+
+<note n="C_M3_37_471">Line_number 471 is missing</note>
+
+<note n="C_M3_37_472">Line_number 472 is missing</note>
+
+<note n="C_M3_37_473">Line_number 473 is missing</note>
+
+<note n="C_M3_37_474">Line_number 474 is missing</note>
+
+<note n="C_M3_37_475">Line_number 475 is missing</note>
+
+<note n="C_M3_37_476">Line_number 476 is missing</note>
+
+<note n="C_M3_37_477">Line_number 477 is missing</note>
+
+<note n="C_M3_37_478">Line_number 478 is missing</note>
+
+<note n="C_M3_37_479">Line_number 479 is missing</note>
+
+<note n="C_M3_37_480">Line_number 480 is missing</note>
+
+<note n="C_M3_37_481">Line_number 481 is missing</note>
+</lg>
+<lg type="stanza" n="38">
+<lb n="6" xml:id="Cf219rb.6"/><l n="C_M3_38_482"><hi rend="capitalsize2">W</hi>aer iement diet wedersprake</l>
+<lb n="7" xml:id="Cf219rb.7"/><l n="C_M3_38_483">dese gheloue <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> dese zake</l>
+<lb n="8" xml:id="Cf219rb.8"/><l n="C_M3_38_484">die waer ewelijc verdoemt</l>
+<lb n="9" xml:id="Cf219rb.9"/><l n="C_M3_38_485">recht waert dat men in den brant stake</l>
+<lb n="10" xml:id="Cf219rb.10"/><l n="C_M3_38_486"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> hi daer na thelsche vier smake</l>
+<lb n="11" xml:id="Cf219rb.11"/><l n="C_M3_38_487">daermen den duuel in droemt</l>
+<lb n="12" xml:id="Cf219rb.12"/><l n="C_M3_38_488">helpt god dat ic daer noch gherake</l>
+<lb n="13" xml:id="Cf219rb.13"/><l n="C_M3_38_489">dat ic dat zie daer ic af make</l>
+<lb n="14" xml:id="Cf219rb.14"/><l n="C_M3_38_490">die godheit onghenoemt</l>
+<lb n="15" xml:id="Cf219rb.15"/><l n="C_M3_38_491">zo ne trect mi niet die helsche drake</l>
+<lb n="16" xml:id="Cf219rb.16"/><l n="C_M3_38_492">met hem ter eweliker wrake</l>
+<lb n="17" xml:id="Cf219rb.17"/><l n="C_M3_38_493">daer niement vyt en coemt</l>
+<lb n="18" xml:id="Cf219rb.18"/><l n="C_M3_38_494">wient scaedt oft vroemt.</l>
+</lg>
+<lg type="stanza" n="39">
+<lb n="19" xml:id="Cf219rb.19"/><l n="C_M3_39_495"><hi rend="capitalsize2">A</hi>y mi jacob lieue gheselle</l>
+<lb n="20" xml:id="Cf219rb.20"/><l n="C_M3_39_496">mi dunct dat ic di zere quelle</l>
+<lb n="21" xml:id="Cf219rb.21"/><l n="C_M3_39_497">doch had ics grote noet</l>
+<lb n="22" xml:id="Cf219rb.22"/><l n="C_M3_39_498">alsic dese dinc leere <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> spelle</l>
+<lb n="23" xml:id="Cf219rb.23"/><l n="C_M3_39_499">mach ic leren alsic vertelle</l>
+<lb n="24" xml:id="Cf219rb.24"/><l n="C_M3_39_500">mijn gheloue albloet</l>
+<lb n="25" xml:id="Cf219rb.25"/><l n="C_M3_39_501">daer ic bi scuwen mach die helle</l>
+<lb n="26" xml:id="Cf219rb.26"/><l n="C_M3_39_502">op dat ic mi daertoe versnelle</l>
+<lb n="27" xml:id="Cf219rb.27"/><l n="C_M3_39_503">te doene dat god gheboet</l>
+<lb n="28" xml:id="Cf219rb.28"/><l n="C_M3_39_504">god die de doet wrac van abelle</l>
+<lb n="29" xml:id="Cf219rb.29"/><l n="C_M3_39_505">bringhe ons noch ter hogher celle</l>
+<lb n="30" xml:id="Cf219rb.30"/><l n="C_M3_39_506">dat is abrahams scoet</l>
+<lb n="31" xml:id="Cf219rb.31"/><l n="C_M3_39_507">na deser menschliker doet.</l>
+<lb n="32" xml:id="Cf219rb.32"/><l n="C_M3_39_508">Amen <pc>-</pc> <choice><abbr>Ame<g ref="#bar"/></abbr><expan>Ame<ex>n</ex></expan></choice> <pc>-</pc> <choice><abbr>Am<g ref="#bar"/>.</abbr><expan>Am<ex>en</ex>.</expan></choice></l>
+</lg>
+</p>
+</body>
+</text>
+
+
+<pb xml:id="C.f219va" n="219va"/>
+
+
+<text n="Eerste Martijn" xml:id="M1">
+<body>
+<p><lg type="stanza" n="01">
+<lb n="1" xml:id="Cf219va.1"/><l n="C_M1_01_000"><hi rend="capitalsize1">V</hi>an iacob <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> van martijn.</l>
+<lb n="2" xml:id="Cf219va.2"/><l n="C_M1_01_001"><hi rend="capitalsize5">U</hi>uapene martijn hoe zalt gaen</l>
+<lb n="3" xml:id="Cf219va.3"/><l n="C_M1_01_002">zal dese werelt iet langhe staen</l>
+<lb n="4" xml:id="Cf219va.4"/><l n="C_M1_01_003">in dus cranken loue</l>
+<lb n="5" xml:id="Cf219va.5"/><l n="C_M1_01_004">so zal mijn vrouwe eere zaen</l>
+<lb n="6" xml:id="Cf219va.6"/><l n="C_M1_01_005">zonder twiuel <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> waen</l>
+<lb n="7" xml:id="Cf219va.7"/><l n="C_M1_01_006">rumen heren houe.</l>
+<lb n="8" xml:id="Cf219va.8"/><l n="C_M1_01_007">ic zie den valschen wel ontfaen</l>
+<lb n="9" xml:id="Cf219va.9"/><l n="C_M1_01_008">die de heren connen dwaen</l>
+<lb n="10" xml:id="Cf219va.10"/><l n="C_M1_01_009"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> plucken van den stoue</l>
+<lb n="11" xml:id="Cf219va.11"/><l n="C_M1_01_010"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> ic zie den rechten slaen</l>
+<lb n="12" xml:id="Cf219va.12"/><l n="C_M1_01_011">beide bescatten <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> vaen</l>
+<lb n="13" xml:id="Cf219va.13"/><l n="C_M1_01_012">alse die mese in die cloue</l>
+<lb n="14" xml:id="Cf219va.14"/><l n="C_M1_01_013">recht of hen god verscroue.</l>
+</lg>
+<lg type="stanza" n="02">
+<lb n="15" xml:id="Cf219va.15"/><l n="C_M1_02_014"><hi rend="capitalsize2">H</hi>oe langhe zal ghedoghen dit</l>
+<lb n="16" xml:id="Cf219va.16"/><l n="C_M1_02_015">god die alle dinc besit</l>
+<lb n="17" xml:id="Cf219va.17"/><l n="C_M1_02_016">in zijnre heerscappie</l>
+<lb n="18" xml:id="Cf219va.18"/><l n="C_M1_02_017">dat die goede vleet <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> bidt</l>
+<lb n="19" xml:id="Cf219va.19"/><l n="C_M1_02_018"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> hem en doech noch dat noch dit,</l>
+<lb n="20" xml:id="Cf219va.20"/><l n="C_M1_02_019">zoe dat hi iet ghedie</l>
+<lb n="21" xml:id="Cf219va.21"/><l n="C_M1_02_023">recht man deluet onderspit</l>
+<lb n="22" xml:id="Cf219va.22"/><l n="C_M1_02_024">hine heeft tepointe diet ghehit</l>
+<lb n="23" xml:id="Cf219va.23"/><l n="C_M1_02_025">in enghene baelgye</l>
+<lb n="24" xml:id="Cf219va.24"/><l n="C_M1_02_020">al gaet in den helschen pit</l>
+<lb n="25" xml:id="Cf219va.25"/><l n="C_M1_02_021">eest blau eest grau eest swart eest wit</l>
+<lb n="26" xml:id="Cf219va.26"/><l n="C_M1_02_022">hets ghetrouwe als die zye</l>
+<lb n="27" xml:id="Cf219va.27"/><l n="C_M1_02_026">mi is leet dat ic waer lye.</l>
+</lg>
+<lg type="stanza" n="03">
+<lb n="28" xml:id="Cf219va.28"/><l n="C_M1_03_027"><hi rend="capitalsize2">L</hi>aet ons martijn over een</l>
+<lb n="29" xml:id="Cf219va.29"/><l n="C_M1_03_028">hier af spreken onder ons tween</l>
+<lb n="30" xml:id="Cf219va.30"/><l n="C_M1_03_029">in dit dyaloghe</l>
+<lb n="31" xml:id="Cf219va.31"/><l n="C_M1_03_030">wanne quam ons dese ween</l>
+<lb n="32" xml:id="Cf219va.32"/><l n="C_M1_03_031">dat die wilen zo onwaert sceen</l>
+<lb n="33" xml:id="Cf219va.33"/><l n="C_M1_03_032">nu zit also hoghe</l>
+<lb n="34" xml:id="Cf219va.34"/><l n="C_M1_03_033">ic zal vraghen <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> vleen</l>
+<lb n="35" xml:id="Cf219va.35"/><l n="C_M1_03_034"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> andworde mi ja of neen</l>
+<lb n="36" xml:id="Cf219va.36"/><l n="C_M1_03_035">van dat ic betoghe</l>
+<lb n="37" xml:id="Cf219va.37"/><l n="C_M1_03_036">ledicheit is vroem en gheen</l>
+<lb n="38" xml:id="Cf219va.38"/><l n="C_M1_03_037">arbeit vijnt vier in den steen</l>
+<lb n="39" xml:id="Cf219va.39"/><l n="C_M1_03_038">waerbi ontsteect dat droghe</l>
+<lb n="40" xml:id="Cf219va.40"/><l n="C_M1_03_039">nu sprec <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> ic ghedoghe.</l>
+</lg>
+<lg type="stanza" n="04">
+<lb n="41" xml:id="Cf219va.41"/><l n="C_M1_04_040"><hi rend="capitalsize2">S</hi>preken jacob lieue compaen</l>
+<lb n="42" xml:id="Cf219va.42"/><l n="C_M1_04_041">waer zoudict hebben verstaen</l>
+<lb n="43" xml:id="Cf219va.43"/><l n="C_M1_04_042">dat ic daer toe dochte</l>
+<lb n="44" xml:id="Cf219va.44"/><l n="C_M1_04_043">te uerclaren dinen waen</l>
+<lb n="45" xml:id="Cf219va.45"/><l n="C_M1_04_044">die in twiuel is beuaen</l>
+<lb n="46" xml:id="Cf219va.46"/><l n="C_M1_04_045">dats dat ic niene vermochte</l>
+<lb n="47" xml:id="Cf219va.47"/><l n="C_M1_04_046">doch en wil ics niet ontgaen</l>
+<lb n="48" xml:id="Cf219va.48"/><l n="C_M1_04_047">in wille dine bede ontfaen</l>
+<lb n="49" xml:id="Cf219va.49"/><l n="C_M1_04_048">die dit aen mi besochte</l>
+<lb n="50" xml:id="Cf219va.50"/><l n="C_M1_04_049">god zeinde mi den hemelscen traen</l>
+<lb n="51" xml:id="Cf219va.51"/><l n="C_M1_04_050"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> moet mine zinne dwaen</l>
+
+
+<pb xml:id="C.f219vb" n="219vb"/>
+<lb n="1" xml:id="Cf219vb.1"/><l n="C_M1_04_051">want hi mi diere cochte</l>
+<lb n="2" xml:id="Cf219vb.2"/><l n="C_M1_04_052"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> ict gherne volbrochte.</l>
+</lg>
+<lg type="stanza" n="05">
+<lb n="3" xml:id="Cf219vb.3"/><l n="C_M1_05_053"><hi rend="capitalsize2">M</hi>artijn doe die werelt began</l>
+<lb n="4" xml:id="Cf219vb.4"/><l n="C_M1_05_054">man teuerheffen bouen man</l>
+<lb n="5" xml:id="Cf219vb.5"/><l n="C_M1_05_055">doe sciet mijn vrouwe ver eere</l>
+<lb n="6" xml:id="Cf219vb.6"/><l n="C_M1_05_056">den dorper <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> wijsde hem den dan</l>
+<lb n="7" xml:id="Cf219vb.7"/><l n="C_M1_05_057">daer trouwe <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> doeghede was an</l>
+<lb n="8" xml:id="Cf219vb.8"/><l n="C_M1_05_058">dien hiet zi zijn here</l>
+<lb n="9" xml:id="Cf219vb.9"/><l n="C_M1_05_059">nu maken die heren een ghespan</l>
+<lb n="10" xml:id="Cf219vb.10"/><l n="C_M1_05_060"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> gheuen der eren enen ban</l>
+<lb n="11" xml:id="Cf219vb.11"/><l n="C_M1_05_061"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> willen niet dat zi kere</l>
+<lb n="12" xml:id="Cf219vb.12"/><l n="C_M1_05_062">zech mi wanne dit venijn ran</l>
+<lb n="13" xml:id="Cf219vb.13"/><l n="C_M1_05_063">toegh mi redene daer van</l>
+<lb n="14" xml:id="Cf219vb.14"/><l n="C_M1_05_065">wies scout dat dit were</l>
+<lb n="15" xml:id="Cf219vb.15"/><l n="C_M1_05_064">want ic gherne lere.</l>
+</lg>
+<lg type="stanza" n="06">
+<lb n="16" xml:id="Cf219vb.16"/><l n="C_M1_06_066"><hi rend="capitalsize2">M</hi>artijn mi dunct ouerwaer</l>
+<lb n="17" xml:id="Cf219vb.17"/><l n="C_M1_06_067">zijnt dat edelheit hadde vaer</l>
+<lb n="18" xml:id="Cf219vb.18"/><l n="C_M1_06_068">te pinen om die eere</l>
+<lb n="19" xml:id="Cf219vb.19"/><l n="C_M1_06_069"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> zi trecte den scalken naer</l>
+<lb n="20" xml:id="Cf219vb.20"/><l n="C_M1_06_070">die raden nu hier nu daer</l>
+<lb n="21" xml:id="Cf219vb.21"/><l n="C_M1_06_071"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> niet scelden den here</l>
+<lb n="22" xml:id="Cf219vb.22"/><l n="C_M1_06_072">zo is edelheit worden zo swaer</l>
+<lb n="23" xml:id="Cf219vb.23"/><l n="C_M1_06_073">dat zi teclimmene heeft ommaer</l>
+<lb n="24" xml:id="Cf219vb.24"/><l n="C_M1_06_074"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> daelt je lanc zo mere</l>
+<lb n="25" xml:id="Cf219vb.25"/><l n="C_M1_06_075">dats nu alder werelt claer</l>
+<lb n="26" xml:id="Cf219vb.26"/><l n="C_M1_06_076"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> oeghscijn al openbaer</l>
+<lb n="27" xml:id="Cf219vb.27"/><l n="C_M1_06_077">dus is verbanden eere</l>
+<lb n="28" xml:id="Cf219vb.28"/><l n="C_M1_06_078"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> wederstaen ten kere.</l>
+</lg>
+<lg type="stanza" n="07">
+<lb n="29" xml:id="Cf219vb.29"/><l n="C_M1_07_079"><hi rend="capitalsize2">N</hi>u merct bi der zonnen lecht</l>
+<lb n="30" xml:id="Cf219vb.30"/><l n="C_M1_07_080">dat alder werelt oghen berecht</l>
+<lb n="31" xml:id="Cf219vb.31"/><l n="C_M1_07_081">bi ziere edelre naturen</l>
+<lb n="32" xml:id="Cf219vb.32"/><l n="C_M1_07_082">als dat swerc daer jeghen uecht</l>
+<lb n="33" xml:id="Cf219vb.33"/><l n="C_M1_07_083"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> die neuel met zire drecht</l>
+<lb n="34" xml:id="Cf219vb.34"/><l n="C_M1_07_084">zo en can zi tier vren</l>
+<lb n="35" xml:id="Cf219vb.35"/><l n="C_M1_07_085">niet ghetonen haer sconeit echt</l>
+<lb n="36" xml:id="Cf219vb.36"/><l n="C_M1_07_086">aldus verdonkert die scalke knecht</l>
+<lb n="37" xml:id="Cf219vb.37"/><l n="C_M1_07_087">die edele creaturen</l>
+<lb n="38" xml:id="Cf219vb.38"/><l n="C_M1_07_088">alse hi hem daer ane hecht</l>
+<lb n="39" xml:id="Cf219vb.39"/><l n="C_M1_07_089"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> haer edelheit verplecht</l>
+<lb n="40" xml:id="Cf219vb.40"/><l n="C_M1_07_090">dat zi laet gheduren</l>
+<lb n="41" xml:id="Cf219vb.41"/><l n="C_M1_07_091">bi haer die scalke zuren.</l>
+</lg>
+<lg type="stanza" n="08">
+<lb n="42" xml:id="Cf219vb.42"/><l n="C_M1_08_092"><hi rend="capitalsize2">Z</hi>int dat scalke droeghen ouereen</l>
+<lb n="43" xml:id="Cf219vb.43"/><l n="C_M1_08_093">dat neen was ja <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> ja was neen</l>
+<lb n="44" xml:id="Cf219vb.44"/><l n="C_M1_08_094"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> hem dat wijsheit dochte</l>
+<lb n="45" xml:id="Cf219vb.45"/><l n="C_M1_08_095"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> edelheit daer omme green</l>
+<lb n="46" xml:id="Cf219vb.46"/><l n="C_M1_08_096">want daer wasdoem vtesceen</l>
+<lb n="47" xml:id="Cf219vb.47"/><l n="C_M1_08_097">wane zoet comen mochte</l>
+<lb n="48" xml:id="Cf219vb.48"/><l n="C_M1_08_098">zo is edele herte worden steen</l>
+<lb n="49" xml:id="Cf219vb.49"/><l n="C_M1_08_099">want haer ontfaermet dinghe engheen</l>
+<lb n="50" xml:id="Cf219vb.50"/><l n="C_M1_08_100">dan daer men tghelt vut cnochte</l>
+<lb n="51" xml:id="Cf219vb.51"/><l n="C_M1_08_101">ay god ghef hem den langhen ween</l>
+
+
+<pb xml:id="C.f220ra" n="220ra"/>
+<lb n="1" xml:id="Cf220ra.1"/><l n="C_M1_08_102">die te cnauwene gaf dit been</l>
+<lb n="2" xml:id="Cf220ra.2"/><l n="C_M1_08_103">den edelen ghedochte</l>
+<lb n="3" xml:id="Cf220ra.3"/><l n="C_M1_08_104">want hire moert anwrochte.</l>
+</lg>
+<lg type="stanza" n="09">
+<lb n="4" xml:id="Cf220ra.4"/><l n="C_M1_09_105"><hi rend="capitalsize2">V</hi>uat zal zeghel <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> was</l>
+<lb n="5" xml:id="Cf220ra.5"/><l n="C_M1_09_106"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> brieue die ghewaghen das</l>
+<lb n="6" xml:id="Cf220ra.6"/><l n="C_M1_09_107">van dat landsheren gheuen</l>
+<lb n="7" xml:id="Cf220ra.7"/><l n="C_M1_09_108">hets al niet hets een ghedwas</l>
+<lb n="8" xml:id="Cf220ra.8"/><l n="C_M1_09_109">als lief hadt mi een wilt zas</l>
+<lb n="9" xml:id="Cf220ra.9"/><l n="C_M1_09_110">oft een vriese bescreuen</l>
+<lb n="10" xml:id="Cf220ra.10"/><l n="C_M1_09_111">trouwe is broescer dan glas</l>
+<lb n="11" xml:id="Cf220ra.11"/><l n="C_M1_09_112">die hier teuoren zo starke was</l>
+<lb n="12" xml:id="Cf220ra.12"/><l n="C_M1_09_113">zi is nu tebroken bleuen</l>
+<lb n="13" xml:id="Cf220ra.13"/><l n="C_M1_09_114">ic waen dies noyt here ghenas</l>
+<lb n="14" xml:id="Cf220ra.14"/><l n="C_M1_09_115">die scalke te sinen raden las</l>
+<lb n="15" xml:id="Cf220ra.15"/><l n="C_M1_09_116">hi ne moeste int einde sneuen</l>
+<lb n="16" xml:id="Cf220ra.16"/><l n="C_M1_09_117"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> zulke zijns lands verdreuen.</l>
+</lg>
+<lg type="stanza" n="10">
+<lb n="17" xml:id="Cf220ra.17"/><l n="C_M1_10_118"><hi rend="capitalsize2">M</hi>artijn du berechts mi wel</l>
+<lb n="18" xml:id="Cf220ra.18"/><l n="C_M1_10_119">hierbi zijn die heren fel</l>
+<lb n="19" xml:id="Cf220ra.19"/><l n="C_M1_10_120"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> wandel in die tale</l>
+<lb n="20" xml:id="Cf220ra.20"/><l n="C_M1_10_121">in weter wat toe zegghen el</l>
+<lb n="21" xml:id="Cf220ra.21"/><l n="C_M1_10_122">die scalc houdt boesheit ouer spel</l>
+<lb n="22" xml:id="Cf220ra.22"/><l n="C_M1_10_123">hi pijnt hoe hi die doeghet versmale</l>
+<lb n="23" xml:id="Cf220ra.23"/><l n="C_M1_10_124">cayn sloech den edelen abel</l>
+<lb n="24" xml:id="Cf220ra.24"/><l n="C_M1_10_125">dus scoert die scalke zijns heren vel</l>
+<lb n="25" xml:id="Cf220ra.25"/><l n="C_M1_10_126">hoe hi ne trect te dale</l>
+<lb n="26" xml:id="Cf220ra.26"/><l n="C_M1_10_127">god die ons noch doemen zel</l>
+<lb n="27" xml:id="Cf220ra.27"/><l n="C_M1_10_128">bid ic dat hi den duuel</l>
+<lb n="28" xml:id="Cf220ra.28"/><l n="C_M1_10_129">in den joncsten male</l>
+<lb n="29" xml:id="Cf220ra.29"/><l n="C_M1_10_130">met den scalc betale.</l>
+</lg>
+<lg type="stanza" n="11">
+<lb n="30" xml:id="Cf220ra.30"/><l n="C_M1_11_131"><hi rend="capitalsize2">M</hi>artijn nu bericht mi dies</l>
+<lb n="31" xml:id="Cf220ra.31"/><l n="C_M1_11_132">bericht een god die niene wies</l>
+<lb n="32" xml:id="Cf220ra.32"/><l n="C_M1_11_133">alle creaturen</l>
+<lb n="33" xml:id="Cf220ra.33"/><l n="C_M1_11_134">twi heeft die quade den kies</l>
+<lb n="34" xml:id="Cf220ra.34"/><l n="C_M1_11_135"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> die goede valt int verlies</l>
+<lb n="35" xml:id="Cf220ra.35"/><l n="C_M1_11_136">wie zalt voer rechte curen</l>
+<lb n="36" xml:id="Cf220ra.36"/><l n="C_M1_11_137">mijn zin zeeght mi als een ries</l>
+<lb n="37" xml:id="Cf220ra.37"/><l n="C_M1_11_138">hi die adaem dlijf in blies</l>
+<lb n="38" xml:id="Cf220ra.38"/><l n="C_M1_11_139">die meister der naturen</l>
+<lb n="39" xml:id="Cf220ra.39"/><l n="C_M1_11_140">heuet beuolen merc <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> besies</l>
+<lb n="40" xml:id="Cf220ra.40"/><l n="C_M1_11_141">is dese dinc waer zo ghies</l>
+<lb n="41" xml:id="Cf220ra.41"/><l n="C_M1_11_142">der blijnder auenturen</l>
+<lb n="42" xml:id="Cf220ra.42"/><l n="C_M1_11_143">die verkeert telker vren.</l>
+</lg>
+<lg type="stanza" n="12">
+<lb n="43" xml:id="Cf220ra.43"/><l n="C_M1_12_144"><hi rend="capitalsize2">I</hi>acob zegh bistu verdoert</l>
+<lb n="44" xml:id="Cf220ra.44"/><l n="C_M1_12_145">auenture is mer een woert</l>
+<lb n="45" xml:id="Cf220ra.45"/><l n="C_M1_12_146">van gheueinsder spraken</l>
+<lb n="46" xml:id="Cf220ra.46"/><l n="C_M1_12_147">breingstu ongheloue voert</l>
+<lb n="47" xml:id="Cf220ra.47"/><l n="C_M1_12_148">god ziet alle dinc <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> hoert</l>
+<lb n="48" xml:id="Cf220ra.48"/><l n="C_M1_12_149">wiltu den duuel maken</l>
+<lb n="49" xml:id="Cf220ra.49"/><l n="C_M1_12_150">wat heeft dijn herte dus versmoert</l>
+<lb n="50" xml:id="Cf220ra.50"/><l n="C_M1_12_151">dattu heldes aent laegher boert</l>
+<lb n="51" xml:id="Cf220ra.51"/><l n="C_M1_12_152">die papen zoelent smaken</l>
+
+
+<pb xml:id="C.f220rb" n="220rb"/>
+<lb n="1" xml:id="Cf220rb.1"/><l n="C_M1_12_153">zo wordstu verbrant of vermoert</l>
+<lb n="2" xml:id="Cf220rb.2"/><l n="C_M1_12_154">in gaue niet om dijn ziel een oert</l>
+<lb n="3" xml:id="Cf220rb.3"/><l n="C_M1_12_155">men mach met zulken zaken</l>
+<lb n="4" xml:id="Cf220rb.4"/><l n="C_M1_12_156">gode niet ghenaken.</l>
+</lg>
+<lg type="stanza" n="13">
+<lb n="5" xml:id="Cf220rb.5"/><l n="C_M1_13_157"><hi rend="capitalsize2">G</hi>od en was nie moede noch mat</l>
+<lb n="6" xml:id="Cf220rb.6"/><l n="C_M1_13_158">int wout en is noch loef noch blat</l>
+<lb n="7" xml:id="Cf220rb.7"/><l n="C_M1_13_159">buten ziere hoede</l>
+<lb n="8" xml:id="Cf220rb.8"/><l n="C_M1_13_160">al dat is in elke stat</l>
+<lb n="9" xml:id="Cf220rb.9"/><l n="C_M1_13_161">dat behoet hi <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> besat</l>
+<lb n="10" xml:id="Cf220rb.10"/><l n="C_M1_13_162">met godliker goede</l>
+<lb n="11" xml:id="Cf220rb.11"/><l n="C_M1_13_163">al gheheingt hi dan dat</l>
+<lb n="12" xml:id="Cf220rb.12"/><l n="C_M1_13_164">dat die quade ghewinnet scat</l>
+<lb n="13" xml:id="Cf220rb.13"/><l n="C_M1_13_165"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> men heitet die vroede</l>
+<lb n="14" xml:id="Cf220rb.14"/><l n="C_M1_13_166">zo hi hogher zit opt rat</l>
+<lb n="15" xml:id="Cf220rb.15"/><l n="C_M1_13_167">zo hogher val zo meerre plat</l>
+<lb n="16" xml:id="Cf220rb.16"/><l n="C_M1_13_168">in der helscer gloede</l>
+<lb n="17" xml:id="Cf220rb.17"/><l n="C_M1_13_169">onder des duuels roede.</l>
+</lg>
+<lg type="stanza" n="14">
+<lb n="18" xml:id="Cf220rb.18"/><l n="C_M1_14_170"><hi rend="capitalsize2">D</hi>ie rechste wech ter hellen waert</l>
+<lb n="19" xml:id="Cf220rb.19"/><l n="C_M1_14_171"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> die alre cortste vaert</l>
+<lb n="20" xml:id="Cf220rb.20"/><l n="C_M1_14_172">dats gheluc in zonden</l>
+<lb n="21" xml:id="Cf220rb.21"/><l n="C_M1_14_173">alsemen gheen misdoen en spaert</l>
+<lb n="22" xml:id="Cf220rb.22"/><l n="C_M1_14_174"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> men emmer voert verswaert</l>
+<lb n="23" xml:id="Cf220rb.23"/><l n="C_M1_14_175">die ziele ghebonden</l>
+<lb n="24" xml:id="Cf220rb.24"/><l n="C_M1_14_176"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> dan ghesciet alsmen begaert</l>
+<lb n="25" xml:id="Cf220rb.25"/><l n="C_M1_14_177"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> niene roect wie dats misbaert</l>
+<lb n="26" xml:id="Cf220rb.26"/><l n="C_M1_14_178">nu noch te ghenen stonden</l>
+<lb n="27" xml:id="Cf220rb.27"/><l n="C_M1_14_179">zo coemt die doet diet al veruaert</l>
+<lb n="28" xml:id="Cf220rb.28"/><l n="C_M1_14_180">onuersien want hets hoer aert</l>
+<lb n="29" xml:id="Cf220rb.29"/><l n="C_M1_14_181">panden van den ponden</l>
+<lb n="30" xml:id="Cf220rb.30"/><l n="C_M1_14_182">die nieman en can ghegronden</l>
+</lg>
+<lg type="stanza" n="15">
+<lb n="31" xml:id="Cf220rb.31"/><l n="C_M1_15_183"><hi rend="capitalsize2">M</hi>artijn du heues mi bekeert</l>
+<lb n="32" xml:id="Cf220rb.32"/><l n="C_M1_15_184"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> ghewijst <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> gheleert</l>
+<lb n="33" xml:id="Cf220rb.33"/><l n="C_M1_15_185">van dat ic niet en wiste</l>
+<lb n="34" xml:id="Cf220rb.34"/><l n="C_M1_15_186">al zie ic meer den quaden gheeert</l>
+<lb n="35" xml:id="Cf220rb.35"/><l n="C_M1_15_187">mijn herte en werdets niet verseert</l>
+<lb n="36" xml:id="Cf220rb.36"/><l n="C_M1_15_188">noch in en ghenen twiste</l>
+<lb n="37" xml:id="Cf220rb.37"/><l n="C_M1_15_189">al heeft hi meer dan hi verteert</l>
+<lb n="38" xml:id="Cf220rb.38"/><l n="C_M1_15_190"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> hi ghewint dat hi begheert</l>
+<lb n="39" xml:id="Cf220rb.39"/><l n="C_M1_15_191">met scalcheide <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> met liste</l>
+<lb n="40" xml:id="Cf220rb.40"/><l n="C_M1_15_192">ghinder werdt hi ghedestrueert</l>
+<lb n="41" xml:id="Cf220rb.41"/><l n="C_M1_15_193"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> ghebonden <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> ghemeert</l>
+<lb n="42" xml:id="Cf220rb.42"/><l n="C_M1_15_194">zine kijnder gaen tequiste</l>
+<lb n="43" xml:id="Cf220rb.43"/><l n="C_M1_15_195">ghelijc enen miste</l>
+</lg>
+<lg type="stanza" n="16">
+<lb n="44" xml:id="Cf220rb.44"/><l n="C_M1_16_196"><hi rend="capitalsize2">M</hi>artijn en waerstu niet zo wreet</l>
+<lb n="45" xml:id="Cf220rb.45"/><l n="C_M1_16_197">ene dinc die ic niene weet</l>
+<lb n="46" xml:id="Cf220rb.46"/><l n="C_M1_16_198">zoudic gheerne vraghen</l>
+<lb n="47" xml:id="Cf220rb.47"/><l n="C_M1_16_199">twi zijn die zonden gode zo leet</l>
+<lb n="48" xml:id="Cf220rb.48"/><l n="C_M1_16_200">dat hi den zondaer is zo heet</l>
+<lb n="49" xml:id="Cf220rb.49"/><l n="C_M1_16_201">in wraken <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> in plaghen</l>
+<lb n="50" xml:id="Cf220rb.50"/><l n="C_M1_16_202">want gheen zondaer in zonden steet</l>
+<lb n="51" xml:id="Cf220rb.51"/><l n="C_M1_16_203">langher dan zijn lijf is breet</l>
+
+
+<pb xml:id="C.f220va" n="220va"/>
+<lb n="1" xml:id="Cf220va.1"/><l n="C_M1_16_204">twi torment hine met plaghen</l>
+<lb n="2" xml:id="Cf220va.2"/><l n="C_M1_16_205">ewelike zonder versceet</l>
+<lb n="3" xml:id="Cf220va.3"/><l n="C_M1_16_206">dit en scijnt te rechte niet gheleet</l>
+<lb n="4" xml:id="Cf220va.4"/><l n="C_M1_16_207">t ordeel dorstics ghewaghen</l>
+<lb n="5" xml:id="Cf220va.5"/><l n="C_M1_16_208">al en weten wijs wien claghen.</l>
+</lg>
+<lg type="stanza" n="17">
+<lb n="6" xml:id="Cf220va.6"/><l n="C_M1_17_209"><hi rend="capitalsize2">I</hi>acob god die alle herten kent</l>
+<lb n="7" xml:id="Cf220va.7"/><l n="C_M1_17_210">zeindt den zondare recht torment</l>
+<lb n="8" xml:id="Cf220va.8"/><l n="C_M1_17_211">na der herten ghedochte</l>
+<lb n="9" xml:id="Cf220va.9"/><l n="C_M1_17_212">om dat hi wilde alse een rent</l>
+<lb n="10" xml:id="Cf220va.10"/><l n="C_M1_17_213">altoes leuen <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> ongheent</l>
+<lb n="11" xml:id="Cf220va.11"/><l n="C_M1_17_214">opdat wesen mochte</l>
+<lb n="12" xml:id="Cf220va.12"/><l n="C_M1_17_215">zo is hi terhellen ghesent</l>
+<lb n="13" xml:id="Cf220va.13"/><l n="C_M1_17_216">daer hi ewelike wordt ghescent</l>
+<lb n="14" xml:id="Cf220va.14"/><l n="C_M1_17_217">want zijn wille dat wrochte</l>
+<lb n="15" xml:id="Cf220va.15"/><l n="C_M1_17_218">besie dijn herte alomtrent</l>
+<lb n="16" xml:id="Cf220va.16"/><l n="C_M1_17_219">duncti dese redene blent</l>
+<lb n="17" xml:id="Cf220va.17"/><l n="C_M1_17_220">die ic hier toe brochte</l>
+<lb n="18" xml:id="Cf220va.18"/><l n="C_M1_17_221">neent diet wel besochte.</l>
+</lg>
+<lg type="stanza" n="18">
+<lb n="19" xml:id="Cf220va.19"/><l n="C_M1_18_222"><hi rend="capitalsize2">M</hi>artijn du zeghes wel <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> waer</l>
+<lb n="20" xml:id="Cf220va.20"/><l n="C_M1_18_223">dine redene die zijn claer</l>
+<lb n="21" xml:id="Cf220va.21"/><l n="C_M1_18_224"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> licht teuerstane</l>
+<lb n="22" xml:id="Cf220va.22"/><l n="C_M1_18_225">al ghepeins is openbaer</l>
+<lb n="23" xml:id="Cf220va.23"/><l n="C_M1_18_226">voer hem die telt alle haer</l>
+<lb n="24" xml:id="Cf220va.24"/><l n="C_M1_18_227"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> wat die hemel heeft ane</l>
+<lb n="25" xml:id="Cf220va.25"/><l n="C_M1_18_228">ja louer gras dach <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> jaer</l>
+<lb n="26" xml:id="Cf220va.26"/><l n="C_M1_18_229">droepele zant is hem niet swaer</l>
+<lb n="27" xml:id="Cf220va.27"/><l n="C_M1_18_230">in telne tebeuane</l>
+<lb n="28" xml:id="Cf220va.28"/><l n="C_M1_18_231">hi heeft ypocriten ommaer</l>
+<lb n="29" xml:id="Cf220va.29"/><l n="C_M1_18_232">ende leeght hem met wraken naer</l>
+<lb n="30" xml:id="Cf220va.30"/><l n="C_M1_18_233">die in haere bane</l>
+<lb n="31" xml:id="Cf220va.31"/><l n="C_M1_18_234">pleghen om tegane</l>
+</lg>
+<lg type="stanza" n="19">
+<lb n="32" xml:id="Cf220va.32"/><l n="C_M1_19_235"><hi rend="capitalsize2">Z</hi>oete martijn men leest dat</l>
+<lb n="33" xml:id="Cf220va.33"/><l n="C_M1_19_236">al gaue ic wech lijf <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> scat</l>
+<lb n="34" xml:id="Cf220va.34"/><l n="C_M1_19_237"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> ghedoghede grote coude</l>
+<lb n="35" xml:id="Cf220va.35"/><l n="C_M1_19_238">weer ic in hoeftsonden mat</l>
+<lb n="36" xml:id="Cf220va.36"/><l n="C_M1_19_239">hen vromede mi niet een blat</l>
+<lb n="37" xml:id="Cf220va.37"/><l n="C_M1_19_240">die nuwe wit spreect <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> die oude</l>
+<lb n="38" xml:id="Cf220va.38"/><l n="C_M1_19_241">die ons dus nauwe maken den pat</l>
+<lb n="39" xml:id="Cf220va.39"/><l n="C_M1_19_242">tehemel waert <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> zo glat</l>
+<lb n="40" xml:id="Cf220va.40"/><l n="C_M1_19_243">ic wilde god zelue woude</l>
+<lb n="41" xml:id="Cf220va.41"/><l n="C_M1_19_244">dat ze portiers waren ghesat</l>
+<lb n="42" xml:id="Cf220va.42"/><l n="C_M1_19_245">ter hellen zi zouden tgat</l>
+<lb n="43" xml:id="Cf220va.43"/><l n="C_M1_19_246">zo hoeden met ghewoude</l>
+<lb n="44" xml:id="Cf220va.44"/><l n="C_M1_19_247">datter cume yemen in zoude</l>
+</lg>
+<lg type="stanza" n="20">
+<lb n="45" xml:id="Cf220va.45"/><l n="C_M1_20_248"><hi rend="capitalsize1">I</hi>acob menich proeft <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> coert</l>
+<lb n="46" xml:id="Cf220va.46"/><l n="C_M1_20_249">der heiligher scrifturen woert</l>
+<lb n="47" xml:id="Cf220va.47"/><l n="C_M1_20_250"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> waentse ghegronden</l>
+<lb n="48" xml:id="Cf220va.48"/><l n="C_M1_20_251">zo clapt hi leken luden voert</l>
+<lb n="49" xml:id="Cf220va.49"/><l n="C_M1_20_252">dat gherne nuwe dinghe hoert</l>
+<lb n="50" xml:id="Cf220va.50"/><l n="C_M1_20_253">wat hi heeft vonden</l>
+<lb n="51" xml:id="Cf220va.51"/><l n="C_M1_20_254">zelue en verstaet hijs niet een oert</l>
+
+
+<pb xml:id="C.f220vb" n="220vb"/>
+<lb n="1" xml:id="Cf220vb.1"/><l n="C_M1_20_255">dits meerre misdaet dan moert</l>
+<lb n="2" xml:id="Cf220vb.2"/><l n="C_M1_20_256">dat zij gods woert dus wonden</l>
+<lb n="3" xml:id="Cf220vb.3"/><l n="C_M1_20_257">hier nayen zijt hier eest ghescoert</l>
+<lb n="4" xml:id="Cf220vb.4"/><l n="C_M1_20_258">hier breect een naghel hier een boert</l>
+<lb n="5" xml:id="Cf220vb.5"/><l n="C_M1_20_259">wapene van den honden</l>
+<lb n="6" xml:id="Cf220vb.6"/><l n="C_M1_20_260">nu en tallen stonden.</l>
+</lg>
+<lg type="stanza" n="21">
+<lb n="7" xml:id="Cf220vb.7"/><l n="C_M1_21_261"><hi rend="capitalsize2">W</hi>aenen zij die woerde <choice><abbr>ghegronde<g ref="#bar"/></abbr><expan>ghegronde<ex>n</ex></expan></choice> zaen</l>
+<lb n="8" xml:id="Cf220vb.8"/><l n="C_M1_21_262">daer die wortele ane staen</l>
+<lb n="9" xml:id="Cf220vb.9"/><l n="C_M1_21_263">gheplant in hemelrike</l>
+<lb n="10" xml:id="Cf220vb.10"/><l n="C_M1_21_264">zij jaghen vele <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> clein zij vaen</l>
+<lb n="11" xml:id="Cf220vb.11"/><l n="C_M1_21_265">zo willen zij tesamen slaen</l>
+<lb n="12" xml:id="Cf220vb.12"/><l n="C_M1_21_266">ghelijc <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> onghelike</l>
+<lb n="13" xml:id="Cf220vb.13"/><l n="C_M1_21_267">des laet ic mijn vraghen staen</l>
+<lb n="14" xml:id="Cf220vb.14"/><l n="C_M1_21_268">want het dunct mi bet ghedaen</l>
+<lb n="15" xml:id="Cf220vb.15"/><l n="C_M1_21_269">dat ic hier af wike</l>
+<lb n="16" xml:id="Cf220vb.16"/><l n="C_M1_21_270">dan ic viele in doemen waen</l>
+<lb n="17" xml:id="Cf220vb.17"/><l n="C_M1_21_271">nutter eest vlien den naen</l>
+<lb n="18" xml:id="Cf220vb.18"/><l n="C_M1_21_272">dan ic te campe strike</l>
+<lb n="19" xml:id="Cf220vb.19"/><l n="C_M1_21_273">jeghen den kempe eerlike.</l>
+</lg>
+<lg type="stanza" n="22">
+<lb n="20" xml:id="Cf220vb.20"/><l n="C_M1_22_274"><hi rend="capitalsize2">O</hi>f god ten ioncsten daghe zal</l>
+<lb n="21" xml:id="Cf220vb.21"/><l n="C_M1_22_275">ghepeins <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> woerde berichten al</l>
+<lb n="22" xml:id="Cf220vb.22"/><l n="C_M1_22_276">daer wij oyt in misdaden</l>
+<lb n="23" xml:id="Cf220vb.23"/><l n="C_M1_22_277">zoude hi alse een onwaert bal</l>
+<lb n="24" xml:id="Cf220vb.24"/><l n="C_M1_22_278">weldaet werpen int helsche dal</l>
+<lb n="25" xml:id="Cf220vb.25"/><l n="C_M1_22_279">zo weer hi zonder ghenaden</l>
+<lb n="26" xml:id="Cf220vb.26"/><l n="C_M1_22_280">neen het en is niet zo smal</l>
+<lb n="27" xml:id="Cf220vb.27"/><l n="C_M1_22_281">van weldaden al dat ghetal</l>
+<lb n="28" xml:id="Cf220vb.28"/><l n="C_M1_22_282"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> werde van grade tegraden</l>
+<lb n="29" xml:id="Cf220vb.29"/><l n="C_M1_22_283">van gode ghedanct die niene hal</l>
+<lb n="30" xml:id="Cf220vb.30"/><l n="C_M1_22_284">dat men dede ofte stal</l>
+<lb n="31" xml:id="Cf220vb.31"/><l n="C_M1_22_285">gherechticheide zonder scaden</l>
+<lb n="32" xml:id="Cf220vb.32"/><l n="C_M1_22_286">hoerde god niet die baden.</l>
+</lg>
+<lg type="stanza" n="23">
+<lb n="33" xml:id="Cf220vb.33"/><l n="C_M1_23_287"><hi rend="capitalsize2">D</hi>at zeeght die gheloue mijn</l>
+<lb n="34" xml:id="Cf220vb.34"/><l n="C_M1_23_288">god moet in hem zeluen zijn</l>
+<lb n="35" xml:id="Cf220vb.35"/><l n="C_M1_23_289">hine mach els nerghen wesen</l>
+<lb n="36" xml:id="Cf220vb.36"/><l n="C_M1_23_290">god is gherechticheiden fijn</l>
+<lb n="37" xml:id="Cf220vb.37"/><l n="C_M1_23_291"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> ghenadicheiden dats aenscijn</l>
+<lb n="38" xml:id="Cf220vb.38"/><l n="C_M1_23_292">hi is allene van desen</l>
+<lb n="39" xml:id="Cf220vb.39"/><l n="C_M1_23_293">die van den water maecte wijn</l>
+<lb n="40" xml:id="Cf220vb.40"/><l n="C_M1_23_294">die en is zijns selues niet eyghijn</l>
+<lb n="41" xml:id="Cf220vb.41"/><l n="C_M1_23_295">wat zo die doren lesen</l>
+<lb n="42" xml:id="Cf220vb.42"/><l n="C_M1_23_296">jacob hout die gheloue dijn</l>
+<lb n="43" xml:id="Cf220vb.43"/><l n="C_M1_23_297">hets menich ombesceiden swijn</l>
+<lb n="44" xml:id="Cf220vb.44"/><l n="C_M1_23_298">ter priesterscap verresen</l>
+<lb n="45" xml:id="Cf220vb.45"/><l n="C_M1_23_299">die niene can ghenesen.</l>
+</lg>
+<lg type="stanza" n="24">
+<lb n="46" xml:id="Cf220vb.46"/><l n="C_M1_24_300"><hi rend="capitalsize2">M</hi>artijn dijn andworde is goet</l>
+<lb n="47" xml:id="Cf220vb.47"/><l n="C_M1_24_301">ic ben dies zeker <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> vroet</l>
+<lb n="48" xml:id="Cf220vb.48"/><l n="C_M1_24_302">weldaet en waert nie vergheten</l>
+<lb n="49" xml:id="Cf220vb.49"/><l n="C_M1_24_303">laet hem begaen diet ghelden moet</l>
+<lb n="50" xml:id="Cf220vb.50"/><l n="C_M1_24_304"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> diet al bi redene doet</l>
+<lb n="51" xml:id="Cf220vb.51"/><l n="C_M1_24_305">niet meer en wil ics weten</l>
+
+
+<pb xml:id="C.f221ra" n="221ra"/>
+<lb n="1" xml:id="Cf221ra.1"/><l n="C_M1_24_306">hi is diet al maect <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> hoedt</l>
+<lb n="2" xml:id="Cf221ra.2"/><l n="C_M1_24_307">alse die henne die kiekene broedt</l>
+<lb n="3" xml:id="Cf221ra.3"/><l n="C_M1_24_308">heeft hijt al beseten</l>
+<lb n="4" xml:id="Cf221ra.4"/><l n="C_M1_24_309">wy gheuen hem ziele vleisch <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> bloet</l>
+<lb n="5" xml:id="Cf221ra.5"/><l n="C_M1_24_310">hi hoedt ons voer die helsche gloet</l>
+<lb n="6" xml:id="Cf221ra.6"/><l n="C_M1_24_311">dat wij niene werden tereten</l>
+<lb n="7" xml:id="Cf221ra.7"/><l n="C_M1_24_312">ten joncsten noch verbeten.</l>
+</lg>
+<lg type="stanza" n="25">
+<lb n="8" xml:id="Cf221ra.8"/><l n="C_M1_25_313"><hi rend="capitalsize2">M</hi>artijn menich parlement</l>
+<lb n="9" xml:id="Cf221ra.9"/><l n="C_M1_25_314">men zeeght dat die minne is blent</l>
+<lb n="10" xml:id="Cf221ra.10"/><l n="C_M1_25_315">oec eest een woert ghemene</l>
+<lb n="11" xml:id="Cf221ra.11"/><l n="C_M1_25_316">om dat ic ben een onwijs rent</l>
+<lb n="12" xml:id="Cf221ra.12"/><l n="C_M1_25_317">zo make mi dese redene bekent</l>
+<lb n="13" xml:id="Cf221ra.13"/><l n="C_M1_25_318">want en is niet clene</l>
+<lb n="14" xml:id="Cf221ra.14"/><l n="C_M1_25_319">is dat waer zo is minne torment</l>
+<lb n="15" xml:id="Cf221ra.15"/><l n="C_M1_25_320">die haer uolghede waer ghescent</l>
+<lb n="16" xml:id="Cf221ra.16"/><l n="C_M1_25_321"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> ondeert alrene</l>
+<lb n="17" xml:id="Cf221ra.17"/><l n="C_M1_25_322">nu zeghet elc wise ommetrent</l>
+<lb n="18" xml:id="Cf221ra.18"/><l n="C_M1_25_323">dat minne dat zoete instrument</l>
+<lb n="19" xml:id="Cf221ra.19"/><l n="C_M1_25_324">gode van nazarene</l>
+<lb n="20" xml:id="Cf221ra.20"/><l n="C_M1_25_325">bracht in dese wene.</l>
+</lg>
+<lg type="stanza" n="26">
+<lb n="21" xml:id="Cf221ra.21"/><l n="C_M1_26_326"><hi rend="capitalsize2">I</hi>acob dijn vraghen is swaer</l>
+<lb n="22" xml:id="Cf221ra.22"/><l n="C_M1_26_327">doch proeftmen bi redene claer</l>
+<lb n="23" xml:id="Cf221ra.23"/><l n="C_M1_26_328">drierhande minne</l>
+<lb n="24" xml:id="Cf221ra.24"/><l n="C_M1_26_329">die ierste heit caritate dats waer</l>
+<lb n="25" xml:id="Cf221ra.25"/><l n="C_M1_26_330">die is zonder pine <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> zonder vaer</l>
+<lb n="26" xml:id="Cf221ra.26"/><l n="C_M1_26_331"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> daer woent god inne</l>
+<lb n="27" xml:id="Cf221ra.27"/><l n="C_M1_26_332">die ander trect die werelt naer</l>
+<lb n="28" xml:id="Cf221ra.28"/><l n="C_M1_26_333">om ere om goet staet al hoer gaer</l>
+<lb n="29" xml:id="Cf221ra.29"/><l n="C_M1_26_334">dits ene bastardinne</l>
+<lb n="30" xml:id="Cf221ra.30"/><l n="C_M1_26_335">die derde minne eescht die iaer</l>
+<lb n="31" xml:id="Cf221ra.31"/><l n="C_M1_26_336">alse bi naturen elc zijn paer</l>
+<lb n="32" xml:id="Cf221ra.32"/><l n="C_M1_26_337">aldoch zijn zij dinne</l>
+<lb n="33" xml:id="Cf221ra.33"/><l n="C_M1_26_338">die deser uolghen bi zinne</l>
+</lg>
+<lg type="stanza" n="27">
+<lb n="34" xml:id="Cf221ra.34"/><l n="C_M1_27_339"><hi rend="capitalsize2">D</hi>ie ierste minne is zo goet</l>
+<lb n="35" xml:id="Cf221ra.35"/><l n="C_M1_27_340">dat alle die god ie gheboet</l>
+<lb n="36" xml:id="Cf221ra.36"/><l n="C_M1_27_341">volprijsden niet haer weerde</l>
+<lb n="37" xml:id="Cf221ra.37"/><l n="C_M1_27_342">ja en trecte si themelsche broet</l>
+<lb n="38" xml:id="Cf221ra.38"/><l n="C_M1_27_343">hier neder in der maghet scoet</l>
+<lb n="39" xml:id="Cf221ra.39"/><l n="C_M1_27_344">onder der ioeden sweerde</l>
+<lb n="40" xml:id="Cf221ra.40"/><l n="C_M1_27_345">minne is god dat merct albloet</l>
+<lb n="41" xml:id="Cf221ra.41"/><l n="C_M1_27_346">wie mochten els breinghen in der noet</l>
+<lb n="42" xml:id="Cf221ra.42"/><l n="C_M1_27_347">hem diet al verueerde</l>
+<lb n="43" xml:id="Cf221ra.43"/><l n="C_M1_27_348">dan hi hem zeluen daer in besloet</l>
+<lb n="44" xml:id="Cf221ra.44"/><l n="C_M1_27_349">die doer die minne zijn bloet roet</l>
+<lb n="45" xml:id="Cf221ra.45"/><l n="C_M1_27_350">storte hier neder op derde</l>
+<lb n="46" xml:id="Cf221ra.46"/><l n="C_M1_27_351"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> in minnen openberde.</l>
+</lg>
+<lg type="stanza" n="28">
+<lb n="47" xml:id="Cf221ra.47"/><l n="C_M1_28_352"><hi rend="capitalsize2">W</hi>ien zo zulke minne is cont</l>
+<lb n="48" xml:id="Cf221ra.48"/><l n="C_M1_28_353">alse caritate hi is ghesont</l>
+<lb n="49" xml:id="Cf221ra.49"/><l n="C_M1_28_354">men maghene niet verblenden</l>
+<lb n="50" xml:id="Cf221ra.50"/><l n="C_M1_28_355">al laghe hi in der hellen gront</l>
+<lb n="51" xml:id="Cf221ra.51"/><l n="C_M1_28_356">waer hi daer mede ghewont</l>
+
+
+<pb xml:id="C.f221rb" n="221rb"/>
+<lb n="1" xml:id="Cf221rb.1"/><l n="C_M1_28_357">hi ne waer niet in ellenden</l>
+<lb n="2" xml:id="Cf221rb.2"/><l n="C_M1_28_358">mer god en wil den riken vont</l>
+<lb n="3" xml:id="Cf221rb.3"/><l n="C_M1_28_359">ghenen zondare ghenen hont</l>
+<lb n="4" xml:id="Cf221rb.4"/><l n="C_M1_28_360">nemmermeer toe zenden</l>
+<lb n="5" xml:id="Cf221rb.5"/><l n="C_M1_28_361">die edel gaue dat diere pont</l>
+<lb n="6" xml:id="Cf221rb.6"/><l n="C_M1_28_362">het smaect allene der vriende mont</l>
+<lb n="7" xml:id="Cf221rb.7"/><l n="C_M1_28_363">men mach hoer dlijf doen enden</l>
+<lb n="8" xml:id="Cf221rb.8"/><l n="C_M1_28_364">mer niet die ziele scenden</l>
+</lg>
+<lg type="stanza" n="29">
+<lb n="9" xml:id="Cf221rb.9"/><l n="C_M1_29_365"><hi rend="capitalsize2">D</hi>ie ander minne is onbehoet</l>
+<lb n="10" xml:id="Cf221rb.10"/><l n="C_M1_29_366">want zi staet omt aerdsche goet</l>
+<lb n="11" xml:id="Cf221rb.11"/><l n="C_M1_29_367">of om der werelt eere</l>
+<lb n="12" xml:id="Cf221rb.12"/><l n="C_M1_29_368">dits die minne die dicke doet</l>
+<lb n="13" xml:id="Cf221rb.13"/><l n="C_M1_29_369">ridderscap wesen verwoet</l>
+<lb n="14" xml:id="Cf221rb.14"/><l n="C_M1_29_370"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> den woekenere</l>
+<lb n="15" xml:id="Cf221rb.15"/><l n="C_M1_29_371">want die ridder niene gheroet</l>
+<lb n="16" xml:id="Cf221rb.16"/><l n="C_M1_29_372">hine verslijt vleesch <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> bloet</l>
+<lb n="17" xml:id="Cf221rb.17"/><l n="C_M1_29_373">op dat zijn prijs ghemere</l>
+<lb n="18" xml:id="Cf221rb.18"/><l n="C_M1_29_374">die ander alwaer al ghelt die vloet</l>
+<lb n="19" xml:id="Cf221rb.19"/><l n="C_M1_29_375"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> vloyde hem in zinen moet</l>
+<lb n="20" xml:id="Cf221rb.20"/><l n="C_M1_29_376">hem zoude noch alsosere</l>
+<lb n="21" xml:id="Cf221rb.21"/><l n="C_M1_29_377">dorsten alst dede ere.</l>
+</lg>
+<lg type="stanza" n="30">
+<lb n="22" xml:id="Cf221rb.22"/><l n="C_M1_30_378"><hi rend="capitalsize2">D</hi>ese minne heeft ondersceet</l>
+<lb n="23" xml:id="Cf221rb.23"/><l n="C_M1_30_379">van hem die om die ere steet</l>
+<lb n="24" xml:id="Cf221rb.24"/><l n="C_M1_30_380"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> om die scatte</l>
+<lb n="25" xml:id="Cf221rb.25"/><l n="C_M1_30_381">wiltu ere hebben wes ghereet</l>
+<lb n="26" xml:id="Cf221rb.26"/><l n="C_M1_30_382">telaten dat gode is leet</l>
+<lb n="27" xml:id="Cf221rb.27"/><l n="C_M1_30_383">pijndi tedoen datte</l>
+<lb n="28" xml:id="Cf221rb.28"/><l n="C_M1_30_384">dat hem lief is <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> hi di heet</l>
+<lb n="29" xml:id="Cf221rb.29"/><l n="C_M1_30_385">wes vroem <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> om die ere sweet</l>
+<lb n="30" xml:id="Cf221rb.30"/><l n="C_M1_30_386">datmen di niene matte</l>
+<lb n="31" xml:id="Cf221rb.31"/><l n="C_M1_30_387">onder der idelre glorien cleet</l>
+<lb n="32" xml:id="Cf221rb.32"/><l n="C_M1_30_388">daer menestraudie mede omme gheet</l>
+<lb n="33" xml:id="Cf221rb.33"/><l n="C_M1_30_389">want hare tonghe platte</l>
+<lb n="34" xml:id="Cf221rb.34"/><l n="C_M1_30_390">smelten alse sneclatte.</l>
+</lg>
+<lg type="stanza" n="31">
+<lb n="35" xml:id="Cf221rb.35"/><l n="C_M1_31_391"><hi rend="capitalsize2">E</hi>ere te minnen dats een dinc</l>
+<lb n="36" xml:id="Cf221rb.36"/><l n="C_M1_31_392">daer noyt herte mede omghinc</l>
+<lb n="37" xml:id="Cf221rb.37"/><l n="C_M1_31_393">zi ne was van reinen aerde</l>
+<lb n="38" xml:id="Cf221rb.38"/><l n="C_M1_31_394">bistu out of jonghelinc</l>
+<lb n="39" xml:id="Cf221rb.39"/><l n="C_M1_31_395">doe wel altoes <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> bedwinc</l>
+<lb n="40" xml:id="Cf221rb.40"/><l n="C_M1_31_396">dijnre herten houaerde</l>
+<lb n="41" xml:id="Cf221rb.41"/><l n="C_M1_31_397">prijs die in lodders tonghe hinc</l>
+<lb n="42" xml:id="Cf221rb.42"/><l n="C_M1_31_398">was noyt wert eens oghen winc</l>
+<lb n="43" xml:id="Cf221rb.43"/><l n="C_M1_31_399">onder die goede waerde</l>
+<lb n="44" xml:id="Cf221rb.44"/><l n="C_M1_31_400">onwerden lof vlie <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> ontsprinc</l>
+<lb n="45" xml:id="Cf221rb.45"/><l n="C_M1_31_401">die menghen vaet <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> wilen vinc</l>
+<lb n="46" xml:id="Cf221rb.46"/><l n="C_M1_31_402">die dat woert begaerde</l>
+<lb n="47" xml:id="Cf221rb.47"/><l n="C_M1_31_403">ende dat weldoen spaerde.</l>
+</lg>
+<lg type="stanza" n="32">
+<lb n="48" xml:id="Cf221rb.48"/><l n="C_M1_32_404"><hi rend="capitalsize2">G</hi>oet te hebben <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> scat</l>
+<lb n="49" xml:id="Cf221rb.49"/><l n="C_M1_32_405"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> temelijc te nutten dat</l>
+<lb n="50" xml:id="Cf221rb.50"/><l n="C_M1_32_406">dats een zaelich leuen</l>
+<lb n="51" xml:id="Cf221rb.51"/><l n="C_M1_32_407">mer gods minne maect een gat</l>
+
+
+<pb xml:id="C.f221va" n="221va"/>
+<lb n="1" xml:id="Cf221va.1"/><l n="C_M1_32_408">dat nemmermeer mach werden zat</l>
+<lb n="2" xml:id="Cf221va.2"/><l n="C_M1_32_409">al wildement hem al gheuen</l>
+<lb n="3" xml:id="Cf221va.3"/><l n="C_M1_32_410">minnen <choice><abbr>va<g ref="#bar"/></abbr><expan>va<ex>n</ex></expan></choice> goede is ghehat</l>
+<lb n="4" xml:id="Cf221va.4"/><l n="C_M1_32_411">voer gode in die hoghe stat</l>
+<lb n="5" xml:id="Cf221va.5"/><l n="C_M1_32_412">daer die ingle beuen</l>
+<lb n="6" xml:id="Cf221va.6"/><l n="C_M1_32_413">dese scuwen der eeren pat</l>
+<lb n="7" xml:id="Cf221va.7"/><l n="C_M1_32_414">want zi moet int helsche vat</l>
+<lb n="8" xml:id="Cf221va.8"/><l n="C_M1_32_415">salomon heuet bescreuen</l>
+<lb n="9" xml:id="Cf221va.9"/><l n="C_M1_32_416">het en is niet aerghers bleuen.</l>
+</lg>
+<lg type="stanza" n="33">
+<lb n="10" xml:id="Cf221va.10"/><l n="C_M1_33_417"><hi rend="capitalsize2">D</hi>ie dorde minne eischt die tijt</l>
+<lb n="11" xml:id="Cf221va.11"/><l n="C_M1_33_418">alse die nature ontbijt</l>
+<lb n="12" xml:id="Cf221va.12"/><l n="C_M1_33_419">die bloyende iare</l>
+<lb n="13" xml:id="Cf221va.13"/><l n="C_M1_33_420">dit is tedelste iolijt</l>
+<lb n="14" xml:id="Cf221va.14"/><l n="C_M1_33_421">alse haer scaemelheit besnijt</l>
+<lb n="15" xml:id="Cf221va.15"/><l n="C_M1_33_422"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> men trouwe heeft mare</l>
+<lb n="16" xml:id="Cf221va.16"/><l n="C_M1_33_423">die men vijnt ter werelt wijt</l>
+<lb n="17" xml:id="Cf221va.17"/><l n="C_M1_33_424">want zi te alre stont verblijt</l>
+<lb n="18" xml:id="Cf221va.18"/><l n="C_M1_33_425">alse oft haer al ware</l>
+<lb n="19" xml:id="Cf221va.19"/><l n="C_M1_33_426">haer minne nemmermeer glijt</l>
+<lb n="20" xml:id="Cf221va.20"/><l n="C_M1_33_427">die aldus zijn lijf verslijt</l>
+<lb n="21" xml:id="Cf221va.21"/><l n="C_M1_33_428">maect zine zinne clare</l>
+<lb n="22" xml:id="Cf221va.22"/><l n="C_M1_33_429"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> hines gheen futselare.</l>
+</lg>
+<lg type="stanza" n="34">
+<lb n="23" xml:id="Cf221va.23"/><l n="C_M1_34_430"><hi rend="capitalsize2">M</hi>inne is alsmen bescreuen vint</l>
+<lb n="24" xml:id="Cf221va.24"/><l n="C_M1_34_431">cracht die twe herten <choice><abbr>tesame<g ref="#bar"/></abbr><expan>tesame<ex>n</ex></expan></choice> bint</l>
+<lb n="25" xml:id="Cf221va.25"/><l n="C_M1_34_432">in enen reinen wanen</l>
+<lb n="26" xml:id="Cf221va.26"/><l n="C_M1_34_433">dat men die minne hetet blint</l>
+<lb n="27" xml:id="Cf221va.27"/><l n="C_M1_34_434">coemt dat menich is zo kint</l>
+<lb n="28" xml:id="Cf221va.28"/><l n="C_M1_34_435">dat hi hem laet verspanen</l>
+<lb n="29" xml:id="Cf221va.29"/><l n="C_M1_34_436">zine connen minnen niet entwint</l>
+<lb n="30" xml:id="Cf221va.30"/><l n="C_M1_34_437">die wandel zijn alse die wint</l>
+<lb n="31" xml:id="Cf221va.31"/><l n="C_M1_34_438">zij rollen al buten der banen</l>
+<lb n="32" xml:id="Cf221va.32"/><l n="C_M1_34_439">ic waen mer also vele vint</l>
+<lb n="33" xml:id="Cf221va.33"/><l n="C_M1_34_440">minre in trouwen ghehint</l>
+<lb n="34" xml:id="Cf221va.34"/><l n="C_M1_34_441">alsmen doet swarter swanen</l>
+<lb n="35" xml:id="Cf221va.35"/><l n="C_M1_34_442">dus laet hare minne afplanen.</l>
+</lg>
+<lg type="stanza" n="35">
+<lb n="36" xml:id="Cf221va.36"/><l n="C_M1_35_443"><hi rend="capitalsize2">M</hi>artijn ic ben wel berecht</l>
+<lb n="37" xml:id="Cf221va.37"/><l n="C_M1_35_444">het zeghet al eest heer eest knecht</l>
+<lb n="38" xml:id="Cf221va.38"/><l n="C_M1_35_445">vrouwen <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> ionvrouwen</l>
+<lb n="39" xml:id="Cf221va.39"/><l n="C_M1_35_446">in zanghe <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> in rimen slecht</l>
+<lb n="40" xml:id="Cf221va.40"/><l n="C_M1_35_447">dat zij met minnen zijn verplecht</l>
+<lb n="41" xml:id="Cf221va.41"/><l n="C_M1_35_448"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> men canze niet ghescouwen</l>
+<lb n="42" xml:id="Cf221va.42"/><l n="C_M1_35_449">mi dunct dat al die werelt vecht</l>
+<lb n="43" xml:id="Cf221va.43"/><l n="C_M1_35_450">jeghen der reinre minnen lecht</l>
+<lb n="44" xml:id="Cf221va.44"/><l n="C_M1_35_451"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> volghen ontrouwen</l>
+<lb n="45" xml:id="Cf221va.45"/><l n="C_M1_35_452">menich zeghet nu <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> echt</l>
+<lb n="46" xml:id="Cf221va.46"/><l n="C_M1_35_453">mijn zin is aen v ghehecht</l>
+<lb n="47" xml:id="Cf221va.47"/><l n="C_M1_35_454">zo ic waene bedouwen</l>
+<lb n="48" xml:id="Cf221va.48"/><l n="C_M1_35_455">achter maken zij die mouwen.</l>
+</lg>
+<lg type="stanza" n="36">
+<lb n="49" xml:id="Cf221va.49"/><l n="C_M1_36_456"><hi rend="capitalsize2">I</hi>acob du heefs mi oyt gheuraeght</l>
+<lb n="50" xml:id="Cf221va.50"/><l n="C_M1_36_457"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> ic andwoerde <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> ic verdraeght</l>
+<lb n="51" xml:id="Cf221va.51"/><l n="C_M1_36_458">nu wil ic martijn vraghen</l>
+
+
+<pb xml:id="C.f221vb" n="221vb"/>
+<lb n="1" xml:id="Cf221vb.1"/><l n="C_M1_36_459">waenstu dats mi wel behaeght</l>
+<lb n="2" xml:id="Cf221vb.2"/><l n="C_M1_36_460">dattu mi heues veriaeght</l>
+<lb n="3" xml:id="Cf221vb.3"/><l n="C_M1_36_461">neent wist ic wient claghen</l>
+<lb n="4" xml:id="Cf221vb.4"/><l n="C_M1_36_462">martijn vrient wat holpt gheclaecht</l>
+<lb n="5" xml:id="Cf221vb.5"/><l n="C_M1_36_463">vraech dattu wilt ic vaeght</l>
+<lb n="6" xml:id="Cf221vb.6"/><l n="C_M1_36_464">ic wilt al verdraghen</l>
+<lb n="7" xml:id="Cf221vb.7"/><l n="C_M1_36_465">god helpe mi want hi vermaeght</l>
+<lb n="8" xml:id="Cf221vb.8"/><l n="C_M1_36_466">dat mijn zin zoe werde gheuaeght</l>
+<lb n="9" xml:id="Cf221vb.9"/><l n="C_M1_36_467">dats mi moete behaghen</l>
+<lb n="10" xml:id="Cf221vb.10"/><l n="C_M1_36_468">ic wille dandwoerde waghen.</l>
+</lg>
+<lg type="stanza" n="37">
+<lb n="11" xml:id="Cf221vb.11"/><l n="C_M1_37_469"><hi rend="capitalsize2">L</hi>ieue jacob nu bericht mi</l>
+<lb n="12" xml:id="Cf221vb.12"/><l n="C_M1_37_470">of dat volc al comen zi</l>
+<lb n="13" xml:id="Cf221vb.13"/><l n="C_M1_37_471">van den iersten adame</l>
+<lb n="14" xml:id="Cf221vb.14"/><l n="C_M1_37_472">twi is deen edel dander vri</l>
+<lb n="15" xml:id="Cf221vb.15"/><l n="C_M1_37_473"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> die dorde eyghen daerbi</l>
+<lb n="16" xml:id="Cf221vb.16"/><l n="C_M1_37_474">wane quam dese name</l>
+<lb n="17" xml:id="Cf221vb.17"/><l n="C_M1_37_475">twi zeghetmen ten dorper fi</l>
+<lb n="18" xml:id="Cf221vb.18"/><l n="C_M1_37_476">ganc wech god onnere di</l>
+<lb n="19" xml:id="Cf221vb.19"/><l n="C_M1_37_477">du bist der werelt scame</l>
+<lb n="20" xml:id="Cf221vb.20"/><l n="C_M1_37_478">die edele man heest al tghecri</l>
+<lb n="21" xml:id="Cf221vb.21"/><l n="C_M1_37_479">men zeghet willecome ghi</l>
+<lb n="22" xml:id="Cf221vb.22"/><l n="C_M1_37_480">dats daer ic om vergrame</l>
+<lb n="23" xml:id="Cf221vb.23"/><l n="C_M1_37_481">want het dunct mi ontame.</l>
+</lg>
+<lg type="stanza" n="38">
+<lb n="24" xml:id="Cf221vb.24"/><l n="C_M1_38_482"><hi rend="capitalsize2">M</hi>artijn menich is bedect</l>
+<lb n="25" xml:id="Cf221vb.25"/><l n="C_M1_38_483">die dinc daer dijn zin op mect</l>
+<lb n="26" xml:id="Cf221vb.26"/><l n="C_M1_38_484"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> du vraghes wel verre</l>
+<lb n="27" xml:id="Cf221vb.27"/><l n="C_M1_38_485">want heeft een persemier gheblect</l>
+<lb n="28" xml:id="Cf221vb.28"/><l n="C_M1_38_486"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> den luden thaer ontpect</l>
+<lb n="29" xml:id="Cf221vb.29"/><l n="C_M1_38_487">hi wil zonder merre</l>
+<lb n="30" xml:id="Cf221vb.30"/><l n="C_M1_38_488">onder die edele zijn ghetrect</l>
+<lb n="31" xml:id="Cf221vb.31"/><l n="C_M1_38_489">alwaer hi dusentvout beulect</l>
+<lb n="32" xml:id="Cf221vb.32"/><l n="C_M1_38_490">tghelt claerten van den terre</l>
+<lb n="33" xml:id="Cf221vb.33"/><l n="C_M1_38_491">dits die dinc die de lude wect</l>
+<lb n="34" xml:id="Cf221vb.34"/><l n="C_M1_38_492">dat menich tsijn tewinne trect</l>
+<lb n="35" xml:id="Cf221vb.35"/><l n="C_M1_38_493"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> maecter gode om erre</l>
+<lb n="36" xml:id="Cf221vb.36"/><l n="C_M1_38_494"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> die ziele in werre.</l>
+</lg>
+<lg type="stanza" n="39">
+<lb n="37" xml:id="Cf221vb.37"/><l n="C_M1_39_495"><hi rend="capitalsize2">Z</hi>ulc waent dat volc eyghijn</l>
+<lb n="38" xml:id="Cf221vb.38"/><l n="C_M1_39_496">comen is van den quaden cayn</l>
+<lb n="39" xml:id="Cf221vb.39"/><l n="C_M1_39_497">die vermoerde abelle</l>
+<lb n="40" xml:id="Cf221vb.40"/><l n="C_M1_39_498"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> die god verdoemt hiet zijn</l>
+<lb n="41" xml:id="Cf221vb.41"/><l n="C_M1_39_499">dit en is niet waer martijn</l>
+<lb n="42" xml:id="Cf221vb.42"/><l n="C_M1_39_500">bi redene die ic telle</l>
+<lb n="43" xml:id="Cf221vb.43"/><l n="C_M1_39_501">want al dat gheslaechte zijn</l>
+<lb n="44" xml:id="Cf221vb.44"/><l n="C_M1_39_502">alse ons scrijft die bible fijn</l>
+<lb n="45" xml:id="Cf221vb.45"/><l n="C_M1_39_503">verdranc in diluuie felle</l>
+<lb n="46" xml:id="Cf221vb.46"/><l n="C_M1_39_504">mer valsch dorperlijc venijn</l>
+<lb n="47" xml:id="Cf221vb.47"/><l n="C_M1_39_505">dat cayn droech is noch inscijn</l>
+<lb n="48" xml:id="Cf221vb.48"/><l n="C_M1_39_506">aen zomen die ic spelle</l>
+<lb n="49" xml:id="Cf221vb.49"/><l n="C_M1_39_507">van herten zijn gheselle.</l>
+</lg>
+<lg type="stanza" n="41">
+<lb n="50" xml:id="Cf221vb.50"/><l n="C_M1_41_521"><hi rend="capitalsize2">M</hi>artijn die dietsche loy vertelt</l>
+<lb n="51" xml:id="Cf221vb.51"/><l n="C_M1_41_522">dat van onrechter ghewelt</l>
+
+
+<pb xml:id="C.f222ra" n="222ra"/>
+<lb n="1" xml:id="Cf222ra.1"/><l n="C_M1_41_523">eyghendoem is comen</l>
+<lb n="2" xml:id="Cf222ra.2"/><l n="C_M1_41_524">alse een prince verwan op tuelt</l>
+<lb n="3" xml:id="Cf222ra.3"/><l n="C_M1_41_525">tuolc datmen telue helt</l>
+<lb n="4" xml:id="Cf222ra.4"/><l n="C_M1_41_526">dat dede hi verdomen</l>
+<lb n="5" xml:id="Cf222ra.5"/><l n="C_M1_41_527"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> vercopen omme ghelt</l>
+<lb n="6" xml:id="Cf222ra.6"/><l n="C_M1_41_528">dits tuolc datmen eyghen scelt</l>
+<lb n="7" xml:id="Cf222ra.7"/><l n="C_M1_41_529"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> datmen scalc hoert nomen</l>
+<lb n="8" xml:id="Cf222ra.8"/><l n="C_M1_41_530">nature gaet haren rechten telt</l>
+<lb n="9" xml:id="Cf222ra.9"/><l n="C_M1_41_531">mer die auenture wast <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> smelt</l>
+<lb n="10" xml:id="Cf222ra.10"/><l n="C_M1_41_532">zomeghen te vromen</l>
+<lb n="11" xml:id="Cf222ra.11"/><l n="C_M1_41_533"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> tonneren hem zomen.</l>
+</lg>
+<lg type="stanza" n="40">
+<lb n="12" xml:id="Cf222ra.12"/><l n="C_M1_40_508"><hi rend="capitalsize2">Z</hi>ulc waent dat van den <choice><abbr>quade<g ref="#bar"/></abbr><expan>quade<ex>n</ex></expan></choice> cam</l>
+<lb n="13" xml:id="Cf222ra.13"/><l n="C_M1_40_509">dien noe zijn vader was gram</l>
+<lb n="14" xml:id="Cf222ra.14"/><l n="C_M1_40_510">want hine niet en decte</l>
+<lb n="15" xml:id="Cf222ra.15"/><l n="C_M1_40_511">eyghendoeme van hem quam</l>
+<lb n="16" xml:id="Cf222ra.16"/><l n="C_M1_40_512">want hem swaer vloec bequam</l>
+<lb n="17" xml:id="Cf222ra.17"/><l n="C_M1_40_513">hi doelde die derop mecte</l>
+<lb n="18" xml:id="Cf222ra.18"/><l n="C_M1_40_514">al vijntmen dat die quade ram</l>
+<lb n="19" xml:id="Cf222ra.19"/><l n="C_M1_40_515">dicke wint tongheue lam</l>
+<lb n="20" xml:id="Cf222ra.20"/><l n="C_M1_40_516">dits der ruder zecte</l>
+<lb n="21" xml:id="Cf222ra.21"/><l n="C_M1_40_517">van den edelen abraham</l>
+<lb n="22" xml:id="Cf222ra.22"/><l n="C_M1_40_518">quam eygen volc alsict vernam</l>
+<lb n="23" xml:id="Cf222ra.23"/><l n="C_M1_40_519">die oyt ter eeren trecte</l>
+<lb n="24" xml:id="Cf222ra.24"/><l n="C_M1_40_520"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> hem nie beulecte.</l>
+</lg>
+<lg type="stanza" n="42">
+<lb n="25" xml:id="Cf222ra.25"/><l n="C_M1_42_534"><hi rend="capitalsize2">G</hi>od ghedoghet om onze misdaet</l>
+<lb n="26" xml:id="Cf222ra.26"/><l n="C_M1_42_535">dat een gheslachte nedergaet</l>
+<lb n="27" xml:id="Cf222ra.27"/><l n="C_M1_42_536"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> dat een ander riset</l>
+<lb n="28" xml:id="Cf222ra.28"/><l n="C_M1_42_537">wie mach weten zinen raet</l>
+<lb n="29" xml:id="Cf222ra.29"/><l n="C_M1_42_538">hi kent wie hen mint of haet</l>
+<lb n="30" xml:id="Cf222ra.30"/><l n="C_M1_42_539">die alle de werelt spiset</l>
+<lb n="31" xml:id="Cf222ra.31"/><l n="C_M1_42_540">die meest tesinen dienste staet</l>
+<lb n="32" xml:id="Cf222ra.32"/><l n="C_M1_42_541">men ziet dat zijn eere <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> zijn zaet</l>
+<lb n="33" xml:id="Cf222ra.33"/><l n="C_M1_42_542">meest in die eere gheriset</l>
+<lb n="34" xml:id="Cf222ra.34"/><l n="C_M1_42_543"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> alst volc wordt zo quaet</l>
+<lb n="35" xml:id="Cf222ra.35"/><l n="C_M1_42_544">dattet die wit gods versmaet</l>
+<lb n="36" xml:id="Cf222ra.36"/><l n="C_M1_42_545">wordet te ualle ghewiset</l>
+<lb n="37" xml:id="Cf222ra.37"/><l n="C_M1_42_546"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> van niemen ghepriset.</l>
+</lg>
+<lg type="stanza" n="43">
+<lb n="38" xml:id="Cf222ra.38"/><l n="C_M1_43_547"><hi rend="capitalsize2">M</hi>ine roect wiene droech of wan</l>
+<lb n="39" xml:id="Cf222ra.39"/><l n="C_M1_43_548">daer wijsheit <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> doeght is an</l>
+<lb n="40" xml:id="Cf222ra.40"/><l n="C_M1_43_549"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> reyne is van zeden</l>
+<lb n="41" xml:id="Cf222ra.41"/><l n="C_M1_43_550">vyt wat lande dat hi ran</l>
+<lb n="42" xml:id="Cf222ra.42"/><l n="C_M1_43_551">dats dien ic den name an</l>
+<lb n="43" xml:id="Cf222ra.43"/><l n="C_M1_43_552">van der edelheden</l>
+<lb n="44" xml:id="Cf222ra.44"/><l n="C_M1_43_553">al vercochtmen zulken man</l>
+<lb n="45" xml:id="Cf222ra.45"/><l n="C_M1_43_554">hens niemen die ne gherouen can</l>
+<lb n="46" xml:id="Cf222ra.46"/><l n="C_M1_43_555">zijnre doechdachticheden</l>
+<lb n="47" xml:id="Cf222ra.47"/><l n="C_M1_43_556">mi dunct edelheit began</l>
+<lb n="48" xml:id="Cf222ra.48"/><l n="C_M1_43_557">vte reinre herten dan</l>
+<lb n="49" xml:id="Cf222ra.49"/><l n="C_M1_43_558">met doeghden besneden</l>
+<lb n="50" xml:id="Cf222ra.50"/><l n="C_M1_43_559"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> beghint noch heden.</l>
+</lg>
+<lg type="stanza" n="44">
+<lb n="51" xml:id="Cf222ra.51"/><l n="C_M1_44_560"><hi rend="capitalsize2">M</hi>artijn oftu climmen wout</l>
+
+
+<pb xml:id="C.f222rb" n="222rb"/>
+<lb n="1" xml:id="Cf222rb.1"/><l n="C_M1_44_561">ter edelheit drie poynten hout</l>
+<lb n="2" xml:id="Cf222rb.2"/><l n="C_M1_44_562">die ic di zal leren</l>
+<lb n="3" xml:id="Cf222rb.3"/><l n="C_M1_44_563">wes naerechtich minne niet dat gout</l>
+<lb n="4" xml:id="Cf222rb.4"/><l n="C_M1_44_564">wes crachtich menichuout</l>
+<lb n="5" xml:id="Cf222rb.5"/><l n="C_M1_44_565">dese hout niet voer sceren</l>
+<lb n="6" xml:id="Cf222rb.6"/><l n="C_M1_44_566">wes wareftich <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> stout</l>
+<lb n="7" xml:id="Cf222rb.7"/><l n="C_M1_44_567">dese drie pointen des wes bout</l>
+<lb n="8" xml:id="Cf222rb.8"/><l n="C_M1_44_568">die zijn aluol eeren</l>
+<lb n="9" xml:id="Cf222rb.9"/><l n="C_M1_44_569">hens nieman dan jonc <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> out</l>
+<lb n="10" xml:id="Cf222rb.10"/><l n="C_M1_44_570">dien du scalc dunken zout</l>
+<lb n="11" xml:id="Cf222rb.11"/><l n="C_M1_44_571">zonder die weldaet deren</l>
+<lb n="12" xml:id="Cf222rb.12"/><l n="C_M1_44_572"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> alle die doeght verkeren.</l>
+</lg>
+<lg type="stanza" n="45">
+<lb n="13" xml:id="Cf222rb.13"/><l n="C_M1_45_573"><hi rend="capitalsize2">W</hi>aereit ic hebbe verstaen</l>
+<lb n="14" xml:id="Cf222rb.14"/><l n="C_M1_45_574">vyt dinen monde woert gaen</l>
+<lb n="15" xml:id="Cf222rb.15"/><l n="C_M1_45_575">vol rechter waerheiden</l>
+<lb n="16" xml:id="Cf222rb.16"/><l n="C_M1_45_576">al zeit in zinen boeken alaen</l>
+<lb n="17" xml:id="Cf222rb.17"/><l n="C_M1_45_577">dat edelheit quam zonder waen</l>
+<lb n="18" xml:id="Cf222rb.18"/><l n="C_M1_45_578">van ouder rijcheiden</l>
+<lb n="19" xml:id="Cf222rb.19"/><l n="C_M1_45_579">die edelheit machmen afdwaen</l>
+<lb n="20" xml:id="Cf222rb.20"/><l n="C_M1_45_580">wordtmen arm zo eest ghedaen</l>
+<lb n="21" xml:id="Cf222rb.21"/><l n="C_M1_45_581">men ualt in doude steden</l>
+<lb n="22" xml:id="Cf222rb.22"/><l n="C_M1_45_582">mer rein edelheit is een traen</l>
+<lb n="23" xml:id="Cf222rb.23"/><l n="C_M1_45_583">die dorper herte niene can ontfaen</l>
+<lb n="24" xml:id="Cf222rb.24"/><l n="C_M1_45_584">die gheuet doer smenschen beden</l>
+<lb n="25" xml:id="Cf222rb.25"/><l n="C_M1_45_585">god in zijnre miltheden.</l>
+</lg>
+<lg type="stanza" n="46">
+<lb n="26" xml:id="Cf222rb.26"/><l n="C_M1_46_586"><hi rend="capitalsize2">I</hi>acob ic hore aen dine woert</l>
+<lb n="27" xml:id="Cf222rb.27"/><l n="C_M1_46_587">dat alle menschelike gheboert</l>
+<lb n="28" xml:id="Cf222rb.28"/><l n="C_M1_46_588">van adaem begonde</l>
+<lb n="29" xml:id="Cf222rb.29"/><l n="C_M1_46_589">twi is die manscap dus testoert</l>
+<lb n="30" xml:id="Cf222rb.30"/><l n="C_M1_46_590">dat deen den andren vermoert</l>
+<lb n="31" xml:id="Cf222rb.31"/><l n="C_M1_46_591">dits iamer <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> zonde</l>
+<lb n="32" xml:id="Cf222rb.32"/><l n="C_M1_46_592">nijt is weder <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> voert</l>
+<lb n="33" xml:id="Cf222rb.33"/><l n="C_M1_46_593">beide in die lande <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> in die poert</l>
+<lb n="34" xml:id="Cf222rb.34"/><l n="C_M1_46_594">tuolc is worden honde</l>
+<lb n="35" xml:id="Cf222rb.35"/><l n="C_M1_46_596">teuraghede ben ic becoert</l>
+<lb n="36" xml:id="Cf222rb.36"/><l n="C_M1_46_595">zegh mi als die gherne hoert</l>
+<lb n="37" xml:id="Cf222rb.37"/><l n="C_M1_46_597"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> diet gherne onderuonde</l>
+<lb n="38" xml:id="Cf222rb.38"/><l n="C_M1_46_598">van beghinne tegronde.</l>
+</lg>
+<lg type="stanza" n="47">
+<lb n="39" xml:id="Cf222rb.39"/><l n="C_M1_47_599"><hi rend="capitalsize2">M</hi>artijn houaerde <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> nijt</l>
+<lb n="40" xml:id="Cf222rb.40"/><l n="C_M1_47_600"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> die alre ierste strijt</l>
+<lb n="41" xml:id="Cf222rb.41"/><l n="C_M1_47_601">begonst in hemelrike</l>
+<lb n="42" xml:id="Cf222rb.42"/><l n="C_M1_47_602">alse lucifer te zijnre ontijt</l>
+<lb n="43" xml:id="Cf222rb.43"/><l n="C_M1_47_603">in den hemelschen delijt</l>
+<lb n="44" xml:id="Cf222rb.44"/><l n="C_M1_47_604">wilde zijn gods ghelike</l>
+<lb n="45" xml:id="Cf222rb.45"/><l n="C_M1_47_605">daer viel hi int helsche bijt</l>
+<lb n="46" xml:id="Cf222rb.46"/><l n="C_M1_47_606">daer hi nemmermeer verslijt</l>
+<lb n="47" xml:id="Cf222rb.47"/><l n="C_M1_47_607"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> zal bliuen ewelike</l>
+<lb n="48" xml:id="Cf222rb.48"/><l n="C_M1_47_608">nu zeint hi doer die werelt wijt</l>
+<lb n="49" xml:id="Cf222rb.49"/><l n="C_M1_47_609">zijn venijn <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> zinen vlijt</l>
+<lb n="50" xml:id="Cf222rb.50"/><l n="C_M1_47_610"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> wil dat het blike</l>
+<lb n="51" xml:id="Cf222rb.51"/><l n="C_M1_47_611">als het doet jamerlike.</l>
+
+
+<pb xml:id="C.f222va" n="222va"/>
+</lg>
+<lg type="stanza" n="48">
+<lb n="1" xml:id="Cf222va.1"/><l n="C_M1_48_612"><hi rend="capitalsize2">T</hi>we worde in die werelt zijn</l>
+<lb n="2" xml:id="Cf222va.2"/><l n="C_M1_48_613">dats al mijn <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> dijn</l>
+<lb n="3" xml:id="Cf222va.3"/><l n="C_M1_48_614">mochtmen die verdriuen</l>
+<lb n="4" xml:id="Cf222va.4"/><l n="C_M1_48_615">pais <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> vrede bleuen fijn</l>
+<lb n="5" xml:id="Cf222va.5"/><l n="C_M1_48_616">het waer al vri nieman eyghijn</l>
+<lb n="6" xml:id="Cf222va.6"/><l n="C_M1_48_617">manne metten wiuen</l>
+<lb n="7" xml:id="Cf222va.7"/><l n="C_M1_48_618">het waer ghemene water <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> wijn</l>
+<lb n="8" xml:id="Cf222va.8"/><l n="C_M1_48_619">ouerze noch op den rijn</l>
+<lb n="9" xml:id="Cf222va.9"/><l n="C_M1_48_620">zoudemen nieman ontliuen</l>
+<lb n="10" xml:id="Cf222va.10"/><l n="C_M1_48_621">nu benemet tvenijn</l>
+<lb n="11" xml:id="Cf222va.11"/><l n="C_M1_48_622">van ghiricheiden dat martijn</l>
+<lb n="12" xml:id="Cf222va.12"/><l n="C_M1_48_623"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> doet al achter bliuen</l>
+<lb n="13" xml:id="Cf222va.13"/><l n="C_M1_48_624"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> ander loy bescriuen.</l>
+</lg>
+<lg type="stanza" n="49">
+<lb n="14" xml:id="Cf222va.14"/><l n="C_M1_49_625"><hi rend="capitalsize2">G</hi>od diet al bi redene doet</l>
+<lb n="15" xml:id="Cf222va.15"/><l n="C_M1_49_626">gaf dit wandel aertsche goet</l>
+<lb n="16" xml:id="Cf222va.16"/><l n="C_M1_49_627">der menscheit ghemene</l>
+<lb n="17" xml:id="Cf222va.17"/><l n="C_M1_49_628">dat daermede ware gheuoet</l>
+<lb n="18" xml:id="Cf222va.18"/><l n="C_M1_49_629"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> ghecleet <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> ghescoet</l>
+<lb n="19" xml:id="Cf222va.19"/><l n="C_M1_49_630"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> leuen zoude rene</l>
+<lb n="20" xml:id="Cf222va.20"/><l n="C_M1_49_631">nu is ghiricheit zo verwoet</l>
+<lb n="21" xml:id="Cf222va.21"/><l n="C_M1_49_632">dat elc zettet zinen moet</l>
+<lb n="22" xml:id="Cf222va.22"/><l n="C_M1_49_633">om te hebben allene</l>
+<lb n="23" xml:id="Cf222va.23"/><l n="C_M1_49_634">hier om stortmen smenschen bloet</l>
+<lb n="24" xml:id="Cf222va.24"/><l n="C_M1_49_635">hier om stichtmen metter spoet</l>
+<lb n="25" xml:id="Cf222va.25"/><l n="C_M1_49_636">borghe <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> hoghe stene</l>
+<lb n="26" xml:id="Cf222va.26"/><l n="C_M1_49_637">meneghen tewene.</l>
+</lg>
+<lg type="stanza" n="50">
+<lb n="27" xml:id="Cf222va.27"/><l n="C_M1_50_638"><hi rend="capitalsize2">I</hi>acob ic heb wel verstaen</l>
+<lb n="28" xml:id="Cf222va.28"/><l n="C_M1_50_639">dat alwaer is zonder waen</l>
+<lb n="29" xml:id="Cf222va.29"/><l n="C_M1_50_640">dat du heues ontbonden</l>
+<lb n="30" xml:id="Cf222va.30"/><l n="C_M1_50_641">goets is gnoech liet ment gaen</l>
+<lb n="31" xml:id="Cf222va.31"/><l n="C_M1_50_642">int ghemene <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> hem ontfaen</l>
+<lb n="32" xml:id="Cf222va.32"/><l n="C_M1_50_643">die aerme worden vonden</l>
+<lb n="33" xml:id="Cf222va.33"/><l n="C_M1_50_644">dus viel al oerloeghe zaen</l>
+<lb n="34" xml:id="Cf222va.34"/><l n="C_M1_50_645">dus mochtmen die ziele dwaen</l>
+<lb n="35" xml:id="Cf222va.35"/><l n="C_M1_50_646"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> claren van den zonden</l>
+<lb n="36" xml:id="Cf222va.36"/><l n="C_M1_50_647">miltheit heeft haer macht ghedaen</l>
+<lb n="37" xml:id="Cf222va.37"/><l n="C_M1_50_648">vreetheit leert die werelt vaen</l>
+<lb n="38" xml:id="Cf222va.38"/><l n="C_M1_50_649">dat proeuen <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> orconden</l>
+<lb n="39" xml:id="Cf222va.39"/><l n="C_M1_50_650">die minners van den ponden.</l>
+</lg>
+<lg type="stanza" n="51">
+<lb n="40" xml:id="Cf222va.40"/><l n="C_M1_51_651"><hi rend="capitalsize2">I</hi>acob ene dinc maec mi kont</l>
+<lb n="41" xml:id="Cf222va.41"/><l n="C_M1_51_652">alse die mensche wordt ghewont</l>
+<lb n="42" xml:id="Cf222va.42"/><l n="C_M1_51_653">met gherechter minnen</l>
+<lb n="43" xml:id="Cf222va.43"/><l n="C_M1_51_654">doer der oghen wandel vont</l>
+<lb n="44" xml:id="Cf222va.44"/><l n="C_M1_51_655">of coemet vter herten gront</l>
+<lb n="45" xml:id="Cf222va.45"/><l n="C_M1_51_656">dit euel tebeghinnen</l>
+<lb n="46" xml:id="Cf222va.46"/><l n="C_M1_51_657">ic lietmi costen wel een pont</l>
+<lb n="47" xml:id="Cf222va.47"/><l n="C_M1_51_658">dat ics vroet waer te deser stont</l>
+<lb n="48" xml:id="Cf222va.48"/><l n="C_M1_51_659">maec mi dies in innen</l>
+<lb n="49" xml:id="Cf222va.49"/><l n="C_M1_51_660">mijn redene blijft onghesont</l>
+<lb n="50" xml:id="Cf222va.50"/><l n="C_M1_51_661">mine bescede dat dijn mont</l>
+<lb n="51" xml:id="Cf222va.51"/><l n="C_M1_51_662">hets wijsheit niet dinnen</l>
+
+
+<pb xml:id="C.f222vb" n="222vb"/>
+<lb n="1" xml:id="Cf222vb.1"/><l n="C_M1_51_663">na dat ic redene kinnen.</l>
+</lg>
+<lg type="stanza" n="52">
+<lb n="2" xml:id="Cf222vb.2"/><l n="C_M1_52_664"><hi rend="capitalsize2">M</hi>artijn du bist een vremde druut</l>
+<lb n="3" xml:id="Cf222vb.3"/><l n="C_M1_52_665">du sprekes alse een vriese ruut</l>
+<lb n="4" xml:id="Cf222vb.4"/><l n="C_M1_52_666">die noch noyt en minde</l>
+<lb n="5" xml:id="Cf222vb.5"/><l n="C_M1_52_667">alrehande edel fruut</l>
+<lb n="6" xml:id="Cf222vb.6"/><l n="C_M1_52_668">coemt van minnen vut <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> vut</l>
+<lb n="7" xml:id="Cf222vb.7"/><l n="C_M1_52_669">die noyt dorper en kinde</l>
+<lb n="8" xml:id="Cf222vb.8"/><l n="C_M1_52_670">in can ghepeinsen els gheen cruut</l>
+<lb n="9" xml:id="Cf222vb.9"/><l n="C_M1_52_671">die stille mint of ouerluut</l>
+<lb n="10" xml:id="Cf222vb.10"/><l n="C_M1_52_672">dan die hem teuel toeseinde</l>
+<lb n="11" xml:id="Cf222vb.11"/><l n="C_M1_52_673">der herten <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> der oghen virtuut</l>
+<lb n="12" xml:id="Cf222vb.12"/><l n="C_M1_52_674">wil ic dat hier mede zi beduut</l>
+<lb n="13" xml:id="Cf222vb.13"/><l n="C_M1_52_675">proef wat ic ontbinde</l>
+<lb n="14" xml:id="Cf222vb.14"/><l n="C_M1_52_676"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> die redene beuinde.</l>
+</lg>
+<lg type="stanza" n="53">
+<lb n="15" xml:id="Cf222vb.15"/><l n="C_M1_53_677"><hi rend="capitalsize2">E</hi>en swaer oerloghe <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> een swaer strijt</l>
+<lb n="16" xml:id="Cf222vb.16"/><l n="C_M1_53_678"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> daertoe een ewelic nijt</l>
+<lb n="17" xml:id="Cf222vb.17"/><l n="C_M1_53_679">is tusghen therte <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> oghen</l>
+<lb n="18" xml:id="Cf222vb.18"/><l n="C_M1_53_680">therte den oghen verwijt</l>
+<lb n="19" xml:id="Cf222vb.19"/><l n="C_M1_53_681">du bist die mijns niet en vermijt</l>
+<lb n="20" xml:id="Cf222vb.20"/><l n="C_M1_53_682">bedi ben ic bedroghen</l>
+<lb n="21" xml:id="Cf222vb.21"/><l n="C_M1_53_683">du bist emmer open wijt</l>
+<lb n="22" xml:id="Cf222vb.22"/><l n="C_M1_53_684">elker zonden die voerdi lijt</l>
+<lb n="23" xml:id="Cf222vb.23"/><l n="C_M1_53_685">du bist vrient dits gheloghen</l>
+<lb n="24" xml:id="Cf222vb.24"/><l n="C_M1_53_686">sluyt dine důere tenegher tijt</l>
+<lb n="25" xml:id="Cf222vb.25"/><l n="C_M1_53_687">daer zo menich dief voer lijt</l>
+<lb n="26" xml:id="Cf222vb.26"/><l n="C_M1_53_688">bedi ben ic doeruloghen</l>
+<lb n="27" xml:id="Cf222vb.27"/><l n="C_M1_53_689">dies claghic den oghen.</l>
+</lg>
+<lg type="stanza" n="54">
+<lb n="28" xml:id="Cf222vb.28"/><l n="C_M1_54_690"><hi rend="capitalsize2">W</hi>apene vriendelijc viant</l>
+<lb n="29" xml:id="Cf222vb.29"/><l n="C_M1_54_691">doer di doghic meneghen brant</l>
+<lb n="30" xml:id="Cf222vb.30"/><l n="C_M1_54_692"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> menich coude</l>
+<lb n="31" xml:id="Cf222vb.31"/><l n="C_M1_54_693">wapene dat nature di vant</l>
+<lb n="32" xml:id="Cf222vb.32"/><l n="C_M1_54_694">waer di verboden huus <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> lant</l>
+<lb n="33" xml:id="Cf222vb.33"/><l n="C_M1_54_695"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> des menschen houde</l>
+<lb n="34" xml:id="Cf222vb.34"/><l n="C_M1_54_696">zo nebonde mi gheen bant</l>
+<lb n="35" xml:id="Cf222vb.35"/><l n="C_M1_54_697">lichter ware dan een zant</l>
+<lb n="36" xml:id="Cf222vb.36"/><l n="C_M1_54_698">algader mine scoude</l>
+<lb n="37" xml:id="Cf222vb.37"/><l n="C_M1_54_699">men stake bet vut metter hant</l>
+<lb n="38" xml:id="Cf222vb.38"/><l n="C_M1_54_700"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> versmoerde alsulken pant</l>
+<lb n="39" xml:id="Cf222vb.39"/><l n="C_M1_54_701">onder die onreine moude</l>
+<lb n="40" xml:id="Cf222vb.40"/><l n="C_M1_54_702">waert dat nature woude</l>
+</lg>
+<lg type="stanza" n="55">
+<lb n="41" xml:id="Cf222vb.41"/><l n="C_M1_55_703"><hi rend="capitalsize2">T</hi>herte sweech <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> toghe sprac</l>
+<lb n="42" xml:id="Cf222vb.42"/><l n="C_M1_55_704">mi dunct dat v zins ghebrac</l>
+<lb n="43" xml:id="Cf222vb.43"/><l n="C_M1_55_705">vrouwe coninghinne</l>
+<lb n="44" xml:id="Cf222vb.44"/><l n="C_M1_55_706">dat ghi mi tyet v onghemac</l>
+<lb n="45" xml:id="Cf222vb.45"/><l n="C_M1_55_707">want noyt van mi tuwart lac</l>
+<lb n="46" xml:id="Cf222vb.46"/><l n="C_M1_55_708">een stof al quaemt mi inne</l>
+<lb n="47" xml:id="Cf222vb.47"/><l n="C_M1_55_709">alsmen mi zomwile vutstac</l>
+<lb n="48" xml:id="Cf222vb.48"/><l n="C_M1_55_710">wat docht daer na des menschen zac</l>
+<lb n="49" xml:id="Cf222vb.49"/><l n="C_M1_55_711">zijn weluaren was dinne</l>
+<lb n="50" xml:id="Cf222vb.50"/><l n="C_M1_55_712">zonder noet maecti ghetrac</l>
+<lb n="51" xml:id="Cf222vb.51"/><l n="C_M1_55_713"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> waerpt op mi uwen hac</l>
+
+
+<pb xml:id="C.f223ra" n="223ra"/>
+<lb n="1" xml:id="Cf223ra.1"/><l n="C_M1_55_714"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> ic v vrouwe kinne</l>
+<lb n="2" xml:id="Cf223ra.2"/><l n="C_M1_55_715"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> mine godinne.</l>
+</lg>
+<lg type="stanza" n="56">
+<lb n="3" xml:id="Cf223ra.3"/><l n="C_M1_56_716"><hi rend="capitalsize2">M</hi>erct vrouwe <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> besiet</l>
+<lb n="4" xml:id="Cf223ra.4"/><l n="C_M1_56_717">dat ghi ouer mi ghebiet</l>
+<lb n="5" xml:id="Cf223ra.5"/><l n="C_M1_56_718">alse ouer alle uwe lede</l>
+<lb n="6" xml:id="Cf223ra.6"/><l n="C_M1_56_719">men conde v ghescaden niet</l>
+<lb n="7" xml:id="Cf223ra.7"/><l n="C_M1_56_720">waert zo dat ghi van v sciet</l>
+<lb n="8" xml:id="Cf223ra.8"/><l n="C_M1_56_721">alle dorperhede</l>
+<lb n="9" xml:id="Cf223ra.9"/><l n="C_M1_56_722">mer alse ghi met mi bespiet</l>
+<lb n="10" xml:id="Cf223ra.10"/><l n="C_M1_56_723">dinghe die ghi an v tiet</l>
+<lb n="11" xml:id="Cf223ra.11"/><l n="C_M1_56_724">volghedi gherne mede</l>
+<lb n="12" xml:id="Cf223ra.12"/><l n="C_M1_56_725">ghi zijt alse cranke riet</l>
+<lb n="13" xml:id="Cf223ra.13"/><l n="C_M1_56_726">dat metten wijnde volghet <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> vliet</l>
+<lb n="14" xml:id="Cf223ra.14"/><l n="C_M1_56_727">vwe onghestadichede</l>
+<lb n="15" xml:id="Cf223ra.15"/><l n="C_M1_56_728">maect v den onurede.</l>
+</lg>
+<lg type="stanza" n="57">
+<lb n="16" xml:id="Cf223ra.16"/><l n="C_M1_57_729"><hi rend="capitalsize2">D</hi>it orloeghe heeft gheuelt</l>
+<lb n="17" xml:id="Cf223ra.17"/><l n="C_M1_57_730">alsmen haer den twist vertelt</l>
+<lb n="18" xml:id="Cf223ra.18"/><l n="C_M1_57_731">vrouwe redene bi gescede</l>
+<lb n="19" xml:id="Cf223ra.19"/><l n="C_M1_57_732">bedegader sise scelt</l>
+<lb n="20" xml:id="Cf223ra.20"/><l n="C_M1_57_733">elken deelt zi daer zijn ghelt</l>
+<lb n="21" xml:id="Cf223ra.21"/><l n="C_M1_57_734">niet ghelike bede</l>
+<lb n="22" xml:id="Cf223ra.22"/><l n="C_M1_57_735">barsculdich zi die herte spelt</l>
+<lb n="23" xml:id="Cf223ra.23"/><l n="C_M1_57_736">alse die zi ouer voghet helt</l>
+<lb n="24" xml:id="Cf223ra.24"/><l n="C_M1_57_737"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> vrouwe bi haren ede</l>
+<lb n="25" xml:id="Cf223ra.25"/><l n="C_M1_57_738">mer des gheualles ghewelt</l>
+<lb n="26" xml:id="Cf223ra.26"/><l n="C_M1_57_739">dat bi lieue therte dwelt</l>
+<lb n="27" xml:id="Cf223ra.27"/><l n="C_M1_57_740">tijt zi des oghen ghelede</l>
+<lb n="28" xml:id="Cf223ra.28"/><l n="C_M1_57_741">dus deilt zi die vede.</l>
+</lg>
+<lg type="stanza" n="58">
+<lb n="29" xml:id="Cf223ra.29"/><l n="C_M1_58_742"><hi rend="capitalsize2">M</hi>artijn hier bi machtu zien</l>
+<lb n="30" xml:id="Cf223ra.30"/><l n="C_M1_58_743">weder die oghen therte tien</l>
+<lb n="31" xml:id="Cf223ra.31"/><l n="C_M1_58_744">of therte die oghen</l>
+<lb n="32" xml:id="Cf223ra.32"/><l n="C_M1_58_745">alse dat herte wil vlien</l>
+<lb n="33" xml:id="Cf223ra.33"/><l n="C_M1_58_746">om niet al die oghen spien</l>
+<lb n="34" xml:id="Cf223ra.34"/><l n="C_M1_58_747">doer des oghen ghedoghen</l>
+<lb n="35" xml:id="Cf223ra.35"/><l n="C_M1_58_748">mer het is der herten plien</l>
+<lb n="36" xml:id="Cf223ra.36"/><l n="C_M1_58_749">alst doer oghen ziet dien of dien</l>
+<lb n="37" xml:id="Cf223ra.37"/><l n="C_M1_58_750">daert hem wil toe boghen</l>
+<lb n="38" xml:id="Cf223ra.38"/><l n="C_M1_58_751">zo moet zijn wille ghescien</l>
+<lb n="39" xml:id="Cf223ra.39"/><l n="C_M1_58_752">toghe moet lijen <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> ghien</l>
+<lb n="40" xml:id="Cf223ra.40"/><l n="C_M1_58_753">daer doere quam gheuloghen</l>
+<lb n="41" xml:id="Cf223ra.41"/><l n="C_M1_58_754">minne int vertoghen.</l>
+</lg>
+<lg type="stanza" n="59">
+<lb n="42" xml:id="Cf223ra.42"/><l n="C_M1_59_755"><hi rend="capitalsize2">I</hi>acob dine redene is claer</l>
+<lb n="43" xml:id="Cf223ra.43"/><l n="C_M1_59_756">al dunctsi den ghenen swaer</l>
+<lb n="44" xml:id="Cf223ra.44"/><l n="C_M1_59_757">die luttel gheuroeden</l>
+<lb n="45" xml:id="Cf223ra.45"/><l n="C_M1_59_758">ic weet wel ouerwaer</l>
+<lb n="46" xml:id="Cf223ra.46"/><l n="C_M1_59_759">dat die ziele weer zonder uaer</l>
+<lb n="47" xml:id="Cf223ra.47"/><l n="C_M1_59_760"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> in zeker hoeden</l>
+<lb n="48" xml:id="Cf223ra.48"/><l n="C_M1_59_761">wilde die herte maken ommaer</l>
+<lb n="49" xml:id="Cf223ra.49"/><l n="C_M1_59_762">dat hoer die oghen zeinden naer</l>
+<lb n="50" xml:id="Cf223ra.50"/><l n="C_M1_59_763">nieman en dorfte vermoeden</l>
+<lb n="51" xml:id="Cf223ra.51"/><l n="C_M1_59_764">dat hi beuen zoude daer</l>
+
+
+<pb xml:id="C.f223rb" n="223rb"/>
+<lb n="1" xml:id="Cf223rb.1"/><l n="C_M1_59_765">daer god zal doemen openbaer</l>
+<lb n="2" xml:id="Cf223rb.2"/><l n="C_M1_59_766"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> wisen ten gloeden</l>
+<lb n="3" xml:id="Cf223rb.3"/><l n="C_M1_59_767">die hier ten zonden spoeden.</l>
+</lg>
+<lg type="stanza" n="60">
+<lb n="4" xml:id="Cf223rb.4"/><l n="C_M1_60_768"><hi rend="capitalsize2">B</hi>ericht mi iacob of tu wout</l>
+<lb n="5" xml:id="Cf223rb.5"/><l n="C_M1_60_769">weder zekerste is in behout</l>
+<lb n="6" xml:id="Cf223rb.6"/><l n="C_M1_60_770">rijkheit of aermoede</l>
+<lb n="7" xml:id="Cf223rb.7"/><l n="C_M1_60_771">eest monic clerc ionc of out</l>
+<lb n="8" xml:id="Cf223rb.8"/><l n="C_M1_60_772">het dunct mi wesen gadergout</l>
+<lb n="9" xml:id="Cf223rb.9"/><l n="C_M1_60_773">al staet na den goede</l>
+<lb n="10" xml:id="Cf223rb.10"/><l n="C_M1_60_774">aermoede prijstmen menichfout</l>
+<lb n="11" xml:id="Cf223rb.11"/><l n="C_M1_60_775">men zeeght hets zeker <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> bout</l>
+<lb n="12" xml:id="Cf223rb.12"/><l n="C_M1_60_776">van rouer zonder hoede</l>
+<lb n="13" xml:id="Cf223rb.13"/><l n="C_M1_60_777">doch minnen zi voer dwater smout</l>
+<lb n="14" xml:id="Cf223rb.14"/><l n="C_M1_60_778">zi scuwen hongher <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> cout</l>
+<lb n="15" xml:id="Cf223rb.15"/><l n="C_M1_60_779">eest alse ics mi beuroede</l>
+<lb n="16" xml:id="Cf223rb.16"/><l n="C_M1_60_780">zo dolen desen vroede.</l>
+</lg>
+<lg type="stanza" n="61">
+<lb n="17" xml:id="Cf223rb.17"/><l n="C_M1_61_781"><hi rend="capitalsize2">M</hi>artijn ic mete di vol dat vat</l>
+<lb n="18" xml:id="Cf223rb.18"/><l n="C_M1_61_782">opten berch daer moyses op sat</l>
+<lb n="19" xml:id="Cf223rb.19"/><l n="C_M1_61_783">zitten die gheleerde</l>
+<lb n="20" xml:id="Cf223rb.20"/><l n="C_M1_61_784">wat zij di heten doe aldat</l>
+<lb n="21" xml:id="Cf223rb.21"/><l n="C_M1_61_785">zij wisen di den rechten pat</l>
+<lb n="22" xml:id="Cf223rb.22"/><l n="C_M1_61_786">wel die daer hem toekeerde</l>
+<lb n="23" xml:id="Cf223rb.23"/><l n="C_M1_61_787">mer int weldoen zijn zi lat</l>
+<lb n="24" xml:id="Cf223rb.24"/><l n="C_M1_61_788">zij eten vast zij drinken zat</l>
+<lb n="25" xml:id="Cf223rb.25"/><l n="C_M1_61_789">en volghe niet zulken heerde</l>
+<lb n="26" xml:id="Cf223rb.26"/><l n="C_M1_61_790">zine minnen niet voer den scat</l>
+<lb n="27" xml:id="Cf223rb.27"/><l n="C_M1_61_791">haer hant is altoes gat</l>
+<lb n="28" xml:id="Cf223rb.28"/><l n="C_M1_61_792">noit en was volc bouen die eerde</l>
+<lb n="29" xml:id="Cf223rb.29"/><l n="C_M1_61_793">die meer goeds begheerde.</l>
+</lg>
+<lg type="stanza" n="62">
+<lb n="30" xml:id="Cf223rb.30"/><l n="C_M1_62_794"><hi rend="capitalsize2">D</hi>ie meerre meneghe is dus ghedaen</l>
+<lb n="31" xml:id="Cf223rb.31"/><l n="C_M1_62_795">doch zo vijntmen zonder waen</l>
+<lb n="32" xml:id="Cf223rb.32"/><l n="C_M1_62_796">al zijn zi zelsiene</l>
+<lb n="33" xml:id="Cf223rb.33"/><l n="C_M1_62_797">die den aerdschen goede ontgaen</l>
+<lb n="34" xml:id="Cf223rb.34"/><l n="C_M1_62_798"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> die aermoede ontfaen</l>
+<lb n="35" xml:id="Cf223rb.35"/><l n="C_M1_62_799">bi der heiligher engiene</l>
+<lb n="36" xml:id="Cf223rb.36"/><l n="C_M1_62_800">zij laten hem blouwen <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> slaen</l>
+<lb n="37" xml:id="Cf223rb.37"/><l n="C_M1_62_801">tormenteren <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> vaen</l>
+<lb n="38" xml:id="Cf223rb.38"/><l n="C_M1_62_802">om die helle tontvliene</l>
+<lb n="39" xml:id="Cf223rb.39"/><l n="C_M1_62_803">hier in waert zekerste volstaen</l>
+<lb n="40" xml:id="Cf223rb.40"/><l n="C_M1_62_804">want die hem in dit doepsel dwaen</l>
+<lb n="41" xml:id="Cf223rb.41"/><l n="C_M1_62_805">zijn zeker gode tesiene</l>
+<lb n="42" xml:id="Cf223rb.42"/><l n="C_M1_62_806"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> hem niet te mischiene.</l>
+</lg>
+<lg type="stanza" n="63">
+<lb n="43" xml:id="Cf223rb.43"/><l n="C_M1_63_807"><hi rend="capitalsize2">D</hi>ie gods zoene thoget ons dat</l>
+<lb n="44" xml:id="Cf223rb.44"/><l n="C_M1_63_808">die euengheweldich zit <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> zat</l>
+<lb n="45" xml:id="Cf223rb.45"/><l n="C_M1_63_809">den uader in den rike</l>
+<lb n="46" xml:id="Cf223rb.46"/><l n="C_M1_63_810">hi beette in die aerme stat</l>
+<lb n="47" xml:id="Cf223rb.47"/><l n="C_M1_63_811">in der reinre maeghede vat</l>
+<lb n="48" xml:id="Cf223rb.48"/><l n="C_M1_63_812">harde oetmoedelike</l>
+<lb n="49" xml:id="Cf223rb.49"/><l n="C_M1_63_813">dat hi cume oyt zoeghes wart zat</l>
+<lb n="50" xml:id="Cf223rb.50"/><l n="C_M1_63_814"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> ghedoghede meneghen godsat</l>
+<lb n="51" xml:id="Cf223rb.51"/><l n="C_M1_63_815">van zinen onghelike</l>
+
+
+<pb xml:id="C.f223va" n="223va"/>
+<lb n="1" xml:id="Cf223va.1"/><l n="C_M1_63_816">dat aermoede is die pat</l>
+<lb n="2" xml:id="Cf223va.2"/><l n="C_M1_63_817">die doer den hemel maect een gat</l>
+<lb n="3" xml:id="Cf223va.3"/><l n="C_M1_63_818"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> zi niene beswike</l>
+<lb n="4" xml:id="Cf223va.4"/><l n="C_M1_63_819">die haer met herten wike.</l>
+</lg>
+<lg type="stanza" n="64">
+<lb n="5" xml:id="Cf223va.5"/><l n="C_M1_64_820"><hi rend="capitalsize2">W</hi>aenstu martijn weeldich vet</l>
+<lb n="6" xml:id="Cf223va.6"/><l n="C_M1_64_821"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> ghecleedt nu wel nu bet</l>
+<lb n="7" xml:id="Cf223va.7"/><l n="C_M1_64_822">varen int langhe leuen</l>
+<lb n="8" xml:id="Cf223va.8"/><l n="C_M1_64_823"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> ihc naect int bloet besmet</l>
+<lb n="9" xml:id="Cf223va.9"/><l n="C_M1_64_824"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> zine rechter zide ghesplet</l>
+<lb n="10" xml:id="Cf223va.10"/><l n="C_M1_64_825">ant hout was verheuen</l>
+<lb n="11" xml:id="Cf223va.11"/><l n="C_M1_64_826">of dat hoeft van onzer wet</l>
+<lb n="12" xml:id="Cf223va.12"/><l n="C_M1_64_827">met scarpen dornen was beset</l>
+<lb n="13" xml:id="Cf223va.13"/><l n="C_M1_64_828">also alst is bescreuen</l>
+<lb n="14" xml:id="Cf223va.14"/><l n="C_M1_64_829">wiltu wesen een zijn lit</l>
+<lb n="15" xml:id="Cf223va.15"/><l n="C_M1_64_830">magherlike drinc ende et</l>
+<lb n="16" xml:id="Cf223va.16"/><l n="C_M1_64_831">lere weelde begheuen</l>
+<lb n="17" xml:id="Cf223va.17"/><l n="C_M1_64_832">of du moets sware sneuen.</l>
+</lg>
+<lg type="stanza" n="65">
+<lb n="18" xml:id="Cf223va.18"/><l n="C_M1_65_833"><hi rend="capitalsize2">N</hi>iene zegghic dat rijkheit zent</l>
+<lb n="19" xml:id="Cf223va.19"/><l n="C_M1_65_834">die ziele in den torment</l>
+<lb n="20" xml:id="Cf223va.20"/><l n="C_M1_65_835">op dat ment nutte met rechte</l>
+<lb n="21" xml:id="Cf223va.21"/><l n="C_M1_65_836">mer zekerste is vlien dat serpent</l>
+<lb n="22" xml:id="Cf223va.22"/><l n="C_M1_65_837">dan wandelen daer omtrent</l>
+<lb n="23" xml:id="Cf223va.23"/><l n="C_M1_65_838">dat di niet beulechte</l>
+<lb n="24" xml:id="Cf223va.24"/><l n="C_M1_65_839">want rijkheit maect den meneghen blent</l>
+<lb n="25" xml:id="Cf223va.25"/><l n="C_M1_65_840">dat hi gode niene kent</l>
+<lb n="26" xml:id="Cf223va.26"/><l n="C_M1_65_841">daer sceedtmen van den lechte</l>
+<lb n="27" xml:id="Cf223va.27"/><l n="C_M1_65_842"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> wordt van leuene een rent</l>
+<lb n="28" xml:id="Cf223va.28"/><l n="C_M1_65_843">dan valtmen int helsche conuent</l>
+<lb n="29" xml:id="Cf223va.29"/><l n="C_M1_65_844">dus brenghet in die hechte</l>
+<lb n="30" xml:id="Cf223va.30"/><l n="C_M1_65_845">die duuel zine knechte</l>
+</lg>
+<lg type="stanza" n="66">
+<lb n="31" xml:id="Cf223va.31"/><l n="C_M1_66_846"><hi rend="capitalsize2">I</hi>acob du sprekes wel <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> waer</l>
+<lb n="32" xml:id="Cf223va.32"/><l n="C_M1_66_847">die wech is nauwe <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> swaer</l>
+<lb n="33" xml:id="Cf223va.33"/><l n="C_M1_66_848"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> zeer onghetreden</l>
+<lb n="34" xml:id="Cf223va.34"/><l n="C_M1_66_849">met aermoede teclimmen daer</l>
+<lb n="35" xml:id="Cf223va.35"/><l n="C_M1_66_850">daermen leuet zonder vaer</l>
+<lb n="36" xml:id="Cf223va.36"/><l n="C_M1_66_851">in eweliken vreden</l>
+<lb n="37" xml:id="Cf223va.37"/><l n="C_M1_66_852">martijn zo trect den aermen naer</l>
+<lb n="38" xml:id="Cf223va.38"/><l n="C_M1_66_853"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> deile hem stille <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> openbaer</l>
+<lb n="39" xml:id="Cf223va.39"/><l n="C_M1_66_854">van dijnre weldicheden</l>
+<lb n="40" xml:id="Cf223va.40"/><l n="C_M1_66_855">in die kerke <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> op den outaer</l>
+<lb n="41" xml:id="Cf223va.41"/><l n="C_M1_66_856">het wordt te ioncsten daghe claer</l>
+<lb n="42" xml:id="Cf223va.42"/><l n="C_M1_66_857">datti god zal besteden</l>
+<lb n="43" xml:id="Cf223va.43"/><l n="C_M1_66_858">met zinen lieuen leden.</l>
+</lg>
+<lg type="stanza" n="67">
+<lb n="44" xml:id="Cf223va.44"/><l n="C_M1_67_859"><hi rend="capitalsize2">I</hi>s die wech nauwe <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> hoech</l>
+<lb n="45" xml:id="Cf223va.45"/><l n="C_M1_67_860">daer ihc bi tehemele vloech</l>
+<lb n="46" xml:id="Cf223va.46"/><l n="C_M1_67_861">na passien <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> aermoeden</l>
+<lb n="47" xml:id="Cf223va.47"/><l n="C_M1_67_863">om die gods hulde poech</l>
+<lb n="48" xml:id="Cf223va.48"/><l n="C_M1_67_862">heefstu meer dan di doech</l>
+<lb n="49" xml:id="Cf223va.49"/><l n="C_M1_67_864">deile van dinen goeden</l>
+<lb n="50" xml:id="Cf223va.50"/><l n="C_M1_67_865">dine fiere herte boech</l>
+<lb n="51" xml:id="Cf223va.51"/><l n="C_M1_67_866">den aermen <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> toech</l>
+
+
+<pb xml:id="C.f223vb" n="223vb"/>
+<lb n="1" xml:id="Cf223vb.1"/><l n="C_M1_67_867">ontfarmicheit van moede</l>
+<lb n="2" xml:id="Cf223vb.2"/><l n="C_M1_67_868">god zelue die noyt en loech</l>
+<lb n="3" xml:id="Cf223vb.3"/><l n="C_M1_67_869"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> den milden niene bedroech</l>
+<lb n="4" xml:id="Cf223vb.4"/><l n="C_M1_67_870">zet di in zijnre hoede</l>
+<lb n="5" xml:id="Cf223vb.5"/><l n="C_M1_67_871">buten der duuel roede.</l>
+</lg>
+<lg type="stanza" n="68">
+<lb n="6" xml:id="Cf223vb.6"/><l n="C_M1_68_872"><hi rend="capitalsize2">I</hi>acob die werelt maect ghescal</l>
+<lb n="7" xml:id="Cf223vb.7"/><l n="C_M1_68_873"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> tyet den vrouwen al</l>
+<lb n="8" xml:id="Cf223vb.8"/><l n="C_M1_68_874">dat wij in den zonden sneuen</l>
+<lb n="9" xml:id="Cf223vb.9"/><l n="C_M1_68_875">want eua viel den iersten ual</l>
+<lb n="10" xml:id="Cf223vb.10"/><l n="C_M1_68_876">daer wij om int aertsche dal</l>
+<lb n="11" xml:id="Cf223vb.11"/><l n="C_M1_68_877">noch alle zijn verdreuen</l>
+<lb n="12" xml:id="Cf223vb.12"/><l n="C_M1_68_878">zo zegghen zi groet <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> smal</l>
+<lb n="13" xml:id="Cf223vb.13"/><l n="C_M1_68_879">dat zi adame therte stal</l>
+<lb n="14" xml:id="Cf223vb.14"/><l n="C_M1_68_880">die hem haer liet vergheuen</l>
+<lb n="15" xml:id="Cf223vb.15"/><l n="C_M1_68_881">zegh mi wie ment tyen zal</l>
+<lb n="16" xml:id="Cf223vb.16"/><l n="C_M1_68_882">dit verlies zonder ghetal</l>
+<lb n="17" xml:id="Cf223vb.17"/><l n="C_M1_68_883">daer wij om moeten beuen</l>
+<lb n="18" xml:id="Cf223vb.18"/><l n="C_M1_68_884">alse einden zal dit leuen.</l>
+</lg>
+<lg type="stanza" n="69">
+<lb n="19" xml:id="Cf223vb.19"/><l n="C_M1_69_885"><hi rend="capitalsize2">M</hi>artijn hine is niet harde uroet</l>
+<lb n="20" xml:id="Cf223vb.20"/><l n="C_M1_69_886">die mi aen tijet dat hi misdoet</l>
+<lb n="21" xml:id="Cf223vb.21"/><l n="C_M1_69_887">kende hi vroem of scade</l>
+<lb n="22" xml:id="Cf223vb.22"/><l n="C_M1_69_888">ic zie die zee ic zie die vloet</l>
+<lb n="23" xml:id="Cf223vb.23"/><l n="C_M1_69_889">ic zetter willens in den voet</l>
+<lb n="24" xml:id="Cf223vb.24"/><l n="C_M1_69_890">bi enen dommen rade</l>
+<lb n="25" xml:id="Cf223vb.25"/><l n="C_M1_69_891">wien magh ic draghen euel moet</l>
+<lb n="26" xml:id="Cf223vb.26"/><l n="C_M1_69_892">of mi die storm met groter spoet</l>
+<lb n="27" xml:id="Cf223vb.27"/><l n="C_M1_69_893">draghet in onghewade</l>
+<lb n="28" xml:id="Cf223vb.28"/><l n="C_M1_69_894">of ic quaet can <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> goet</l>
+<lb n="29" xml:id="Cf223vb.29"/><l n="C_M1_69_895"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> ic mi willens veinze verwoet</l>
+<lb n="30" xml:id="Cf223vb.30"/><l n="C_M1_69_896">men zalt claghen spade</l>
+<lb n="31" xml:id="Cf223vb.31"/><l n="C_M1_69_897">dat ic mi verlade.</l>
+</lg>
+<lg type="stanza" n="70">
+<lb n="32" xml:id="Cf223vb.32"/><l n="C_M1_70_898"><hi rend="capitalsize2">Z</hi>ulc tyet der vrouwen opzien</l>
+<lb n="33" xml:id="Cf223vb.33"/><l n="C_M1_70_899">dat zi hem dat herte ontien</l>
+<lb n="34" xml:id="Cf223vb.34"/><l n="C_M1_70_900">alse die steen die naelde</l>
+<lb n="35" xml:id="Cf223vb.35"/><l n="C_M1_70_901">die dunken mi misdoen in dien</l>
+<lb n="36" xml:id="Cf223vb.36"/><l n="C_M1_70_902">wilde hi der waerheit ghien</l>
+<lb n="37" xml:id="Cf223vb.37"/><l n="C_M1_70_903">dat hi daertoe taelde</l>
+<lb n="38" xml:id="Cf223vb.38"/><l n="C_M1_70_904">wat moghens vrouwen dat manne plien</l>
+<lb n="39" xml:id="Cf223vb.39"/><l n="C_M1_70_905">zo nauwe haer scoenheit spien</l>
+<lb n="40" xml:id="Cf223vb.40"/><l n="C_M1_70_906">wie is diese daertoe haelde</l>
+<lb n="41" xml:id="Cf223vb.41"/><l n="C_M1_70_907">wilde die claghere te tide vlien</l>
+<lb n="42" xml:id="Cf223vb.42"/><l n="C_M1_70_908">zo enmochte hem niet miscien</l>
+<lb n="43" xml:id="Cf223vb.43"/><l n="C_M1_70_909"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> hi den zin verstaelde</l>
+<lb n="44" xml:id="Cf223vb.44"/><l n="C_M1_70_910">eer hem therte daelde.</l>
+</lg>
+<lg type="stanza" n="71">
+<lb n="45" xml:id="Cf223vb.45"/><l n="C_M1_71_911"><hi rend="capitalsize2">V</hi>rouwen zijn van naturen zoet</l>
+<lb n="46" xml:id="Cf223vb.46"/><l n="C_M1_71_912">zi slachten den wine <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> der gloet</l>
+<lb n="47" xml:id="Cf223vb.47"/><l n="C_M1_71_913">die de werelt verbliden</l>
+<lb n="48" xml:id="Cf223vb.48"/><l n="C_M1_71_914">die te vele des wijns in doet</l>
+<lb n="49" xml:id="Cf223vb.49"/><l n="C_M1_71_915"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> te na den viere zet den voet</l>
+<lb n="50" xml:id="Cf223vb.50"/><l n="C_M1_71_916">hine cant niet gheliden</l>
+<lb n="51" xml:id="Cf223vb.51"/><l n="C_M1_71_917">waren die manne also behoet</l>
+
+
+<pb xml:id="C.f224ra" n="224ra"/>
+<lb n="1" xml:id="Cf224ra.1"/><l n="C_M1_71_918">dat zij oghen zin <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> moet</l>
+<lb n="2" xml:id="Cf224ra.2"/><l n="C_M1_71_919">wel consten besniden</l>
+<lb n="3" xml:id="Cf224ra.3"/><l n="C_M1_71_920">zo waer vrouwen minnen spoet</l>
+<lb n="4" xml:id="Cf224ra.4"/><l n="C_M1_71_921">nu werden zij van minnen verwoet</l>
+<lb n="5" xml:id="Cf224ra.5"/><l n="C_M1_71_922">die daer domlike toe tiden</l>
+<lb n="6" xml:id="Cf224ra.6"/><l n="C_M1_71_923">dit doet vrouwen beniden.</l>
+</lg>
+<lg type="stanza" n="72">
+<lb n="7" xml:id="Cf224ra.7"/><l n="C_M1_72_924"><hi rend="capitalsize2">W</hi>ant men luttel trouwen kent</l>
+<lb n="8" xml:id="Cf224ra.8"/><l n="C_M1_72_925">vrouwen claghic niet entwint</l>
+<lb n="9" xml:id="Cf224ra.9"/><l n="C_M1_72_926">bi eenre maniere</l>
+<lb n="10" xml:id="Cf224ra.10"/><l n="C_M1_72_927">want wes men vele vint</l>
+<lb n="11" xml:id="Cf224ra.11"/><l n="C_M1_72_928">wordt onwert <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> onghemint</l>
+<lb n="12" xml:id="Cf224ra.12"/><l n="C_M1_72_929"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> men copet ondiere</l>
+<lb n="13" xml:id="Cf224ra.13"/><l n="C_M1_72_930">manne zijn loser dan die wint</l>
+<lb n="14" xml:id="Cf224ra.14"/><l n="C_M1_72_931">haer scone claghen vrouwen verblint</l>
+<lb n="15" xml:id="Cf224ra.15"/><l n="C_M1_72_932">want zi zijn goedertiere</l>
+<lb n="16" xml:id="Cf224ra.16"/><l n="C_M1_72_933">in groten zonden hi hem bewint</l>
+<lb n="17" xml:id="Cf224ra.17"/><l n="C_M1_72_934">die ualsche woerde vrouwen toezeint</l>
+<lb n="18" xml:id="Cf224ra.18"/><l n="C_M1_72_935">god hi moet hem sciere</l>
+<lb n="19" xml:id="Cf224ra.19"/><l n="C_M1_72_936">zeinden ten helschen viere</l>
+</lg>
+<lg type="stanza" n="73">
+<lb n="20" xml:id="Cf224ra.20"/><l n="C_M1_73_937"><hi rend="capitalsize2">W</hi>at mocht eua dat adam</l>
+<lb n="21" xml:id="Cf224ra.21"/><l n="C_M1_73_938">doer haren wille den appel nam</l>
+<lb n="22" xml:id="Cf224ra.22"/><l n="C_M1_73_939">dat wij noch alle besteruen</l>
+<lb n="23" xml:id="Cf224ra.23"/><l n="C_M1_73_940">ic waenre ons vordeel aue quam</l>
+<lb n="24" xml:id="Cf224ra.24"/><l n="C_M1_73_941">hier om wart mensche themelsche lam</l>
+<lb n="25" xml:id="Cf224ra.25"/><l n="C_M1_73_942">tot onzer alre bederuen</l>
+<lb n="26" xml:id="Cf224ra.26"/><l n="C_M1_73_943">hi versoende des vader gram</l>
+<lb n="27" xml:id="Cf224ra.27"/><l n="C_M1_73_944">hi wijsde ons den wech <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> den dam</l>
+<lb n="28" xml:id="Cf224ra.28"/><l n="C_M1_73_945">toter hogher eruen</l>
+<lb n="29" xml:id="Cf224ra.29"/><l n="C_M1_73_946">zelsenre dinc noyt man vernam</l>
+<lb n="30" xml:id="Cf224ra.30"/><l n="C_M1_73_947">dan die maghet gode maecte zo tam</l>
+<lb n="31" xml:id="Cf224ra.31"/><l n="C_M1_73_948">dat hi hem eneweruen</l>
+<lb n="32" xml:id="Cf224ra.32"/><l n="C_M1_73_949">doer ons liet bederuen.</l>
+</lg>
+<lg type="stanza" n="74">
+<lb n="33" xml:id="Cf224ra.33"/><l n="C_M1_74_950"><hi rend="capitalsize2">W</hi>at maken quaetsprekers gheschal</l>
+<lb n="34" xml:id="Cf224ra.34"/><l n="C_M1_74_951">vrouwen dadent wel na al</l>
+<lb n="35" xml:id="Cf224ra.35"/><l n="C_M1_74_952">dat dit wonder ghesciede</l>
+<lb n="36" xml:id="Cf224ra.36"/><l n="C_M1_74_953">al dat is <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> wesen zal</l>
+<lb n="37" xml:id="Cf224ra.37"/><l n="C_M1_74_954"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> oyt was zonder ghetal</l>
+<lb n="38" xml:id="Cf224ra.38"/><l n="C_M1_74_955">enghele <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> liede</l>
+<lb n="39" xml:id="Cf224ra.39"/><l n="C_M1_74_956">benedide groet <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> smal</l>
+<lb n="40" xml:id="Cf224ra.40"/><l n="C_M1_74_957">marien die ghenas den val</l>
+<lb n="41" xml:id="Cf224ra.41"/><l n="C_M1_74_958">van menschelike diede</l>
+<lb n="42" xml:id="Cf224ra.42"/><l n="C_M1_74_959">zi is die rouede <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> stal</l>
+<lb n="43" xml:id="Cf224ra.43"/><l n="C_M1_74_960">die zielen int helsche dal</l>
+<lb n="44" xml:id="Cf224ra.44"/><l n="C_M1_74_961">die lucifer beghiede</l>
+<lb n="45" xml:id="Cf224ra.45"/><l n="C_M1_74_962">dat waer zine maisniede.</l>
+</lg>
+<lg type="stanza" n="75">
+<lb n="46" xml:id="Cf224ra.46"/><l n="C_M1_75_963"><hi rend="capitalsize2">I</hi>acob du bist den vrouwen hout</l>
+<lb n="47" xml:id="Cf224ra.47"/><l n="C_M1_75_964">du gheues den <choice><abbr>manne<g ref="#bar"/></abbr><expan>manne<ex>n</ex></expan></choice> al die scout</l>
+<lb n="48" xml:id="Cf224ra.48"/><l n="C_M1_75_965">ic waen ict best ghedoghe</l>
+<lb n="49" xml:id="Cf224ra.49"/><l n="C_M1_75_966">ic vergheue al onghedout</l>
+<lb n="50" xml:id="Cf224ra.50"/><l n="C_M1_75_967">allen vrouwen ionc <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> out</l>
+<lb n="51" xml:id="Cf224ra.51"/><l n="C_M1_75_968">om die vrouwe hoghe</l>
+
+
+<pb xml:id="C.f224rb" n="224rb"/>
+<lb n="1" xml:id="Cf224rb.1"/><l n="C_M1_75_969">daer ons af quam onze behout</l>
+<lb n="2" xml:id="Cf224rb.2"/><l n="C_M1_75_970">ghedanct zi zi dusentuout</l>
+<lb n="3" xml:id="Cf224rb.3"/><l n="C_M1_75_971">dat zine ophielt met zoghe</l>
+<lb n="4" xml:id="Cf224rb.4"/><l n="C_M1_75_972">die ons benam dat helsce cout</l>
+<lb n="5" xml:id="Cf224rb.5"/><l n="C_M1_75_973">tot haer ben ic ten einde bout</l>
+<lb n="6" xml:id="Cf224rb.6"/><l n="C_M1_75_974">onze dyaloghe</l>
+<lb n="7" xml:id="Cf224rb.7"/><l n="C_M1_75_975">in vraghe niet meer noch en toghe.</l>
+
+<note n="C_M1_75_976">Line_number 976 is missing</note>
+</lg>
+</p>
+</body>
+</text>
+        </group>
+    </text>
+ </MVN>

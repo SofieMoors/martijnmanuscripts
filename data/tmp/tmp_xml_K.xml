@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MVN xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Jacob van Maerlant, Martijn</title><editor xml:id="SM">Sofie Moors</editor></titleStmt>
+            <publicationStmt>
+                <p>Transcription based on: Overgaauw, E. A. (ed.) (1996). Een nieuw fragment van Jacob van Maerlant’s Eerste Martijn (Koblenz, Landeshauptarchiv, Best. 701: Nr. 262, fol. 173). Queeste, 3: 191–196.</p>
+            </publicationStmt>
+            <sourceDesc>
+               <msDesc>
+          <msIdentifier>
+            <settlement>Koblenz
+
+ </settlement>
+            <institution>Landeshauptarchiv</institution>
+            <idno>Best. 701 Nr. 262</idno>
+            <msName>K</msName>
+          </msIdentifier>
+ <p>...</p>
+        </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+ <charDecl><char xml:id="rrot">
+                <charName>LATIN SMALL LETTER R ROTUNDA</charName>
+                <mapping type="junicode">ꝛ</mapping>
+                <mapping type="mufi">ꝛ</mapping>
+                <mapping type="standard">ꝛ</mapping>
+            </char></charDecl>
+            <xi:include href="http://www.huygensinstituut.knaw.nl/projecten/mvn/webfiles/charDecl.xml"  
+                xmlns:xi="http://www.w3.org/2001/XInclude">
+                <xi:fallback>
+                    <xi:include href="charDecl/charDecl.xml"/>
+                </xi:fallback>
+            </xi:include>
+            <editorialDecl>
+                <p><!-- Verantwoording van de editie --></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <handNotes>
+                <handNote xml:id="h1"><p>...</p></handNote>
+            </handNotes>
+        </profileDesc>
+    </teiHeader>
+    <text xml:id="Martijn">
+        <group><pb xml:id="K.f173ra" n="173ra"/>
+
+
+<text n="Eerste Martijn" xml:id="M1">
+<body>
+<p><lg type="stanza" n="60">
+<lb n="1" xml:id="Kf173ra.1"/><l n="K_M1_60_768"><hi rend="capitalsize1">B</hi>erecht mi jacob oftu wout</l>
+<lb n="2" xml:id="Kf173ra.2"/><l n="K_M1_60_769"><choice><abbr>wed<g ref="#apomod"/></abbr><expan>wed<ex>er</ex></expan></choice> sekerst is int behout</l>
+<lb n="3" xml:id="Kf173ra.3"/><l n="K_M1_60_770">rijcheit of armoede</l>
+<lb n="4" xml:id="Kf173ra.4"/><l n="K_M1_60_771">eest leec clerc ionc of out</l>
+<lb n="5" xml:id="Kf173ra.5"/><l n="K_M1_60_772">het dinct mi al <choice><abbr>wese<g ref="#bar"/></abbr><expan>wese<ex>n</ex></expan></choice> <choice><abbr>gad<g ref="#apomod"/></abbr><expan>gad<ex>er</ex></expan></choice> gout</l>
+<lb n="6" xml:id="Kf173ra.6"/><l n="K_M1_60_773">al staet na den goede</l>
+<lb n="7" xml:id="Kf173ra.7"/><l n="K_M1_60_774">aermoede prisic menichfout</l>
+<lb n="8" xml:id="Kf173ra.8"/><l n="K_M1_60_775">want si is zeker <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> stout</l>
+<lb n="9" xml:id="Kf173ra.9"/><l n="K_M1_60_776">voor rouers <choice><abbr>sond<g ref="#apomod"/></abbr><expan>sond<ex>er</ex></expan></choice> hoede</l>
+<lb n="10" xml:id="Kf173ra.10"/><l n="K_M1_60_777">doch <choice><abbr>mi<g ref="#bar"/>ne<g ref="#bar"/></abbr><expan>mi<ex>n</ex>ne<ex>n</ex></expan></choice> si voor <choice><abbr>wat<g ref="#apomod"/></abbr><expan>wat<ex>er</ex></expan></choice> smout</l>
+<lb n="11" xml:id="Kf173ra.11"/><l n="K_M1_60_778">si <choice><abbr>scuwe<g ref="#bar"/></abbr><expan>scuwe<ex>n</ex></expan></choice> <choice><abbr>hong<g ref="#apomod"/></abbr><expan>hong<ex>er</ex></expan></choice> <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> cout</l>
+<lb n="12" xml:id="Kf173ra.12"/><l n="K_M1_60_779">eist also ic mi vermoede</l>
+<lb n="13" xml:id="Kf173ra.13"/><l n="K_M1_60_780">so dolen dese vroede</l>
+</lg>
+<lg type="stanza" n="61">
+<lb n="14" xml:id="Kf173ra.14"/><l n="K_M1_61_781"><choice><abbr><hi rend="capitalsize1">M</hi>aerti<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">M</hi>aerti<ex>n</ex></expan></choice> ic mete di vul diin vat</l>
+<lb n="15" xml:id="Kf173ra.15"/><l n="K_M1_61_782">vp <choice><abbr>de<g ref="#bar"/></abbr><expan>de<ex>n</ex></expan></choice> stoel <choice><abbr>d<g ref="#apomod"/></abbr><expan>d<ex>er</ex></expan></choice> moyses sat</l>
+<lb n="16" xml:id="Kf173ra.16"/><l n="K_M1_61_783"><choice><abbr>sitte<g ref="#bar"/></abbr><expan>sitte<ex>n</ex></expan></choice> die gheleerde</l>
+<lb n="17" xml:id="Kf173ra.17"/><l n="K_M1_61_784">dat si di <choice><abbr>rade<g ref="#bar"/></abbr><expan>rade<ex>n</ex></expan></choice> doe al dat</l>
+<lb n="18" xml:id="Kf173ra.18"/><l n="K_M1_61_785">si wisen di den <choice><abbr>rechte<g ref="#bar"/></abbr><expan>rechte<ex>n</ex></expan></choice> pat</l>
+<lb n="19" xml:id="Kf173ra.19"/><l n="K_M1_61_786">so wel <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> <choice><abbr>die<g ref="#apomod"/></abbr><expan>die<ex>re</ex></expan></choice> <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> an keerde</l>
+<lb n="20" xml:id="Kf173ra.20"/><l n="K_M1_61_787"><choice><abbr>m<g ref="#apomod"/></abbr><expan>m<ex>er</ex></expan></choice> in weldoen siin si lat</l>
+<lb n="21" xml:id="Kf173ra.21"/><l n="K_M1_61_788">si <choice><abbr>hete<g ref="#bar"/></abbr><expan>hete<ex>n</ex></expan></choice> <choice><abbr>vaste<g ref="#bar"/></abbr><expan>vaste<ex>n</ex></expan></choice> <choice><abbr>m<g ref="#apomod"/></abbr><expan>m<ex>er</ex></expan></choice> si siin sat</l>
+<lb n="22" xml:id="Kf173ra.22"/><l n="K_M1_61_789">volghe <choice><abbr>n<g ref="#etfin"/></abbr><expan>n<ex>iet</ex></expan></choice> sulke heerde</l>
+<lb n="23" xml:id="Kf173ra.23"/><l n="K_M1_61_790">si en <choice><abbr>mi<g ref="#bar"/>ne<g ref="#bar"/></abbr><expan>mi<ex>n</ex>ne<ex>n</ex></expan></choice> <choice><abbr>n<g ref="#etfin"/></abbr><expan>n<ex>iet</ex></expan></choice> voor <choice><abbr>de<g ref="#bar"/></abbr><expan>de<ex>n</ex></expan></choice> scat</l>
+<lb n="24" xml:id="Kf173ra.24"/><l n="K_M1_61_791">haer hant is altoos <choice><abbr>sond<g ref="#apomod"/></abbr><expan>sond<ex>er</ex></expan></choice> gat</l>
+<lb n="25" xml:id="Kf173ra.25"/><l n="K_M1_61_792">noyt was volc vp de eerde</l>
+<lb n="26" xml:id="Kf173ra.26"/><l n="K_M1_61_793">dat meer scats begheerde</l>
+</lg>
+<lg type="stanza" n="62">
+<lb n="27" xml:id="Kf173ra.27"/><l n="K_M1_62_794"><hi rend="capitalsize1">D</hi>ie meeste menichte es <choice><abbr>d<g ref="#usmod"/></abbr><expan>d<ex>us</ex></expan></choice> gedaen</l>
+<lb n="28" xml:id="Kf173ra.28"/><l n="K_M1_62_795">nochtan vintmer <choice><abbr>sond<g ref="#apomod"/></abbr><expan>sond<ex>er</ex></expan></choice> waen</l>
+<lb n="29" xml:id="Kf173ra.29"/><l n="K_M1_62_796">al siin si selsiene</l>
+<lb n="30" xml:id="Kf173ra.30"/><l n="K_M1_62_797">die <choice><abbr>de<g ref="#bar"/></abbr><expan>de<ex>n</ex></expan></choice> <choice><abbr>eerdsche<g ref="#bar"/></abbr><expan>eerdsche<ex>n</ex></expan></choice> goede ontgaen</l>
+<lb n="31" xml:id="Kf173ra.31"/><l n="K_M1_62_798"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> armoede ane vaen</l>
+<lb n="32" xml:id="Kf173ra.32"/><l n="K_M1_62_799">bi <choice><abbr>helighe<g ref="#bar"/></abbr><expan>helighe<ex>n</ex></expan></choice> engiene</l>
+<lb n="33" xml:id="Kf173ra.33"/><l n="K_M1_62_800">si laten <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> <choice><abbr>blouwe<g ref="#bar"/></abbr><expan>blouwe<ex>n</ex></expan></choice> <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> slaen</l>
+<lb n="34" xml:id="Kf173ra.34"/><l n="K_M1_62_801"><choice><abbr>tormentere<g ref="#bar"/></abbr><expan>tormentere<ex>n</ex></expan></choice> <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> vlaen</l>
+<lb n="35" xml:id="Kf173ra.35"/><l n="K_M1_62_802">om de helle tontvliene</l>
+<lb n="36" xml:id="Kf173ra.36"/><l n="K_M1_62_803">hier <choice><abbr>i<g ref="#bar"/></abbr><expan>i<ex>n</ex></expan></choice> waert sekerst vulstaen</l>
+<lb n="37" xml:id="Kf173ra.37"/><l n="K_M1_62_804">die <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> in dit doopsel dwaen</l>
+<lb n="38" xml:id="Kf173ra.38"/><l n="K_M1_62_805">siin <choice><abbr>sek<g ref="#apomod"/></abbr><expan>sek<ex>er</ex></expan></choice> gode te siene</l>
+<lb n="39" xml:id="Kf173ra.39"/><l n="K_M1_62_806"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> hem <choice><abbr>n<g ref="#etfin"/></abbr><expan>n<ex>iet</ex></expan></choice> te messciene</l>
+</lg>
+<lg type="stanza" n="63">
+<lb n="40" xml:id="Kf173ra.40"/><l n="K_M1_63_807"><hi rend="capitalsize1">D</hi>ie gods sone toocht ons dat</l>
+<lb n="41" xml:id="Kf173ra.41"/><l n="K_M1_63_808">die <choice><abbr>eue<g ref="#bar"/></abbr><expan>eue<ex>n</ex></expan></choice> gheweldich sit <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> sat</l>
+<lb n="42" xml:id="Kf173ra.42"/><l n="K_M1_63_809">den vader in den rike</l>
+<lb n="43" xml:id="Kf173ra.43"/><l n="K_M1_63_810">hi beete in dese arme stat</l>
+<lb n="44" xml:id="Kf173ra.44"/><l n="K_M1_63_813"><choice><abbr>d<g ref="#apomod"/></abbr><expan>d<ex>er</ex></expan></choice> hi cume zoghes <choice><abbr>w<g ref="#apomod"/>t</abbr><expan>w<ex>er</ex>t</expan></choice> sat</l>
+<lb n="45" xml:id="Kf173ra.45"/><l n="K_M1_63_812">herde omoedelike</l>
+
+
+<pb xml:id="K.f173rb" n="173rb"/>
+<lb n="1" xml:id="Kf173rb.1"/><l n="K_M1_63_811"><choice><abbr>jnd<g ref="#apomod"/></abbr><expan>jnd<ex>er</ex></expan></choice> reynre magheden vat</l>
+<lb n="2" xml:id="Kf173rb.2"/><l n="K_M1_63_814"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> doghede <choice><abbr>menighe<g ref="#bar"/></abbr><expan>menighe<ex>n</ex></expan></choice> gods hat</l>
+<lb n="3" xml:id="Kf173rb.3"/><l n="K_M1_63_815">van sinen onghelike</l>
+<lb n="4" xml:id="Kf173rb.4"/><l n="K_M1_63_816">die armoede dats .i. pat</l>
+<lb n="5" xml:id="Kf173rb.5"/><l n="K_M1_63_817">die dor den hemel maect .i. gat</l>
+<lb n="6" xml:id="Kf173rb.6"/><l n="K_M1_63_818"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> so niet en beswike</l>
+<lb n="7" xml:id="Kf173rb.7"/><l n="K_M1_63_819">die <choice><abbr>ha<g ref="#apomod"/></abbr><expan>ha<ex>er</ex></expan></choice> met <choice><abbr>trouwe<g ref="#bar"/></abbr><expan>trouwe<ex>n</ex></expan></choice> wike</l>
+</lg>
+<lg type="stanza" n="64">
+<lb n="8" xml:id="Kf173rb.8"/><l n="K_M1_64_820"><hi rend="capitalsize1">W</hi>aenstu <choice><abbr>maerti<g ref="#bar"/></abbr><expan>maerti<ex>n</ex></expan></choice> weeldich vet</l>
+<lb n="9" xml:id="Kf173rb.9"/><l n="K_M1_64_821">siin ghecleet nv wel nv bet</l>
+<lb n="10" xml:id="Kf173rb.10"/><l n="K_M1_64_822">varen int langhe leuen</l>
+<lb n="11" xml:id="Kf173rb.11"/><l n="K_M1_64_823"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> <choice><abbr>ih<g ref="#apomod"/>s</abbr><expan>ih<ex>esu</ex>s</expan></choice> hinc mit bloet besmet</l>
+<lb n="12" xml:id="Kf173rb.12"/><l n="K_M1_64_824"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> sine <choice><abbr>recht<g ref="#apomod"/></abbr><expan>recht<ex>er</ex></expan></choice> zide ghesplet</l>
+<lb n="13" xml:id="Kf173rb.13"/><l n="K_M1_64_825">ant hout was verheuen</l>
+<lb n="14" xml:id="Kf173rb.14"/><l n="K_M1_64_826">of dat hooft van onser wet</l>
+<lb n="15" xml:id="Kf173rb.15"/><l n="K_M1_64_827">met <choice><abbr>scarpe<g ref="#bar"/></abbr><expan>scarpe<ex>n</ex></expan></choice> <choice><abbr>dorne<g ref="#bar"/></abbr><expan>dorne<ex>n</ex></expan></choice> was beset</l>
+<lb n="16" xml:id="Kf173rb.16"/><l n="K_M1_64_828">alst noch is bescreuen</l>
+<lb n="17" xml:id="Kf173rb.17"/><l n="K_M1_64_829">eist dattu wesen wilt gods let</l>
+<lb n="18" xml:id="Kf173rb.18"/><l n="K_M1_64_830">magerlike drinc <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> et</l>
+<lb n="19" xml:id="Kf173rb.19"/><l n="K_M1_64_831">leere weelde <choice><abbr>begheue<g ref="#bar"/></abbr><expan>begheue<ex>n</ex></expan></choice></l>
+<lb n="20" xml:id="Kf173rb.20"/><l n="K_M1_64_832">of du moets zware <choice><abbr>sneue<g ref="#bar"/></abbr><expan>sneue<ex>n</ex></expan></choice></l>
+</lg>
+<lg type="stanza" n="65">
+<lb n="21" xml:id="Kf173rb.21"/><l n="K_M1_65_833"><hi rend="capitalsize1">N</hi>iet en seggic dat <choice><abbr>rijch<hi rend="superscript">t</hi></abbr><expan>rijch<ex>eit</ex></expan></choice> sent</l>
+<lb n="22" xml:id="Kf173rb.22"/><l n="K_M1_65_834">dus</l>
+</lg>
+</p>
+</body>
+</text>
+        </group>
+    </text>
+ </MVN>

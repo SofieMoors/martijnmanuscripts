@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<charDecl  xmlns="http://www.tei-c.org/ns/1.0">
+    <char xml:id="apomod">
+        <charName>ABBREVIATION SIGN APOSTROPHE</charName>
+        <mapping type="standard">ʼ</mapping>
+        <note>Is Unicode code point 02BC</note>
+    </char>
+    <char xml:id="asup">
+        <charName>COMBINING LATIN SMALL LETTER A</charName>
+        <mapping type="standard">&#x0363;</mapping>
+        <note>Toegevoegd voor Serrure.</note>
+    </char>
+    <char xml:id="combcomma">
+        <charName>COMBINING COMMA ABOVE</charName>
+        <mapping type="standard">&#x0313;</mapping>
+        <note>Niet in Freckenhorst</note>
+    </char>
+    <char xml:id="condes">
+        <charName>LATIN ABBREVIATION SIGN SMALL CON DESCENDING</charName>
+        <mapping type="mufi">&#xA76F;</mapping>
+        <mapping type="junicode">&#xA76F;</mapping>
+        <mapping type="standard">&#xA76F;</mapping>
+    </char>
+    <char xml:id="cflourish">
+        <charName>??</charName>
+        <mapping type="junicode">&#xF198;</mapping>
+        <note>Gebruikt in VVEVM. Bestaat niet in MUFI? Vertaal nu naar #ccurl in PUA.</note>
+    </char>
+    <char xml:id="ddes">
+        <charName>??</charName>
+        <mapping type="junicode">&#x0256;</mapping>
+        <mapping type="standard">&#x0256;</mapping>
+        <note>Gebruikt in VVEVM. Bestaat niet in MUFI? (d heeft geen descender). Vertaal nu naar #dtail.</note>
+    </char>
+    <char xml:id="esup">
+        <charName>COMBINING LATIN SMALL LETTER E</charName>
+        <mapping type="standard">&#x0364;</mapping>
+        <note>Niet in Fr. </note>
+    </char>
+    <char xml:id="et">
+        <charName>LATIN ABBREVIATION SIGN SMALL ET</charName>
+        <mapping type="junicode">&#x204a;</mapping>
+        <note>Komt niet voor in bijvoorbeeld Times New Roman of zelfs Arial Unicode MS</note>
+    </char>
+    <char xml:id="etfin">
+        <charName>LATIN ABBREVIATION SIGN FINAL ET</charName>
+        <mapping type="mufi">&#xA76B;</mapping>
+        <mapping type="junicode">&#xA76B;</mapping>
+        <mapping type="standard">&#xA76B;</mapping>
+    </char>
+    <char xml:id="etslash">
+        <charName>LATIN ABBREVIATION SIGN SMALL ET WITH STROKE</charName>
+        <mapping type="mufi">&#xf158;</mapping>
+        <mapping type="junicode">&#xf158;</mapping>
+        <note>Niet in Fr.</note>
+    </char>
+    <char xml:id="inodotsup">
+        <charName>COMBINING LATIN SMALL LETTER DOTLESS I</charName>
+        <mapping type="mufi">&#xf02f;</mapping>
+        <mapping type="junicode">&#x0365;</mapping>
+        <note>Nog niet in junicode. Gebruik nu de variant met een punt</note>
+    </char>
+    <char xml:id="ijlig">
+        <charName>LATIN SMALL LIGATURE IJ</charName>
+        <mapping type="standard">&#x0133;</mapping>
+    </char>
+    <char xml:id="is">
+        <charName>LATIN ABBREVIATION SIGN SMALL IS</charName>
+        <mapping type="mufi">&#xf15a;</mapping>
+        <mapping type="junicode">&#xf15a;</mapping>
+        <note>Niet gebruikt in Fr.?</note>
+    </char>
+    <char xml:id="pbardes">
+        <charName>LATIN SMALL LETTER P WITH STROKE THROUGH DESCENDER</charName>
+        <mapping type="junicode">&#xA751;</mapping>
+        <mapping type="mufi">&#xA751;</mapping>
+        <mapping type="standard">&#xA751;</mapping>
+        <note>Streepje is erg dun in Junicode, maar staat er wel. </note>
+    </char>
+    <char xml:id="para">
+        <charName>PILCROW SIGN</charName>
+        <mapping type="standard">¶</mapping>
+        <note>Kan rechtstreeks in document worden opgenomen.</note>
+    </char>
+    <char xml:id="pflour">
+        <charName>LATIN SMALL LETTER P WITH FLOURISH</charName>
+        <!--<mapping type="junicode">&#xf147;</mapping>-->
+        <mapping type="junicode">&#xe67d;</mapping>
+        <mapping type="mufi">&#xe67d;</mapping>
+        <mapping type="standard">&#xa753;</mapping>
+    </char>
+    <char xml:id="qbardes">
+        <charName>LATIN SMALL LETTER Q WITH STROKE THROUGH DESCENDER</charName>
+        <mapping type="junicode">&#xA757;</mapping>
+        <mapping type="mufi">&#xA757;</mapping>
+        <mapping type="standard">&#xA757;</mapping>
+    </char>
+    <char xml:id="qslstrok">
+        <charName>LATIN SMALL LETTER Q WITH DIAGONAL STROKE</charName>
+        <mapping type="mufi">&#xe8b1;</mapping>
+        <mapping type="junicode">&#xe8b1;</mapping>
+        <!--<mapping type="temp">q&#x0338;</mapping>-->
+    </char>
+    <char xml:id="ra">
+        <charName>COMBINING LATIN SMALL LETTER FLATTENED OPEN A ABOVE</charName>
+        <mapping type="mufi">&#x1dd3;</mapping>
+        <mapping type="junicode">&#x1dd3;</mapping>
+        <mapping type="standard">&#x1dd3;</mapping>
+    </char>
+    <char xml:id="rtailstrok">
+        <charName>LATIN SMALL LETTER R WITH TAIL STROKE</charName>
+        <mapping type="mufi">&#xe8b5;</mapping>
+        <mapping type="junicode">&#xe8b5;</mapping>
+        <!--<mapping type="temp">r&#x0338;</mapping>-->
+    </char>
+    <char xml:id="Rtailstrok">
+        <charName>LATIN CAPITAL LETTER R WITH TAIL STROKE</charName>
+        <mapping type="standard">&#x211e;</mapping>
+        <note>in Unicode heet dit PRESCRIPTION TAKE? mufi onderkent ook een small capital variant en een variant met een grotere streep</note>
+    </char>
+    <char xml:id="usup">
+        <charName>COMBINING LATIN SMALL LETTER U</charName>
+        <mapping type="standard">&#x0367;</mapping>
+        <note>In gebruik in VVEVM</note>
+    </char>
+    <char xml:id="urrot">
+        <charName>COMBINING ABBREVIATION MARK SUPERSCRIPT UR ROUND R FORM</charName>
+        <mapping type="mufi">&#xF153;</mapping>
+        <mapping type="junicode">&#xF153;</mapping>
+    </char>
+    <char xml:id="slongbar">
+        <charName>LATIN SMALL LETTER LONG S WITH STROKE</charName>
+        <mapping type="mufi">&#xe7ff;</mapping>
+        <mapping type="junicode">&#xe7ff;</mapping>
+    </char>
+    <char xml:id="slongbarslash">
+        <charName>LATIN SMALL LETTER LONG S WITH DIAGONAL STROKE</charName>
+        <mapping type="mufi">&#x1e9c;</mapping>
+        <mapping type="junicode">&#x1e9c;</mapping>
+        <mapping type="standard">&#x1e9c;</mapping>
+    </char>
+    <char xml:id="slongslstroke">
+        <charName>LATIN SMALL LETTER LONG S WITH SLANTED DESCENDING STROKE</charName>
+        <mapping type="mufi">&#xe8b8;</mapping>
+        <mapping type="temp">&#xf14f;</mapping>
+        <note>Dit teken bestaat (nog) niet in Junicode. We gebruiken voorlopig LATIN SMALL LETTER LONG S WITH DIAGONAL STROKE</note>
+    </char>
+    <char xml:id="tridotsupw">
+        <charName>ONE DOT OVER TWO DOTS PUNCTUATION</charName>
+        <mapping type="standard">&#x2E2B;</mapping>
+        <mapping type="junicode">&#x2E2B;</mapping>
+        <mapping type="mufi">&#x2E2B;</mapping>
+    </char>
+    <char xml:id="usmod">
+        <charName>LATIN ABBREVIATION SIGN SPACING RAISED US</charName>
+        <mapping type="standard">&#xa770;</mapping>
+        <mapping type="junicode">&#xa770;</mapping>
+        <mapping type="mufi">&#xa770;</mapping>
+    </char>
+    <char xml:id="ubreve">
+        <charName>LATIN SMALL LETTER U WITH BREVE</charName>
+        <mapping type="standard">&#x016d;</mapping>
+    </char>
+    <char xml:id="vdiagstrok">
+        <charName>LATIN SMALL LETTER V WITH DIAGONAL STROKE</charName>
+        <mapping type="mufi">&#xe8bc;</mapping>
+        <mapping type="junicode">&#xe8bc;</mapping>
+        <mapping type="temp">v&#x0338;</mapping>
+    </char>
+    <char xml:id="wdiagstrok">
+        <charName>LATIN SMALL LETTER W WITH DIAGONAL STROKE</charName>
+        <mapping type="temp">w&#x0338;</mapping>
+    </char>
+    <char xml:id="ring">
+        <charName>RING ABOVE</charName>
+        <mapping type="standard">&#x02da;</mapping>
+    </char>
+    <char xml:id="bar">
+        <charName>COMBINING ABBREVIATION MARK BAR ABOVE</charName>
+        <mapping type="standard">&#x0305;</mapping>
+        <note>Is vaak wel erg breed. Is die niet toch bedoeld voor combineren twee karakters?</note>
+    </char>
+    <char xml:id="combcurl">
+        <charName>COMBINING CURL</charName>
+        <mapping type="mufi">&#xf1c4;</mapping>
+        <mapping type="junicode">&#xf1c4;</mapping>
+    </char>
+    <char xml:id="combdblmac">
+        <charName>COMBINING DOUBLE MACRON</charName>
+        <mapping type="standard">&#x035e;</mapping>
+    </char>
+</charDecl>
+

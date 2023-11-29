@@ -1,0 +1,681 @@
+
+
+
+
+Z_M1_28_356 Waer hi daer mede gewont
+Z_M1_28_357 Hine wʼ niet in elenden
+Z_M1_28_358 Mʼ god en wilde dē rikē vont
+Z_M1_28_359 Ghenē sondare genē hont
+Z_M1_28_360 Nēmermeʼe toe sinden
+Z_M1_28_361 Dꝫ edele gaue dꝫ diʼe pont
+Z_M1_28_362 Smaect alleē dʼ vriēde mōt
+Z_M1_28_363 Mē mach hʼ lijf doē enden
+Z_M1_28_364 En̄ nꝫ de ziele scendē
+
+
+Z_M1_29_365 Dandʼ mīne es ōbehoet
+Z_M1_29_366 Wāt si staet na dertsche goet
+Z_M1_29_367 En̄ omder werelt eere.
+Z_M1_29_368 Dats de minne die dicke doet
+Z_M1_29_369 Riddʼscap wesen uʼwoet
+Z_M1_29_370 En̄ dē woekenere
+Z_M1_29_371 Wāt de riddʼ nꝫ roect
+Z_M1_29_372 Hine uʼslijt vleesch en̄ bloet
+Z_M1_29_373 Op dꝫ sijn prijs meere
+Z_M1_29_374 Dandʼ al wʼ gelt de vloet
+Z_M1_29_375 En̄ hē vloide indē mont
+Z_M1_29_376 Hē soude alsoe zeere
+Z_M1_29_377 Dorstē alst dede eere
+
+
+Z_M1_30_378 Dese heuꝫ ondʼsceet
+Z_M1_30_379 Vā hē die omde eʼe steet
+Z_M1_30_380 En̄ om dʼ wʼlt scatte
+Z_M1_30_381 Wiltu eʼe hebbē wes gereet
+Z_M1_30_382 Te latē dꝫ gode es leet
+Z_M1_30_383 Pijndi te doene datte
+Z_M1_30_384 Dꝫ hem lief es en̄ hi di heet
+Z_M1_30_385 Wes vrome om dogꝫ sweet
+Z_M1_30_386 Dꝫmē di niet en matte
+Z_M1_30_387 Ondʼ dʼ ydelre gloriē cleet
+Z_M1_30_388 Daer de menege mꝫ ōme geet
+Z_M1_30_389 Wāt haer tonge platte
+Z_M1_30_390 Smeltē alse sneeclatte
+
+
+Z_M1_31_391 Eere te pᶦsen es eē dinc
+Z_M1_31_392 Dʼ noit hʼte mꝫ ōme ginc
+Z_M1_31_393 Sine wꝰ van reynē 
+Z_M1_31_394 Bestu man of iongelinc
+Z_M1_31_395 Doe altoes wel en̄ dwinc
+Z_M1_31_396 Dijnre hʼtē houerde
+Z_M1_31_397 Prijs die in loddʼs tonge hinc
+Z_M1_31_398 Was noit wert eenre ogen winc
+Z_M1_31_399 Onder die goede werde
+
+Line_number 400 is missing
+
+
+
+Z_M1_31_401 Die menege vaet en̄ wilē vine
+Z_M1_31_402 Die dat wort begherde
+Z_M1_31_403 En̄ dꝫ weldoē spaerde
+
+
+Z_M1_32_404 Goet te hebbē ende scat
+Z_M1_32_405 en̄ tamelijc te nuttē dat
+Z_M1_32_406 Dꝫs eē salich leuen
+Z_M1_32_407 Mʼ gods mīne maect eē gat
+Z_M1_32_408 Dꝫ nēmermeere mach wʼdē sat
+Z_M1_32_409 Al wilde mēt hʼ al geuē
+Z_M1_32_410 Mīne vā gode es gehadt
+Z_M1_32_411 Vor gode inde hoghe stat
+Z_M1_32_412 Dʼ die ingele beuen
+Z_M1_32_413 Dese scuwē dʼ eʼen pat
+Z_M1_32_414 Wāt si moet int helsche vat
+Z_M1_32_415 Salamoē heuꝫ bescreuē
+Z_M1_32_416 En es nꝫ argers bleuen
+
+
+Z_M1_33_417 DIe dʼde mīne eyscht dē tijt
+Z_M1_33_418 Alse bi natuerē elc ōtbeit
+Z_M1_33_419 Die bloiende iare
+Z_M1_33_420 Dꝫs de edelste delijt
+Z_M1_33_421 Alse hʼ scamelhᵗ besnijt
+Z_M1_33_422 En̄ mē dogꝫ heuꝫ mare
+Z_M1_33_423 Diemē vint tʼ wlt wijt
+Z_M1_33_424 Wāt si taldʼ stont vʼblijt
+Z_M1_33_425 Ghelijc oft al hʼ ware
+Z_M1_33_426 Hʼ hope nēmermeʼe gelijdt
+Z_M1_33_427 Die aldꝰ sijn lijf vʼslijt
+Z_M1_33_428 Maect sine ziele clare
+Z_M1_33_429 En̄ en es geē futselare
+
+
+Z_M1_34_430 Minne es alsmē bescreuen vīt
+Z_M1_34_431 Cracht die .ij. hʼtē tsamē bīt
+Z_M1_34_432 In eenē reynē wane
+Z_M1_34_433 Dꝫte mīne hetet blint
+Z_M1_34_434 Cōt dꝫ menegē es soe kīt
+Z_M1_34_435 Dꝫti hē laet uʼspanenē
+Z_M1_34_436 Sine cōnē mīnē nꝫ eē twīt
+Z_M1_34_437 Die wādel sij̄ als de wīt
+Z_M1_34_438 Si rollē buten banen
+Z_M1_34_439 Ic waē mʼ soe vele vīt
+Z_M1_34_440 Mīners in trouwen gehinct
+Z_M1_34_441 Alse doet zwart swanē
+Z_M1_34_442 Dus laet haer minne af planen
+
+
+Z_M1_35_443 Merten du heues berecht
+Z_M1_35_444 Het seit heere ende knecht
+Z_M1_35_445 Vrouwen ende ioncvrouwen
+
+
+
+Z_M1_35_445 Vrouwē en̄ joffrouwē
+Z_M1_35_446 In sanghe in rime slecht
+Z_M1_35_447 Dꝫsi mꝫ mīnē sijn uʼplecht
+
+Line_number 448 is missing
+Z_M1_35_449 Mi dunct dꝫ alde wʼlt vecht
+Z_M1_35_450 Iegē dʼ reindʼ mīnē plecht
+Z_M1_35_451 En̄ volgē dʼ ontrouwen
+Z_M1_35_452 Menich seit nv en̄ echt
+Z_M1_35_453 Mij̄ sin es aē v gehect
+Z_M1_35_454 Soe zeʼe ic waē bedouwē
+Z_M1_35_455 Achtʼ makē si de mouwē
+
+
+Z_M1_36_456 Merten du heues mi gevᵃgꝫ
+Z_M1_36_457 Ic antwʼde en̄ vʼdraget
+Z_M1_36_458 Ic wilt mʼtē vʼdragen
+Z_M1_36_459 Waēdi dꝫ mi wel behagꝫ
+Z_M1_36_460 Dꝫtu mi dꝰ heues geiagꝫ
+Z_M1_36_461 Neēt wistict wiē clagē
+Z_M1_36_462 Mʼtē vriēt wꝫ hulpt geclagꝫ
+Z_M1_36_463 Vragꝫ dꝫtu wils ic vʼdragꝫ
+Z_M1_36_464 Ic wilt al vʼdragen
+Z_M1_36_465 God hulpe mi wāt hi ver#macht
+Z_M1_36_466 Dꝫ mij̄ sin wʼde gevaget
+Z_M1_36_467 Dꝫ di moet behagen
+Z_M1_36_468 Ic wille danwʼde wagē
+
+
+Z_M1_37_469 Iacob nv berecht mi
+Z_M1_37_470 Oft dꝫ uolc al comē si
+Z_M1_37_471 Vandē ierstē adame
+Z_M1_37_472 Twi es deen edel dandʼ vri
+Z_M1_37_473 Die dʼ eygē man daerbi
+Z_M1_37_474 Wanē quā ons desē name
+Z_M1_37_475 Twi seitmē totē dorꝑ tfi
+Z_M1_37_476 Ganc wech god onneʼe di
+Z_M1_37_477 Dv best dʼ wʼlt scame
+Z_M1_37_478 Die edel heuet al tgrecri
+Z_M1_37_479 Mē seit willecome ghi
+Z_M1_37_480 Dꝫ doet dꝫ ic mi vʼgrame
+Z_M1_37_481 Wāt het dunct mi ōtame
+
+
+Z_M1_38_482 Mertē de menege es bedect
+Z_M1_38_483 Die dinc dʼ sijn sin op mect
+Z_M1_38_484 En̄ du vʼges wel verre
+Z_M1_38_485 Al heuꝫ eē ꝑsemʼ geplect
+Z_M1_38_486 En̄ dē thare ontrect
+Z_M1_38_487 Hi wilt sonder merre
+Z_M1_38_488 Ondʼ die edel zij̄ getrect
+
+Line_number 489 is missing
+Z_M1_38_490 Tgelt claer vandē terre
+
+
+
+Z_M1_38_491 Dits de dinc die liede wect
+Z_M1_38_492 Dꝫ menich tsine te wīne trect
+Z_M1_38_493 En̄ maect gode om erre
+Z_M1_38_494 En̄ die ziele in werre
+
+
+Z_M1_39_495 Selc waēt dat volc eygij̄
+Z_M1_39_496 Comē es vāden quade caym
+Z_M1_39_497 Die vʼmorde abelle
+Z_M1_39_498 En̄ diē god vʼdoēt hiet sijn
+Z_M1_39_499 Dits niet waer mʼtijn
+Z_M1_39_500 Bi redenē die ic spelle
+Z_M1_39_502 Wāt ons scrijft de bibele fijn
+Z_M1_39_501 Dꝫ al dꝫ geslachtē sijn
+Z_M1_39_503 Vʼdranc die deluuie felle
+Z_M1_39_504 Mʼ dꝫ dorperlijc venijn
+Z_M1_39_505 Dꝫ caym droech es an scij̄
+Z_M1_39_506 Van menegē die ic spelle
+Z_M1_39_507 Van hʼten sine geselle
+
+
+Z_M1_40_508 Selc waēt dꝫ vandē quaden// //cam
+Z_M1_40_509 die noe sij̄ vadʼ wꝰ gram
+Z_M1_40_510 Dꝫ hine nꝫ ende decte
+Z_M1_40_511 Dꝫ eygē uolc van hē quā
+Z_M1_40_512 Wāt des vaders vloec mesqᵃm
+Z_M1_40_513 Hi doelde diʼe op mecte
+Z_M1_40_514 Al valt dꝫtie goede ram
+Z_M1_40_515 Dicke vint dongaue lam
+Z_M1_40_516 Dats dʼ rudarise secte
+Z_M1_40_517 Vandē edelē abraham
+Z_M1_40_518 Quā eygē uolc soe ic vʼnā
+Z_M1_40_519 Dꝫ oit ter eeren trecte
+Z_M1_40_520 En̄ hē noyt en beulecte
+
+
+Z_M1_41_521 Mertē tuusche loy vertelt
+Z_M1_41_522 dꝫ van ongerecht gewelt
+Z_M1_41_523 Eygēdom es comen
+Z_M1_41_524 Als eē pᶦnse wā wijch op tfelt
+Z_M1_41_525 Tfolc dꝫmē te liue helt
+Z_M1_41_526 Dedemē verdoemen
+Z_M1_41_527 En̄ vʼcopē om gelt
+Z_M1_41_528 Dꝫs volc dꝫmē eygē scelt
+Z_M1_41_529 En̄ scalc hoert noemē
+Z_M1_41_530 Natuʼe gaet harē telt
+Z_M1_41_531 Mʼ auētuʼe vast en̄ smelt
+
+Line_number 532 is missing
+Z_M1_41_533 Tonneʼen hem somen
+
+
+Z_M1_42_534 God doget om ons mesdaet
+Z_M1_42_535 dꝫ eē geslachte tʼ nedʼ gaet
+
+
+
+
+
+Z_M1_49_626 Gaf dit wandel ertsche goet
+Z_M1_49_627 Der menschᵗ ghemeene
+Z_M1_49_628 Dꝫter mede waest geuoet
+Z_M1_49_629 En̄ geel 
+Z_M1_49_630 En̄ leue 
+Z_M1_49_631 Nu es g... verwoet
+Z_M1_49_632 Dat elc set sinē moet
+Z_M1_49_633 Om te heb... alleene
+Z_M1_49_634 Hʼ ō sturtmē smēschē bloet
+Z_M1_49_635 Hʼ ō stichtmē mꝫtʼ spoet
+Z_M1_49_636 Borge ende hoge steene
+Z_M1_49_637 Meneghē ten weene
+
+
+Z_M1_50_638 Iacop ic heb wel uʼstaen
+Z_M1_50_639 Dꝫ dit wʼ es sondʼ waen
+Z_M1_50_640 Dꝫtu heues ontbonden
+Z_M1_50_641 Goets es genoech lietmēt gaē
+Z_M1_50_642 Īt gemeē en̄ hē ōtfaen
+Z_M1_50_643 Die arme werden vonden
+Z_M1_50_644 Dꝰ viele al orloge zaen
+Z_M1_50_645 Dꝰ mochmen de ziele dwaē
+Z_M1_50_646 En̄ clarē vandē sonden
+Z_M1_50_647 Milthᵗ heuꝫ hʼ macht gedaē
+Z_M1_50_648 Vrechᵗ leert die wlt vlaē
+Z_M1_50_649 Dit proeuē ende orconden
+Z_M1_50_650 Die wīners vandē pondē
+
+
+Z_M1_51_651 Iacop eē dīc maect mi cōt
+Z_M1_51_652 Alse eē mēsche wʼt gewōt
+Z_M1_51_653 Van gerechter minnen
+Z_M1_51_654 Doet dʼ ogē wandel vont
+Z_M1_51_655 Oft comt vter hertē grōt
+Z_M1_51_656 Dit euel ten beghinne
+Z_M1_51_657 Ic liet mi costē wel eē pōt
+Z_M1_51_658 En̄ icts wijs wʼde desʼ stōt
+Z_M1_51_659 Maect mi des eē inne
+Z_M1_51_660 Mij̄ hʼte bliuet ongesont
+Z_M1_51_661 Mi en besceede dit dij̄ mōt
+Z_M1_51_662 Wāt en es nꝫ wijshᵗ dinne
+Z_M1_51_663 Na dꝫ ic redēne kinne
+
+
+Z_M1_52_664 Mertē dv best eē vrēt druut
+Z_M1_52_665 Du sprekes als eē vriese ruut
+Z_M1_52_666 Die noch noit en minde
+Z_M1_52_667 Aldʼhande edel fruut
+Z_M1_52_668 Cōt vā mīnē wt en̄ wt
+Z_M1_52_669 Dꝫ noit dorpʼ en kinde
+Z_M1_52_670 Hem mach hulpē geen cruut
+
+
+
+Z_M1_52_671 Die stille mīt of ouʼ luut
+Z_M1_52_672 Dā hē deuel toe sinde
+Z_M1_52_673 Dʼ hʼtē entʼ ogen virtuut
+Z_M1_52_674 Willic dꝫ hʼ bi si beduut
+Z_M1_52_675 Proef hoe ic dit ontbinde
+Z_M1_52_676 En̄ te redene vinde
+
+
+Z_M1_53_677 Eē swʼ orloge en̄ eē zwʼ strijt
+Z_M1_53_678 en̄ dʼtoe eē ewelijc nijt
+Z_M1_53_679 Es tusschē thʼte en̄ oogen
+Z_M1_53_680 Thʼte dē ogē vʼwijt
+Z_M1_53_681 Dv best die mij̄s nꝫ vʼmijt
+Z_M1_53_682 Bedi benic bedrogen
+Z_M1_53_683 Dv best emmʼ opē wijt
+Z_M1_53_684 Elkʼ sondē die uore di lijt
+Z_M1_53_685 Bedi benic dorulogen
+Z_M1_53_686 Sluut v dore teneghʼ tijt
+Z_M1_53_687 Dʼ soe menich dief uore lijt
+Z_M1_53_688 Bedi ben ic bedroghen
+Z_M1_53_689 Dꝫ clagic minē ogen
+
+
+Z_M1_54_690 Wapē vriēdelijc viant
+Z_M1_54_691 Dor u dogic menegē pāt
+Z_M1_54_692 En̄ meneghe coude
+Z_M1_54_693 Wapē dꝫ natuʼe di vant
+Z_M1_54_694 Wʼ di uʼbodē huus en̄ lant
+Z_M1_54_695 En̄ des menschē houde
+Z_M1_54_696 Sone bonde mi geē bant
+Z_M1_54_697 Lichtʼ wʼic dā een sant
+Z_M1_54_698 Algadʼ mine scoude
+Z_M1_54_699 Mē stake bat wt mꝫtʼ hāt
+Z_M1_54_700 En̄ vʼsmorde sulkē pant
+Z_M1_54_701 Ondʼ donreyne moude
+Z_M1_54_702 Op dꝫ natuʼe woude
+
+
+Z_M1_55_703 Tthʼte sweech doge sprac
+Z_M1_55_704 Ic waē v sins gebrac
+Z_M1_55_705 Vrouwe conīghinne
+Z_M1_55_706 Dꝫ ghi mi tijt v ongemac
+Z_M1_55_707 Wāt mi noit tuwʼt lac
+Z_M1_55_708 Eē stof al quaēt mi inne
+Z_M1_55_709 Alsmē mi somtijt vte stac
+Z_M1_55_710 Wāt docht dʼna tsmēscē sac
+Z_M1_55_711 Sij̄ weluarē es dunne
+Z_M1_55_712 Sondʼ noet maecti gecrac
+Z_M1_55_713 En̄ wʼpt op mi uwē hac
+Z_M1_55_714 En̄ ic v uᵒuwe kinne
+Z_M1_55_715 En̄ mij̄ godinne
+
+
+
+
+
+Z_M2_09_114 Dꝫ hē cā gehulpen iet
+Z_M2_09_115 Hine doelt alse hi wel ziet
+Z_M2_09_116 Sine conste sij̄ hʼte bedwingē
+Z_M2_09_117 Hi sterf bi desen dingen
+
+
+Z_M2_10_118 Medea toēt ōs selue dat
+Z_M2_10_119 die rouede en̄ stal hʼs vadʼ scat
+Z_M2_10_120 En̄ sloech hʼn broedʼ
+Z_M2_10_121 Ō nasoē dies hʼ cume bat
+Z_M2_10_122 Si liet cōrike en̄ st/cat
+Z_M2_10_123 Vadʼ sustʼ moeder
+Z_M2_10_124 Nochtā dʼ si alleene sat
+Z_M2_10_125 Wijsde hʼ redē dē rechtē pat
+Z_M2_10_126 Al volgde si dē loeder
+Z_M2_10_127 Mʼ thʼte was hʼ soe mat
+Z_M2_10_128 Dʼ mīne in maecte eē gat
+Z_M2_10_129 Wille hilt den roeder
+Z_M2_10_130 Al was redē vr...eder
+
+
+Z_M2_11_131 Exempel vindic ...ndʼ getal
+Z_M2_11_132 Die mꝫ mi soudē lien al
+Z_M2_11_133 Dꝫic hʼ dleuen gaue
+Z_M2_11_134 Die mi rouede en̄ stal
+Z_M2_11_135 Jacop maec geē gescal
+Z_M2_11_136 Hʼ sceedix m/niet aue
+Z_M2_11_137 Altfolc dꝫ woēt sondʼ getal
+Z_M2_11_138 Beide op berch en̄ int dal
+Z_M2_11_139 Cō hʼtoge graue
+Z_M2_11_140 Hʼ proeuē wʼt hʼ iegē smal
+Z_M2_11_141 Hine sal di nꝫ wʼ sijn eē bal
+Z_M2_11_142 Gheuult met caue
+Z_M2_11_143 Soe hulpe mi sente baue
+
+
+Z_M2_12_144 Mertē du best .j. stōt seriāt
+Z_M2_12_145 Dꝫs eē vast knoep en̄ bant
+Z_M2_12_146 Die niemē can ontbinden
+Z_M2_12_147 Die cnoep die alexādʼ vāt
+Z_M2_12_148 Ontknochte zij̄ swʼt ... hāt
+Z_M2_12_149 Alse hijs hē w...e bewīden
+Z_M2_12_150 Laet mi genakē uwē cāt
+Z_M2_12_151 Mē sal v wijshᵗ te hant
+Z_M2_12_152 Tellē mꝫten kinden
+Z_M2_12_153 Alsoe vele als diedē mach .j.// //sant
+Z_M2_12_154 Jegē casselbʼch in vlaēdʼlant
+Z_M2_12_155 Sal diedē hʼ v vinden
+Z_M2_12_156 Al waēdi mi vʼblinden
+
+
+Z_M2_13_157 Ghi wilt stʼkē uwe wort
+Z_M2_13_158 die gi mꝫ fauelē brinct vort
+
+
+
+Z_M2_13_159 En̄ ...¨ poterien
+Z_M2_13_160 Oft m...ea dede mort
+Z_M2_13_161 En̄ hē narsisus heuꝫ vʼsmoort
+Z_M2_13_162 Dꝫs mīne van sottiē
+Z_M2_13_163 Minne en̄ dꝫtʼ toe hoert
+Z_M2_13_164 Wꝰ met sonde noit becort
+
+Line_number 165 is missing
+
+Line_number 166 is missing
+Z_M2_13_167 Hine mach nꝫ sijn uʼdort
+Z_M2_13_168 Des selen mꝫ lien
+Z_M2_13_169 Die meesters vā clʼgien
+
+
+Z_M2_14_170 Les doude en̄ dnuwe testament
+Z_M2_14_171 en̄ besich al omtrint
+Z_M2_14_172 Alle die heilege liede
+Z_M2_14_173 Wie wꝰ mꝫ mīnē ie gescent
+Z_M2_14_174 Wie maecte oit mīne blēt
+Z_M2_14_175 Die dē gode giede
+Z_M2_14_176 Si mīne uᵒwē wel bekint
+Z_M2_14_177 Scoē wijs op selc couent
+Z_M2_14_178 Dꝫhē god eerberiede
+Z_M2_14_179 Aldogedʼ omme selc tormēt
+Z_M2_14_180 Selc als mīne dʼ ioget toesint
+Z_M2_14_181 Wie waest diʼe af messciede
+Z_M2_14_182 Ghelijc heidenē diede
+
+
+Z_M2_15_183 Abʼham was uᵒwe saren mā
+Z_M2_15_184 die sine amie vʼheffē begā
+Z_M2_15_185 Bouē siʼe vrouwen
+Z_M2_15_186 Dʼ was geē houdē an
+Z_M2_15_187 Hi dedese wech redē vʼwan
+Z_M2_15_188 En̄ volgde der ontrouwē
+Z_M2_15_189 Geē heylich wijf no/e mā en̄ can
+Z_M2_15_190 Minnē sondʼ redene dan
+Z_M2_15_191 Dit ma...̄ wel bescouwē
+Z_M2_15_192 Selke mī...r... geuic dē ban
+Z_M2_15_193 Die mꝫtʼ mīnē makē gespan
+Z_M2_15_195 Dʼ e...mīne vol rouwen
+Z_M2_15_194 Dese mīne... willī blouwē
+
+
+Z_M2_16_196 Of ic dan sette minē sin
+Z_M2_16_197 Dʼ ic en̄ mach meer no min
+Z_M2_16_198 Aē winnē dan scade
+Z_M2_16_199 En̄ mi eē andʼ heuet in
+Z_M2_16_200 Dꝫ hʼ seluē en̄ hʼ gespin
+Z_M2_16_201 Mi an vroech ende spade
+Z_M2_16_202 Mi dunc dꝫ ic m... sculdich bin
+Z_M2_16_203 Hʼ die mi coes int beghin
+Z_M2_16_204 En̄ ane mi blijft gestade
+Z_M2_16_205 Dā hʼ die fierlijc harē kin
+
+
+
+
+
+Z_M2_23_298 Dꝰ mach siʼe naturen
+Z_M2_23_299 Gheē genade gebuerē
+
+
+Z_M2_24_300 Dꝫmē dit bi redenē weet
+Z_M2_24_301 dꝫ god niemē heuꝫ leet
+Z_M2_24_302 Wiē geeft hi dlange leuē
+Z_M2_24_303 Soe dē genē die gereet
+
+Line_number 304 is missing
+Z_M2_24_305 En̄ ondʼdaē es bleuen
+Z_M2_24_306 Jc dʼ seggē op minē eet
+Z_M2_24_307 Sij̄ houeschᵗ es ōgecleet
+Z_M2_24_308 Lieti dē genē sneuē
+Z_M2_24_309 Die te sinē diēste steet
+Z_M2_24_310 Des gelijc willic gereet
+Z_M2_24_311 Dē loen hʼ wedʼ geuen
+Z_M2_24_312 Die dore mi lust te leuē
+
+
+Z_M2_25_313 God heuꝫ al cleyn en̄ groet
+Z_M2_25_314 dꝫ de mēsche heuet noet
+Z_M2_25_315 Dit proeftmē mꝫ sinne
+Z_M2_25_316 Hi storte dor ōs bloet roet
+Z_M2_25_317 En̄ geeft ōs themessche broet
+Z_M2_25_318 Op dꝫmē wedʼ mīne
+Z_M2_25_319 Om genē wedʼ stoet
+Z_M2_25_320 Dʼ ōs nie sonde mede scoet
+Z_M2_25_321 Ne laet hi ons dʼ inne
+Z_M2_25_322 Leggē wi thouꝫ īdē scoet
+Z_M2_25_323 En̄ smakē dā de doot
+Z_M2_25_324 Die ic mi soe hout kīne
+Z_M2_25_325 Oft mij̄ vʼstaē es dūne
+
+
+Z_M2_26_326 Waerhᵗ iacop dits al wʼ
+Z_M2_26_327 Mʼ mi wꝰ te vindē zwʼ
+Z_M2_26_328 Dꝫtu hʼ heues ontbōdē
+Z_M2_26_329 Jc lie uʼwōnē opēbaer
+Z_M2_26_330 Mij̄ mīne es zielē
+Z_M2_26_331 En̄ besmet mꝫ sondē
+Z_M2_26_332 Du seges dʼ an wel en̄ wʼ
+Z_M2_26_333 Redē heuꝫ mij̄ waē ōmʼ
+Z_M2_26_334 Dꝫ hebbic ondʼuondē
+Z_M2_26_335 Nv moet ōs god brīgē dʼ
+Z_M2_26_336 Mīne nꝫ ent hʼ iaer
+Z_M2_26_337 Entē lestē stonden
+Z_M2_26_338 Vriē mꝫ hʼn wonden
+
+Line_number 339 is missing
+
+
+Z_M3_01_000 Die dʼde merten boec
+Z_M3_01_001 Ic mane māne mꝫten wiuē
+Z_M3_01_002 die dit lesē of scriuē
+Z_M3_01_003 Opdē hoechten ban
+
+Line_number 004 is missing
+
+
+
+Z_M3_01_005 En̄ sieʼ nꝫ in en driuen
+Z_M3_01_006 Wort lettʼe af no an
+Z_M3_01_007 Doē sijt oec hē sal becliuē
+Z_M3_01_008 Minē ban sine zelē afwriuen
+Z_M3_01_009 Niet mogē nochtan
+Z_M3_01_010 Dits geē spot vā ketiuē
+Z_M3_01_011 Hꝫs dʼ ic mi om liet ōtliuē
+Z_M3_01_012 Eer ickʼ sciede van
+Z_M3_01_013 Nv leʼe die leerē can
+
+
+Z_M3_02_014 Iacop wi hebbē ondʼlinge
+Z_M3_02_015 gehandelt messelike dinge
+Z_M3_02_016 Nv antwʼt mi op een
+Z_M3_02_017 Leʼe mi eer ic di ōspringe
+Z_M3_02_018 Hoe ic mij̄ hʼte dʼ toe dwīge
+Z_M3_02_019 Hē te kīnen die wi vleē
+Z_M3_02_020 Ic lese somtijt en̄ singe
+Z_M3_02_021 Gode te kīnen bi sinē gehinge
+Z_M3_02_022 Es leuē sondʼ ween
+Z_M3_02_023 Dꝫs wʼheyt claer en̄ gehinge
+Z_M3_02_024 Suptijl wʼ thʼte diet beuīge
+Z_M3_02_025 Wāt hogʼ dinc nes gheē
+Z_M3_02_026 Antwert tusschē ōs tweē
+
+
+Z_M3_03_027 Mertē du vrages te hoge
+Z_M3_03_028 al vlogic bouē dʼ inglen v
+Z_M3_03_029 Bouē cerub en̄ ceraph
+Z_M3_03_030 So wetic wel dꝫ ic en moge
+Z_M3_03_031 Berechtē dꝫ te vollen doge
+Z_M3_03_032 Mꝫ wʼdē nꝫ hʼ af
+Z_M3_03_033 Alle sinne sijn te droge
+Z_M3_03_034 Alle naturē hoemēt poge
+Z_M3_03_035 Ne dogē nꝫ eē caf
+Z_M3_03_036 Dꝫ hʼ enich te vollē doghe
+Z_M3_03_037 Mʼ vʼscarp dij̄s sins oge
+Z_M3_03_038 Hort wꝫ natuʼe di gaf
+Z_M3_03_039 Horet in diʼe hʼtē graf
+
+
+Z_M3_04_040 Moyses spᵃct in sinē boeken
+Z_M3_04_041 Beestē die dē berch besoeke
+Z_M3_04_042 Moetē sijn gescent
+Z_M3_04_043 Beeste es hi de wille roekē
+Z_M3_04_044 Te nauwe om de godhᵗ loe
+Z_M3_04_045 Hets recht dꝫ hijt beweēt
+Z_M3_04_046 Du sout mi in allē hoeken
+Z_M3_04_047 Mꝫ rine sondʼ valsch vā doek
+
+Line_number 048 is missing
+Z_M3_04_049 Es dit goet ic wane neent
+
+
+
+Z_M3_04_050 Wʼt goet ic soudʼ di om vloeken
+Z_M3_04_051 Ic wane dij̄ herte meent
+Z_M3_04_052 Dꝫtu mi heues verbeent
+
+
+Z_M3_05_053 Iacop dune salti nꝫ vʼgᵃmē
+Z_M3_05_054 Ic souts mi in mi seluē scamē
+Z_M3_05_055 Haddict oit gedocht
+Z_M3_05_056 Oec lie ic mꝫti te samē
+Z_M3_05_057 Dꝫ de hoechᵗ dʼ hogʼ namē
+Z_M3_05_058 Nꝫ te vʼre doech gesocht
+Z_M3_05_059 Al wʼt dꝫ alle dīgle qᵃmē
+Z_M3_05_060 Sij cōdē de godhᵗ nꝫ gehamē
+Z_M3_05_061 Dits al af gecnocht
+Z_M3_05_062 Mʼ leʼe minē cᵃckē sin lamē
+Z_M3_05_063 Gewōt mꝫtʼ sondē bramē
+Z_M3_05_064 Van dattu vermocht
+Z_M3_05_065 Soe es minē wil volbrocht
+
+
+Z_M3_06_066 MErtē mʼct in dinē sinne
+Z_M3_06_067 God es wesē vor al begīne
+Z_M3_06_068 Dedelste bouē al
+Z_M3_06_069 Sijn wesen es alsic kinne
+Z_M3_06_070 Dupperste god dupꝑste mīne
+Z_M3_06_071 Die es oft wesen sal
+Z_M3_06_072 Sij̄ wʼkē dʼmē kint inne
+Z_M3_06_073 Sij̄ so gᵒt dꝫsi sij̄ dunne
+Z_M3_06_074 Diet kīnē gᵒt en̄ smal
+Z_M3_06_075 Sijn wesē es conīginne
+Z_M3_06_076 Bouē aldʼhande gewinne
+Z_M3_06_077 En̄ bouē alle geual
+Z_M3_06_078 Dʼ bouē en̄ int dal
+
+
+Z_M3_07_079 DĒ hemel en̄ tē troē mʼke
+Z_M3_07_080 God es bouē zij̄ wʼke
+Z_M3_07_081 En̄ ondʼ al sij̄ dinc
+Z_M3_07_082 Hi es butē als in herke
+Z_M3_07_083 En̄ bīnē dꝫ hout sterke
+Z_M3_07_084 Hʼ ute nꝫ en sprinc
+Z_M3_07_085 Oec seggen ons wise clerke
+Z_M3_07_086 Hi nes nꝫ gedeilt in pʼke
+Z_M3_07_087 Hʼtoe dijn herte dwinc
+Z_M3_07_088 Mʼ geheel nu merke
+Z_M3_07_089 Butē binnē in watʼ in swʼke
+Z_M3_07_090 Hʼ in dij̄ hertte dwinc
+Z_M3_07_091 Sondʼ lose winc
+
+
+Z_M3_08_092 Boven es god als heere
+Z_M3_08_093 Die besitter es emmermeere
+Z_M3_08_094 Alles dies men weet
+
+
+
+Z_M3_08_095 Onder als in elkē keʼe
+Z_M3_08_096 Sij̄ dinc hout mogēde zeʼe
+Z_M3_08_097 Jegē alle vʼsceet
+Z_M3_08_098 Butē als die mꝫ siʼe were
+Z_M3_08_099 Sij̄ were behōt dꝫ hē en dere
+Z_M3_08_100 Gheē dinc cout no heet
+Z_M3_08_101 Binnē als de mꝫ siʼe leere
+Z_M3_08_102 Sij̄ wʼc uʼwlt mꝫ selkʼ eʼe
+Z_M3_08_103 Dꝫ ewelijc steet
+Z_M3_08_104 Wiēt lief si ofte leet
+
+
+Z_M3_09_105 Bouē es god algedragē
+Z_M3_09_106 Geē dinc mach hē beclagē
+Z_M3_09_107 Dꝫ hise iet vʼlast
+Z_M3_09_108 Ondʼ sondʼ last van wagē
+Z_M3_09_109 Wāt hē mach rustē no iagē
+Z_M3_09_110 Sij̄ wesē es soe vast
+Z_M3_09_111 Butē breet hi niewʼ sij̄ dagē
+Z_M3_09_112 Wāt hi es sondʼ vragen
+Z_M3_09_113 Wʼt uogꝫ en̄ niet gast
+Z_M3_09_114 Bīnē uʼwlt hijt iegē plagē
+Z_M3_09_115 Dꝫ sij̄ dinc mꝫ geēre vlagē
+Z_M3_09_116 Ne si ongerast
+Z_M3_09_117 Noch gequests eē bast
+
+
+Z_M3_10_118 Vā eenē god spʼkē wi vā enē
+Z_M3_10_119 Die wi vadʼ en̄ sone menē
+Z_M3_10_120 En̄ tē hellegē geest
+Z_M3_10_121 Wꝫ wel dꝫ wi ne ghenē
+Z_M3_10_122 So gᵒt noemē no soe cleenē
+Z_M3_10_123 Dꝫtʼ enich es meest
+Z_M3_10_124 Eenē god seggē wi enē reenē
+Z_M3_10_125 Noch vʼmogēdʼ no vʼbenen
+Z_M3_10_126 Ne wʼtʼ aē vereest
+Z_M3_10_127 Die sinē sin soe laet vʼstenē
+Z_M3_10_128 Dꝫti des loechent hi moeꝫ wenē
+Z_M3_10_129 En̄ sij̄ geureest
+Z_M3_10_130 Indē helschē tēpeest
+
+
+Z_M3_11_131 Wi settē dē vadʼ voren
+Z_M3_11_132 Ongewōnē en̄ ongeborē
+Z_M3_11_133 En̄ voor al beghin
+Z_M3_11_134 Dʼna dē sone wt uercorē
+Z_M3_11_135 Vā hē gewōnē alst wi horē
+Z_M3_11_136 Eer begin ghinc in
+Z_M3_11_137 Dē heilegen geest lere wi den dorē
+Z_M3_11_138 Uut desen comende ontdoe dijn oren
+Z_M3_11_139 Elc mēsche en̄ sinē sin
+

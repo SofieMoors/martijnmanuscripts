@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MVN xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Jacob van Maerlant, Martijn</title><editor xml:id="SM">Sofie Moors</editor></titleStmt>
+            <publicationStmt>
+                <p>Transcription based on: 
+- Staring van den Wildenborch, A.C.W. (1834). ‘De Wapene Martijn van Jacob van Maerlant, naar het Zutphense hs. medegedeeld, met eene inleiding en aanteekeningen van M. Siegenbeek.’ Nieuwe Werken van de Maatschappij der Nederlandsche Letterkunde te Leiden, deel III, 2de stuk. Dordrecht: Blussé and Van Braam, pp. 81-225.
+- Meijer, G. J. (1838). ‘Van der Drievoudichede; van Jacob van Maerlant.’ Nalezingen op het leven van Jezus, enz: verslag van den roman van Walewein, en andere bijdragen tot de oude Nederlandsche letterkunde. Groningen: J. Oomkens, pp. 119-152.</p>
+            </publicationStmt>
+            <sourceDesc>
+               <msDesc>
+          <msIdentifier>
+            <settlement>Groningen </settlement>
+            <institution>University of Groningen Library </institution>
+            <idno>HS 405</idno>
+            <msName>Gronings-Zutphens Maerlant Manuscrip, C</msName>
+          </msIdentifier>
+ <p>...</p>
+        </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+ <charDecl><char xml:id="rrot">
+                <charName>LATIN SMALL LETTER R ROTUNDA</charName>
+                <mapping type="junicode">ꝛ</mapping>
+                <mapping type="mufi">ꝛ</mapping>
+                <mapping type="standard">ꝛ</mapping>
+            </char></charDecl>
+            <xi:include href="http://www.huygensinstituut.knaw.nl/projecten/mvn/webfiles/charDecl.xml"  
+                xmlns:xi="http://www.w3.org/2001/XInclude">
+                <xi:fallback>
+                    <xi:include href="charDecl/charDecl.xml"/>
+                </xi:fallback>
+            </xi:include>
+            <editorialDecl>
+                <p><!-- Verantwoording van de editie --></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <handNotes>
+                <handNote xml:id="h1"><p>...</p></handNote>
+            </handNotes>
+        </profileDesc>
+    </teiHeader>
+    <text xml:id="Martijn">
+        <group>

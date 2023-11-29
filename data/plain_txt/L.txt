@@ -1,0 +1,865 @@
+
+
+
+
+
+Line_number 000 is missing
+L_M1_01_001 WAphene merten hoe saelt gaen
+L_M1_01_002 Sal dese werelt lange staē
+L_M1_01_003 In dus crancken loeue
+L_M1_01_004 Soe sal mijn vrouwe verē saen
+L_M1_01_005 Sonder twiuel ende waen
+L_M1_01_006 Rumen der heren houe
+L_M1_01_007 Ic sie den scalckē wel ontfaen
+L_M1_01_008 Die de heren connē dwaen
+L_M1_01_009 En̄ pluckē vanden stoeue
+L_M1_01_010 Ic sie den gherechtē slaen
+L_M1_01_011 Beide bespotten ende vaen
+L_M1_01_012 Alse die meese inde cloeue
+L_M1_01_013 Recht oftene god vʼscroeue
+
+
+L_M1_02_014 HOe lange sal gedoegen dit
+L_M1_02_015 God die alle dinc besit
+L_M1_02_016 In sine herscapie
+L_M1_02_017 Dattie goede vleyt en̄ bidt
+L_M1_02_018 Hem en doech dat no dit
+L_M1_02_019 Dat hi yet ghedie
+L_M1_02_020 Al gaet in den helschen pit
+L_M1_02_021 Eest blau grau swert oft wit
+L_M1_02_022 Hets ghetrouwe als die sie
+L_M1_02_023 Recht mā deluet sondʼ spit
+L_M1_02_024 Hine heeft te poentē nꝫ gehit
+L_M1_02_025 In ne ghene baelgie
+L_M1_02_026 Mi es leet dat ic waer lie
+
+
+L_M1_03_027 LAet ons merten ouer een
+L_M1_03_028 Hier af sprekē ondʼ ōs tweē
+L_M1_03_029 In dit dyaloeghe
+L_M1_03_030 Wanē quaem ons desen ween
+L_M1_03_031 Die wilen soe onwaert scheen
+L_M1_03_032 En̄ nv sit soe hoeghe
+L_M1_03_033 Ic sal v vraeghē en̄ vleen
+L_M1_03_034 Antwoort mi ia ofte neen
+L_M1_03_035 Van dat ic di betoeghe
+L_M1_03_036 Ledicheit es vroeme gheen
+L_M1_03_037 Aerbeit vint vier in den steen
+L_M1_03_038 D droeghe
+L_M1_03_039 
+
+
+L_M1_04_040 
+
+
+
+L_M1_04_041 Waer soudic d ...
+L_M1_04_042 Dat ic daer ... 
+L_M1_04_043 Te vʼclaerne...
+L_M1_04_044 Die met twi beu
+L_M1_04_045 Dats dat ic niet en vʼm
+L_M1_04_046 Doch en willics niet on
+L_M1_04_047 Ic wille dine bede ontf
+L_M1_04_048 Die dit ane mi sochte
+L_M1_04_049 God sende mi den hem
+L_M1_04_050 En̄ moet minē sin dwa
+L_M1_04_051 Want hi mi diere cochte
+L_M1_04_052 En̄ ict gherne volbroc
+
+
+L_M1_05_053 MErten doen die wer
+L_M1_05_054 Man te vʼheffen b... 
+L_M1_05_055 Doen sciet mijn vrouw
+L_M1_05_056 Den dorpers wijsde m
+L_M1_05_057 Dʼ trouwe en̄ doget wa 
+L_M1_05_058 Dien hiet si sijn here
+L_M1_05_059 Nv maken die herē .I. g 
+L_M1_05_060 En̄ gheuen dʼ eren enē 
+L_M1_05_061 En̄ en willen niet dat 
+L_M1_05_062 Segt mi wanen tfen
+L_M1_05_063 Toch mi redene daer
+L_M1_05_064 Want ic gherne leere
+L_M1_05_065 Wies scout dat weere
+
+
+L_M1_06_066 IAcop mi dunckt ouʼw
+L_M1_06_067 Sint dꝫ edelheit had
+L_M1_06_068 Te pinē om̄e die eere
+L_M1_06_069 En̄ si trac den scalckē 
+L_M1_06_070 Die raeden nv hier nv 
+L_M1_06_071 Ende niet scelden den h
+L_M1_06_072 Soe es edelheit woordē 
+L_M1_06_073 Dat si te clēmen heeft 
+L_M1_06_074 En̄ daelt in lanc soe me
+L_M1_06_075 Dits nv alder werelt cl
+L_M1_06_076 En̄ ogen siens openba
+L_M1_06_077 Dus es vʼbannen eere
+L_M1_06_078 En̄ wedʼ staen ten kere
+
+
+L_M1_07_079 NV merct bider sonnē 
+L_M1_07_080 Die alder werelt oe
+L_M1_07_081 Bi hare edele natuere
+L_M1_07_082 Als dat swerc daer ieg
+L_M1_07_083 Entie neuel mꝫ siere dr
+L_M1_07_084 Sone can so tier vren
+L_M1_07_085 
+
+
+
+L_M1_07_086  ...rt die scalke knecht
+L_M1_07_087  ...ren
+L_M1_07_088  ane hecht
+L_M1_07_089 ...lheit vʼplecht
+L_M1_07_090  et ghedueren
+L_M1_07_091  dē scalke sueren
+
+
+L_M1_08_092 nt scalke droeghē ouʼeen
+L_M1_08_093 eē ... en̄ ia neen
+L_M1_08_094  dat wijsheit dochte
+L_M1_08_095 lheit dʼ ōme green
+L_M1_08_096 t wasdom wt scheen
+L_M1_08_097  dꝫ comē mochte
+L_M1_08_098 delhᵗ werdē steen
+L_M1_08_099  ontfermt dinc gheen
+L_M1_08_100 men tgelt wt knochte
+L_M1_08_101 eue hē den langhē weē
+L_M1_08_102 naeghen gaf dꝫ been
+L_M1_08_103 den ghedochte
+L_M1_08_104 iere moort mꝫ wrochte
+
+
+L_M1_09_105 segel en̄ was
+L_M1_09_106  brieue die gewaegē das
+L_M1_09_107  lantsherē gheuen
+L_M1_09_108  l niet dā ghedwas
+L_M1_09_109  f hadt mi eē sas
+L_M1_09_110  vriese bescreuen
+L_M1_09_111  es broescher dā gelas
+L_M1_09_112 en soe sterc was
+L_M1_09_113  te broekē bleuen
+L_M1_09_114 ns noeyt hʼe ghenas
+L_M1_09_115 lke tsinē raede las
+L_M1_09_116 oeste int inde sneuen
+L_M1_09_117 c sijns lants vʼdreuen
+
+
+L_M1_10_118 n du berechts mi wel
+L_M1_10_119 bi sijn die herē fel
+L_M1_10_120 nckel inde taele
+L_M1_10_121 er wat toe seggē el
+L_M1_10_122 lke hout boesheit ouʼ spel
+L_M1_10_123 t hoe hi doghet vʼsmaele
+L_M1_10_124  sloech den goedē abel
+L_M1_10_125 ct die scalck sijns herē vel
+L_M1_10_126 e trect te daele
+L_M1_10_127 ons noch doemē sel
+L_M1_10_128  dat hi den duuel
+L_M1_10_129 lesten maele
+L_M1_10_130 scalken 
+
+
+
+
+
+L_M1_11_131 MErten nv berecht mi dies
+L_M1_11_132 Oft ... god die noeyt en wies
+L_M1_11_133 Berecht alle creatueren
+L_M1_11_134 Twi heeft die quaede dē kies
+L_M1_11_135 ...tie go... ...alt int vʼlies
+L_M1_11_136 W... saelt voer recht cueren
+L_M1_11_137 ...n seit mi als eē r...
+L_M1_11_138 Hi die adaeme dlijf in...es
+L_M1_11_139 Die meester der natueren
+L_M1_11_140 Heeft beuoelē merct besies
+L_M1_11_141 Dunct v dit waer soe ghies
+L_M1_11_142 Der blinder auontueren
+L_M1_11_143 Die vʼkeert telker vren
+
+
+L_M1_12_144 IAcop segt bestu verdoort
+L_M1_12_145 Auontuere en es maer .I. woort
+L_M1_12_146 Uan gheuinsdʼ spraeken
+L_M1_12_147 Bringstu ongeloeue voert
+L_M1_12_148 God siet alle dinc en̄ hoort
+L_M1_12_149 Wiltu den duuel maeken
+L_M1_12_150 Wat heeft dijn hʼte becoort
+L_M1_12_151 Dattu hels aent legher boort
+L_M1_12_152 Die paepen sullent smaeken
+L_M1_12_153 Waerstu vʼbrant ofte vʼsmoort
+L_M1_12_154 En gaeue om̄e dine ziele nꝫ .I. oort
+L_M1_12_155 Men mach met sulken saeken
+L_M1_12_156 Gode niet ghenaeken
+
+
+L_M1_13_157 GOd en was noeyt moede no mat
+L_M1_13_158 Int wout en es loef no blat
+L_M1_13_159 Buten siere hoeden
+L_M1_13_160 Al dat es in elke stat
+L_M1_13_161 Dat behoet hi ende besat
+L_M1_13_162 Met godliker hoeden
+L_M1_13_163 Al gehinct hi dan dat
+L_M1_13_164 Dattie quaede gewinnet scat
+L_M1_13_165 En̄ men heet den vroeden
+L_M1_13_166 Soe hi hoeger sit opt rat
+L_M1_13_167 Soe hoegher valt hi swarē plat
+L_M1_13_168 Inder helscher gloeden
+L_M1_13_169 Onder der duuel roeden
+
+
+L_M1_14_170 DEn rechten wech ter hellē waert
+L_M1_14_171 Entie aldʼ corste vaert
+L_M1_14_172 Dats gheluuc in sonden
+L_M1_14_173 Als mē gheen mesdoē en spaert
+L_M1_14_174 Ende 
+L_M1_14_175 
+
+
+
+
+
+L_M1_56_716 MErct vrouwe en̄ besiet
+L_M1_56_717 Wat ghi ouer mi ghebiet
+L_M1_56_718 Als ouer al v lede
+L_M1_56_719 Men conde v gescaedē niet
+L_M1_56_720 Waert soe dꝫ ghi vā v sciet
+L_M1_56_721 Alle dorperhede
+L_M1_56_722 Mʼ alse ghi bi mi bespiet
+L_M1_56_723 Dinghē die ghi ane v tiet
+L_M1_56_724 Volghics gherne mede
+L_M1_56_725 Ghi sijt als dꝫ crancke riet
+L_M1_56_726 Dat mettē winde waeyt en̄ vliet
+L_M1_56_727 V ongestaedichede
+L_M1_56_728 Maect v den onureede
+
+
+L_M1_57_729 DIt orloge heeft gheuelt
+L_M1_57_730 Alsmē hʼ dē twist vʼtelt
+L_M1_57_731 Vrouwe redene bi besceede
+L_M1_57_732 Beide gadʼ sise scelt
+L_M1_57_733 Elkē deilt si dʼ sijn gelt
+L_M1_57_734 Niet gelike beede
+L_M1_57_735 Baersculdich si die hʼte spelt
+L_M1_57_736 Als die si ouʼ voget helt
+L_M1_57_737 En̄ vrouwē bi harē eede
+L_M1_57_738 Mʼ dies vals ghewelt
+L_M1_57_739 Dat bi siene therte dwelt
+L_M1_57_740 Tijt si der oegen geleede
+L_M1_57_741 Dus deilt si die veede
+
+
+L_M1_58_742 MErtē hier bi mach mē sien
+L_M1_58_743 Wedʼ die oegen therte tien
+L_M1_58_744 Soe therte die oegen
+L_M1_58_746 Om̄e niet eest dattie oegē spiē
+L_M1_58_745 Alse therte wilde vlien
+L_M1_58_747 Dʼ en es gheen ghedoegen
+L_M1_58_748 Mʼ hets der herten plien
+L_M1_58_749 Als doghe siet desen oft dien
+L_M1_58_750 Dʼ hem toe wille boegen
+L_M1_58_751 Soe moet al harē wille gescien
+L_M1_58_752 Die ogen moetē lien en̄ ghien
+L_M1_58_753 Dʼ dore quaem gheuloegen
+L_M1_58_754 Minne int vʼtoeghen
+
+
+L_M1_59_755 IAcop v redene es claer
+L_M1_59_756 Al dunct si den ghenē swaer
+L_M1_59_757 Die luttel gheuroeden
+L_M1_59_758 Ic weet wel ouʼ waer
+L_M1_59_759 ...
+L_M1_59_760 
+
+
+
+L_M1_59_761 Ende wilde therte makē on
+L_M1_59_762 Van dat hʼ doegen bringen n
+L_M1_59_763 Hine dorste hē niet vʼmoeden
+L_M1_59_764 Datti beuen soude daer
+L_M1_59_765 Dʼ god sal doemē oppenbaer
+L_M1_59_766 En̄ wisen ten gloeden
+L_M1_59_767 Die hē hier tē sondē spoedē
+
+
+L_M1_60_768 BErecht mi iacop oftu w
+L_M1_60_769 Welc sekerst es int beh
+L_M1_60_770 Rijcheit ofte aermoede
+L_M1_60_771 Eest moenc clerc ionc ofte 
+L_M1_60_772 Al duncket mi gadrē gout
+L_M1_60_773 En̄ staet naeden goede
+L_M1_60_774 Aermoede prisic menichfo
+L_M1_60_775 Want si es seker en̄ bout
+L_M1_60_776 Voer roeuers sonder hoe
+L_M1_60_777 Doch mīnē si voer water 
+L_M1_60_778 Si scuwē honger en̄ cout
+L_M1_60_779 Eest alsoe ic mi vʼmoede
+L_M1_60_780 Soe doelen dese vroede
+
+
+L_M1_61_781 MErtē ic mete vol dij̄ vat
+L_M1_61_782 Optē stoel dʼ moeyses 
+L_M1_61_783 Sitten die gheleerde
+L_M1_61_784 Dat si di heten doet al dat
+L_M1_61_785 Si wisen di den rechten p
+L_M1_61_786 Wel hē diere hē toe keerde
+L_M1_61_787 Mʼ in weldoene sijn si lat
+L_M1_61_788 Si hetē vaste si sijn sat
+L_M1_61_789 En volcht niet sulkē herd
+
+Line_number 790 is missing
+L_M1_61_791 Hʼ hant es altoes sondʼ g
+L_M1_61_792 Noeyt volc was op eerde
+L_M1_61_793 Dat meer scats begeerde
+
+
+L_M1_62_794 DIe meeste menichste e
+L_M1_62_795 Doch soe vint mē al s
+L_M1_62_796 Al sijn si selsine
+L_M1_62_797 Die dē ertschē goede ōtgae
+L_M1_62_798 En̄ aermoede ane vaen
+L_M1_62_799 Bi heylegen en siene
+L_M1_62_800 Si laetē hē blouwē en̄ sla
+L_M1_62_801 Tormenten ende vaen
+L_M1_62_802 Om̄e die helle tonfliene
+L_M1_62_803 Hier in waert sekerst ...
+L_M1_62_804 Die hē int doepsel 
+L_M1_62_805 
+L_M1_62_806 
+
+
+
+
+
+L_M1_63_807  gods sone toget ons dat
+L_M1_63_808 Die euen gheweldich sit en̄ sat
+L_M1_63_809 en vader inden rike
+L_M1_63_810  beete indʼ maget vat
+L_M1_63_813 i cume oeyt soges was sat
+L_M1_63_812 de oetmoedelike
+L_M1_63_811 dʼ reindʼ maget scat
+L_M1_63_814  gedoegede menegē hadt
+L_M1_63_815 n sinē ongeliken
+L_M1_63_816 moede es een pat
+L_M1_63_817  doer den hemel maecte I gat
+L_M1_63_818 i niet en beswike
+L_M1_63_819 hʼ met trouwen wike
+
+
+L_M1_64_820 enstu mertē weldich vet
+L_M1_64_821 ijn gecleet nv wel nv bet
+L_M1_64_822  vaeren int langhe leuē
+L_M1_64_823 sus naect mꝫ bloede besmet
+L_M1_64_824  rechte side doer splet
+L_M1_64_825  hout was vʼheuen
+L_M1_64_826  hoeft vandʼ kerstenē wet
+L_M1_64_827  scarpē dornē was beset
+L_M1_64_828 et es bescreuen
+L_M1_64_829  wesen gods let
+L_M1_64_830 erlikē drinct en̄ et
+L_M1_64_831 t welde begheuen
+L_M1_64_832 u moets sneuen
+
+
+L_M1_65_833 t en seggic dꝫ rijchᵗ sent
+L_M1_65_834 ie ziele int torment
+L_M1_65_835 atment nut mꝫ rechte
+L_M1_65_836 erst es vlien tserpent
+L_M1_65_837 te wandelen dʼ omtrent
+L_M1_65_838 i niet en beulecte
+L_M1_65_839 hᵗ maect menegē blint
+L_M1_65_840 i gode niet en kent
+L_M1_65_841 eet hi vandē lechte
+L_M1_65_842 wort vā leuene .I. rent
+L_M1_65_843  valtmē int helsche couent
+L_M1_65_844  brinct inde hechte
+L_M1_65_845  duuel sine knechte
+
+
+L_M1_66_846 cop du segt wel en̄ waer
+L_M1_66_847 ie wech es inge en̄ swaer
+L_M1_66_848 e zeere ongetreeden
+L_M1_66_849 moeden te clēmē daer
+L_M1_66_850 
+L_M1_66_851 
+
+
+
+L_M1_66_852 Merten trect die arme naer
+L_M1_66_853 Deilt hem stille oppenbaer
+L_M1_66_854 Van uwer weeldicheden
+L_M1_66_855 Eer die kerke entie outaer
+L_M1_66_856 Het woort ten ioncstē dagē claer
+L_M1_66_857 Dʼ v god sal besceeden
+L_M1_66_858 Met sinē lieuen leeden
+
+
+L_M1_67_859 DIe wech es inghe en̄ hoech
+L_M1_67_860 Dʼ god bi te hemel vloech
+L_M1_67_861 Dats passie en̄ aermoede
+L_M1_67_863 Om̄e den middelen pat soe poech
+L_M1_67_862 Oftu meer hebts dan di doech
+L_M1_67_864 Deile van dinen goede
+L_M1_67_865 Dine fiere hʼte poech
+L_M1_67_866 Den armē mensche en̄ toech
+L_M1_67_867 Ontfermicheit van moede
+L_M1_67_868 God selue die noeyt en loech
+L_M1_67_869 Noch den mildē noeyt en bedroech
+L_M1_67_870 Sette in siere hoeden
+L_M1_67_871 Onder der duuel roede
+
+
+L_M1_68_872 IAcop die weʼlt maect gescal
+L_M1_68_873 En̄ tient den vrouwē al
+L_M1_68_874 Dat wi in sonden sneuen
+L_M1_68_875 Want yeua viel dē yerstē val
+L_M1_68_876 Dʼ wi om̄e int helsche dal
+L_M1_68_877 Alle sijn verdreuen
+L_M1_68_878 Nv seggen si groot en̄ smal
+L_M1_68_879 Dat si adaeme therte stal
+L_M1_68_880 Die hē hʼ liet vʼgheuen
+L_M1_68_881 Nv segt mi wien mē tien sal
+L_M1_68_882 Dit vʼlies sondʼ getal
+L_M1_68_883 Dʼ wi om̄e moeten beuen
+L_M1_68_884 Als inden sal ons leuen
+
+
+L_M1_69_885 MErtē hine es niet vroet
+L_M1_69_886 Die mi tyt datti mesdoet
+L_M1_69_887 Kent hi vroeme ofte scaede
+L_M1_69_888 Ic sie die see ic sie die vloet
+L_M1_69_889 Ic setter willens in den voet
+L_M1_69_890 Bi enen dommen raede
+L_M1_69_891 Wien maghic draegen euelē moet
+L_M1_69_892 Dat mi die stroem mꝫter spoet
+L_M1_69_893 Draget inde gewaede
+L_M1_69_894 Dat ic quaet can en̄ goet
+L_M1_69_895 ...
+L_M1_69_896 
+
+
+
+L_M1_69_897 Dat ic mi verlaede
+
+
+L_M1_70_898 SElc tient den vrouwē opsien
+L_M1_70_899 Dat si hem therte ontien
+L_M1_70_900 Als die steen die naelde
+L_M1_70_901 Hi dunct mi mesdoē in dien
+L_M1_70_902 Wilde hi der waerheit ghien
+L_M1_70_903 Van datti dʼ toe taelde
+L_M1_70_904 Wꝫ mogē vrouwē dꝫ māne plien
+L_M1_70_905 Soe nauwe op hʼ scoenhᵗ sien
+L_M1_70_906 Wie es diese dʼ toe haelde
+L_M1_70_907 Wilde die clager te tide vlien
+L_M1_70_908 Sone mocht hē niet messchiē
+L_M1_70_909 En̄ hi den sin vʼstaelde
+L_M1_70_910 Eer hē therte daelde
+
+
+L_M1_71_911 URouwē sijn bi natuerē goet
+L_M1_71_912 Si slechten den wine entʼ gloet
+L_M1_71_913 Die de werelt verbliden
+L_M1_71_914 Die des wijns te vele in doet
+L_M1_71_915 En̄ te naeden viere set dē voet
+L_M1_71_916 Hine caent geliden
+L_M1_71_917 Warē māne alsoe behoet
+L_M1_71_918 Dat si oegen sin en̄ moet
+L_M1_71_919 Wel consten besniden
+L_M1_71_920 Soe ware vrouwe mīne spoet
+L_M1_71_921 Nv werden si vā mīnen verwoet
+L_M1_71_922 Diere domlike toe tiden
+L_M1_71_923 Dit doet vrouwen beniden
+
+
+L_M1_74_950 WAt makē quaet sprekers gescal
+L_M1_74_951 Vrouwē daedent wel na al
+L_M1_74_952 Dat dit wonder gesciede
+L_M1_74_953 Al dat es ofte wesen sal
+L_M1_74_954 En̄ oeyt was sondʼ getal
+L_M1_74_955 Ingele en̄ lieden
+L_M1_74_956 Benedien groot en̄ smal
+L_M1_74_957 Maria die ghenas den val
+L_M1_74_958 Van menscheliken dieden
+L_M1_74_959 Si es die roefde en̄ stal
+L_M1_74_960 Die siele int helsche dal
+L_M1_74_961 Dies lucifer begiede
+L_M1_74_962 Ende sine meiseniede
+
+
+L_M1_72_924 DAt mē luttel trouwē vint
+L_M1_72_925 Aen vrouwē dꝫ en clagic twint
+L_M1_72_926 Bi eender manieren
+L_M1_72_927  ...t mē vele vint
+L_M1_72_928 
+
+
+
+L_M1_72_929 En̄ men copet ondiere
+L_M1_72_930 Manne sijn loeser dā die wint
+L_M1_72_931 Haer scoen claegē vrouwē vʼblint
+L_M1_72_932 Want si sijn goeder tieren
+L_M1_72_933 Groeter sonden hi hē bewint
+L_M1_72_934 Die valsche woort vrouwē toe sint
+L_M1_72_935 God die moeten schiere
+L_M1_72_936 Senden ten helschen viere
+
+
+L_M1_73_937 WAt mochts eua dat adaem
+L_M1_73_938 Doer harē wille dē appel n...
+L_M1_73_939 Dat wi noch alle besteruen
+L_M1_73_940 Ic waendʼ ons voerdeel af quaē
+L_M1_73_941 Hier om̄e wʼt mēsche themelsche lam
+L_M1_73_942 Tonser alder bederue
+L_M1_73_943 Hi vʼsoende dē vadʼ gram
+L_M1_73_944 En̄ wijsde ons dē wech entē dam
+L_M1_73_945 Toter hoeger eruen
+L_M1_73_946 Selsender dinc noeyt mā vʼnam
+L_M1_73_947 Dat eē maget gode maecte tam
+L_M1_73_948 Dat hi hem een weruen
+L_M1_73_949 Doer onsen wille liet bedʼuen
+
+
+L_M1_75_963 IAcop du best dē vrouwē hout
+L_M1_75_964 Du gheues dē māne alle die scout
+L_M1_75_965 Ic waene ict best gedoeghe
+L_M1_75_966 Ic vergeue al ongedout
+L_M1_75_967 Allen vrouwē ionc en̄ out
+L_M1_75_968 Om̄e die vrouwe hoege
+L_M1_75_969 Dʼ ons af quaē ons behout
+L_M1_75_970 Gedanct si si menichfout
+L_M1_75_971 Dat sine op hilt met soege
+L_M1_75_972 Die ons benaē thelschē cout
+L_M1_75_973 In haer benic tinden bout
+L_M1_75_974 Onse dyaloeghe
+L_M1_75_975 En vraege nēmeer no en toege
+
+Line_number 976 is missing
+
+
+L_M2_01_000 Dander merten
+L_M2_01_001 SLaepstu mertē slaept dij̄ sin
+L_M2_01_002 Sprekē en heeft geen sprekē in
+L_M2_01_003 Du dunckes mi vʼdoren
+L_M2_01_004 Dune achtes meer no min
+L_M2_01_005 Dan op welde en̄ op ghewin
+L_M2_01_006 Wiltu di aldus versmoren
+L_M2_01_007 Al wʼt al dine dꝫ comt int swin
+L_M2_01_008 Gout seluer loot yser tin
+L_M2_01_009 Soe bleefstu verloren
+L_M2_01_010 
+
+
+
+L_M2_01_011 Hef op dijn hoet dinen kin
+L_M2_01_012 Tontide waerstu geboren
+L_M2_01_013 Heeftu dichtens vʼsworen
+
+
+L_M2_02_014 IAcop du woens inden dam
+L_M2_02_015 En̄ ic tutrecht des benic grā
+L_M2_02_016 Dat wi dus sijn verscheeden
+L_M2_02_017 Wetti wat mi meest mesquaem
+L_M2_02_018 Dat ic noeyt bate en vʼnaem
+L_M2_02_019 Aent dichten vā ons beeden
+L_M2_02_020 Soe es mijn sin woordē soe lam
+L_M2_02_021 Dat icker noede wedʼ aen quaē
+L_M2_02_022 Dit doet mi verleeden
+L_M2_02_023 Du wecs mi als .I. stotel ram
+L_M2_02_024 Sidi wilt ghi wert noch tam
+L_M2_02_025 Leere dine woorde cleeden
+L_M2_02_026 Soetelike en̄ ghereeden
+
+
+L_M2_03_027 MErten vrient hebbic messeit
+L_M2_03_028 Ic bens te betren gereit
+L_M2_03_029 Ic wils al op di bliuen
+L_M2_03_030 Mʼ vʼstant mi en̄ ontbeit
+L_M2_03_031 Een dinc dꝫ mi opt hʼte leit
+L_M2_03_032 Willic di bescriuen
+L_M2_03_033 Dʼ hʼ die wʼelt mede meit
+L_M2_03_034 En̄ daede dꝫ lief ware leit
+L_M2_03_035 En̄ dats mīne vā wiuen
+L_M2_03_036 Wat dꝫ inde weʼlt steit
+L_M2_03_037 Steden borghe bossche preit
+L_M2_03_038 Soude men vʼdriuen
+L_M2_03_039 Woude mē min̄e ontliuen
+
+
+L_M2_04_040 IAcop dit was oeyt dijn doen
+L_M2_04_041 Vā vrouwē te makē dij̄ sermoē
+L_M2_04_042 Beghinnen ofte inden
+L_M2_04_043 Waerstu een dorpʼ du spraecs vā coē
+L_M2_04_044 Nv es dijn hʼte des ontvloen
+L_M2_04_045 Doch willics mi ghenenden
+L_M2_04_046 En̄ stekē af minen caproen
+L_M2_04_047 En̄ hoerē watti hʼ toe spoen
+L_M2_04_048 Dattu den ombekinden
+L_M2_04_049 Merten niet en laet gheroen
+L_M2_04_050 Al haddic aen ij. yserē scoen
+L_M2_04_051 En mochte di niet ontwindē
+L_M2_04_052 Nv vraecht ic sal ontbinden
+
+
+L_M2_05_053 MErten du sout mi vʼstaen
+L_M2_05_054 Een vrouwe wel gedaen
+L_M2_05_055 
+
+
+
+L_M2_05_056 Aldat gode es onder daen
+L_M2_05_057 Lietic al om̄e hare gaen
+L_M2_05_058 Mochticse gewinnē
+L_M2_05_059 Nochtan wetic sondʼ waen
+L_M2_05_060 Dat si mijns nꝫ en acht I spaen
+L_M2_05_061 Mijn sin doet mi bekinnen
+L_M2_05_062 Al souder die werelt om̄e vʼgaen
+L_M2_05_063 Si en soude mi niet ontfaen
+L_M2_05_064 In haer herte binnen
+L_M2_05_065 Hier toe es gheen vʼwinnen
+
+
+L_M2_06_066 EEn andʼ vrouwe es die mi mīt
+L_M2_06_067 Bouē al dꝫ si leuende kint
+L_M2_06_068 Met gestaeder trouwen
+L_M2_06_069 Die niet mi geprijst es twint
+L_M2_06_070 Mʼ die scoenste die men vint
+L_M2_06_071 En̄ spiegel vā allē vrouwen
+L_M2_06_075 Hoe lief op sien si mi toe sent
+L_M2_06_073 Mijn herte es soe vʼblent
+L_M2_06_074 Dat icse niet en wille scouwen
+L_M2_06_072 Mij̄ hʼte dꝫ es soe hart twint
+L_M2_06_076 Dꝫ het mi al duncket wint
+L_M2_06_077 Si liet hʼ eer te stuckē houwen
+L_M2_06_078 Eer siere om̄e quaē in rouwen
+
+
+L_M2_07_079 MErten hore en̄ vʼstant
+L_M2_07_080 Dese .ij. sijn in I bewant
+L_M2_07_081 Dat costen moꝫ dʼ eren leuē
+L_M2_07_082 Nv hebbic die macht inde hant
+L_M2_07_083 Welker ic wille brekē den cant
+L_M2_07_084 En̄ maecht hʼ al vergheuen
+L_M2_07_085 Emmer moꝫ deē bitē den tant
+L_M2_07_086 Den besten die god ie vant
+L_M2_07_087 Hier toe sijn si verdreuen
+L_M2_07_088 En liecht mi niet als I. truwant
+L_M2_07_089 Mʼ segt mi aen welken cant
+L_M2_07_090 Dijn herte es bleuen
+L_M2_07_091 En̄ welke du liets sneuen
+
+
+L_M2_08_092 IAcop dit en es geēs vragēs waert
+L_M2_08_093 Die de wʼheit nꝫ en spaert
+L_M2_08_094 Heeft dit saen ontbonden
+L_M2_08_095 Hets ēmer dʼ hʼten aert
+L_M2_08_096 Dat si daer waert tijt en̄ vaert
+L_M2_08_097 Danē hʼ quaemē die wonden
+L_M2_08_098 Al sout al vaeren hindʼwaert
+L_M2_08_099 Al dat weluarens begaert
+L_M2_08_100 
+
+
+
+
+
+L_M3_27_340 Tfleeschs datti van dē reinē wiue
+L_M3_27_341 Vrouwen marien nam
+L_M3_27_342 Hi troeste sine lieue keytiue
+L_M3_27_343 Hier ij. hʼ iij hʼ iiij. hier viue
+L_M3_27_344 Met hem hi eten quaem
+L_M3_27_345 Dus es die gods sone alsic scriue
+L_M3_27_346 God en̄ mensche elc mā bliue
+L_M3_27_347 Hier in gehoersam
+L_M3_27_348 Es oec enich mā soe stiue
+L_M3_27_349 Die iegen dit geloeue kiue
+L_M3_27_350 Op hem sal themelsche lam
+L_M3_27_351 Ten ioncstē woordē gram
+
+
+L_M3_28_352 INden hemel es hi geuaeren
+L_M3_28_353 Dʼ die sine aē saegen twarē
+L_M3_28_354 Tes vaders rechte hant
+L_M3_28_355 Dʼ hi altoes sonder spaeren
+L_M3_28_356 Den vadʼ bidt voer sijn caren
+L_M3_28_357 Die hem hier sijn becant
+L_M3_28_358 Noch comt hi hem hier vʼbaerē
+L_M3_28_359 Doemē die werelt mꝫ sinē scaerē
+L_M3_28_360 Enten helschen viant
+L_M3_28_361 Sonne mane sal hi vʼclaerē
+L_M3_28_362 Die bi adaeme vʼdonckert waren
+L_M3_28_363 Lucht water ende lant
+L_M3_28_364 Sal purgerē een brant
+
+
+L_M3_29_365 AL waest datti dus op rande
+L_M3_29_366 Hi liet dē sinē hier te pande
+L_M3_29_367 Sijn vleeschs sijn heilich bloet
+L_M3_29_368 Te sacreerne in des priesters hāde
+L_M3_29_369 Wie es die sulke gaeue becande
+L_M3_29_370 Beeter ofte alsoe goet
+L_M3_29_371 Aey god brect onse bande
+L_M3_29_372 En̄ vʼgeeft ons dine ande
+L_M3_29_373 En̄ dinen euelen moet
+L_M3_29_374 Dꝫ onse mont en̄ onse tant
+L_M3_29_375 Smaekē moet sonder scande
+L_M3_29_376 V vleeschs en̄ v bloet
+L_M3_29_377 Dat wt dijnre siden woet
+
+
+L_M3_30_378 VT desen sone en̄ wonden
+L_M3_30_379 Wies godhᵗ niemē ...nē gegrōdē
+L_M3_30_380 Noch wies menschelijcheit
+L_M3_30_381 Si vloeydē yerst en̄ begonde
+L_M3_30_382 Die sacramente tien stonden
+L_M3_30_383 
+L_M3_30_384 
+
+
+
+L_M3_30_385 Soe ic naest hebbe ondervonden
+L_M3_30_386 Na miere ...heit
+L_M3_30_387 Die dit geloue vast orconden
+L_M3_30_388 Aflaet groot van haer ...
+L_M3_30_389 Es hē altoes gereit
+L_M3_30_390 Op dat mer in volsteet
+
+
+L_M3_31_391 IAcop du berecht mi ...
+L_M3_31_392 Nv berecht mi van den persone
+L_M3_31_393 Die men heet he...
+L_M3_31_394 Hoe mijn geloeue ...oene
+L_M3_31_395 Te hē clēmē ...oe
+L_M3_31_396 Die alder gauen es meest
+L_M3_31_397 Vandē vadʼ en̄ vandē soene
+L_M3_31_398 Hebbic gehoort dat god loone
+L_M3_31_399 Scoene berecht volleest
+L_M3_31_400 Dies danckic dʼ martelerē vrone
+L_M3_31_401 Dʼ bouē indē hoegen troene
+L_M3_31_402 En̄ gheue di volleest
+L_M3_31_403 Datture coms ongheureest
+
+
+L_M3_32_404 MErtē ons leert tscriftuere
+L_M3_32_405 Dꝫ I. god en̄ I. natuere
+L_M3_32_406 Emmer sijn dese drie
+L_M3_32_407 Altoes euen na gebuere
+L_M3_32_408 En̄ vʼschedē te ghere uren
+L_M3_32_409 Noch en verscieden nie
+L_M3_32_410 Vader kint vʼstant ter cuere
+L_M3_32_411 Wt desen dobbelen gods duere
+L_M3_32_412 Wie caent gegronden wie
+L_M3_32_413 Dā comt die geest die suete guere
+L_M3_32_414 Die reine godheit entie puere
+L_M3_32_415 Hier toe proeft ende sie
+L_M3_32_416 Met herten ende ghie
+
+
+L_M3_33_417 DIts die troest die aldʼ meeste
+L_M3_33_418 Hē die aerm sijn vā geeste
+L_M3_33_419 Leert hi blide sijn
+L_M3_33_420 Hi es in pinē altoes feeste
+L_M3_33_421 Hi doet meneghen die w... beeste
+L_M3_33_422 Sijn suuer ende fijn
+L_M3_33_423 Wapene god die dꝫ vʼeeste
+L_M3_33_424 Dꝫ hi vā sinen vol...
+L_M3_33_425 Smaecte eē droepelkin
+L_M3_33_426 Die ware gode die aldʼ neeste
+L_M3_33_427 Gheen vrese vā tempeeste
+
+
+
+
+
+L_M3_34_430 DIts tfaders en̄ tsoens gaue
+L_M3_34_431 Rijcheit bouen allen haue
+L_M3_34_432 Fonteine des leuens al
+L_M3_34_433 Soe wie geproeft wʼt hier aue
+L_M3_34_434 Wat rijchedē mē hē gaeue
+L_M3_34_435 Soude hem duncken smal
+L_M3_34_436 Rijchᵗ die cō heeft ofte graeue
+L_M3_34_437 Es tiendendeel nꝫ vā enē caeue
+L_M3_34_438 Jeghen dit gheual
+L_M3_34_439 ... die rust inden graeue
+L_M3_34_440 Met deser edelheit soe laeu
+L_M3_34_441 Ons alsmen rumē sal
+L_M3_34_442 Dit aerme ertsche dal
+
+
+L_M3_35_443 DIts tfaders en̄ tsoens mīne
+L_M3_35_444 Dits caritaere dʼ altoes inne
+L_M3_35_445 Ruust die triniteit
+L_M3_35_446 Hi es der propheten sinne
+L_M3_35_447 Leerde en̄ maecte een inde
+L_M3_35_448 Des gods sone menschelijcheit
+L_M3_35_449 En es coninc noch conīghinne
+L_M3_35_450 Die ēmermeer aflaet gewinne
+L_M3_35_451 Dan siere onsaelicheit
+L_M3_35_452 Hine hebbe eē traē al wʼ hi dinne
+L_M3_35_453 Dan desen dauwe tsinē beghīne
+L_M3_35_454 Alle wel vaeren es hem ontseit
+L_M3_35_455 Dʼ dese sijn ongereit
+
+
+L_M3_36_456 DEse leerde dē apostelē twaerē
+L_M3_36_457 Alle tongen die doē waren
+L_M3_36_458 Inde werelt breit
+L_M3_36_459 Dese gaf dē martelaren
+L_M3_36_460 Dat si conden sondʼ mesbaeren
+L_M3_36_461 Doegen lief ende leit
+L_M3_36_462 Dese can die sinne vʼclaerē
+L_M3_36_463 Die hē mꝫ sondē vʼswaeren
+L_M3_36_464 En̄ tcoude maekē heit
+L_M3_36_465 Sine lieue sine caeren
+L_M3_36_466 Deilt hi sondʼ spaeren
+L_M3_36_467 Dat godlike cleit
+L_M3_36_468 Dꝫ nēmermeer vʼgheit
+
+
+L_M3_37_469 WAt hulpt mertē sin en̄ taele
+L_M3_37_470 Die begheuē mi alte maele
+L_M3_37_471 Meer te sprekene voort
+L_M3_37_472 
+L_M3_37_473 
+
+
+
+L_M3_37_475 Doch eest maer .I. die berch en̄ daele
+L_M3_37_476 Sciep al groet ende smaele
+L_M3_37_477 Dʼ af tellen alle woort
+L_M3_37_478 En ganc niet ouʼ dese paele
+L_M3_37_479 Hout in dijnre hʼten saele
+L_M3_37_480 Sone woordi niet vʼsmoort
+L_M3_37_481 Inde helsche poort
+
+
+L_M3_38_482 WAre oec iement die wedʼ spraeke
+L_M3_38_483 Dit geloeue en̄ dese saeke
+L_M3_38_484 Waer euwelikē vʼdoemt
+L_M3_38_485 Recht wʼt datmē indē brant staeke
+L_M3_38_486 En̄ dʼ na thelsche vier smaeken
+L_M3_38_493 Dʼ niement wt en comt
+L_M3_38_488 Hulpt god dat ic dʼ geraeke
+L_M3_38_489 Dʼ ic sie ende smaeke
+L_M3_38_490 Die godheit ongenoemt
+L_M3_38_491 Sone trect mi nꝫ die helsche draeke
+L_M3_38_492 Met hē ter euweliker wraeken
+L_M3_38_493 Dʼ niement wt en comt
+L_M3_38_494 Wient scaet ofte vroemt
+
+
+L_M3_39_495 AMen iacop lieue geselle
+L_M3_39_496 Mi dunct dat ic v zeʼe quelle
+L_M3_39_497 Doch haddics groetē noot
+L_M3_39_498 Alsic dit leese en̄ spelle
+L_M3_39_499 Maghic leeren alsic vʼtelle
+L_M3_39_500 Mijn geloeue al bloet
+L_M3_39_501 Dʼ ic bi scuwē mach die helle
+L_M3_39_502 Op dꝫ ic mi dʼ toe vʼsnelle
+L_M3_39_503 Te doene dꝫ god geboet
+L_M3_39_504 God die de doet wrac vā abelle
+L_M3_39_505 Bringe ons ter hoger celle
+L_M3_39_506 Dats in abrahams scoet
+L_M3_39_507 Na dese corte doot
+L_M3_39_508 Amen
+

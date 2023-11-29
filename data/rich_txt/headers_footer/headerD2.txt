@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MVN xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Jacob van Maerlant, Martijn</title><editor xml:id="SM">Sofie Moors</editor></titleStmt>
+            <publicationStmt>
+                <p>Transcription based on: Breugelmans, R. (1986). ‘Een fragment van een onbekende druk van de Wapene Martijn. Beschrijving, commentaar en transcriptie.’ G. Van Eemeren and F. Willaert (eds.), ’t Ondersoeck leert. Studies over middeleeuwse en 17de-eeuwse literatuur ter nagedachtenis van prof. Dr. L. Rens. Louvain/Amersfoort: Acco, pp. 125–136.</p>
+            </publicationStmt>
+            <sourceDesc>
+          <msDesc>
+          <msIdentifier>
+            <settlement>Leiden   </settlement>
+            <institution>University Library</institution>
+            <idno>LTK 1021</idno>
+            <msName>D2</msName>
+          </msIdentifier>
+ <p>...</p>
+        </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+ <charDecl><char xml:id="rrot">
+                <charName>LATIN SMALL LETTER R ROTUNDA</charName>
+                <mapping type="junicode">ꝛ</mapping>
+                <mapping type="mufi">ꝛ</mapping>
+                <mapping type="standard">ꝛ</mapping>
+            </char></charDecl>
+            <xi:include href="http://www.huygensinstituut.knaw.nl/projecten/mvn/webfiles/charDecl.xml"  
+                xmlns:xi="http://www.w3.org/2001/XInclude">
+                <xi:fallback>
+                    <xi:include href="charDecl/charDecl.xml"/>
+                </xi:fallback>
+            </xi:include>
+            <editorialDecl>
+                <p><!-- Verantwoording van de editie --></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <handNotes>
+                <handNote xml:id="h1"><p>...</p></handNote>
+            </handNotes>
+        </profileDesc>
+    </teiHeader>
+    <text xml:id="Martijn">
+        <group>

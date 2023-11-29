@@ -1,0 +1,209 @@
+@import "mvn.css";
+
+/*-----------------------------------------------------------------------------------------------------------------------------------------------------
+----- Oxygen modifications to the TEI css available at  http://tei.svn.sourceforge.net/viewvc/tei/trunk/TEICSS/  ------
+------------------------------------------------------------------------------------------------------------------------------------------------------*/
+TEI, body {
+}
+
+div > head,
+body > div > head,
+body > div > div > head,
+body > div > div > div > head,
+body > div > div > div > div > head{
+    padding-top:0.6em;
+    padding-bottom:0.2em;
+    padding-left:0.2em;
+    padding-right:0em;
+    background-color:inherit;
+    color:#004477;
+    border-bottom:1px solid #004477;
+}
+text:before{
+    content: "[text n='" attr(n)"']";
+}
+group > text {
+    margin:20px;
+    padding:20px;
+    border: medium dotted black;
+}
+head{
+    display:block;
+    font-size:120%;
+}
+note{
+    display:inline;
+}
+gap{
+    display:inline;
+}
+handShift {
+    display:inline;
+    background-color: inherit;
+    color: #996600;
+    content: "[handShift new='" attr(new)"']";
+}
+pb {
+    display:inline;
+    background-color: inherit;
+    color: #996600;
+    content: "[pb n='" attr(n)"']";
+}
+cb {
+    display:inline;
+    background-color: inherit;
+    color: #996600;
+    content: "[cb n='" attr(n)"']";
+}
+qb {
+    display:inline;
+    background-color: inherit;
+    color: #996600;
+    content: "[qb n='" attr(n)"']";
+}
+lb:before { content:"\A";
+}
+lb {
+    display:inline;
+    background-color: inherit;
+    color: #996600;
+    content: "[lb n='" attr(n)"']";
+}
+delSpan {
+    display:inline;
+    background-color: inherit;
+    color: #996600;
+    content: "[delSpan]";
+}
+addSpan {
+    display:inline;
+    background-color: inherit;
+    color: #996600;
+    content: "[addSpan]";
+}
+anchor {
+    display:inline;
+    background-color: inherit;
+    color: #996600;
+    content: "[anchor]";
+}
+restore{
+    border:thin solid purple;
+}
+num{
+    font-variant:small-caps;
+}
+subst {
+    border:thin solid green;
+}
+del {
+    text-decoration:line-through;
+    color:red
+}
+l:before{
+   background-color: inherit;
+    color: #cc0099;
+    content:"l: ";
+}
+subst  > add {
+    background-color:yellow;
+}
+subst  > del {
+    background-color:yellow;
+}
+restore > del {
+    background-color:yellow;
+}
+damage{
+    border: thin solid red;
+}
+supplied{
+    border: thin solid green;
+}
+/*unclear{
+    text-decoration: underline;
+}*/
+hi[rend="ul"] {
+  display: inline;
+  text-decoration: underline;
+}
+hi[rend="ulr"] {
+  display: inline;
+  border-bottom:thin solid red;
+}
+hi[rend="rubric"] {
+  display: inline;
+  color:red;
+}
+hi[rend="blue"] {
+  display: inline;
+  color:blue;
+}
+hi[rend="capitalsize2"] {
+  font-size:150%;
+}
+hi[rend="capitalsize3"] {
+  font-size:225%;
+}
+hi[rend="capitalsize4"] {
+  font-size:325%;
+}
+space{
+  display: block;
+  color:red;
+  content: "[space dim='" attr(dim)"' extent='" attr(quantity)attr(unit)"']";
+}
+seg:before{
+  color:#993300;
+  content: "{";
+}
+seg:after{
+  color:#993300;
+  content: "}";
+}
+
+
+div,
+body > div,
+body > div > div,
+body > div > div > div,
+body > div > div > div > div{
+    margin-bottom:0.2em;
+}
+
+cell[role='label'],
+row[role='label']{
+   color: inherit;
+   background-color: #CCEEFF;
+}
+
+table {
+  border: 1px solid #EEEFEE;
+}
+
+graphic{
+    content: attr(url, url);
+}
+
+hi[rend="sc"] {
+  display: inline;
+  text-decoration:overline;
+}
+
+/*
+    Foldable elements
+*/
+text,
+body,
+div, 
+div0, 
+div1, 
+div2, 
+div3, 
+div4, 
+div5, 
+div6, 
+div7 {
+    foldable:true;
+    not-foldable-child: head;
+}
