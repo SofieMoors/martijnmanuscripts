@@ -1,6 +1,6 @@
 # <p align = center> The Martijn Trilogy Manuscripts: An Open Dataset for Analyzing Scribal Variation</center> 
 
-*Constrained* is a research project funded by the Research Foundation - Flanders, File Number 1182723N. 
+This dataset results from a research project funded by the Research Foundation - Flanders, File Number 1182723N. 
 
 Cite this code as: [![DOI](https://zenodo.org/badge/457832412.svg)](https://zenodo.org/badge/latestdoi/457832412)
 
