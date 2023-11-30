@@ -4,10 +4,10 @@ This dataset results from a research project funded by the Research Foundation -
 
 Cite this code as: [![DOI](https://zenodo.org/badge/457832412.svg)](https://zenodo.org/badge/latestdoi/457832412)
 
-# ABSTRACT: 
-We present a dataset of transcriptions of manuscripts from the Middle Dutch strophic poem Martijn Trilogy by the Flemish poet Jacob van Maerlant. Of his very large oeuvre, Maerlant’s Strophic Poems had the longest tradition: he wrote them in the thirteenth century, but copyists and printers distributed them until about 1500. These ten shorter poems on social, religious, and ethical issues stand out for their unusual and complex stanza form. The Martijn Trilogy was the most successful strophic poem: we have 17 text witnesses, and the trilogy was imitated and even translated into French and Latin. This dataset contains transcriptions of all witnesses, which forms a total of 15,811 verses or 79,359 words. These transcriptions are open access and available in TXT, XML, XLSX and HTML. Since the editions are diplomatic, this corpus is ideal for research on scribal attributions, abbreviations, stemmatology, textual stability and more.
+## ABSTRACT: 
+We present a dataset of transcriptions of manuscripts from the Middle Dutch strophic poem *Martijn Trilogy* by the Flemish poet Jacob van Maerlant. Of his very large oeuvre, Maerlant’s *Strophic Poems* had the longest tradition: he wrote them in the thirteenth century, but copyists and printers distributed them until about 1500. These ten shorter poems on social, religious, and ethical issues stand out for their unusual and complex stanza form. The *Martijn Trilogy* was the most successful strophic poem: we have 17 text witnesses, and the trilogy was imitated and even translated into French and Latin. This dataset contains transcriptions of all witnesses, which forms a total of 15,811 verses or 79,359 words. These transcriptions are open access and available in TXT, XML, XLSX and HTML. Since the editions are diplomatic, this corpus is ideal for research on scribal attributions, abbreviations, stemmatology, textual stability and more.
 
-# DATA COLLECTION: 
+## DATA COLLECTION: 
 The 17 different text witnesses of the *Martijn Trilogy* are manuscripts, fragments, and prints dating from the 14th century until ca. 1500. 
 <p align="center">
   <img src="https://github.com/SofieMoors/martijnmanuscripts/blob/main/data/viz/mytimeline.png" />
@@ -35,7 +35,7 @@ For most of the witnesses, [existing editions](#references) of the text could be
 | 16. D (Antwerpse druk, Hendrik den Lettersnider) | The Hague National Library of the Netherlands 150 F 40  | M1, M2, M3 | Verdam & Leendertz (1918); Mertens (1978) | [Digital](https://books.google.be/books?id=n2RXCGiiqusC&printsec=frontcover&hl=nl&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false) |
 | 17. D2 (Print) | Leiden University Library LTK 1021 | Fragmentary M1, M2 | Breugelmans (1986) | / |
 
-# REFERENCES: 
+## REFERENCES: 
 1) Bosmans, G. and Sleiderink, R. (2019). Maerlant in Yvelines. Een nieuw fragment van de Martijns van Jacob van Maerlant (Montigny-le-Bretonneux, Archives départementales des Yvelines, 1F 180). *Queeste*, 26: 66–93.
 2) Breugelmans, R. (1986). ‘Een fragment van een onbekende druk van de Wapene Martijn. Beschrijving, commentaar en transcriptie.’ G. Van Eemeren and F. Willaert  (eds.), *’t Ondersoeck leert. Studies over middeleeuwse en 17de-eeuwse literatuur ter nagedachtenis van prof. Dr. L. Rens.* Louvain/Amersfoort: Acco, pp. 125–136.
 3) Brinkman, H. and Schenkel, J. (eds.) (1997). *Het Comburgse handschrift. Hs. Stuttgart,. Württembergische Landesbibliothek, Cod. poet. et phil. 2o 22. Band 1.* Hilversum: Verloren.
@@ -52,36 +52,37 @@ For most of the witnesses, [existing editions](#references) of the text could be
 14) Staring van den Wildenborch, A.C.W. (1834). ‘De Wapene Martijn van Jacob van Maerlant, naar het Zutphense hs. medegedeeld, met eene inleiding en aanteekeningen van M. Siegenbeek.’ *Nieuwe Werken van de Maatschappij der Nederlandsche Letterkunde te Leiden*, deel III, 2de stuk. Dordrecht: Blussé & Van Braam, pp. 81-225.
 15) Verdam, J., and Leendertz, P. (ed.) (1918). *Jacob van Maerlant’s Strophische gedichten. Nieuwe bewerking der uitgave van Franck en Verdam.* Leiden: A.W. Sijthoff’s.
 
-
-# DATA PREPROCESSING: 
+## DATA PREPROCESSING: 
 **data**
-- `viz`: Folder with figures, images and tables
-- `html`:
+- `html`: 17 html files with abbreviations expanded, 17 html files with abbreviations solved and extra folders with mvnhtml.css
+- `mvn`: framework used: https://github.com/HuygensING/mvn-xml/tree/main/framework
+- `plain_txt`: 17 text files generated from `xml` with markup applied (scripts > `xml2txt.ipynb`)
 - `rich_txt`: 17 raw text files, manually enriched them with semantic markup: [legend](#legend-rich_txt_martijn)
-- `plain_txt`: 17 txt-files generated from `xml` with markup applied (scripts > `xml2txt.ipynb`) 
-- `xml`: 17 xml-files generated from the `rich_txt` (scripts > `txt2xml.ipynb`)
+- `viz`: Folder with timeline and pixelplot
+- `xlsx`: Folder with synoptic presentation of all 17 witnesses (abbreviations expanded). Import `synoptic.html` into Excel to get the `synoptic.xlsx`.
+- `xml`: 17 xml files generated from the `rich_txt` (scripts > `txt2xml.ipynb`)
 
 **scripts**
-- `viz.ipynb`: Code to create figures, images,...
 - `txt2xml.ipynb`: Code to convert `rich_txt` to `xml`
+- `viz.ipynb`: Code to create `viz`
 - `xml2txt.ipynb`: Code to convert `xml` to `plain_txt`
 - `xml2xlsx.ipynb`: Code to convert `xml` to `xlsx`
 
-# LEGEND rich_txt:
+## LEGEND rich_txt:
 
-| TRANSCRIPTION RICH_TXT_MARTIJN |  EXAMPLE        |        INFORMATION               |        
+| TRANSCRIPTION RICH_TXT |  EXAMPLE        |        INFORMATION               |        
 |--------------------------|------------------------------|-----------------------------|
 | &FOLIO_COLUMN&           | &2ra&, &112vb&               | New page and column          |                                            
 | \_TEXTPART\_                | \_M1\_                         | New text part (M1, M2 or M3) |                                            
 | _____                    | _____                        | End of text part             |                                            
 | §STROPHE§                | §03§; §20§                   | New strophe                 |                                            
-| <CHARACTER_HEIGHT>       | <O_3>m, <D>e                 | Capital letter and height of letter |                                      
+| <CHARACTER_HEIGHT>       | <O_3>m, \<D>e                 | Capital letter and height of letter |                                      
 | {CHARACTER}              | {per}semier, dor{per}hede, or{con}de | Special abbreviatory glyphs (ꝫ, ꝑ, ꝰ, …) |                            
 | CHARACTER(CHARACTER)     | en(de), co(ninc)             | Macron                      |                                            
 | CHARACTER%CHARACTER%     | n%iet%, g%roe%t              | Abbreviation marked by superscript letter |                                  
 | CHARACTER#               | siechei#                     | Hyphenation                 |                                            
 | [...]                    | es [...], m[...]             | Damage gap                  |                                            
-| *CHARACTER*              | *t*                          | Uncertain reading            |                                            
+| \*CHARACTER*              | \*t*                          | Uncertain reading            |                                            
 | CHARACTER[CHARACTER]     | s[er]e                       | Abbreviation marked by ʼ    |                                            
 | Ø                        | Ø                            | Missing line (copyist error) |                                            
 | «CHARACTER»              | «koen»                       | Word added below the line   |                                            
