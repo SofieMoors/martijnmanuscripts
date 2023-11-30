@@ -59,7 +59,7 @@ For most of the witnesses, [existing editions](#references) of the text could be
 - `plain_txt`: 17 text files generated from `xml` with markup applied (scripts > `xml2txt.ipynb`)
 - `rich_txt`: 17 raw text files, manually enriched them with semantic markup: [legend](#legend-rich_txt_martijn)
 - `viz`: Folder with timeline and pixelplot
-- `xlsx`: Folder with synoptic presentation of all 17 witnesses (abbreviations expanded). Import `synoptic.html` into Excel to get the `synoptic.xlsx`.
+- `xlsx`: Folder with synoptic presentation of all 17 witnesses (abbreviations expanded). Import `synoptic.html` into Excel to get the `synoptic.xlsx`
 - `xml`: 17 xml files generated from the `rich_txt` (scripts > `txt2xml.ipynb`)
 
 **scripts**
