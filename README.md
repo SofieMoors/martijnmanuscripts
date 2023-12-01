@@ -2,7 +2,7 @@
 
 This dataset results from a research project funded by the Research Foundation - Flanders, File Number 1182723N. 
 
-Cite this code as: [![DOI](https://zenodo.org/badge/457832412.svg)](https://zenodo.org/badge/latestdoi/457832412)
+Cite this code as: 
 
 ## ABSTRACT: 
 We present a dataset of transcriptions of manuscripts from the Middle Dutch strophic poem *Martijn Trilogy* by the Flemish poet Jacob van Maerlant. Of his very large oeuvre, Maerlant’s *Strophic Poems* had the longest tradition: originally written in the thirteenth century, copyists and printers continued to disseminate them until about 1500. These ten shorter poems on social, religious, and ethical issues stand out for their unusual and complex stanza form. The *Martijn Trilogy* were his most successful strophic poems: 17 text witnesses are extant, and the trilogy was imitated and even translated into French and Latin. This dataset contains hyper-diplomatic transcriptions of all witnesses, amounting to a total of  15,811 verses or 79,359 tokens. This open access dataset abides by the FAIR principles, is licenced under a CC-BY-SA license, and is made available in multiple, complementary file formats. Since these transcriptions are strictly diplomatic, this corpus offers valuable possibilities for research on scribal attributions (scribal profiling), abbreviations, stemmatology, textual stability and more.
