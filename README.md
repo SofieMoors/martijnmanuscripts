@@ -1,4 +1,4 @@
-# <p align = center> The Martijn Trilogy Manuscripts: An Open Dataset for Analyzing Scribal Variation</center> 
+# <p align = center> The *Martijn Trilogy* Manuscripts: An Open Dataset for Analyzing Scribal Variation</center> 
 
 This dataset results from a research project funded by the Research Foundation - Flanders, File Number 1182723N. 
 
