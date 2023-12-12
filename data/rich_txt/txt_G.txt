@@ -1316,7 +1316,7 @@ _M2_
 <S>ine amie verheffe(n) began: 
 185 <H>are boue(n) harre v%ro%uwe(n): 
 <D>aer e(n) was geen houde(n) an:  
-<H>i deedse wech o(n) redene da[er] van: 
+<H>i deedse wech o(m) redene da[er] van: 
 <S>ij(n) h[er]te was voltrouwen: 
 <N>egeen heilech man noch wijf e(n) ca(n): 
 190 <G>hemi(n)ne(n) sonder redene dan: 
