@@ -19,7 +19,7 @@ For most of the witnesses, [existing editions](#references) of the text could be
 |----------|----------|----------|----------|----------|
 |1. C (Gronings-Zutphens Maerlant Manuscript)| Groningen University Library HS 405|M1, M3|Staring van den Wildenborch (1834); Meijer (1838) | [Digital](https://facsimile.ub.rug.nl/digital/collection/manuscripts/id/3332) |
 | 2. E | Heidelberg University Library HS 200 (olim: HS. 362a, 83) | Fragmentary M1, M2, M3 | Mone (1838); Mertens (1978) |[Digital](https://digi.ub.uni-heidelberg.de/diglit/heidhs200/0001/image,info)|
-| 3. GE  | Cologny Fondation Martin Bodmer Cod. Bodmer 101 | Fragmentary M1, M2 | Gruijs & Mertens (1975) | [IIIF](https://www.e-codices.unifr.ch/en/fmb/cb-0101/bindingE/0/) |
+| 3. Ge  | Cologny Fondation Martin Bodmer Cod. Bodmer 101 | Fragmentary M1, M2 | Gruijs & Mertens (1975) | [IIIF](https://www.e-codices.unifr.ch/en/fmb/cb-0101/bindingE/0/) |
 | 4. K  | Koblenz Landeshauptarchiv Best. 701 Nr. 262 | Fragmentary M1 | Overgaauw (1996) |[Digital](https://apertus.rlp.de/index.php?PLINK=1&ID=ca23ec55-096e-4c81-aaca-9cfef51067dd) |
 | 5. G (Heber-Serrure codex)| Ghent University Library HS 1374 |M1, M2, M3| Gabriël & Kestemont (2023) | [IIIF](https://lib.ugent.be/viewer/archive.ugent.be%3A293E7132-AABB-11E7-8DE6-2C4519B1B84C#?c=&m=&s=&cv=&xywh=-668%2C-151%2C3454%2C2956) |
 | 6. W    |Vienna Austrian National Library Cod. 13708 | M3 | Gabriël (2023) | [Digital](https://digital.onb.ac.at/RepViewer/viewer.faces?doc=DTL_8500569&order=1&view=SINGLE) |
