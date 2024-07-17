@@ -26,7 +26,7 @@ For most of the witnesses, [existing editions](#references) of the text could be
 | 7. L  | Lyon Bibliothèque Municipal MS 6848 | Fragmentary M1, M2, M3| Moors (2022)| / |
 | 8. Ant |  Antwerp University Library Special Collections MAG-P 64.20 | Fragmentary M1 | Sleiderink, Moors, & De Schepper (2020)|[IIIF](https://anet.be/brocade/imageviewer/universalviewer/uv.html#?manifest=/iiif/de5dca9511b65c5195720e597f32a207f1737d7a/manifest&config=/iiif/viewercfg.phtml%3Fcg=uauniversalviewer)|
 | 9. Y | Montigny-le-Bretonneux - Archives départementales des Yvelines HS 1F 180 | Fragmentary M1, M3 | Bosmans & Sleiderink (2019)| / |
-| 10. BR | Brussels Royal Library of Belgium MS 19570  | Fragmentary M1, M2, M3 | Mertens (1978) | [Digital](https://uurl.kbr.be/2059677) |
+| 10. Br | Brussels Royal Library of Belgium MS 19570  | Fragmentary M1, M2, M3 | Mertens (1978) | [Digital](https://uurl.kbr.be/2059677) |
 | 11. A (Comburg manuscript) |  Stuttgart Württemberg State Library Cod. Poet. Et phil. 2° 22 | M1, M2, M3| Brinkman & Schenkel (1997) | [Digital](https://digital.wlb-stuttgart.de/index.php?id=6&tx_dlf%5Bid%5D=14451&tx_dlf%5Bpage%5D=227) |
 | 12. B (Haagse Pelgrimage-handschrift) | The Hague National Library of the Netherlands 76 E 6 | M1, M2, M3 | Verdam & Leendertz (1918); Mertens (1978) | / |
 | 13. Z   |  Ghent Royal Academy of Dutch Language and Literature KANTL: 6 | Fragmentary M1, M2, M3 |  Gailliard (1905); Mertens (1978) | [IIIF](https://fragmentarium.ms/overview/F-lllu)  |
