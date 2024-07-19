@@ -571,6 +571,6 @@ _M3_
 <D>ie de doot wrac van abelle
 505 <M>oet ons bringen t[er] hoegh[er] celle
 <D>ats i(n) abrahams scoet
-<N>a dese corte doot <A>men 
-Ø
+<N>a dese corte doot 
+<A>men 
 ____

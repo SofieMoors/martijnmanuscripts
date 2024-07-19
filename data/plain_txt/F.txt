@@ -2133,7 +2133,7 @@ F_M3_31_402 En̄ gheue dij volleest
 F_M3_31_403 Datture comes onghevreest
 
 
-F_M3_32_404 MErten ons leert die scrifture r
+F_M3_32_404 MErten ons leert die scriftuꝛe
 F_M3_32_405 Dat een god een natuere
 F_M3_32_406 Emmer siin dese drie
 F_M3_32_407 Altoes euen na ghebuere
@@ -2260,5 +2260,5 @@ F_M3_39_504 God die de doot wrac vā abelle
 F_M3_39_505 Bringhe ons ter hogher celle
 F_M3_39_506 Dats in abrahams scoot
 F_M3_39_507 Na dese corte doot.
-F_M3_39_508 ¶ AM_1E_1N_1.
+F_M3_39_508 ¶ AMEN.
 

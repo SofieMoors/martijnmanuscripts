@@ -5,7 +5,7 @@
 G_M1_01_000 Dit es dierste boec vādē wapē mʼten
 G_M1_01_001 Wapen merten hoe saelt gaen:
 G_M1_01_002 Sal dese werelt lange staen:
-G_M1_01_003 Jn d crāckē loue:
+G_M1_01_003 Jn dꝰ crāckē loue:
 G_M1_01_004 Soe sal mij̄ vᵒuwē vʼeere saē:
 G_M1_01_005 Sōdʼ twiuel en̄ waen:
 G_M1_01_006 rumen hʼen houe:
@@ -405,7 +405,7 @@ G_M1_24_312 Ten iōxstē dage no getē:
 
 
 G_M1_25_313 Mertē menech ꝑlem̄t:
-G_M1_25_314 En̄ seggē dꝫ die m es blēt ⸫⸫ Es om die minne dat si es blent .
+G_M1_25_314 Es om die minne dat si es blent .
 G_M1_25_315 Oec eest een woert gemeene:
 G_M1_25_316 Om dꝫ ic bē een ōwijs rēt:
 G_M1_25_317 So maect mi dese woʼde bekēt:
@@ -841,7 +841,7 @@ G_M1_50_649 Dit pᵒuē en̄ orꝯdē:
 G_M1_50_650 De meestʼs vādē pōdē:
 
 
-G_M1_51_651 I_1acob een dīc maect mi cōt:
+G_M1_51_651 Iacob een dīc maect mi cōt:
 G_M1_51_652 Alse die mēsche wʼt gewōt:
 G_M1_51_653 Vā gerechtʼ m:
 G_M1_51_654 Doꝫ dʼ ogē wandel vōt:
@@ -1647,7 +1647,7 @@ Line_number 339 is missing
 
 
 Line_number 000 is missing
-G_M3_01_001 IC māne mettē wiuē:
+G_M3_01_001 IC mane māne mettē wiuē:
 G_M3_01_002 Die dit gedichte lesē en̄ scᶦuē:
 G_M3_01_003 Op dē hoechstē ban:
 G_M3_01_004 Dꝫ sijt latē reene bliuē:
@@ -2262,7 +2262,6 @@ G_M3_39_503 Te doene dꝫ god geboꝫ:
 G_M3_39_504 Die de doot wrac vā abelle:
 G_M3_39_505 Moꝫ ōs bringē tʼ hoeghʼ celle:
 G_M3_39_506 Dats ī abrahās scoꝫ:
-G_M3_39_507 Na dese corte doot: Amē:
-
-Line_number 508 is missing
+G_M3_39_507 Na dese corte doot:
+G_M3_39_508 Amē:
 

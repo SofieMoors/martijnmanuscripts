@@ -4,7 +4,7 @@ _M1_
 0 <D>it es dierste boec va(n)de(n) wape(n) m[er]ten 
 1 <W_2>apen merten hoe saelt gaen: 
 2 <S>al dese werelt lange staen: 
-<J>n d{usu} cra(n)cke(n) loue: 
+<J>n d{us} cra(n)cke(n) loue: 
 <S>oe sal mij(n) v%ro%uwe(n) v[er]eere sae(n): 
 5 <S>o(n)d[er] twiuel en(de) waen:
 rumen h[er]en houe: 
@@ -354,12 +354,13 @@ plege(n) o(m)me te gane:
 <T>en io(n)xste(n) dage no gete(n):
 §25§
 <M_1>erte(n) menech {per}lem(en)t:
-314 <E>n(de) segge(n) d{at} die m%inne% es ble(n)t ⸫⸫ <E>s om die minne dat si es blent .
+314 <E>s om die minne dat si es blent .
 315 <O>ec eest een woert gemeene: 
 <O>m d{at} ic be(n) een o(n)wijs re(n)t: 
 <S>o maect mi dese wo[er]de beke(n)t: 
 <W>a(n)t e(n) es n%iet% cleene: 
 <E>s d{at} wa[er] so es m%inne% torme(n)t: 
+
 320 <D>ie hare volgde ware gesce(n)t: 
 <E>n(de) o(n)teert al reene: 
 <N>u seget elc wise al o(m)t%re%nt: 
@@ -738,7 +739,7 @@ plege(n) o(m)me te gane:
 <D>it p%roe%ue(n) en(de) or{con}de(n): 
 650 <D>e meest[er]s va(n)de(n) po(n)de(n):
 §51§
-<I>_1acob een di(n)c maect mi co(n)t: 
+<I_1>acob een di(n)c maect mi co(n)t: 
 <A>lse die me(n)sche w[er]t gewo(n)t: 
 <V>a(n) gerecht[er] m%inne%: 
 <D>o{et} d[er] oge(n) wandel vo(n)t: 
@@ -1494,7 +1495,7 @@ ____
 _M3_
 §01§
 0 Ø
-1 <I_4><C> ma(n)ne mette(n) wiue(n):
+1 <I_4><C> mane ma(n)ne mette(n) wiue(n):
 <D>ie dit gedichte lese(n) en(de) sc%ri%ue(n): 
 <O>p de(n) hoechste(n) ban: 
 <D>{at} sijt late(n) reene bliue(n): 
@@ -2069,6 +2070,6 @@ meer te sp%re%kene vort:
 <D>ie de doot wrac va(n) abelle:
 505 <M>o{et} o(n)s bringe(n) t[er] hoegh[er] celle: 
 <D>ats i(n) abraha(n)s sco{et}: 
-<N>a dese corte doot: <A>me(n):
-Ø
+<N>a dese corte doot: 
+<A>me(n):
 ____

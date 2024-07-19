@@ -932,7 +932,7 @@ _M1_
 <N>och niet te messchiene
 §63§
 <D_1><I>e gods sone toghet ons dat
-<D>ie enen gheweldich sit en(de) sat
+<D>ie euen gheweldich sit en(de) sat
 <D>en vad[er] in sijn rike
 810 <H>i beete in dese aerme stat
 <I>nder reynre marien vat
@@ -953,7 +953,7 @@ _M1_
 <V>are(n) int langhe leuen
 <E>n(de) jh{esus} naect int bloet besmet
 <E>n(de) sine rechtre side ghesplet
-<8>25 En(de) an thout v[er]heuen
+825 <E>n(de) an thout v[er]heuen
 <O>f thouet va(n) onser wet
 <M>et scarpe(n) dorne(n) was beset
 <A>lset noch es bescreue(n)
@@ -1181,7 +1181,7 @@ _M2_
 40 <S_1>o jacop dit was oint dijn doen
 <V>an vrouwe(n) moeste dijn sermoen
 <O>f beghinnen of enden
-<W>aerstu een dorp{er} du spraex va(n) coen
+<W>aerstu een dorp[er] du spraex va(n) coen
 <N>u es dine h[er]te dies ontfloen 
 45 <D>och willix mi ghenende(n)
 <E>n(de) steke(n) af mine(n) caproen
@@ -1676,7 +1676,7 @@ _M3_
 <S>one esser ane v[er]heest
 <D>ie sine(n) sin so laet v[er]steenen
 <D>at hi dies loechent hi moet weene(n)
-<E>n(de) eeuwelike sijn gehoest
+<E>n(de) eeuwelike sijn ghevreest
 130 <I>nde(n) helsche(n) te(m)peest
 §11§
 <V_1>vi sette(n) de(n) vader voren
@@ -1765,7 +1765,7 @@ _M3_
 <N>och gheen beghin an w[ar]t v[er]heue(n)
 <S>ijn wesen es so stranc
 205 <S>iere jeghe(n) wordicheit es beneue(n)
-<D>at was en(de) wert d[us] eist bescreue(n)
+<D>at was en(de) wert d[aer] eist bescreue(n)
 <E>n(de) nv es ghemanc
 <I>n dese weerelt cranc
 §17§
@@ -2113,7 +2113,7 @@ _M3_
 <G>od die de doot wrac va(n) abelle
 505 <B>ringhe ons noch ter hogh[er] celle
 <D>ats in abrahams scoot
-507 <N>aer dese corte doot. Amen.
-Ø
+507 <N>aer dese corte doot. 
+508 Amen.
 
 ____

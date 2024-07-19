@@ -19,12 +19,7 @@
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
- <charDecl><char xml:id="rrot">
-                <charName>LATIN SMALL LETTER R ROTUNDA</charName>
-                <mapping type="junicode">ꝛ</mapping>
-                <mapping type="mufi">ꝛ</mapping>
-                <mapping type="standard">ꝛ</mapping>
-            </char></charDecl>
+ <charDecl></charDecl>
             <xi:include href="http://www.huygensinstituut.knaw.nl/projecten/mvn/webfiles/charDecl.xml"  
                 xmlns:xi="http://www.w3.org/2001/XInclude">
                 <xi:fallback>
@@ -373,7 +368,7 @@
 <lb n="35" xml:id="Brf3va.35"/><l n="Br_M1_56_716"><hi rend="capitalsize2">M</hi>Erket vrouwe <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> bes<unclear>i</unclear>et</l>
 <lb n="36" xml:id="Brf3va.36"/><l n="Br_M1_56_717"><hi rend="capitalsize1">D</hi>at ghi ouer mi ghebiet</l>
 <lb n="37" xml:id="Brf3va.37"/><l n="Br_M1_56_718"><hi rend="capitalsize1">A</hi>ls ouer mi<unclear>...</unclear></l>
-<lb n="38" xml:id="Brf3va.38"/><l n="Br_M1_56_719"><hi rend="capitalsize1">M</hi>en co<unclear>...</unclear> gesciet om <choice><abbr>n<g ref="#etfin"/></abbr><expan>n<ex>iet</ex></expan></choice></l>
+<lb n="38" xml:id="Brf3va.38"/><l n="Br_M1_56_719"><hi rend="capitalsize1">M</hi>en co<unclear>nde</unclear> gesciet om <choice><abbr>n<g ref="#etfin"/></abbr><expan>n<ex>iet</ex></expan></choice></l>
 
 
 <pb xml:id="Br.f3vb" n="3vb"/>
@@ -474,7 +469,7 @@
 <lg type="stanza" n="10">
 <lb n="33" xml:id="Brf4ra.33"/><l n="Br_M2_10_118"><hi rend="capitalsize2">M</hi>Edea toent ons selue <choice><abbr>d<g ref="#etfin"/></abbr><expan>d<ex>at</ex></expan></choice></l>
 <lb n="34" xml:id="Brf4ra.34"/><l n="Br_M2_10_119"><hi rend="capitalsize1">D</hi>ie rouede <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> stal <choice><abbr>h<g ref="#apomod"/>s</abbr><expan>h<ex>aer</ex>s</expan></choice> <choice><abbr>va<unclear>d</unclear><g ref="#apomod"/></abbr><expan>va<unclear>d</unclear><ex>er</ex></expan></choice> scat</l>
-<lb n="35" xml:id="Brf4ra.35"/><l n="Br_M2_10_120"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> versloech haren <unclear>b...r</unclear></l>
+<lb n="35" xml:id="Brf4ra.35"/><l n="Br_M2_10_120"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> versloech haren <unclear>broeder</unclear></l>
 <lb n="36" xml:id="Brf4ra.36"/><l n="Br_M2_10_121"><hi rend="capitalsize1">O</hi>m nasoene dies <choice><abbr>h<g ref="#apomod"/></abbr><expan>h<ex>aer</ex></expan></choice> cume bat</l>
 <lb n="37" xml:id="Brf4ra.37"/><l n="Br_M2_10_122"><hi rend="capitalsize1">S</hi>i liet conincrike <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> scat</l>
 

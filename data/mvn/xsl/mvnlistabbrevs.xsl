@@ -10,22 +10,28 @@
 		<html>
 			<head>
 				<title><xsl:text>Lijst van afkortingen</xsl:text></title>
+				<link href="https://xmlschema.huygens.knaw.nl/mvnhtml.css" rel="stylesheet" type="text/css"/>
+				<link href="mvnhtml.css" rel="stylesheet" type="text/css"/>
 			</head>
+			<body style="font-family:junicode;font-size:xx-large">
+			    <h2>
+			    	<xsl:apply-templates select="//tei:titleStmt/tei:title"/>
+			    	<xsl:text> - </xsl:text>
+			    	<xsl:apply-templates select="//tei:titleStmt/tei:editor"/>
+			    </h2>
+			    <xsl:text>Lijst van afkortingen</xsl:text>
+				<table>
+				    <tr>
+				        <td>afkorting</td>
+				        <td>oplossing</td>
+				        <td>regel</td>
+				    </tr>
+					<xsl:apply-templates select="//tei:choice">
+					    <xsl:sort select="mvn:expan(.)"/>
+					</xsl:apply-templates>
+				</table>
+			</body>
 		</html>
-		<body style="font-family:junicode;font-size:xx-large">
-		    <h2><xsl:apply-templates select="//tei:titleStmt"/></h2>
-		    <xsl:text>Lijst van afkortingen</xsl:text>
-		<table>
-		    <tr>
-		        <td>afkorting</td>
-		        <td>oplossing</td>
-		        <td>regel</td>
-		    </tr>
-			<xsl:apply-templates select="//tei:choice">
-			    <xsl:sort select="mvn:expan(.)"/>
-			</xsl:apply-templates>
-		</table>
-		</body>
 	</xsl:template>
 	<xsl:template match="tei:choice">
 		<tr>
@@ -53,7 +59,13 @@
 	        </xsl:otherwise>
 	    </xsl:choose>
 	</xsl:template>
-
+	
+	<xsl:template match="tei:hi">
+		<span class="{@rend}" title="{@rend}">
+			<xsl:apply-templates/>
+		</span>
+	</xsl:template>
+	
     <func:function name="mvn:expan">
         <xsl:param name="choice"/>
         <func:result>

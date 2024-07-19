@@ -305,7 +305,7 @@ _M1_
 <M_2><E>rket vrouwe en(de) bes*i*et
 <D>at ghi ouer mi ghebiet
 <A>ls ouer mi*...*
-<M>en co*...* gesciet om n{iet}
+<M>en co*nde* gesciet om n{iet}
 
 &3vb&
 
@@ -393,7 +393,7 @@ _M2_
 §10§
 <M_2><E>dea toent ons selue d{at}
 <D>ie rouede en(de) stal h[aer]s va*d[er]* scat
-120 <E>n(de) versloech haren *b...r*
+120 <E>n(de) versloech haren *broeder*
 <O>m nasoene dies h[aer] cume bat
 <S>i liet conincrike en(de) scat
 

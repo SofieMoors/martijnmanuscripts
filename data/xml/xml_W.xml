@@ -19,12 +19,7 @@
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
- <charDecl><char xml:id="rrot">
-                <charName>LATIN SMALL LETTER R ROTUNDA</charName>
-                <mapping type="junicode">ꝛ</mapping>
-                <mapping type="mufi">ꝛ</mapping>
-                <mapping type="standard">ꝛ</mapping>
-            </char></charDecl>
+ <charDecl></charDecl>
             <xi:include href="http://www.huygensinstituut.knaw.nl/projecten/mvn/webfiles/charDecl.xml"  
                 xmlns:xi="http://www.w3.org/2001/XInclude">
                 <xi:fallback>
@@ -659,9 +654,8 @@
 <lb n="14" xml:id="Wf220rb.14"/><l n="W_M3_39_504"><hi rend="capitalsize1">D</hi>ie de doot wrac van abelle</l>
 <lb n="15" xml:id="Wf220rb.15"/><l n="W_M3_39_505"><hi rend="capitalsize1">M</hi>oet ons bringen <choice><abbr>t<g ref="#apomod"/></abbr><expan>t<ex>er</ex></expan></choice> <choice><abbr>hoegh<g ref="#apomod"/></abbr><expan>hoegh<ex>er</ex></expan></choice> celle</l>
 <lb n="16" xml:id="Wf220rb.16"/><l n="W_M3_39_506"><hi rend="capitalsize1">D</hi>ats <choice><abbr>i<g ref="#bar"/></abbr><expan>i<ex>n</ex></expan></choice> abrahams scoet</l>
-<lb n="17" xml:id="Wf220rb.17"/><l n="W_M3_39_507"><hi rend="capitalsize1">N</hi>a dese corte doot <hi rend="capitalsize1">A</hi>men</l>
-
-<note n="W_M3_39_508">Line_number 508 is missing</note>
+<lb n="17" xml:id="Wf220rb.17"/><l n="W_M3_39_507"><hi rend="capitalsize1">N</hi>a dese corte doot</l>
+<lb n="18" xml:id="Wf220rb.18"/><l n="W_M3_39_508"><hi rend="capitalsize1">A</hi>men</l>
 </lg>
 </p>
 </body>

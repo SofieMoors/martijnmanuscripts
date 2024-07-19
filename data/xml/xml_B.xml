@@ -21,12 +21,7 @@
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
- <charDecl><char xml:id="rrot">
-                <charName>LATIN SMALL LETTER R ROTUNDA</charName>
-                <mapping type="junicode">ꝛ</mapping>
-                <mapping type="mufi">ꝛ</mapping>
-                <mapping type="standard">ꝛ</mapping>
-            </char></charDecl>
+ <charDecl></charDecl>
             <xi:include href="http://www.huygensinstituut.knaw.nl/projecten/mvn/webfiles/charDecl.xml"  
                 xmlns:xi="http://www.w3.org/2001/XInclude">
                 <xi:fallback>
@@ -2218,7 +2213,7 @@
 <pb xml:id="B.f151vb" n="151vb"/>
 </lg>
 <lg type="stanza" n="34">
-<lb n="1" xml:id="Bf151vb.1"/><l n="B_M3_34_430">its des <choice><abbr>vad<g ref="#apomod"/>s</abbr><expan>vad<ex>er</ex>s</expan></choice> <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> des zoens gaue</l>
+<lb n="1" xml:id="Bf151vb.1"/><l n="B_M3_34_430"><unclear>D</unclear>its des <choice><abbr>vad<g ref="#apomod"/>s</abbr><expan>vad<ex>er</ex>s</expan></choice> <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> des zoens gaue</l>
 <lb n="2" xml:id="Bf151vb.2"/><l n="B_M3_34_431"><hi rend="capitalsize1">R</hi>ijcheit <choice><abbr>boue<g ref="#bar"/></abbr><expan>boue<ex>n</ex></expan></choice> alre haue</l>
 <lb n="3" xml:id="Bf151vb.3"/><l n="B_M3_34_432"><hi rend="capitalsize1">F</hi>onteyne des leuens al</l>
 <lb n="4" xml:id="Bf151vb.4"/><l n="B_M3_34_433"><hi rend="capitalsize1">W</hi>ie so gheporret <choice><abbr>w<g ref="#apomod"/>t</abbr><expan>w<ex>er</ex>t</expan></choice> hier aue</l>
@@ -2308,8 +2303,8 @@
 <lb n="34" xml:id="Bf152ra.34"/><l n="B_M3_39_504"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> die doot wraec <choice><abbr>va<g ref="#bar"/></abbr><expan>va<ex>n</ex></expan></choice> abelle</l>
 <lb n="35" xml:id="Bf152ra.35"/><l n="B_M3_39_505"><hi rend="capitalsize1">B</hi>ringhe ons noch <choice><abbr>t<g ref="#apomod"/></abbr><expan>t<ex>er</ex></expan></choice> <choice><abbr>hogh<g ref="#apomod"/></abbr><expan>hogh<ex>er</ex></expan></choice> celle</l>
 <lb n="36" xml:id="Bf152ra.36"/><l n="B_M3_39_506"><hi rend="capitalsize1">D</hi>ats in abrahams scoot</l>
-<lb n="37" xml:id="Bf152ra.37"/><l n="B_M3_39_507"><hi rend="capitalsize1">N</hi>a dese corte doot <pc>.</pc> <hi rend="capitalsize1">A</hi>men <pc>.</pc></l>
-<lb n="38" xml:id="Bf152ra.38"/><l n="B_M3_39_508"><hi rend="capitalsize1">E</hi>t sic <choice><abbr>e<g ref="#apomod"/></abbr><expan>e<ex>st</ex></expan></choice> finis sit laus et <choice><abbr>gl<g ref="#apomod"/>a</abbr><expan>gl<ex>ori</ex>a</expan></choice> <choice><abbr>t<g ref="#apomod"/>nis</abbr><expan>t<ex>ri</ex>nis</expan></choice></l>
+<lb n="37" xml:id="Bf152ra.37"/><l n="B_M3_39_507"><hi rend="capitalsize1">N</hi>a dese corte doot <pc>.</pc></l>
+<lb n="38" xml:id="Bf152ra.38"/><l n="B_M3_39_508"><hi rend="capitalsize1">A</hi>men <pc>.</pc> <hi rend="capitalsize1">E</hi>t sic <choice><abbr>e<g ref="#apomod"/></abbr><expan>e<ex>st</ex></expan></choice> finis sit laus et <choice><abbr>gl<g ref="#apomod"/>a</abbr><expan>gl<ex>ori</ex>a</expan></choice> <choice><abbr>t<g ref="#apomod"/>nis</abbr><expan>t<ex>ri</ex>nis</expan></choice></l>
 </lg>
 </p>
 </body>

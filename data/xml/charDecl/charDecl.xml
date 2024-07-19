@@ -189,5 +189,11 @@
         <charName>COMBINING DOUBLE MACRON</charName>
         <mapping type="standard">&#x035e;</mapping>
     </char>
+    <char xml:id="rrot">
+        <charName>LATIN SMALL LETTER R ROTUNDA</charName>
+        <mapping type="junicode">ꝛ</mapping>
+        <mapping type="mufi">ꝛ</mapping>
+        <mapping type="standard">ꝛ</mapping>
+    </char>
 </charDecl>
 

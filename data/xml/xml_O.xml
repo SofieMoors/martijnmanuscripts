@@ -23,12 +23,7 @@
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
- <charDecl><char xml:id="rrot">
-                <charName>LATIN SMALL LETTER R ROTUNDA</charName>
-                <mapping type="junicode">ꝛ</mapping>
-                <mapping type="mufi">ꝛ</mapping>
-                <mapping type="standard">ꝛ</mapping>
-            </char></charDecl>
+ <charDecl></charDecl>
             <xi:include href="http://www.huygensinstituut.knaw.nl/projecten/mvn/webfiles/charDecl.xml"  
                 xmlns:xi="http://www.w3.org/2001/XInclude">
                 <xi:fallback>

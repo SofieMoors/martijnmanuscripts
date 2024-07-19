@@ -613,7 +613,6 @@ W_M3_39_503 Te doene dat god geboet
 W_M3_39_504 Die de doot wrac van abelle
 W_M3_39_505 Moet ons bringen tʼ hoeghʼ celle
 W_M3_39_506 Dats ī abrahams scoet
-W_M3_39_507 Na dese corte doot Amen
-
-Line_number 508 is missing
+W_M3_39_507 Na dese corte doot
+W_M3_39_508 Amen
 

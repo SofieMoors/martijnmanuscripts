@@ -1997,7 +1997,7 @@ _M3_
 <E>n(de) gheue dij volleest
 <D>atture comes onghevreest
 §32§
-<M_2><E>rten ons leert die scrifture r 
+<M_2><E>rten ons leert die scriftu%er%e 
 405 <D>at een god een natuere
 <E>mmer siin dese drie
 <A>ltoes euen na ghebuere
@@ -2116,5 +2116,5 @@ _M3_
 505 <B>ringhe ons ter hogher celle
 <D>ats in abrahams scoot
 <N>a dese corte doot. 
-¶ <A_1><M_1><E_1><N_1>.
+¶ <A><M><E><N>.
 ____

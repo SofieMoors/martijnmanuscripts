@@ -2156,7 +2156,7 @@ B_M3_33_429 En scadet dʼ zielen sijn
 
 
 
-B_M3_34_430 its des vadʼs en̄ des zoens gaue
+B_M3_34_430 Dits des vadʼs en̄ des zoens gaue
 B_M3_34_431 Rijcheit bouē alre haue
 B_M3_34_432 Fonteyne des leuens al
 B_M3_34_433 Wie so gheporret wʼt hier aue
@@ -2246,6 +2246,6 @@ B_M3_39_503 Te doene dat god geboot
 B_M3_39_504 En̄ die doot wraec vā abelle
 B_M3_39_505 Bringhe ons noch tʼ hoghʼ celle
 B_M3_39_506 Dats in abrahams scoot
-B_M3_39_507 Na dese corte doot . Amen .
-B_M3_39_508 Et sic eʼ finis sit laus et glʼa tʼnis
+B_M3_39_507 Na dese corte doot .
+B_M3_39_508 Amen . Et sic eʼ finis sit laus et glʼa tʼnis
 

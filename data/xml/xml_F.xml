@@ -23,12 +23,7 @@
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
- <charDecl><char xml:id="rrot">
-                <charName>LATIN SMALL LETTER R ROTUNDA</charName>
-                <mapping type="junicode">ꝛ</mapping>
-                <mapping type="mufi">ꝛ</mapping>
-                <mapping type="standard">ꝛ</mapping>
-            </char></charDecl>
+ <charDecl></charDecl>
             <xi:include href="http://www.huygensinstituut.knaw.nl/projecten/mvn/webfiles/charDecl.xml"  
                 xmlns:xi="http://www.w3.org/2001/XInclude">
                 <xi:fallback>
@@ -2197,7 +2192,7 @@
 <lb n="25" xml:id="Ff12vb.25"/><l n="F_M3_31_403"><hi rend="capitalsize1">D</hi>atture comes onghevreest</l>
 </lg>
 <lg type="stanza" n="32">
-<lb n="26" xml:id="Ff12vb.26"/><l n="F_M3_32_404"><hi rend="capitalsize2">M</hi>Erten ons leert die scrifture r</l>
+<lb n="26" xml:id="Ff12vb.26"/><l n="F_M3_32_404"><hi rend="capitalsize2">M</hi>Erten ons leert die <choice><abbr>scriftu<hi rend="superscript"><g ref="#rrot"/></hi>e</abbr><expan>scriftu<ex>er</ex>e</expan></choice></l>
 <lb n="27" xml:id="Ff12vb.27"/><l n="F_M3_32_405"><hi rend="capitalsize1">D</hi>at een god een natuere</l>
 <lb n="28" xml:id="Ff12vb.28"/><l n="F_M3_32_406"><hi rend="capitalsize1">E</hi>mmer siin dese drie</l>
 <lb n="29" xml:id="Ff12vb.29"/><l n="F_M3_32_407"><hi rend="capitalsize1">A</hi>ltoes euen na ghebuere</l>
@@ -2324,7 +2319,7 @@
 <lb n="19" xml:id="Ff13va.19"/><l n="F_M3_39_505"><hi rend="capitalsize1">B</hi>ringhe ons ter hogher celle</l>
 <lb n="20" xml:id="Ff13va.20"/><l n="F_M3_39_506"><hi rend="capitalsize1">D</hi>ats in abrahams scoot</l>
 <lb n="21" xml:id="Ff13va.21"/><l n="F_M3_39_507"><hi rend="capitalsize1">N</hi>a dese corte doot.</l>
-<lb n="22" xml:id="Ff13va.22"/><l n="F_M3_39_508">¶ <hi rend="capitalsize1">A</hi>M_1E_1N_1.</l>
+<lb n="22" xml:id="Ff13va.22"/><l n="F_M3_39_508">¶ <hi rend="capitalsize1">A</hi>MEN.</l>
 </lg>
 </p>
 </body>

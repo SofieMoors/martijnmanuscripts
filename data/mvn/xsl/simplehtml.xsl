@@ -21,13 +21,19 @@ extension-element-prefixes="func">
         <html>
             <head>
                 <title>
-                    <xsl:apply-templates select="//tei:titleStmt"/>
+                    <xsl:apply-templates select="//tei:titleStmt/tei:title"/>
+                    <xsl:text> - </xsl:text>
+                    <xsl:apply-templates select="//tei:titleStmt/tei:editor"/>
                 </title>
                 <link href="https://xmlschema.huygens.knaw.nl/mvnhtml.css" rel="stylesheet" type="text/css"/>
                 <link href="mvnhtml.css" rel="stylesheet" type="text/css"/>
             </head>
             <body>
-                <h2><xsl:apply-templates select="//tei:titleStmt"/></h2>
+                <h2>
+                    <xsl:apply-templates select="//tei:titleStmt/tei:title"/>
+                    <xsl:text> - </xsl:text>
+                    <xsl:apply-templates select="//tei:titleStmt/tei:editor"/>
+                </h2>
                 <div>
                     Teksten: 
                     <xsl:apply-templates select="/tei:MVN/tei:text[1]/tei:group[1]//*[local-name() = 'text' or local-name() = 'group']" mode="link"/>
@@ -274,6 +280,9 @@ extension-element-prefixes="func">
         <span class="note">
             <xsl:apply-templates/>
         </span>
+        <xsl:if test="following-sibling::*[1][local-name()='note']">
+            <br/>
+        </xsl:if>
     </xsl:template>
     
     <xsl:template match="tei:note[@type='ms' or @resp='scribe']">

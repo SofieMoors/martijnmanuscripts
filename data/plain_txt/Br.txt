@@ -327,7 +327,7 @@ Br_M1_55_715 Ouer mine godinne
 Br_M1_56_716 MErket vrouwe en̄ besiet
 Br_M1_56_717 Dat ghi ouer mi ghebiet
 Br_M1_56_718 Als ouer mi...
-Br_M1_56_719 Men co... gesciet om nꝫ
+Br_M1_56_719 Men conde gesciet om nꝫ
 
 
 
@@ -421,7 +421,7 @@ Br_M2_09_117 Hine sterf bi desen dingen
 
 Br_M2_10_118 MEdea toent ons selue dꝫ
 Br_M2_10_119 Die rouede en̄ stal hʼs vadʼ scat
-Br_M2_10_120 En̄ versloech haren b...r
+Br_M2_10_120 En̄ versloech haren broeder
 Br_M2_10_121 Om nasoene dies hʼ cume bat
 Br_M2_10_122 Si liet conincrike en̄ scat
 

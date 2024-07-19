@@ -1002,7 +1002,7 @@ A_M1_62_806 Noch niet te messchiene
 
 
 A_M1_63_807 DIe gods sone toghet ons dat
-A_M1_63_808 Die enen gheweldich sit en̄ sat
+A_M1_63_808 Die euen gheweldich sit en̄ sat
 A_M1_63_809 Den vadʼ in sijn rike
 A_M1_63_810 Hi beete in dese aerme stat
 A_M1_63_811 Inder reynre marien vat
@@ -1024,7 +1024,7 @@ A_M1_64_821 En̄ ghecleet nv wel nv bet
 A_M1_64_822 Varē int langhe leuen
 A_M1_64_823 En̄ jh naect int bloet besmet
 A_M1_64_824 En̄ sine rechtre side ghesplet
-A_M1_64_825 825 En̄ an thout vʼheuen
+A_M1_64_825 En̄ an thout vʼheuen
 A_M1_64_826 Of thouet vā onser wet
 A_M1_64_827 Met scarpē dornē was beset
 A_M1_64_828 Alset noch es bescreuē
@@ -1265,7 +1265,7 @@ A_M2_03_039 Wildemen minne ontliuen
 A_M2_04_040 So jacop dit was oint dijn doen
 A_M2_04_041 Van vrouwē moeste dijn sermoen
 A_M2_04_042 Of beghinnen of enden
-A_M2_04_043 Waerstu een dorp du spraex vā coen
+A_M2_04_043 Waerstu een dorpʼ du spraex vā coen
 A_M2_04_044 Nu es dine hʼte dies ontfloen
 A_M2_04_045 Doch willix mi ghenendē
 A_M2_04_046 En̄ stekē af minē caproen
@@ -1792,7 +1792,7 @@ A_M3_10_125 Noch vʼuoghedē noch vʼleenē
 A_M3_10_126 Sone esser ane vʼheest
 A_M3_10_127 Die sinē sin so laet vʼsteenen
 A_M3_10_128 Dat hi dies loechent hi moet weenē
-A_M3_10_129 En̄ eeuwelike sijn gehoest
+A_M3_10_129 En̄ eeuwelike sijn ghevreest
 A_M3_10_130 Indē helschē tēpeest
 
 
@@ -2307,7 +2307,6 @@ A_M3_39_503 Te doene dat god gheboot
 A_M3_39_504 God die de doot wrac vā abelle
 A_M3_39_505 Bringhe ons noch ter hoghʼ celle
 A_M3_39_506 Dats in abrahams scoot
-A_M3_39_507 Naer dese corte doot. Amen.
-
-Line_number 508 is missing
+A_M3_39_507 Naer dese corte doot.
+A_M3_39_508 Amen.
 

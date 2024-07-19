@@ -2012,7 +2012,7 @@ ne <S>ijn dese enighe drie
 
 &151vb&
 §34§
-430 its des vad[er]s en(de) des zoens gaue
+430 *D*its des vad[er]s en(de) des zoens gaue
 <R>ijcheit boue(n) alre haue
 <F>onteyne des leuens al
 <W>ie so gheporret w[er]t hier aue
@@ -2097,6 +2097,6 @@ ne <S>ijn dese enighe drie
 <E>n(de) die doot wraec va(n) abelle
 505 <B>ringhe ons noch t[er] hogh[er] celle
 <D>ats in abrahams scoot
-507 <N>a dese corte doot . <A>men .
-508 <E>t sic e[st] finis sit laus et gl[ori]a t[ri]nis
+507 <N>a dese corte doot . 
+508 <A>men . <E>t sic e[st] finis sit laus et gl[ori]a t[ri]nis
 ____
