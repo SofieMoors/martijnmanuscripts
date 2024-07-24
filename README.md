@@ -70,9 +70,9 @@ For most of the witnesses, [existing editions](#references) of the text could be
 - `xml2txt.ipynb`: Code to convert `xml` to `plain_txt`
 - `xml2xlsx.ipynb`: Code to convert `xml` to `xlsx`
 
-*Some examples of the data:* 
+**Some examples of the data:** 
 
-HTML with abbreviations expanded and unexpanded.
+*HTML with abbreviations unexpanded and expanded*
 <p align="center">
   <img src="https://github.com/SofieMoors/martijnmanuscripts/blob/main/data/viz/html_unexpan.png" />
 </p>
@@ -80,12 +80,12 @@ HTML with abbreviations expanded and unexpanded.
   <img src="https://github.com/SofieMoors/martijnmanuscripts/blob/main/data/viz/html_expan.png" />
 </p>
 
-Plain TXT with abbreviations unexpanded.
-<p align="center">
+*Plain TXT with abbreviations unexpanded*
+<p align="center" width="100">
   <img src="https://github.com/SofieMoors/martijnmanuscripts/blob/main/data/viz/plain_txt.png" />
 </p>
 
-In the XLSX file, all the text witnesses are shown synoptically (arranged by the unique identifier). Abbreviations have been expanded; ‘None’ means that the verse has not been transmitted.
+*XLSX file with all the text witnesses shown synoptically (arranged by the unique identifier). Abbreviations have been expanded; ‘None’ means that the verse has not been transmitted*
 
 <p align="center">
   <img src="https://github.com/SofieMoors/martijnmanuscripts/blob/main/data/viz/xlsx_snippet.png" />
