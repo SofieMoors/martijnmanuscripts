@@ -2,10 +2,12 @@
 
 This dataset results from a research project funded by the Research Foundation - Flanders, File Number 1182723N. 
 
-Cite this code as: [![DOI](https://zenodo.org/badge/719645106.svg)](https://zenodo.org/doi/10.5281/zenodo.10245412)
+Cite this repository as: [![DOI](https://zenodo.org/badge/719645106.svg)](https://zenodo.org/doi/10.5281/zenodo.10245412)
+
+This repository holds the code and data accompanying the following paper: Moors, S., Kestemont, M. & Sleiderink, R. (2024). "The Martijn Trilogy Manuscripts: An Open Dataset for Analyzing Scribal Variation." Research Data Journal for the Humanities and Social Sciences. 
 
 ## ABSTRACT: 
-We present a dataset of transcriptions of manuscripts of the Middle Dutch strophic poem *Martijn Trilogy* by the Flemish poet Jacob van Maerlant. Of his very large oeuvre, Maerlant’s *Strophic Poems* had the longest tradition: originally written in the thirteenth century, copyists and printers continued to disseminate them until about 1500. These ten shorter poems on social, religious, and ethical issues stand out for their unusual and complex stanza form. The *Martijn Trilogy* was his most successful strophic poem: 17 text witnesses are extant, and the trilogy was imitated and even translated into French and Latin. This dataset contains hyper-diplomatic transcriptions of all witnesses, amounting to a total of  15,811 verses or 79,359 tokens. This open access dataset abides by the FAIR principles, is licenced under a CC-BY-SA license, and is made available in multiple, complementary file formats. Since these transcriptions are strictly diplomatic, this corpus offers valuable possibilities for research on scribal attributions (scribal profiling), abbreviations, stemmatology, textual stability and more.
+We present a dataset containing transcriptions of manuscripts of the Middle Dutch strophic poem *Martijn Trilogy* by the Flemish poet Jacob van Maerlant. Of his very large oeuvre, Maerlant’s *Strophic Poems* had the longest tradition: originally written in the thirteenth century, copyists and printers continued to disseminate them until about 1500. These ten shorter poems on social, religious, and ethical issues stand out for their unusual and complex stanza form. The *Martijn Trilogy* was his most successful strophic poem: 17 text witnesses are extant, and the trilogy was imitated and even translated into French and Latin. This dataset contains hyper-diplomatic transcriptions of all witnesses, amounting to a total of  15,811 verses or 79,359 tokens. This open access dataset abides by the FAIR principles, is licenced under a CC-BY-SA license, and is made available in multiple, complementary file formats. Since these transcriptions are strictly diplomatic, this corpus offers valuable possibilities for research on scribal attributions (scribal profiling), abbreviations, stemmatology, textual stability and more.
 
 ## DATA COLLECTION: 
 To study the manuscript tradition of the *Martijn Trilogy*, we collected diplomatic, digital transcriptions of all 17 currently extant text witnesses. These witnesses included (intact) manuscripts as well as fragmentary witnesses (with text loss), which amount to 15,811 (parallel) verses or 79,359 words in total. Originally written in the thirteenth century, copyists and printers continued to disseminate them until about 1500.
@@ -22,7 +24,7 @@ For most of the witnesses, [existing editions](#references) of the text could be
 | 3. Ge  | Cologny Fondation Martin Bodmer Cod. Bodmer 101 | Fragmentary M1, M2 | Gruijs & Mertens (1975) | [IIIF](https://www.e-codices.unifr.ch/en/fmb/cb-0101/bindingE/0/) |
 | 4. K  | Koblenz Landeshauptarchiv Best. 701 Nr. 262 | Fragmentary M1 | Overgaauw (1996) |[Digital](https://apertus.rlp.de/index.php?PLINK=1&ID=ca23ec55-096e-4c81-aaca-9cfef51067dd) |
 | 5. G (Heber-Serrure codex)| Ghent University Library HS 1374 |M1, M2, M3| Gabriël & Kestemont (2023) | [IIIF](https://lib.ugent.be/viewer/archive.ugent.be%3A293E7132-AABB-11E7-8DE6-2C4519B1B84C#?c=&m=&s=&cv=&xywh=-668%2C-151%2C3454%2C2956) |
-| 6. W    |Vienna Austrian National Library Cod. 13708 | M3 | Gabriël (2023) | [Digital](https://digital.onb.ac.at/RepViewer/viewer.faces?doc=DTL_8500569&order=1&view=SINGLE) |
+| 6. W    |Vienna Austrian National Library Cod. 13708 | M3 | Gabriël & Kestemont (2023, Appendix 2) | [Digital](https://digital.onb.ac.at/RepViewer/viewer.faces?doc=DTL_8500569&order=1&view=SINGLE) |
 | 7. L  | Lyon Bibliothèque Municipal MS 6848 | Fragmentary M1, M2, M3| Moors (2022)| / |
 | 8. Ant |  Antwerp University Library Special Collections MAG-P 64.20 | Fragmentary M1 | Sleiderink, Moors, & De Schepper (2020)|[IIIF](https://anet.be/brocade/imageviewer/universalviewer/uv.html#?manifest=/iiif/de5dca9511b65c5195720e597f32a207f1737d7a/manifest&config=/iiif/viewercfg.phtml%3Fcg=uauniversalviewer)|
 | 9. Y | Montigny-le-Bretonneux - Archives départementales des Yvelines HS 1F 180 | Fragmentary M1, M3 | Bosmans & Sleiderink (2019)| / |
@@ -38,29 +40,28 @@ For most of the witnesses, [existing editions](#references) of the text could be
 ## REFERENCES: 
 1) Bosmans, G. and Sleiderink, R. (2019). Maerlant in Yvelines. Een nieuw fragment van de Martijns van Jacob van Maerlant (Montigny-le-Bretonneux, Archives départementales des Yvelines, 1F 180). *Queeste*, 26: 66–93.
 2) Breugelmans, R. (1986). ‘Een fragment van een onbekende druk van de Wapene Martijn. Beschrijving, commentaar en transcriptie.’ G. Van Eemeren and F. Willaert  (eds.), *’t Ondersoeck leert. Studies over middeleeuwse en 17de-eeuwse literatuur ter nagedachtenis van prof. Dr. L. Rens.* Louvain/Amersfoort: Acco, pp. 125–136.
-3) Brinkman, H. and Schenkel, J. (eds.) (1997). *Het Comburgse handschrift. Hs. Stuttgart,. Württembergische Landesbibliothek, Cod. poet. et phil. 2o 22. Band 1.* Hilversum: Verloren.
-4) Gabriël, R. (ed.) (2023). *Diplomatische uitgave van handschrift Wenen, Österreichische Nationalbibliothek, Cod. 13708. Middelnederlandse Verzamelhandschriften uit de Nederlanden, 17.* https://hbsr.mvn.huygens.knaw.nl/inleiding/appendix-2/#footnote_0_97 Amsterdam: Huygens Instituut (KNAW).
-5) Gabriël, R. and Kestemont, M. (eds.) (2023). *De Heber-Serrurecodex. Gent, Universiteitsbibliotheek, Hs. 1374. Middeleeuwse Verzamelhandschiften uit de Nederlanden, 17*
+3) Brinkman, H. and Schenkel, J. (eds.) (1997). *Het Comburgse handschrift. Hs. Stuttgart, Württembergische Landesbibliothek, Cod. poet. et phil. 2° 22. Band I-II.* Hilversum: Verloren.
+4) Gabriël, R. and Kestemont, M. (eds.) (2023). *De Heber-Serrurecodex. Gent, Universiteitsbibliotheek, Hs. 1374. Middeleeuwse Verzamelhandschiften uit de Nederlanden, 17*
    https://hbsr.mvn.huygens.knaw.nl/. Amsterdam: Huygens Instituut (KNAW).
-6) Gailliard, Edw. (1905). ‘Een fragment van Maerlant’s Wapene Martijn.’ *Verslagen en mededeelingen der Koninklijke Vlaamsche Academie voor Taal- en Letterkunde.* Gent: A. Siffer, pp. 561-607.
-7) Gruijs, A. and Mertens, T. (1975). A new fragment of Jacob van Maerlant’s Eerste and Tweede Martijn (in Cod. Bodmer. 101, Bibliotheca Bodmeriana, Geneva). *Quaerendo*, 5: 346–352.
-8) Meijer, G. J. (1838). ‘Van der Drievoudichede; van Jacob van Maerlant.’ *Nalezingen op het leven van Jezus, enz: verslag van den roman van Walewein, en andere bijdragen tot de oude Nederlandsche letterkunde.* Groningen: J. Oomkens, pp. 119-152.
-9) Mertens, Th. (ed.) (1978). *Den anderen merten. Synoptische archiefeditie van Jacob van Maerlant’s tweede Martijn.* Nijmegen: Alfa.
-10) Mone, F. J. (1838). ‘Aus Maerlants Wapen Martijn’, *Anzeiger für Kunde der deutschen Vorzeit.* Vol. 7. Nürnberg: Germanisches Museum, pp. 244-258.
-11) Moors, S. (2022). Een bijzondere Brabantse tekstgetuige van de Martijntrilogie van Jacob van Maerlant. De fragmenten Lyon, Bibliothèque municipale, ms 6848. *Queeste*, 29(1): 36-65.
-12) Overgaauw, E. A. (ed.) (1996). Een nieuw fragment van Jacob van Maerlant’s Eerste Martijn (Koblenz, Landeshauptarchiv, Best. 701: Nr. 262, fol. 173). *Queeste*, 3: 191–196.
-13) Sleiderink, R., Moors, S., and De Schepper, M. (2020). Bandwerk. Een nieuw fragment van Wapene Martijn van Jacob van Maerlant (Antwerpen, Universiteitsbibliotheek, Bijzondere Collecties, MAG-P 64.20). *Queeste*, 27: 43-62.
-14) Staring van den Wildenborch, A.C.W. (1834). ‘De Wapene Martijn van Jacob van Maerlant, naar het Zutphense hs. medegedeeld, met eene inleiding en aanteekeningen van M. Siegenbeek.’ *Nieuwe Werken van de Maatschappij der Nederlandsche Letterkunde te Leiden*, deel III, 2de stuk. Dordrecht: Blussé & Van Braam, pp. 81-225.
-15) Verdam, J., and Leendertz, P. (ed.) (1918). *Jacob van Maerlant’s Strophische gedichten. Nieuwe bewerking der uitgave van Franck en Verdam.* Leiden: A.W. Sijthoff’s.
+5) Gailliard, Edw. (1905). ‘Een fragment van Maerlant’s Wapene Martijn.’ *Verslagen en mededeelingen der Koninklijke Vlaamsche Academie voor Taal- en Letterkunde.* Gent: A. Siffer, pp. 561-607.
+6) Gruijs, A. and Mertens, T. (1975). A new fragment of Jacob van Maerlant’s Eerste and Tweede Martijn (in Cod. Bodmer. 101, Bibliotheca Bodmeriana, Geneva). *Quaerendo*, 5: 346–352.
+7) Meijer, G. J. (1838). ‘Van der Drievoudichede; van Jacob van Maerlant.’ *Nalezingen op het leven van Jezus, enz: verslag van den roman van Walewein, en andere bijdragen tot de oude Nederlandsche letterkunde.* Groningen: J. Oomkens, pp. 119-152.
+8) Mertens, Th. (ed.) (1978). *Den anderen merten. Synoptische archiefeditie van Jacob van Maerlant’s tweede Martijn.* Nijmegen: Alfa.
+9) Mone, F. J. (1838). ‘Aus Maerlants Wapen Martijn’, *Anzeiger für Kunde der deutschen Vorzeit.* Vol. 7. Nürnberg: Germanisches Museum, pp. 244-258.
+10) Moors, S. (2022). Een bijzondere Brabantse tekstgetuige van de Martijntrilogie van Jacob van Maerlant. De fragmenten Lyon, Bibliothèque municipale, ms 6848. *Queeste*, 29(1): 36-65.
+11) Overgaauw, E. A. (ed.) (1996). Een nieuw fragment van Jacob van Maerlant’s Eerste Martijn (Koblenz, Landeshauptarchiv, Best. 701: Nr. 262, fol. 173). *Queeste*, 3: 191–196.
+12) Sleiderink, R., Moors, S., and De Schepper, M. (2020). Bandwerk. Een nieuw fragment van Wapene Martijn van Jacob van Maerlant (Antwerpen, Universiteitsbibliotheek, Bijzondere Collecties, MAG-P 64.20). *Queeste*, 27: 43-62.
+13) Staring van den Wildenborch, A.C.W. (1834). ‘De Wapene Martijn van Jacob van Maerlant, naar het Zutphense hs. medegedeeld, met eene inleiding en aanteekeningen van M. Siegenbeek.’ *Nieuwe Werken van de Maatschappij der Nederlandsche Letterkunde te Leiden*, deel III, 2de stuk. Dordrecht: Blussé & Van Braam, pp. 81-225.
+14) Verdam, J., and Leendertz, P. (ed.) (1918). *Jacob van Maerlant’s Strophische gedichten. Nieuwe bewerking der uitgave van Franck en Verdam.* Leiden: A.W. Sijthoff’s.
 
 ## DATA PREPROCESSING: 
 **data**:
-- `html`: 17 html files with abbreviations expanded, 17 html files with abbreviations solved and extra folders with mvnhtml.css
+- `html`: 17 html files with abbreviations expanded, 17 html files with abbreviations unexpanded and extra folders with mvnhtml.css
 - `mvn`: framework used (https://github.com/HuygensING/mvn-xml/tree/main/framework)
 - `plain_txt`: 17 text files generated from `xml` with markup applied (scripts > `xml2txt.ipynb`)
 - `rich_txt`: 17 raw text files, manually enriched them with semantic markup: [legend](#legend-rich_txt_martijn)
 - `viz`: Folder with timeline and pixelplot
-- `xlsx`: Folder with synoptic presentation of all 17 witnesses (abbreviations expanded). Import `synoptic.html` into Excel to get the `synoptic.xlsx`
+- `xlsx`: Folder with synoptic presentation of all 17 witnesses (abbreviations expanded). Open `synoptic.html` in a spreadsheet application, like MS Excel, to view the synoptic presentation of the aligned transcriptions (`synoptic.xlsx`) 
 - `xml`: 17 xml files generated from the `rich_txt` (scripts > `txt2xml.ipynb`)
 
 **scripts**:
@@ -68,6 +69,27 @@ For most of the witnesses, [existing editions](#references) of the text could be
 - `viz.ipynb`: Code to create `viz`
 - `xml2txt.ipynb`: Code to convert `xml` to `plain_txt`
 - `xml2xlsx.ipynb`: Code to convert `xml` to `xlsx`
+
+*Some examples of the data:* 
+
+HTML with abbreviations expanded and unexpanded.
+<p align="center">
+  <img src="https://github.com/SofieMoors/martijnmanuscripts/blob/main/data/viz/html_unexpan.png" />
+</p>
+<p align="center">
+  <img src="https://github.com/SofieMoors/martijnmanuscripts/blob/main/data/viz/html_expan.png" />
+</p>
+
+Plain TXT with abbreviations unexpanded.
+<p align="center">
+  <img src="https://github.com/SofieMoors/martijnmanuscripts/blob/main/data/viz/plain_txt.png" />
+</p>
+
+In the XLSX file, all the text witnesses are shown synoptically (arranged by the unique identifier). Abbreviations have been expanded; ‘None’ means that the verse has not been transmitted.
+
+<p align="center">
+  <img src="https://github.com/SofieMoors/martijnmanuscripts/blob/main/data/viz/xlsx_snippet.png" />
+</p>
 
 ## LEGEND rich_txt:
 
