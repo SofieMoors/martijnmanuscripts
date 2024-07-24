@@ -76,9 +76,9 @@ For most of the witnesses, [existing editions](#references) of the text could be
 <p align="center" >
   <img src="https://github.com/SofieMoors/martijnmanuscripts/blob/main/data/viz/html_unexpan.png" width="450"/>
 </p>
-<p align="center" >
+<div style="text-align: center; margin-left: 20px;">
   <img src="https://github.com/SofieMoors/martijnmanuscripts/blob/main/data/viz/html_expan.png" width="450" margin-left="20px"/>
-</p>
+</div>
 
 *Plain TXT with abbreviations unexpanded*
 <p align="center" >
