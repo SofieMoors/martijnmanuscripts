@@ -73,16 +73,16 @@ For most of the witnesses, [existing editions](#references) of the text could be
 **Some examples of the data:** 
 
 *HTML with abbreviations unexpanded and expanded*
-<p align="center" width="80">
-  <img src="https://github.com/SofieMoors/martijnmanuscripts/blob/main/data/viz/html_unexpan.png" />
+<p align="center" >
+  <img src="https://github.com/SofieMoors/martijnmanuscripts/blob/main/data/viz/html_unexpan.png" width="80"/>
 </p>
-<p align="center" width="80">
-  <img src="https://github.com/SofieMoors/martijnmanuscripts/blob/main/data/viz/html_expan.png" />
+<p align="center" >
+  <img src="https://github.com/SofieMoors/martijnmanuscripts/blob/main/data/viz/html_expan.png" width="80"/>
 </p>
 
 *Plain TXT with abbreviations unexpanded*
-<p align="center" width="70">
-  <img src="https://github.com/SofieMoors/martijnmanuscripts/blob/main/data/viz/plain_txt.png" />
+<p align="center" >
+  <img src="https://github.com/SofieMoors/martijnmanuscripts/blob/main/data/viz/plain_txt.png" width="70"/>
 </p>
 
 *XLSX file with all the text witnesses shown synoptically (arranged by the unique identifier). Abbreviations have been expanded; ‘None’ means that the verse has not been transmitted*
