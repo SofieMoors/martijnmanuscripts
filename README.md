@@ -73,15 +73,15 @@ For most of the witnesses, [existing editions](#references) of the text could be
 **Some examples of the data:** 
 
 *HTML with abbreviations unexpanded and expanded*
-<p align="center">
+<p align="center" width="80">
   <img src="https://github.com/SofieMoors/martijnmanuscripts/blob/main/data/viz/html_unexpan.png" />
 </p>
-<p align="center">
+<p align="center" width="80">
   <img src="https://github.com/SofieMoors/martijnmanuscripts/blob/main/data/viz/html_expan.png" />
 </p>
 
 *Plain TXT with abbreviations unexpanded*
-<p align="center" width="100">
+<p align="center" width="70">
   <img src="https://github.com/SofieMoors/martijnmanuscripts/blob/main/data/viz/plain_txt.png" />
 </p>
 
