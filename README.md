@@ -59,7 +59,7 @@ For most of the witnesses, [existing editions](#references) of the text could be
 - `html`: 17 html files with abbreviations expanded, 17 html files with abbreviations unexpanded and extra folders with mvnhtml.css (the css view is optimized for macOS en iOS browsers)
 - `mvn`: framework used (https://github.com/HuygensING/mvn-xml/tree/main/framework)
 - `plain_txt`: 17 text files generated from `xml` with markup applied (scripts > `xml2txt.ipynb`)
-- `rich_txt`: 17 raw text files, manually enriched them with semantic markup: [legend](#legend rich_txt)
+- `rich_txt`: 17 raw text files, manually enriched them with semantic markup: [legend](#legend-rich_txt)
 - `viz`: Folder with timeline and pixelplot
 - `xlsx`: Folder with synoptic presentation of all 17 witnesses (abbreviations expanded). Open `synoptic.html` in a spreadsheet application, like MS Excel, to view the synoptic presentation of the aligned transcriptions (`synoptic.xlsx`) 
 - `xml`: 17 xml files generated from the `rich_txt` (scripts > `txt2xml.ipynb`)
