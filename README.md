@@ -56,7 +56,7 @@ For most of the witnesses, [existing editions](#references) of the text could be
 
 ## DATA PREPROCESSING: 
 **data**:
-- `html`: 17 html files with abbreviations expanded, 17 html files with abbreviations unexpanded and extra folders with mvnhtml.css
+- `html`: 17 html files with abbreviations expanded, 17 html files with abbreviations unexpanded and extra folders with mvnhtml.css (the css view is optimized for macOS en iOS browsers)
 - `mvn`: framework used (https://github.com/HuygensING/mvn-xml/tree/main/framework)
 - `plain_txt`: 17 text files generated from `xml` with markup applied (scripts > `xml2txt.ipynb`)
 - `rich_txt`: 17 raw text files, manually enriched them with semantic markup: [legend](#legend-rich_txt_martijn)
