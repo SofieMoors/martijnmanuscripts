@@ -76,7 +76,7 @@ For most of the witnesses, [existing editions](#references) of the text could be
 <p align="center" >
   <img src="https://github.com/SofieMoors/martijnmanuscripts/blob/main/data/viz/html_unexpan.png" width="450"/>
 </p>
-<div style="text-align: center; margin-left: 20px;">
+<div style="text-align: center; margin-left: 100px;">
   <img src="https://github.com/SofieMoors/martijnmanuscripts/blob/main/data/viz/html_expan.png" width="450" margin-left="20px"/>
 </div>
 
