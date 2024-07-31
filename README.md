@@ -1,6 +1,6 @@
 # <p align = center> The *Martijn Trilogy* Manuscripts: An Open Dataset for Analyzing Scribal Variation</center> 
 
-This dataset results from a research project funded by the Research Foundation - Flanders, File Number 1182723N. 
+This dataset results from a research project funded by the Research Foundation - Flanders, project number 1182723N. 
 
 Cite this repository as: [![DOI](https://zenodo.org/badge/719645106.svg)](https://zenodo.org/doi/10.5281/zenodo.10245412)
 
