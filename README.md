@@ -98,7 +98,7 @@ For most of the witnesses, [existing editions](#references) of the text could be
 | &FOLIO_COLUMN&           | &2ra&, &112vb&               | New page and column          |                                            
 | \_TEXTPART\_                | \_M1\_                         | New text part (M1, M2 or M3) |                                            
 | _____                    | _____                        | End of text part             |                                            
-| §STROPHE§                | §03§; §20§                   | New strophe                 |                                            
+| §STROPHE§                | §03§, §20§                   | New strophe                 |                                            
 | <CHARACTER_HEIGHT>       | <O_3>m, \<D>e                 | Capital letter and height of letter |                                      
 | {CHARACTER}              | {per}semier, dor{per}hede, or{con}de | Special abbreviatory glyphs (ꝫ, ꝑ, ꝰ, …) |                            
 | CHARACTER(CHARACTER)     | en(de), co(ninc)             | Macron                      |                                            
