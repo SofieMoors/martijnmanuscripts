@@ -108,5 +108,6 @@ For most of the witnesses, [existing editions](#references) of the text could be
 | CHARACTER[CHARACTER]     | s[er]e                       | Abbreviation marked by ʼ    |                                            
 | Ø                        | Ø                            | Missing line (copyist error) |                                                                                 
 | @CHARACHTER@             |  @gaen@ | Word crossed out |   
+|«CHARACTER» |«koen» | Word added |
 		
 
