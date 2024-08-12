@@ -14,7 +14,7 @@
             <settlement>Groningen </settlement>
             <institution>University of Groningen Library </institution>
             <idno>HS 405</idno>
-            <msName>Gronings-Zutphens Maerlant Manuscrip, C</msName>
+            <msName>Gronings-Zutphens Maerlant Manuscript, C</msName>
           </msIdentifier>
  <p>...</p>
         </msDesc>
