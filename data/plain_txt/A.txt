@@ -1097,8 +1097,8 @@ A_M1_68_883 Dʼ wi in moetē sneuē
 A_M1_68_884 Alse enden sal dit leuen
 
 
-A_M1_69_885 Martin die ghene en es 
-A_M1_69_886 Die mi tyet dat hi m
+A_M1_69_885 Martin die ghene en es [...]
+A_M1_69_886 Die mi tyet dat hi m[...]
 
 
 
@@ -1139,9 +1139,9 @@ A_M1_71_916 Hine caens niet gheliden
 A_M1_71_917 Warē die māne also behoet
 A_M1_71_918 Dat si oghen sin en̄ moet
 A_M1_71_919 Wel consten besniden
-A_M1_71_920 o ware vrouwē mīne spoet
-A_M1_71_921 wordē si vā minnē vʼwoet
-A_M1_71_922 dompelike toe tiden
+A_M1_71_920 [...]o ware vrouwē mīne spoet
+A_M1_71_921 [...]wordē si vā minnē vʼwoet
+A_M1_71_922 [...]dompelike toe tiden
 
 
 

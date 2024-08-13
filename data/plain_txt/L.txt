@@ -45,119 +45,119 @@ L_M1_03_034 Antwoort mi ia ofte neen
 L_M1_03_035 Van dat ic di betoeghe
 L_M1_03_036 Ledicheit es vroeme gheen
 L_M1_03_037 Aerbeit vint vier in den steen
-L_M1_03_038 D droeghe
-L_M1_03_039 
+L_M1_03_038 D[...] droeghe
+L_M1_03_039 [...]
 
 
-L_M1_04_040 
+L_M1_04_040 [...]
 
 
 
-L_M1_04_041 Waer soudic d ...
-L_M1_04_042 Dat ic daer ... 
-L_M1_04_043 Te vʼclaerne...
-L_M1_04_044 Die met twi beu
-L_M1_04_045 Dats dat ic niet en vʼm
-L_M1_04_046 Doch en willics niet on
-L_M1_04_047 Ic wille dine bede ontf
+L_M1_04_041 Waer soudic d ...[...]
+L_M1_04_042 Dat ic daer ... [...]
+L_M1_04_043 Te vʼclaerne...[...]
+L_M1_04_044 Die met twi[...] beu[...]
+L_M1_04_045 Dats dat ic niet en vʼm[...]
+L_M1_04_046 Doch en willics niet on[...]
+L_M1_04_047 Ic wille dine bede ontf[...]
 L_M1_04_048 Die dit ane mi sochte
-L_M1_04_049 God sende mi den hem
-L_M1_04_050 En̄ moet minē sin dwa
+L_M1_04_049 God sende mi den hem[...]
+L_M1_04_050 En̄ moet minē sin dwa[...]
 L_M1_04_051 Want hi mi diere cochte
-L_M1_04_052 En̄ ict gherne volbroc
+L_M1_04_052 En̄ ict gherne volbroc[...]
 
 
-L_M1_05_053 MErten doen die wer
-L_M1_05_054 Man te vʼheffen b... 
-L_M1_05_055 Doen sciet mijn vrouw
-L_M1_05_056 Den dorpers wijsde m
-L_M1_05_057 Dʼ trouwe en̄ doget wa 
+L_M1_05_053 MErten doen die wer[...]
+L_M1_05_054 Man te vʼheffen b... [...]
+L_M1_05_055 Doen sciet mijn vrouw[...]
+L_M1_05_056 Den dorpers wijsde m[...]
+L_M1_05_057 Dʼ trouwe en̄ doget wa [...]
 L_M1_05_058 Dien hiet si sijn here
-L_M1_05_059 Nv maken die herē .I. g 
-L_M1_05_060 En̄ gheuen dʼ eren enē 
-L_M1_05_061 En̄ en willen niet dat 
-L_M1_05_062 Segt mi wanen tfen
-L_M1_05_063 Toch mi redene daer
+L_M1_05_059 Nv maken die herē .I. g [...]
+L_M1_05_060 En̄ gheuen dʼ eren enē [...]
+L_M1_05_061 En̄ en willen niet dat [...]
+L_M1_05_062 Segt mi wanen tfen[...]
+L_M1_05_063 Toch mi redene daer[...]
 L_M1_05_064 Want ic gherne leere
 L_M1_05_065 Wies scout dat weere
 
 
-L_M1_06_066 IAcop mi dunckt ouʼw
-L_M1_06_067 Sint dꝫ edelheit had
+L_M1_06_066 IAcop mi dunckt ouʼw[...]
+L_M1_06_067 Sint dꝫ edelheit had[...]
 L_M1_06_068 Te pinē om̄e die eere
-L_M1_06_069 En̄ si trac den scalckē 
-L_M1_06_070 Die raeden nv hier nv 
-L_M1_06_071 Ende niet scelden den h
-L_M1_06_072 Soe es edelheit woordē 
-L_M1_06_073 Dat si te clēmen heeft 
-L_M1_06_074 En̄ daelt in lanc soe me
-L_M1_06_075 Dits nv alder werelt cl
-L_M1_06_076 En̄ ogen siens openba
+L_M1_06_069 En̄ si trac den scalckē [...]
+L_M1_06_070 Die raeden nv hier nv [...]
+L_M1_06_071 Ende niet scelden den h[...]
+L_M1_06_072 Soe es edelheit woordē [...]
+L_M1_06_073 Dat si te clēmen heeft [...]
+L_M1_06_074 En̄ daelt in lanc soe me[...]
+L_M1_06_075 Dits nv alder werelt cl[...]
+L_M1_06_076 En̄ ogen siens openba[...]
 L_M1_06_077 Dus es vʼbannen eere
 L_M1_06_078 En̄ wedʼ staen ten kere
 
 
-L_M1_07_079 NV merct bider sonnē 
-L_M1_07_080 Die alder werelt oe
+L_M1_07_079 NV merct bider sonnē [...]
+L_M1_07_080 Die alder werelt oe[...]
 L_M1_07_081 Bi hare edele natuere
-L_M1_07_082 Als dat swerc daer ieg
-L_M1_07_083 Entie neuel mꝫ siere dr
+L_M1_07_082 Als dat swerc daer ieg[...]
+L_M1_07_083 Entie neuel mꝫ siere dr[...]
 L_M1_07_084 Sone can so tier vren
-L_M1_07_085 
+L_M1_07_085 [...]
 
 
 
-L_M1_07_086  ...rt die scalke knecht
-L_M1_07_087  ...ren
-L_M1_07_088  ane hecht
-L_M1_07_089 ...lheit vʼplecht
-L_M1_07_090  et ghedueren
-L_M1_07_091  dē scalke sueren
+L_M1_07_086 [...] ...rt die scalke knecht
+L_M1_07_087 [...] ...ren
+L_M1_07_088 [...] ane hecht
+L_M1_07_089 [...]...lheit vʼplecht
+L_M1_07_090 [...] et ghedueren
+L_M1_07_091 [...] dē scalke sueren
 
 
-L_M1_08_092 nt scalke droeghē ouʼeen
-L_M1_08_093 eē ... en̄ ia neen
-L_M1_08_094  dat wijsheit dochte
-L_M1_08_095 lheit dʼ ōme green
-L_M1_08_096 t wasdom wt scheen
-L_M1_08_097  dꝫ comē mochte
-L_M1_08_098 delhᵗ werdē steen
-L_M1_08_099  ontfermt dinc gheen
-L_M1_08_100 men tgelt wt knochte
-L_M1_08_101 eue hē den langhē weē
-L_M1_08_102 naeghen gaf dꝫ been
-L_M1_08_103 den ghedochte
-L_M1_08_104 iere moort mꝫ wrochte
+L_M1_08_092 [...]nt scalke droeghē ouʼeen
+L_M1_08_093 [...]eē ... en̄ ia neen
+L_M1_08_094 [...] dat wijsheit dochte
+L_M1_08_095 [...]lheit dʼ ōme green
+L_M1_08_096 [...]t wasdom wt scheen
+L_M1_08_097 [...] dꝫ comē mochte
+L_M1_08_098 [...]delhᵗ werdē steen
+L_M1_08_099 [...] ontfermt dinc gheen
+L_M1_08_100 [...]men tgelt wt knochte
+L_M1_08_101 [...]eue hē den langhē weē
+L_M1_08_102 [...]naeghen gaf dꝫ been
+L_M1_08_103 [...]den ghedochte
+L_M1_08_104 [...]iere moort mꝫ wrochte
 
 
-L_M1_09_105 segel en̄ was
-L_M1_09_106  brieue die gewaegē das
-L_M1_09_107  lantsherē gheuen
-L_M1_09_108  l niet dā ghedwas
-L_M1_09_109  f hadt mi eē sas
-L_M1_09_110  vriese bescreuen
-L_M1_09_111  es broescher dā gelas
-L_M1_09_112 en soe sterc was
-L_M1_09_113  te broekē bleuen
-L_M1_09_114 ns noeyt hʼe ghenas
-L_M1_09_115 lke tsinē raede las
-L_M1_09_116 oeste int inde sneuen
-L_M1_09_117 c sijns lants vʼdreuen
+L_M1_09_105 [...]segel en̄ was
+L_M1_09_106 [...] brieue die gewaegē das
+L_M1_09_107 [...] lantsherē gheuen
+L_M1_09_108 [...] l niet dā ghedwas
+L_M1_09_109 [...] f hadt mi eē sas
+L_M1_09_110 [...] vriese bescreuen
+L_M1_09_111 [...] es broescher dā gelas
+L_M1_09_112 [...]en soe sterc was
+L_M1_09_113 [...] te broekē bleuen
+L_M1_09_114 [...]ns noeyt hʼe ghenas
+L_M1_09_115 [...]lke tsinē raede las
+L_M1_09_116 [...]oeste int inde sneuen
+L_M1_09_117 [...]c sijns lants vʼdreuen
 
 
-L_M1_10_118 n du berechts mi wel
-L_M1_10_119 bi sijn die herē fel
-L_M1_10_120 nckel inde taele
-L_M1_10_121 er wat toe seggē el
-L_M1_10_122 lke hout boesheit ouʼ spel
-L_M1_10_123 t hoe hi doghet vʼsmaele
-L_M1_10_124  sloech den goedē abel
-L_M1_10_125 ct die scalck sijns herē vel
-L_M1_10_126 e trect te daele
-L_M1_10_127 ons noch doemē sel
-L_M1_10_128  dat hi den duuel
-L_M1_10_129 lesten maele
-L_M1_10_130 scalken 
+L_M1_10_118 [...]n du berechts mi wel
+L_M1_10_119 [...]bi sijn die herē fel
+L_M1_10_120 [...]nckel inde taele
+L_M1_10_121 [...]er wat toe seggē el
+L_M1_10_122 [...]lke hout boesheit ouʼ spel
+L_M1_10_123 [...]t hoe hi doghet vʼsmaele
+L_M1_10_124 [...] sloech den goedē abel
+L_M1_10_125 [...]ct die scalck sijns herē vel
+L_M1_10_126 [...]e trect te daele
+L_M1_10_127 [...]ons noch doemē sel
+L_M1_10_128 [...] dat hi den duuel
+L_M1_10_129 [...]lesten maele
+L_M1_10_130 [...]scalken [...]
 
 
 
@@ -212,8 +212,8 @@ L_M1_14_170 DEn rechten wech ter hellē waert
 L_M1_14_171 Entie aldʼ corste vaert
 L_M1_14_172 Dats gheluuc in sonden
 L_M1_14_173 Als mē gheen mesdoē en spaert
-L_M1_14_174 Ende 
-L_M1_14_175 
+L_M1_14_174 Ende [...]
+L_M1_14_175 [...]
 
 
 
@@ -268,13 +268,13 @@ L_M1_59_755 IAcop v redene es claer
 L_M1_59_756 Al dunct si den ghenē swaer
 L_M1_59_757 Die luttel gheuroeden
 L_M1_59_758 Ic weet wel ouʼ waer
-L_M1_59_759 ...
-L_M1_59_760 
+L_M1_59_759 ...[...]
+L_M1_59_760 [...]
 
 
 
-L_M1_59_761 Ende wilde therte makē on
-L_M1_59_762 Van dat hʼ doegen bringen n
+L_M1_59_761 Ende wilde therte makē on[...]
+L_M1_59_762 Van dat hʼ doegen bringen n[...]
 L_M1_59_763 Hine dorste hē niet vʼmoeden
 L_M1_59_764 Datti beuen soude daer
 L_M1_59_765 Dʼ god sal doemē oppenbaer
@@ -282,106 +282,106 @@ L_M1_59_766 En̄ wisen ten gloeden
 L_M1_59_767 Die hē hier tē sondē spoedē
 
 
-L_M1_60_768 BErecht mi iacop oftu w
-L_M1_60_769 Welc sekerst es int beh
+L_M1_60_768 BErecht mi iacop oftu w[...]
+L_M1_60_769 Welc sekerst es int beh[...]
 L_M1_60_770 Rijcheit ofte aermoede
-L_M1_60_771 Eest moenc clerc ionc ofte 
+L_M1_60_771 Eest moenc clerc ionc ofte [...]
 L_M1_60_772 Al duncket mi gadrē gout
 L_M1_60_773 En̄ staet naeden goede
-L_M1_60_774 Aermoede prisic menichfo
+L_M1_60_774 Aermoede prisic menichfo[...]
 L_M1_60_775 Want si es seker en̄ bout
-L_M1_60_776 Voer roeuers sonder hoe
-L_M1_60_777 Doch mīnē si voer water 
+L_M1_60_776 Voer roeuers sonder hoe[...]
+L_M1_60_777 Doch mīnē si voer water [...]
 L_M1_60_778 Si scuwē honger en̄ cout
 L_M1_60_779 Eest alsoe ic mi vʼmoede
 L_M1_60_780 Soe doelen dese vroede
 
 
 L_M1_61_781 MErtē ic mete vol dij̄ vat
-L_M1_61_782 Optē stoel dʼ moeyses 
+L_M1_61_782 Optē stoel dʼ moeyses [...]
 L_M1_61_783 Sitten die gheleerde
 L_M1_61_784 Dat si di heten doet al dat
-L_M1_61_785 Si wisen di den rechten p
+L_M1_61_785 Si wisen di den rechten p[...]
 L_M1_61_786 Wel hē diere hē toe keerde
 L_M1_61_787 Mʼ in weldoene sijn si lat
 L_M1_61_788 Si hetē vaste si sijn sat
-L_M1_61_789 En volcht niet sulkē herd
+L_M1_61_789 En volcht niet sulkē herd[...]
 
 Line_number 790 is missing
-L_M1_61_791 Hʼ hant es altoes sondʼ g
+L_M1_61_791 Hʼ hant es altoes sondʼ g[...]
 L_M1_61_792 Noeyt volc was op eerde
 L_M1_61_793 Dat meer scats begeerde
 
 
-L_M1_62_794 DIe meeste menichste e
-L_M1_62_795 Doch soe vint mē al s
+L_M1_62_794 DIe meeste menichste e[...]
+L_M1_62_795 Doch soe vint mē al s[...]
 L_M1_62_796 Al sijn si selsine
-L_M1_62_797 Die dē ertschē goede ōtgae
+L_M1_62_797 Die dē ertschē goede ōtgae[...]
 L_M1_62_798 En̄ aermoede ane vaen
 L_M1_62_799 Bi heylegen en siene
-L_M1_62_800 Si laetē hē blouwē en̄ sla
+L_M1_62_800 Si laetē hē blouwē en̄ sla[...]
 L_M1_62_801 Tormenten ende vaen
 L_M1_62_802 Om̄e die helle tonfliene
-L_M1_62_803 Hier in waert sekerst ...
-L_M1_62_804 Die hē int doepsel 
-L_M1_62_805 
-L_M1_62_806 
+L_M1_62_803 Hier in waert sekerst ...[...]
+L_M1_62_804 Die hē int doepsel [...]
+L_M1_62_805 [...]
+L_M1_62_806 [...]
 
 
 
 
 
-L_M1_63_807  gods sone toget ons dat
+L_M1_63_807 [...] gods sone toget ons dat
 L_M1_63_808 Die euen gheweldich sit en̄ sat
-L_M1_63_809 en vader inden rike
-L_M1_63_810  beete indʼ maget vat
-L_M1_63_813 i cume oeyt soges was sat
-L_M1_63_812 de oetmoedelike
-L_M1_63_811 dʼ reindʼ maget scat
-L_M1_63_814  gedoegede menegē hadt
-L_M1_63_815 n sinē ongeliken
-L_M1_63_816 moede es een pat
-L_M1_63_817  doer den hemel maecte I gat
-L_M1_63_818 i niet en beswike
-L_M1_63_819 hʼ met trouwen wike
+L_M1_63_809 [...]en vader inden rike
+L_M1_63_810 [...] beete indʼ maget vat
+L_M1_63_813 [...]i cume oeyt soges was sat
+L_M1_63_812 [...]de oetmoedelike
+L_M1_63_811 [...]dʼ reindʼ maget scat
+L_M1_63_814 [...] gedoegede menegē hadt
+L_M1_63_815 [...]n sinē ongeliken
+L_M1_63_816 [...]moede es een pat
+L_M1_63_817 [...] doer den hemel maecte I gat
+L_M1_63_818 [...]i niet en beswike
+L_M1_63_819 [...]hʼ met trouwen wike
 
 
-L_M1_64_820 enstu mertē weldich vet
-L_M1_64_821 ijn gecleet nv wel nv bet
-L_M1_64_822  vaeren int langhe leuē
-L_M1_64_823 sus naect mꝫ bloede besmet
-L_M1_64_824  rechte side doer splet
-L_M1_64_825  hout was vʼheuen
-L_M1_64_826  hoeft vandʼ kerstenē wet
-L_M1_64_827  scarpē dornē was beset
-L_M1_64_828 et es bescreuen
-L_M1_64_829  wesen gods let
-L_M1_64_830 erlikē drinct en̄ et
-L_M1_64_831 t welde begheuen
-L_M1_64_832 u moets sneuen
+L_M1_64_820 [...]enstu mertē weldich vet
+L_M1_64_821 [...]ijn gecleet nv wel nv bet
+L_M1_64_822 [...] vaeren int langhe leuē
+L_M1_64_823 [...]sus naect mꝫ bloede besmet
+L_M1_64_824 [...] rechte side doer splet
+L_M1_64_825 [...] hout was vʼheuen
+L_M1_64_826 [...] hoeft vandʼ kerstenē wet
+L_M1_64_827 [...] scarpē dornē was beset
+L_M1_64_828 [...]et es bescreuen
+L_M1_64_829 [...] wesen gods let
+L_M1_64_830 [...]erlikē drinct en̄ et
+L_M1_64_831 [...]t welde begheuen
+L_M1_64_832 [...]u moets sneuen
 
 
-L_M1_65_833 t en seggic dꝫ rijchᵗ sent
-L_M1_65_834 ie ziele int torment
-L_M1_65_835 atment nut mꝫ rechte
-L_M1_65_836 erst es vlien tserpent
-L_M1_65_837 te wandelen dʼ omtrent
-L_M1_65_838 i niet en beulecte
-L_M1_65_839 hᵗ maect menegē blint
-L_M1_65_840 i gode niet en kent
-L_M1_65_841 eet hi vandē lechte
-L_M1_65_842 wort vā leuene .I. rent
-L_M1_65_843  valtmē int helsche couent
-L_M1_65_844  brinct inde hechte
-L_M1_65_845  duuel sine knechte
+L_M1_65_833 [...]t en seggic dꝫ rijchᵗ sent
+L_M1_65_834 [...]ie ziele int torment
+L_M1_65_835 [...]atment nut mꝫ rechte
+L_M1_65_836 [...]erst es vlien tserpent
+L_M1_65_837 [...]te wandelen dʼ omtrent
+L_M1_65_838 [...]i niet en beulecte
+L_M1_65_839 [...]hᵗ maect menegē blint
+L_M1_65_840 [...]i gode niet en kent
+L_M1_65_841 [...]eet hi vandē lechte
+L_M1_65_842 [...]wort vā leuene .I. rent
+L_M1_65_843 [...] valtmē int helsche couent
+L_M1_65_844 [...] brinct inde hechte
+L_M1_65_845 [...] duuel sine knechte
 
 
-L_M1_66_846 cop du segt wel en̄ waer
-L_M1_66_847 ie wech es inge en̄ swaer
-L_M1_66_848 e zeere ongetreeden
-L_M1_66_849 moeden te clēmē daer
-L_M1_66_850 
-L_M1_66_851 
+L_M1_66_846 [...]cop du segt wel en̄ waer
+L_M1_66_847 [...]ie wech es inge en̄ swaer
+L_M1_66_848 [...]e zeere ongetreeden
+L_M1_66_849 [...]moeden te clēmē daer
+L_M1_66_850 [...]
+L_M1_66_851 [...]
 
 
 
@@ -434,8 +434,8 @@ L_M1_69_891 Wien maghic draegen euelē moet
 L_M1_69_892 Dat mi die stroem mꝫter spoet
 L_M1_69_893 Draget inde gewaede
 L_M1_69_894 Dat ic quaet can en̄ goet
-L_M1_69_895 ...
-L_M1_69_896 
+L_M1_69_895 [...]...
+L_M1_69_896 [...]
 
 
 
@@ -490,8 +490,8 @@ L_M1_74_962 Ende sine meiseniede
 L_M1_72_924 DAt mē luttel trouwē vint
 L_M1_72_925 Aen vrouwē dꝫ en clagic twint
 L_M1_72_926 Bi eender manieren
-L_M1_72_927  ...t mē vele vint
-L_M1_72_928 
+L_M1_72_927 [...] ...t mē vele vint
+L_M1_72_928 [...]
 
 
 
@@ -547,7 +547,7 @@ L_M2_01_006 Wiltu di aldus versmoren
 L_M2_01_007 Al wʼt al dine dꝫ comt int swin
 L_M2_01_008 Gout seluer loot yser tin
 L_M2_01_009 Soe bleefstu verloren
-L_M2_01_010 
+L_M2_01_010 [...]
 
 
 
@@ -603,7 +603,7 @@ L_M2_04_052 Nv vraecht ic sal ontbinden
 
 L_M2_05_053 MErten du sout mi vʼstaen
 L_M2_05_054 Een vrouwe wel gedaen
-L_M2_05_055 
+L_M2_05_055 [...]
 
 
 
@@ -657,7 +657,7 @@ L_M2_08_096 Dat si daer waert tijt en̄ vaert
 L_M2_08_097 Danē hʼ quaemē die wonden
 L_M2_08_098 Al sout al vaeren hindʼwaert
 L_M2_08_099 Al dat weluarens begaert
-L_M2_08_100 
+L_M2_08_100 [...]
 
 
 
@@ -712,8 +712,8 @@ L_M3_30_379 Wies godhᵗ niemē ...nē gegrōdē
 L_M3_30_380 Noch wies menschelijcheit
 L_M3_30_381 Si vloeydē yerst en̄ begonde
 L_M3_30_382 Die sacramente tien stonden
-L_M3_30_383 
-L_M3_30_384 
+L_M3_30_383 [...]
+L_M3_30_384 [...]
 
 
 
@@ -819,8 +819,8 @@ L_M3_36_468 Dꝫ nēmermeer vʼgheit
 L_M3_37_469 WAt hulpt mertē sin en̄ taele
 L_M3_37_470 Die begheuē mi alte maele
 L_M3_37_471 Meer te sprekene voort
-L_M3_37_472 
-L_M3_37_473 
+L_M3_37_472 [...]
+L_M3_37_473 [...]
 
 
 

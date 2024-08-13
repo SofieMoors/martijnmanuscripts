@@ -2,64 +2,64 @@
 
 
 
-D2_M1_75_966 Ic vergheuet al onghedo
-D2_M1_75_967 Alle vrouwē ionc en̄ oud 
-D2_M1_75_968 Om eene vrouwe hogh
-D2_M1_75_969 Daer ons afquam onse 
-D2_M1_75_970 Ghedanct si die dusentfo
-D2_M1_75_971 Datse hem op hielt met 
-D2_M1_75_972 Die ons benam thelsch 
-D2_M1_75_973 In haer ben ic te eyndē b
+D2_M1_75_966 Ic vergheuet al onghedo[...]
+D2_M1_75_967 Alle vrouwē ionc en̄ oud [...]
+D2_M1_75_968 Om eene vrouwe hogh[...]
+D2_M1_75_969 Daer ons afquam onse [...]
+D2_M1_75_970 Ghedanct si die dusentfo[...]
+D2_M1_75_971 Datse hem op hielt met [...]
+D2_M1_75_972 Die ons benam thelsch [...]
+D2_M1_75_973 In haer ben ic te eyndē b[...]
 D2_M1_75_974 Onser beider dyaloghe
-D2_M1_75_975 Ic en vrage niet meer no
+D2_M1_75_975 Ic en vrage niet meer no[...]
 
 Line_number 976 is missing
 
 
-D2_M2_01_000 ¶ Dat ander de bo
-D2_M2_01_001 MArtijn slaepty sla
-D2_M2_01_002 Spreect hebdy g
-D2_M2_01_003 Ghi duncket mi verdor
-D2_M2_01_004 Ghi en achtet meer noch
-D2_M2_01_005 Dan op weelde en̄ ghe 
-D2_M2_01_006 Wildi v dus versmoren 
-D2_M2_01_007 Al waert al uwe dat coe
-D2_M2_01_008 Gout silner loot stael ys
-D2_M2_01_009 Nochtan bleeft ghi verl
-D2_M2_01_010 Daerstu dʼ duecht geē be
+D2_M2_01_000 ¶ Dat ander de bo[...]
+D2_M2_01_001 MArtijn slaepty sla[...]
+D2_M2_01_002 Spreect hebdy g[...]
+D2_M2_01_003 Ghi duncket mi verdor[...]
+D2_M2_01_004 Ghi en achtet meer noch[...]
+D2_M2_01_005 Dan op weelde en̄ ghe [...]
+D2_M2_01_006 Wildi v dus versmoren [...]
+D2_M2_01_007 Al waert al uwe dat coe[...]
+D2_M2_01_008 Gout silner loot stael ys[...]
+D2_M2_01_009 Nochtan bleeft ghi verl[...]
+D2_M2_01_010 Daerstu dʼ duecht geē be[...]
 
 
 
-D2_M2_01_011  hooft en̄ uwen sin
-D2_M2_01_012  waerstu geboren
-D2_M2_01_013 chtens versworen
+D2_M2_01_011 [...] hooft en̄ uwen sin
+D2_M2_01_012 [...] waerstu geboren
+D2_M2_01_013 [...]chtens versworen
 
 
-D2_M2_02_014 ghi woent in den dam
-D2_M2_02_015  echt dies ben ic gram
-D2_M2_02_016 s sijn verscheeden
-D2_M2_02_017 at mi meest mesquam
-D2_M2_02_018 t bate en vernam
-D2_M2_02_019  en vā ons beeden
-D2_M2_02_020 en sin gheworden so lam
-D2_M2_02_021 node wedʼ ane quam
-D2_M2_02_022  mi verleeden
-D2_M2_02_023  mi als een gestoten ram
-D2_M2_02_024  ghi wort noch tam
-D2_M2_02_025  woorden cleeden
-D2_M2_02_026  en̄ met reden
+D2_M2_02_014 [...]ghi woent in den dam
+D2_M2_02_015 [...] echt dies ben ic gram
+D2_M2_02_016 [...]s sijn verscheeden
+D2_M2_02_017 [...]at mi meest mesquam
+D2_M2_02_018 [...]t bate en vernam
+D2_M2_02_019 [...] en vā ons beeden
+D2_M2_02_020 [...]en sin gheworden so lam
+D2_M2_02_021 [...]node wedʼ ane quam
+D2_M2_02_022 [...] mi verleeden
+D2_M2_02_023 [...] mi als een gestoten ram
+D2_M2_02_024 [...] ghi wort noch tam
+D2_M2_02_025 [...] woorden cleeden
+D2_M2_02_026 [...] en̄ met reden
 
 
-D2_M2_03_027  vrient heb ic messeyt
-D2_M2_03_028 eteren bereyt
-D2_M2_03_029  v bliuen
-D2_M2_03_030  et mi eū ontbeyt
-D2_M2_03_031 mi opt hertte leyt
+D2_M2_03_027 [...] vrient heb ic messeyt
+D2_M2_03_028 [...]eteren bereyt
+D2_M2_03_029 [...] v bliuen
+D2_M2_03_030 [...] et mi eū ontbeyt
+D2_M2_03_031 [...]mi opt hertte leyt
 
 
 
 D2_M2_03_032 Dat wil ic v bescriuen
-D2_M2_03_033 Daer haer die werelt mede m
+D2_M2_03_033 Daer haer die werelt mede m[...]
 D2_M2_03_034 Ende dade dat lief ware leyt
 D2_M2_03_035 Dats minne vā wiuen
 D2_M2_03_036 Al dat is inde werelt breyt
@@ -71,14 +71,14 @@ D2_M2_03_039 Wildemen minne ontlijuen
 D2_M2_04_040 Iacop dit was oyt dijn doen
 D2_M2_04_041 Dat van vrouwen v sermoen
 D2_M2_04_042 Beghinnen moet oft eynden
-D2_M2_04_043 Waerdi een dorper ghi spraec 
+D2_M2_04_043 Waerdi een dorper ghi spraec [...]
 D2_M2_04_044 Nv es v herte dus ontuloen
 D2_M2_04_045 Doch wil icx mi ghenenden
 D2_M2_04_046 En̄ strijcken af minen caproen
-D2_M2_04_047 En̄ horen wat v hier toe mach 
+D2_M2_04_047 En̄ horen wat v hier toe mach [...]
 D2_M2_04_048 Dat ghi den onbekenden
 D2_M2_04_049 Martijn niet en laet gheuroen
-D2_M2_04_050 Al hadt ic aen twee yseren scho
+D2_M2_04_050 Al hadt ic aen twee yseren scho[...]
 D2_M2_04_051 Ic en mocht v niet ontwenden
 D2_M2_04_052 Nv vraecht ic sal ontbendē
 
@@ -86,93 +86,93 @@ D2_M2_04_052 Nv vraecht ic sal ontbendē
 
 
 
-D2_M2_05_053 rtijn ghi sult mi verstaen
-D2_M2_05_054  vrouwe wel ghedaen
-D2_M2_05_055 t mi beuaen met minnen
-D2_M2_05_056 t gode is onderdaen
-D2_M2_05_057  om haren wille gaen
-D2_M2_05_058 ht icse ghewinnen
-D2_M2_05_059 tan weetic sondʼ waen
-D2_M2_05_060 ij mij̄s niet en acht een spaen
-D2_M2_05_061 n hert doet mi bekennen
-D2_M2_05_062 uder die werelt om vergaen
-D2_M2_05_063  si mi niet en sonde ontfaen
-D2_M2_05_064 aer herte binnen
-D2_M2_05_065 etoe en is geen versinnen
+D2_M2_05_053 [...]rtijn ghi sult mi verstaen
+D2_M2_05_054 [...] vrouwe wel ghedaen
+D2_M2_05_055 [...]t mi beuaen met minnen
+D2_M2_05_056 [...]t gode is onderdaen
+D2_M2_05_057 [...] om haren wille gaen
+D2_M2_05_058 [...]ht icse ghewinnen
+D2_M2_05_059 [...]tan weetic sondʼ waen
+D2_M2_05_060 [...]ij mij̄s niet en acht een spaen
+D2_M2_05_061 [...]n hert doet mi bekennen
+D2_M2_05_062 [...]uder die werelt om vergaen
+D2_M2_05_063 [...] si mi niet en sonde ontfaen
+D2_M2_05_064 [...]aer herte binnen
+D2_M2_05_065 [...]etoe en is geen versinnen
 
 
-D2_M2_06_066 n andʼ vrouwe die mi bemint
-D2_M2_06_067 en al dat sij leuende kint
-D2_M2_06_068  ghestadiger trouwen
-D2_M2_06_069 in mi gheprijst es twint
-D2_M2_06_070 er si is die scoonste diemē vindt
-D2_M2_06_071 bloeme bouen alle vrouwē
-D2_M2_06_072 es mij̄ herte soe verblint
-D2_M2_06_073  hē daertoe niet en verbint
+D2_M2_06_066 [...]n andʼ vrouwe die mi bemint
+D2_M2_06_067 [...]en al dat sij leuende kint
+D2_M2_06_068 [...] ghestadiger trouwen
+D2_M2_06_069 [...]in mi gheprijst es twint
+D2_M2_06_070 [...]er si is die scoonste diemē vindt
+D2_M2_06_071 [...]bloeme bouen alle vrouwē
+D2_M2_06_072 [...]es mij̄ herte soe verblint
+D2_M2_06_073 [...] hē daertoe niet en verbint
 
 
 
 D2_M2_06_074 Dat icse yet wille scouwen
 D2_M2_06_075 Hoe lief opsien / si mi toe sindt
-D2_M2_06_076 Het dunct mijndʼ hertē alsen 
-D2_M2_06_077 Sij liet haer eer in stucken hou
-D2_M2_06_078 Eer sij daer om quam in rouw
+D2_M2_06_076 Het dunct mijndʼ hertē alsen [...]
+D2_M2_06_077 Sij liet haer eer in stucken hou[...]
+D2_M2_06_078 Eer sij daer om quam in rouw[...]
 
 
 D2_M2_07_079 Martijn hoort en̄ verstant
 D2_M2_07_080 Dese twee sijn in een verbant
-D2_M2_07_081 Dat costen moet der eenredle 
-D2_M2_07_082 Nv heb ic die macht in die ha
-D2_M2_07_083 Welcker ic wille breken den 
+D2_M2_07_081 Dat costen moet der eenredle [...]
+D2_M2_07_082 Nv heb ic die macht in die ha[...]
+D2_M2_07_083 Welcker ic wille breken den [...]
 
 
 
 
 
-D2_M2_08_095  ymmer der herten aert
-D2_M2_08_096 darwaerts tijdt en̄ vaert
-D2_M2_08_097 aen haer quamē die wonden
-D2_M2_08_098 t al varen ghinderwaert
-D2_M2_08_099 el varens begaert
-D2_M2_08_100  tot allen stonden
-D2_M2_08_101 e die mi therte beswaert
-D2_M2_08_102 ick haer latē smakē tswaert
-D2_M2_08_103 are dan ondervonden
-D2_M2_08_104 ermoort dan sonden
+D2_M2_08_095 [...] ymmer der herten aert
+D2_M2_08_096 [...]darwaerts tijdt en̄ vaert
+D2_M2_08_097 [...]aen haer quamē die wonden
+D2_M2_08_098 [...]t al varen ghinderwaert
+D2_M2_08_099 [...]el varens begaert
+D2_M2_08_100 [...] tot allen stonden
+D2_M2_08_101 [...]e die mi therte beswaert
+D2_M2_08_102 [...]ick haer latē smakē tswaert
+D2_M2_08_103 [...]are dan ondervonden
+D2_M2_08_104 [...]ermoort dan sonden
 
 
 
 
 
-D2_M2_09_116 Hi en konst hem niet bedw
+D2_M2_09_116 Hi en konst hem niet bedw[...]
 D2_M2_09_117 Hi en sterf bi desen dingen
 
 
-D2_M2_10_118 Medea toocht ons selue de 
-D2_M2_10_119 Die roofde en̄ stal haers v
-D2_M2_10_120 En̄ versloech haren broed
-D2_M2_10_121 Om iason dies haer cume
+D2_M2_10_118 Medea toocht ons selue de [...]
+D2_M2_10_119 Die roofde en̄ stal haers v[...]
+D2_M2_10_120 En̄ versloech haren broed[...]
+D2_M2_10_121 Om iason dies haer cume[...]
 D2_M2_10_122 Liet sij conincrijc en̄ stadt
-D2_M2_10_123 Vader suster en̄ m
-D2_M2_10_124 Nochtans daer sije
-D2_M2_10_125 Wijsde haer rede
+D2_M2_10_123 Vader suster en̄ m[...]
+D2_M2_10_124 Nochtans daer sij[...]e[...]
+D2_M2_10_125 Wijsde haer rede[...]
 
 
 
 
 
-D2_M2_11_137 t woent sondʼ ghetal
-D2_M2_11_138 berch en̄ in dal
-D2_M2_11_139 c hertoge of graue
-D2_M2_11_140 uen is hier tegen smal
-D2_M2_11_141  niet weert sijn een bal
-D2_M2_11_142 t met caue
-D2_M2_11_143 mi se baue
+D2_M2_11_137 [...]t woent sondʼ ghetal
+D2_M2_11_138 [...]berch en̄ in dal
+D2_M2_11_139 [...]c hertoge of graue
+D2_M2_11_140 [...]uen is hier tegen smal
+D2_M2_11_141 [...] niet weert sijn een bal
+D2_M2_11_142 [...]t met caue
+D2_M2_11_143 [...]mi s[...]e baue
 
 
-D2_M2_12_144 gh n stout sergiant
-D2_M2_12_145 n  op en̄ vast bant
-D2_M2_12_146 n ontbinden
+D2_M2_12_144 [...]gh [...]n stout sergiant
+D2_M2_12_145 [...]n [...] op en̄ vast bant
+D2_M2_12_146 [...]n ontbinden
 
 
 
@@ -284,21 +284,3 @@ D2_M2_21_273 Ofte van sduuels partien
 
 
 D2_M2_22_274 Martijn hooret en̄ verstant
-D2_M2_22_275 Wie wast die dierste minne vant
-D2_M2_22_276 Dan god die selue is minne
-D2_M2_22_277 Al dat maecte ye sijn hant
-D2_M2_22_278 Minnet sijnder herten bant
-D2_M2_22_279 Met ghestadigen sinne
-D2_M2_22_280 Ja lucifer den helschen viant
-D2_M2_22_281 En̄ haet hi niet dat es bekant
-D2_M2_22_282 Noch en dede vā beghinne
-D2_M2_22_283 Dat hi sidt inden helschen brant
-
-
-
-D2_M2_22_284 Dat doet der houerdien pant
-D2_M2_22_285 Die helsche coninghinne
-D2_M2_22_286 Daer hi blijft altoes inne
-
-
-D2_M2_23_287 D

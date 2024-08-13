@@ -45,7 +45,7 @@ Z_M1_30_390 Smeltē alse sneeclatte
 
 Z_M1_31_391 Eere te pᶦsen es eē dinc
 Z_M1_31_392 Dʼ noit hʼte mꝫ ōme ginc
-Z_M1_31_393 Sine wꝰ van reynē 
+Z_M1_31_393 Sine wꝰ van reynē [...]
 Z_M1_31_394 Bestu man of iongelinc
 Z_M1_31_395 Doe altoes wel en̄ dwinc
 Z_M1_31_396 Dijnre hʼtē houerde
@@ -232,8 +232,8 @@ Z_M1_42_535 dꝫ eē geslachte tʼ nedʼ gaet
 Z_M1_49_626 Gaf dit wandel ertsche goet
 Z_M1_49_627 Der menschᵗ ghemeene
 Z_M1_49_628 Dꝫter mede waest geuoet
-Z_M1_49_629 En̄ geel 
-Z_M1_49_630 En̄ leue 
+Z_M1_49_629 En̄ geel [...]
+Z_M1_49_630 En̄ leue [...]
 Z_M1_49_631 Nu es g... verwoet
 Z_M1_49_632 Dat elc set sinē moet
 Z_M1_49_633 Om te heb... alleene
@@ -543,7 +543,7 @@ Z_M3_02_026 Antwert tusschē ōs tweē
 
 
 Z_M3_03_027 Mertē du vrages te hoge
-Z_M3_03_028 al vlogic bouē dʼ inglen v
+Z_M3_03_028 al vlogic bouē dʼ inglen v[...]
 Z_M3_03_029 Bouē cerub en̄ ceraph
 Z_M3_03_030 So wetic wel dꝫ ic en moge
 Z_M3_03_031 Berechtē dꝫ te vollen doge
@@ -558,13 +558,13 @@ Z_M3_03_039 Horet in diʼe hʼtē graf
 
 
 Z_M3_04_040 Moyses spᵃct in sinē boeken
-Z_M3_04_041 Beestē die dē berch besoeke
+Z_M3_04_041 Beestē die dē berch besoeke[...]
 Z_M3_04_042 Moetē sijn gescent
 Z_M3_04_043 Beeste es hi de wille roekē
-Z_M3_04_044 Te nauwe om de godhᵗ loe
+Z_M3_04_044 Te nauwe om de godhᵗ loe[...]
 Z_M3_04_045 Hets recht dꝫ hijt beweēt
 Z_M3_04_046 Du sout mi in allē hoeken
-Z_M3_04_047 Mꝫ rine sondʼ valsch vā doek
+Z_M3_04_047 Mꝫ rine sondʼ valsch vā doek[...]
 
 Line_number 048 is missing
 Z_M3_04_049 Es dit goet ic wane neent

@@ -69,17 +69,17 @@ Br_M1_39_506 Aen menigen die ic telle
 Br_M1_39_507 Van herten sijn geselle
 
 
-Br_M1_40_508 SElc waent dꝫ vandē quadē 
+Br_M1_40_508 SElc waent dꝫ vandē quadē [...]
 Br_M1_40_509 Dies noe sijn vadʼ was gram
 Br_M1_40_510 Om dꝫ hine niet en decte
 Br_M1_40_511 Dꝫ eyghen volc van hē quā
-Br_M1_40_512 Want hem tfadʼs volc mesqu
+Br_M1_40_512 Want hem tfadʼs volc mesqu[...]
 Br_M1_40_513 Hi doelde diere op mecte
-Br_M1_40_514 Al vintmen dꝫ die goede ram
+Br_M1_40_514 Al vintmen dꝫ die goede ram[...]
 Br_M1_40_515 Dicke wint dongaue lam
 Br_M1_40_516 Dits der rudarise secte
 Br_M1_40_517 Van den edelen abraham
-Br_M1_40_518 Quam eygen volc alsic vʼna
+Br_M1_40_518 Quam eygen volc alsic vʼna[...]
 Br_M1_40_519 Dꝫ oit ter eren trecte
 Br_M1_40_520 En̄ hem niet en beulecte
 
@@ -87,7 +87,7 @@ Br_M1_40_520 En̄ hem niet en beulecte
 Br_M1_41_521 MErten duutsche loy vʼtelt
 Br_M1_41_522 Dꝫ van onrechter gewelt
 Br_M1_41_523 Eyghendom es comen
-Br_M1_41_524 Als een prince wan wijch op
+Br_M1_41_524 Als een prince wan wijch op[...]
 Br_M1_41_525 Tfolc dꝫmen te liue helt
 Br_M1_41_526 Dede men verdoemen
 Br_M1_41_527 En̄ vercopen om gelt
@@ -474,7 +474,7 @@ Br_M2_13_161 En̄ hem narsisus heeft vʼsmoort
 
 
 
-Br_M2_13_162 
+Br_M2_13_162 [...]
 Br_M2_13_163 Minne en̄ datter toehoort
 Br_M2_13_164 Was mꝫ sonden nie becoort
 Br_M2_13_165 Oft met ribaudien
@@ -507,7 +507,7 @@ Br_M2_15_187 Hi dedese wech redenē vʼwan
 Br_M2_15_188 En̄ volchde der trouwen
 Br_M2_15_189 Gheen heilich man no wijf en cā
 Br_M2_15_190 Minnen sondʼ redene dan
-Br_M2_15_191 it machmen wel bescouwē
+Br_M2_15_191 [...]it machmen wel bescouwē
 Br_M2_15_192 Sulke mīners genietē ban
 Br_M2_15_193 Die metter misdaet makē gespan
 Br_M2_15_195 Dits mīne vol rouwen
@@ -521,7 +521,7 @@ Br_M2_16_199 En̄ mi een ander heeft in
 
 
 
-Br_M2_16_200 
+Br_M2_16_200 [...]
 Br_M2_16_201 Mi an vroech en̄ spade
 Br_M2_16_202 Mi dunct dꝫ ic meer sculdich bin
 Br_M2_16_203 Hʼ di mi coes int begin
@@ -568,7 +568,7 @@ Br_M2_19_237 Dꝫ in duitsche luit mīne
 
 
 
-Br_M2_19_238 Elc lettdiet wel be
+Br_M2_19_238 Elc lett[...]diet wel be[...]
 Br_M2_19_239 Hout een woert in dꝫ bespiet
 Br_M2_19_240 Der minnen cracht dʼinne
 Br_M2_19_241 Aldus ontbant dlatijnsce diet
@@ -615,7 +615,7 @@ Br_M2_22_275 Wie was die ierst mīne vāt
 
 
 
-Br_M2_22_276  die selue es mīne
+Br_M2_22_276 [...] die selue es mīne
 Br_M2_22_277 Al dꝫ ie maecte sij̄ hant
 Br_M2_22_278 Minnet siere hʼten bant
 Br_M2_22_279 Met ghestaden sinne
@@ -623,12 +623,12 @@ Br_M2_22_280 Ja lucifer den helscen viant
 Br_M2_22_281 En haetti nꝫ dats becant
 Br_M2_22_282 Noch en dede van beghinne
 Br_M2_22_283 Datti sit inden helscen brant
-Br_M2_22_284 Dꝫ doet der houerd ant
-Br_M2_22_285 Der helscer coninghē
+Br_M2_22_284 Dꝫ doet der houerd[...] ant
+Br_M2_22_285 Der helscer coningh[...]ē
 Br_M2_22_286 Dʼ blijfti altoes jnne
 
 
-Br_M2_23_287 DAt dit wʼ es proeft wel d
+Br_M2_23_287 DAt dit wʼ es proeft wel d[...]
 Br_M2_23_288 Wʼ enich dinc van gode gehat
 Br_M2_23_289 Dꝫ en mochte niet gedueren
 Br_M2_23_290 Den onghetelden gods scat
@@ -662,18 +662,18 @@ Br_M2_25_313 GOd gheuet al clene en̄ groot
 
 
 
-Br_M2_25_314 es de mensche heuet 
-Br_M2_25_315 it proeftmen mꝫ sinne
+Br_M2_25_314 [...]es de mensche heuet [...]
+Br_M2_25_315 [...]it proeftmen mꝫ sinne
 Br_M2_25_316 Hi storte dor ons sij̄ bloet root
 Br_M2_25_317 Hi geeft ons themels broot
 Br_M2_25_318 Op dꝫ men weder mīne
 Br_M2_25_319 Om ne ghenen wedʼstoot
 Br_M2_25_320 Dʼ ons ie sonde mede scoot
 Br_M2_25_321 En laet hi ons dʼ jnne
-Br_M2_25_322 Leggen  hooft in sinē scoot
-Br_M2_25_323 Soude aken dan die doot
+Br_M2_25_322 Leggen [...] hooft in sinē scoot
+Br_M2_25_323 Soude [...]aken dan die doot
 Br_M2_25_324 Die ic mi soe hout kinne
-Br_M2_25_325 Soe aer mij̄ vroude dinne
+Br_M2_25_325 Soe [...]aer mij̄ vroude dinne
 
 
 Br_M2_26_326 Vvaerheit iacop dits al waer
@@ -703,11 +703,11 @@ Br_M3_01_008 Mij̄ ban sine selē af wriuen
 Br_M3_01_009 Niet mogen nochtan
 Br_M3_01_010 En es geen spot van keytiuē
 Br_M3_01_011 Hets dʼ ic mi om liet ontliuē
-Br_M3_01_012 Eer icer sciede van
+Br_M3_01_012 Eer ic[...]er sciede van
 
 
 
-Br_M3_01_013 t die lere 
+Br_M3_01_013 [...]t die lere [...]
 
 
 Br_M3_02_014 Iacop wi hebben ondʼlinge
