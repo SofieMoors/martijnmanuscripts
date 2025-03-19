@@ -16,7 +16,52 @@
             <idno>76 E 6</idno>
             <msName>HaagsePelgrimage-handschrift, B</msName>
           </msIdentifier>
- <p>...</p>
+<msContents>
+<msItem>
+<locus from="141ra" to="152ra"/>
+<title>Martijn Trilogy</title>
+<author>Jacob van Maerlant</author>
+</msItem>
+</msContents>
+<physDesc>
+<objectDesc form="manuscript">
+                     <supportDesc material="perch">
+                        <support>
+                           <num type="front-flyleaf" value="2"/>
+                           <num type="book-block" value="12"/>
+                           <num type="end-flyleaf" value="2"/>
+                           <dimensions type="leaf">
+                              <height unit="mm" quantity="240"/>
+                              <width unit="mm" quantity="170"/>
+                           </dimensions>
+                        </support>
+                     <foliation>modern foliation in pencil in Arabic numbers (1-152)</foliation>
+                     <collation>1IV(8);2II(12)</collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="2" writtenLines="41" ruledLines="">
+                           <dimensions type="written">
+                              <height unit="mm" quantity="172"/>
+                              <width unit="mm" quantity="125"/>
+                           </dimensions>
+<catchwords></catchwords>
+                           <signatures></signatures>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc hands="1">
+                     <handNote script="littera textualis hybrida">the Martijn Trilogy is written in littera textualis hybrida by a single hand B</handNote>
+                  </handDesc>
+                  <decoDesc>
+                   <decoNote>initial (red); lombardic capital letters as strophic separation (red); colour-stroking (red) first letters per strophe</decoNote>
+                  </decoDesc>
+                  <additions><p>convolute of 2 manuscripts; 152 leafs/</p><p>1-16IV(128);17VI(140);18IV(148);19II(152)</p></additions>
+               </physDesc>
+<history>
+<origin>
+<origDate>1450-1500</origDate>
+<origPlace>Holland</origPlace>
+</origin></history>
         </msDesc>
             </sourceDesc>
         </fileDesc>

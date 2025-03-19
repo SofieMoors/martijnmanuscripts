@@ -14,7 +14,54 @@
             <idno>MS 19570</idno>
             <msName>Br</msName>
           </msIdentifier>
- <p>...</p>
+<msContents>
+<msItem>
+<locus from="1r" to="12v"/>
+<title>Martijn Trilogy</title>
+<author>Jacob van Maerlant</author>
+</msItem>
+</msContents>
+
+<physDesc>
+<objectDesc form="single-quire-manuscript">
+                     <supportDesc material="perch">
+                        <support>
+                           <num type="front-flyleaf" value="0"/>
+                           <num type="book-block" value="12"/>
+                           <num type="end-flyleaf" value="0"/>
+                           <dimensions type="leaf">
+                              <height unit="mm" quantity="202"/>
+                              <width unit="mm" quantity="159"/>
+                           </dimensions>
+                        </support>
+                     <foliation></foliation>
+                     <collation>1VI(12)</collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="2" writtenLines="38" ruledLines="">
+                           <dimensions type="written">
+                              <height unit="mm" quantity="170"/>
+                              <width unit="mm" quantity="125"/>
+                           </dimensions>
+			<catchwords></catchwords>
+                           <signatures></signatures>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc hands="1">
+                     <handNote script="littera textualis hybrida">the Martijn Trilogy is written in littera textualis hybrida by a single hand</handNote>
+                  </handDesc>
+                  <decoDesc>
+                   <decoNote>initial (red); title (red); lombardic capital letters as strophic separation (red), colour-stroking (red) first letters</decoNote></decoDesc>
+                  <additions><p>reconstruction, only f.4/9 and f.5/8 remain</p></additions>
+               </physDesc>
+
+<history>
+<origin>
+<origDate>1400</origDate>
+<origPlace>Brabant</origPlace>
+</origin>
+</history>
         </msDesc>
             </sourceDesc>
         </fileDesc>

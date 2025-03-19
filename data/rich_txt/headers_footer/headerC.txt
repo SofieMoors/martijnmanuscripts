@@ -16,7 +16,55 @@
             <idno>HS 405</idno>
             <msName>Gronings-Zutphens Maerlant Manuscript, C</msName>
           </msIdentifier>
- <p>...</p>
+<msContents>
+<msItem>
+<locus from="217ra" to="224rb"/>
+<title>Martijn Trilogy</title>
+<author>Jacob van Maerlant</author>
+</msItem>
+</msContents>
+
+<physDesc>
+<objectDesc form="sammelband">
+                     <supportDesc material="perch">
+                        <support>
+                           <num type="front-flyleaf" value="7"/>
+                           <num type="book-block" value="235"/>
+                           <num type="end-flyleaf" value="9"/>
+                           <dimensions type="leaf">
+                              <height unit="mm" quantity="315"/>
+                              <width unit="mm" quantity="210"/>
+                           </dimensions>
+                        </support>
+                     <foliation>foliation in red ink in roman numbers and modern foliation in pencil</foliation>
+                     <collation>1II(4);2V(14);3-20IV(158);21IV+1(167);22-26IV(207);27IV+1(216);28-29IV(232);30,1+I or II-1(235)</collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="2" writtenLines="51" ruledLines="">
+                           <dimensions type="written">
+                              <height unit="mm" quantity="247"/>
+                              <width unit="mm" quantity="140"/>
+                           </dimensions>
+			<dimensions type="line">
+                           <height unit="mm" min="" max=""/>
+                           </dimensions>
+			<catchwords></catchwords>
+                           <signatures></signatures>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc hands="1">
+                     <handNote script="littera textualis">the Martijn Trilogy is written in littera textualis by a single hand B</handNote>
+                  </handDesc>
+                  <decoDesc>
+                   <decoNote>title (red); initial (gold, blue; red); lombardic capital letters as strophic separation (red; blue)</decoNote></decoDesc>
+                  <additions><p></p></additions>
+               </physDesc>
+<history>
+<origin>
+<origDate notBefore="1325" notAfter="1347">1325-1347</origDate>
+<origPlace>Brabant or Gelre</origPlace>
+</origin></history>
         </msDesc>
             </sourceDesc>
         </fileDesc>

@@ -235,7 +235,7 @@ _M1_
 <D>oet d[er] ogen wandel vont
 655 <O>ft cornet vter herte(n) gront
 <D>it euel ten beghinne
-<J>c liet mi costen .j. pont
+<J>c liet mi costen =.j.= pont
 <E>n(de) ics vroet ware teser stont
 <M>aect mi des an jnne
 660 <M>ijn h[er]te bliuet ongesont
@@ -281,7 +281,7 @@ _M1_
 <W>[aer] di verboden huis en(de) lant
 695 <E>n(de) des menschen houde
 <S>one bonde mi geen bant
-<L>ichter waric dan .j. sant
+<L>ichter waric dan =.j.= sant
 <E>n(de) alle mine scoude
 <M>en stake bat wt metter hant
 700 <E>n(de) versmoorde sulke(n) pant
@@ -289,7 +289,7 @@ _M1_
 <O>p d{at} natuere woude
 §55§
 *<T_2>*herte sweech doge sprac
-<J>c wane d{at} v sms gebrac
+<J>c wane d{at} v sins gebrac
 705 <V>rouwe coninghinne
 <D>{at} ghi mi tijt v ongemac
 <W>ant mi noit tuw[aer]t lac
@@ -402,7 +402,7 @@ _M2_
 125 <W>ijsde h[aer] redene den rechte(n) pat
 <A>l volget si den loeder
 <M>[aer] th[er]te was h[aer] soe mat
-<D>[aer] minne in had gemaect .j. g*at*
+<D>[aer] minne in had gemaect =.j.= g*at*
 <W>ille hielt den loeder
 130 <A>l was die redene vroed*er*
 §11§
@@ -429,7 +429,7 @@ _M2_
 150 <L>aet mi genaken an dine(n) cant
 <M>en sal v vroetscap al te hant
 <T>ellen metten kinden
-<A>lsoe vele als diede(n) mach .j. s*.*e
+<A>lsoe vele als diede(n) mach =.j.= s*.*e
 <J>egen casselberch in vla*e*nd[er]lant
 155 <S>al di*.d*en hier v vinden
 <A>l waendi mi v[er]blinden
@@ -627,7 +627,7 @@ _M2_
 320 <D>[aer] ons ie sonde mede scoot
 <E>n laet hi ons d[aer] jnne
 <L>eggen [...] hooft in sine(n) scoot
-<S>oude [...]aken dan die doot
+<S>oude s[...]maken dan die doot
 <D>ie ic mi soe hout kinne
 325 <S>oe [...]aer mij(n) vroude dinne
 §26§

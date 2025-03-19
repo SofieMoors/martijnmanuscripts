@@ -124,7 +124,7 @@ man te verheffen bouen man
 <E>n(de) brieue die gewage(n) das		
 <V>a(n) dat lansheere(n) gheuen		
 <H>ets el niet dan gedwas		
-<A>lsoe lief hadt mi .<I>. sas		
+<A>lsoe lief hadt mi =.I.= sas		
 110 <O>ft ee(n) vriese bescreue		
 <T>rouwe es broescer da(n) gelas	
 <D>ie wilen soe starc was		
@@ -166,7 +166,7 @@ man te verheffen bouen man
 <D>ie verkeert telker vren
 §12§		
 <I_2>acob segt bestu verdoort		
-145 <A>uonture nes maer .<I>. woert		
+145 <A>uonture nes maer =.I.= woert		
 <U>an gheueinster spraken		
 <B>rincstu ongeloue voert		
 <G>od siet alle dinc ende hoert	
@@ -175,7 +175,7 @@ man te verheffen bouen man
 <D>attu hels aen dleger boort		
 <D>ie papen selent smaken		
 <S>oe waerstu v[er]brant en(de) v[er]smort	
-<E>n gaue o(m) dijn ziele niet .<I>. oert	
+<E>n gaue o(m) dijn ziele niet =.I.= oert	
 155 <M>en mach met sulke(n) saken		
 <G>ode niet ghenaken
 §13§			
@@ -226,7 +226,7 @@ _M3_
 340 <T>fleesch dat hi vande(n) reine(n) wiue	
 <V>rouwen marien nam			
 <H>i troeste sijn lieue keytiue		
-<H>ier .ij. hier .iij. hier .iiij. hier viue	
+<H>ier =.ij.= hier =.iij.= hier =.iiij.= hier viue	
 <M>et hem hi eten quam			
 345 <D>us es die gods sone alsic scriue	
 <G>od en(de) mensche elc ma(n) bliue	
@@ -344,7 +344,7 @@ _M3_
 [...]s caritate daer altoes inne	
 445 [...]die triniteyt 			      
 [...] die der prophete(n) <S>inne		
-[...]e en(de) maecte .<I>. inne		
+[...]e en(de) maecte =.I.= inne		
 [...]soens menschelicheit		      
 [...]s coninc noch coningin(n)e		
 450 [...]emmermeer aflaet gewinne(n)	      

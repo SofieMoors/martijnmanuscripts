@@ -16,7 +16,57 @@
             <idno>MS 6848</idno>
             <msName>L</msName>
           </msIdentifier>
- <p>...</p>
+<msContents>
+<msItem>
+<locus from="1r" to="10v"/>
+<title>Martijn Trilogy</title>
+<author>Jacob van Maerlant</author>
+</msItem>
+</msContents>
+<physDesc>
+<objectDesc form="single-quire-manuscript" >
+                     <supportDesc material="perch">
+                        <support>
+                           <num type="front-flyleaf" value="0"/>
+                           <num type="book-block" value="10"/>
+                           <num type="end-flyleaf" value="0"/>
+                           <dimensions type="leaf_fragmented">
+                              <height unit="mm" quantity="222"/>
+                              <width unit="mm" quantity="156"/>
+                           </dimensions>
+                        </support>
+                     <foliation>modern foliation in pencil in Arabic numbers (1-4)</foliation>
+                     <collation>1V(10)</collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="2" writtenLines="45" ruledLines="">
+                           <dimensions type="written">
+                              <height unit="mm" quantity="185"/>
+                              <width unit="mm" quantity="125"/>
+                           </dimensions>
+			<dimensions type="line">
+                           <height unit="mm" min="" max=""/>
+                           </dimensions>
+			<catchwords></catchwords>
+                           <signatures></signatures>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc hands="1">
+                     <handNote script="littera textualis">the Martijn Trilogy is written in littera textualis by a single hand</handNote>
+                  </handDesc>
+                  <decoDesc>
+                   <decoNote>initial (red); title (red); lombardic capital letters as strophic separation (red)</decoNote>
+                  </decoDesc>
+                  <additions><p>reconstruction, only f.1/10 and f.5/6 remain</p></additions>
+               </physDesc>
+
+<history>
+<origin>
+<origDate notBefore="1375" notAfter="1400">1375-1400</origDate>
+<origPlace>Brabant</origPlace>
+</origin>
+</history>
         </msDesc>
             </sourceDesc>
         </fileDesc>

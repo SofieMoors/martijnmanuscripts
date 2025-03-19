@@ -16,7 +16,56 @@
             <idno>Best. 701 Nr. 262</idno>
             <msName>K</msName>
           </msIdentifier>
- <p>...</p>
+<msContents>
+<msItem>
+<locus from="173r" to="173r"/>
+<title>Martijn Trilogy</title>
+<author>Jacob van Maerlant</author>
+</msItem>
+</msContents>
+
+<head>
+<title>Jacob van Maerlant, Martijn Trilogy</title>
+<origDate notBefore="1380" notAfter="1400">1380-1400</origDate>
+<origPlace>Brabant</origPlace>
+</head>
+<physDesc>
+<objectDesc form="excerpt">
+                     <supportDesc material="paper">
+                        <support>
+                           <num type="front-flyleaf" value=""/>
+                           <num type="book-block" value="14"/>
+                           <num type="end-flyleaf" value=""/>
+                           <dimensions type="leaf fragmented">
+                              <height unit="mm" quantity="210"/>
+                              <width unit="mm" quantity="145"/>
+                           </dimensions>
+                        </support>
+                     <foliation>modern foliation in pencil in Arabic numbers (1-182)</foliation>
+                     <collation>1VII-1(174)</collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="2" writtenLines="45" ruledLines="">
+                           <dimensions type="written">
+                              <height unit="mm" quantity="175"/>
+                              <width unit="mm" quantity="110"/>
+                           </dimensions>
+			<dimensions type="line">
+                           <height unit="mm" min="" max=""/>
+                           </dimensions>
+			<catchwords></catchwords>
+                           <signatures></signatures>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc hands="1">
+                     <handNote script="gothic cursive">the Martijn Trilogy is written in gothic cursiva by a single hand</handNote>
+                  </handDesc>
+                  <decoDesc>
+                   <decoNote>lombardic capital letters as strophic separation</decoNote>
+                  </decoDesc>
+                  <additions><p>convolute of 3 manuscripts; 182 leafs/</p><p>1IV(8);1V-1(17);3V(27);4VII(41);5VII-5(50);6-7VI(74);8VII(88);9VI(96);10VII(110);11VI(122);12VII(136);14IV(144);15III(149);16VI(161);17VII-1(174);18IV(182)</p></additions>
+               </physDesc>
         </msDesc>
             </sourceDesc>
         </fileDesc>

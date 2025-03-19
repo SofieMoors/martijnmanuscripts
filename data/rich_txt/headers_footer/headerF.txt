@@ -18,7 +18,56 @@
             <idno>73 F 19</idno>
             <msName>Clignett-Serrure-handschrift, F</msName>
           </msIdentifier>
- <p>...</p>
+<msContents>
+<msItem>
+<locus from="1ra" to="13va"/>
+<title>Martijn Trilogy</title>
+<author>Jacob van Maerlant</author>
+</msItem>
+</msContents>
+
+<physDesc>
+<objectDesc form="sammelband">
+                     <supportDesc material="paper">
+                        <support>
+                           <num type="front-flyleaf" value="4"/>
+                           <num type="book-block" value="58"/>
+                           <num type="end-flyleaf" value="4"/>
+                           <dimensions type="leaf">
+                              <height unit="mm" quantity="260"/>
+                              <width unit="mm" quantity="190"/>
+                           </dimensions>
+                        </support>
+                     <foliation>foliation in ink in Arabic numbers (1-13) by Clignett</foliation>
+                     <collation>1+1VI(13)+2-5V(53)+6III-1(58)</collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="2" writtenLines="36" ruledLines="">
+                           <dimensions type="written">
+                              <height unit="mm" quantity="135"/>
+                              <width unit="mm" quantity="180"/>
+                           </dimensions>
+<catchwords></catchwords>
+                           <signatures></signatures>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc hands="1">
+                     <handNote script="littera textualis hybrida">the Martijn Trilogy is written in littera textualis hybrida by a single hand</handNote>
+                  </handDesc>
+                  <decoDesc>
+                   <decoNote>initial (blue); lombardic capital letters as strophic separation (red), colour-stroking (red) first letters</decoNote>
+                  </decoDesc>
+<additions><p></p></additions>
+               </physDesc>
+	
+
+<history>
+<origin>
+<origDate>1475</origDate>
+<origPlace>Brabant</origPlace>
+</origin>
+</history>
         </msDesc>
             </sourceDesc>
         </fileDesc>

@@ -57,7 +57,7 @@ _M3_
 <M>et rimen sonder vlas va(n) doeke(n) 
 <E>s dit goet ic wane neent
 <D>u tels mi mette(n) wise(n) cloeke(n) 
-50 <W>aer tgo{et} ic soud[er] +di om vloeke(n)
+50 <W>aer tgo{et} ic soud[er] «di» om vloeke(n)
 <J>c wane dine herte meent
 <D>attu mi heefs verbeent
 §05§
@@ -70,7 +70,7 @@ _M3_
 <A>l waert dat alle di(n)ge quame(n)
 60 <S>ine co(n)ste(n) de godh%eit% niet gerame(n) 
 <D>its elken afgecnocht
-<M>a[er] leere mine(n) cranke(n) sin +mine(n) lame(n) 
+<M>a[er] leere mine(n) cranke(n) sin «mine(n)» lame(n) 
 <G>hewo(n)dt metter sonde(n) bramen
 <V>an dattu vermocht
 65 <S>o es mijn wille volbrocht
@@ -109,7 +109,7 @@ _M3_
 &218va& 
 
 94 <A>lles dies nie(n) weet : 
-95 <O>nd[er] al als die in alle(n) keere
+95 <O>nd[er] al als die «in» alle(n) keere
 96 <D>e di(n)c houdt moge(n)delec en(de) seere
 97 <J>ege(n) alle v[er]scheet : 
 98 <B>ute(n) als die m{et} si[er]e w[er]e
@@ -142,7 +142,7 @@ _M3_
 123 <D>att[er] ieme(n) es meest
 124 <E>ne(n) god segge(n) wi ene(n) reenen
 125 <N>och vervoecht no verbeenen: 
-126 <E>n esser +ane v[er]v[re]escht 
+126 <E>n esser «ane v[er]v[re]escht» 
 127 <D>ie sinen sin soe laet versteenen
 128 <D>at hi des loechent hi moet weenen
 129 <E>n(de) eweleke sij(n) gevreest : 
@@ -280,7 +280,7 @@ _M3_
 <E>n(de) hi di doe volleest
 <D>ie minst werdt en(de) was meest
 §20§
-<E_1>n(de) om dat ic d{at} ic dat moete gelien 
+<E_1>n(de) om dat «ic d{at}» ic dat moete gelien 
 <S>oe biddic der maget marien
 250 <D>ie(n)ne maecht o(n)tfinc
 
@@ -346,7 +346,7 @@ _M3_
 304 <W>as hi i(n) des vad[er]s sale
 305 <M>et he(m) een i(n)twifels twi(n)t : 
 306 <D>ie menscheit dans gheene hale 
-307 <E>n(de) beslo{et} n%iet% i(n) dese(n) dale : 
+307 <E>n(de) beslo{et} n%iet% «i(n)» dese(n) dale : 
 308 <D>ie godh%eit% diet al bi(n)t
 309 <D>ie godh%eit% e(n) heeft gheene pale
 310 <M>a[er] me(n)sch%eit% o(n)tfi(n)c hi[er] tale
@@ -380,14 +380,14 @@ _M3_
 <D>ie de duuel bant
 335 <A>y hoe si gode benediden
 336 <D>e heilege(n) diene saghe(n) striden
-337 <J>ege(n) des duuels b%ra%nt : 
+337 <J>ege(n) des duuels b%ra%n«t» : 
 338 <D>a[er] hise vte gep%ra%nt
 §27§
 339 <D_1>e godh%eit% wecte van doode te liue
 340 <T>vleesch dat hi va(n) de(n) reine(n) wiue
 <V>rouwen marien nam
 <H>i t%ro%este sine lieue catiue
-<H>ier .ii. hi[er] .iij. hi[er] .iiij. hier viue
+<H>ier =.ii.= hi[er] =.iij.= hi[er] =.iiij.= hier viue
 <M>et hen hi eten quam
 345 <D>us es die gods sone also ic sc[ri]ue
 <G>od en(de) mensche elc man bliue
@@ -407,7 +407,7 @@ _M3_
 <D>e werelt doeme(n) m{et} sinen scare(n)
 360 <E>n(de) den helschen viant
 <S>o(n)ne en(de) mane sal hi v[er]claren
-<D>ie bi adame verdonckert ware(n)
+<D>ie «bi» adame verdonckert ware(n)
 <L>ocht water en(de) lant
 <S>al puergeren een brant
 §29§
@@ -436,13 +436,13 @@ _M3_
 384 <N>v hebbic v tgeloeue ontbo(n)de(n)
 385 <S>o ic naest hebbe ondervo(n)de(n) 
 386 <N>a miere mogentheit
-387 <D>ie dit geloeue vaste orconden 
+387 <D>ie dit geloeue «vaste» orconden 
 388 <A>fla{et} g%ro%t va(n) hare(n) so(n)de : 
 389 <E>s hen altoes gereit 
 390 <O>p dat me(n) da[er] i(n) volsteit 
 §31§
 <I_1>acob du berechts mi scone
-<B>erecht mi nv vande(n) {per}sone
+<B>erecht «mi» nv vande(n) {per}sone
 <D>ie me(n) heet heilech geest
 <H>oe mij(n) geloeue sond[er] hoene
 395 <T>e he(m) cle(m)me en(de) gewi(n)ne die c%ro%ene
@@ -459,7 +459,7 @@ _M3_
 405 <D>at een god en(de) een natuere
 <E>(m)mer sij(n) dese drie : 
 407 <A>ltoes eve(n) nagebuere
-<E>n(de) e(n) verscheede(n) te negee(n)re vre 
+<E>n(de) e(n) verscheede(n) te negee(n)re «vre» 
 <N>och e(n) verschieden nie
 410 <V>ader ki(n)t versta(n)t t[er] cure
 <W>t desen dobbelen gods dure
@@ -521,7 +521,7 @@ _M3_
 460 <D>at si co(n)ste(n) sonder mesbaren
 461 <D>oegen lief en(de) leit
 462 <D>ese ca(n) de si(n)ne v[er]clare(n) : 
-463 <D>ie hen m{et} so(n)de(n) v[er]vare(n)
+463 <D>ie he«n» m{et} so(n)de(n) v[er]vare(n)
 464 <E>n(de) tcoude maken heit
 465 <S>ine(n) lieuen sinen caren
 466 <D>eilt hi sonder enech sparen
@@ -534,7 +534,7 @@ _M3_
 472 <E>lc {per}soen verstant mi wale
 473 <E>s selue god so(n)d[er] hale : 
 474 <V>a(n) d[ri]en da[er] me(n) af ho[er]t
-475 <D>och e(n) eest m[er] .i. die b[er]ch en(de) dale 
+475 <D>och e(n) eest m[er] =.i.= die b[er]ch en(de) «dale» 
 476 <G>hesciep . daer bi g%roe%t en(de) smale
 <T>ellen hi[er] af en(de) alle woert
 <N>eganc n%iet% ou[er] dese pale

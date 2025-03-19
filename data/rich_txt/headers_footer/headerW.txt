@@ -14,7 +14,58 @@
             <idno>Cod. 13708</idno>
             <msName>W</msName>
           </msIdentifier>
- <p>...</p>
+<msContents>
+<msItem>
+<locus from="218ra" to="220rb"/>
+<title>Martijn Trilogy</title>
+<author>Jacob van Maerlant</author>
+</msItem>
+</msContents>
+
+<physDesc>
+<objectDesc form="sammelband">
+                     <supportDesc material="perch">
+                        <support>
+                           <num type="front-flyleaf" value="0"/>
+                           <num type="book-block" value="250"/>
+                           <num type="end-flyleaf" value="0"/>
+                           <dimensions type="leaf">
+                              <height unit="mm" quantity="260"/>
+                              <width unit="mm" quantity="190"/>
+                           </dimensions>
+                        </support>
+                     <foliation>foliation in Arabic numbers (1-251) and modern foliation in pencil (5-250)</foliation>
+                     <collation>1II+1(5);2 3(8);3V(18);4IV(26);5II+2(32);6IV+2(42);7IV(50);8VI(62);9IV(70);10V(80);11IV(88);12-13V(108);14IV+1(117);15II+1(122);16IV+2(132);17V+2(144);18-19V(164);20VI+1(177);21V+1(188);22V(198);23IV(206);24V(216);25III-3+1(220);26IV(228);27V(238);28IV(246);29II-1(250)</collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="2" writtenLines="49" ruledLines="49">
+                           <dimensions type="written">
+                              <height unit="mm" quantity="205"/>
+                              <width unit="mm" quantity="125"/>
+                           </dimensions>
+			<dimensions type="line">
+                           <height unit="mm" min="" max=""/>
+                           </dimensions>
+			<catchwords></catchwords>
+                           <signatures></signatures>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc hands="1">
+                     <handNote script="littera textualis">the Martijn Trilogy is written in littera textualis by a single hand of the Tweede Partiekopiist</handNote>
+                  </handDesc>
+                  <decoDesc>
+                   <decoNote>initial (red); lombardic capital letters as strophic separation (red); colour-stroking first letters (red)</decoNote>
+                  </decoDesc>
+                  <additions><p>two parts (65 leafs and 185 leafs); 11 manuscripts</p><p>(description based on Biemans (1997); Kwakkel (2002); Kestemont (2009))</p></additions>
+               </physDesc>
+
+<history>
+<origin>              
+<origDate notBefore="1393" notAfter="1394">1393-1394</origDate>
+<origPlace>Hainaut (Herne)</origPlace>
+</origin>
+</history>
         </msDesc>
             </sourceDesc>
         </fileDesc>

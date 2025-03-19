@@ -17,7 +17,57 @@
             <idno>HS 200 (olim: HS. 362a, 83) </idno>
             <msName>E</msName>
           </msIdentifier>
- <p>...</p>
+<msContents>
+<msItem>
+<locus from="1r" to="10v"/>
+<title>Martijn Trilogy</title>
+<author>Jacob van Maerlant</author>
+</msItem>
+</msContents>
+<physDesc>
+<objectDesc form="single-quire-manuscript">
+                     <supportDesc material="perch">
+                        <support>
+                           <num type="front-flyleaf" value="0"/>
+                           <num type="book-block" value="10"/>
+                           <num type="end-flyleaf" value="0"/>
+                           <dimensions type="leaf fragmented">
+                              <height unit="mm" quantity="215"/>
+                              <width unit="mm" quantity="174"/>
+                           </dimensions>
+                        </support>
+                     <foliation>numbers in black ink from F.J. Mone</foliation>
+                     <collation>1V(10)</collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="2" writtenLines="46" ruledLines="">
+                           <dimensions type="written">
+                              <height unit="mm" quantity="195"/>
+                              <width unit="mm" quantity="140"/>
+                           </dimensions>
+                           <dimensions type="line">
+                           <height unit="mm" min="" max=""/>
+                           </dimensions>
+                           <catchwords></catchwords>
+                           <signatures></signatures>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc hands="1">
+                     <handNote script="littera textualis">the Martijn Trilogy is written in littera textualis by a single hand</handNote>
+                  </handDesc>
+                  <decoDesc>
+                 <decoNote>initial (red); title (red); lombardic capital letters as strophic separation (red), colour-stroking (red) first letters</decoNote>
+                  </decoDesc>
+                  <additions><p>reconstruction, only part of f.3/8 remains</p><p>(description from https://handschriftencensus.de/10538)</p></additions>
+               </physDesc>
+
+<history>
+<origin>
+<origDate>1375-1400</origDate>
+<origPlace>Flanders</origPlace>
+</origin>
+</history>
         </msDesc>
             </sourceDesc>
         </fileDesc>

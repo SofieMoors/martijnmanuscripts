@@ -14,7 +14,50 @@
             <idno>Cod. Poet. Et phil. 2° 22</idno>
             <msName>Comburg manuscript, A</msName>
           </msIdentifier>
- <p>...</p>
+<msContents>
+<msItem>
+<locus from="112rb" to="124va"/>
+<title>Martijn Trilogy</title>
+<author>Jacob van Maerlant</author>
+</msItem>
+</msContents>
+<physDesc>
+<objectDesc form="sammelband">
+                     <supportDesc material="perch">
+                        <support>
+                           <num type="front-flyleaf" value="0"/>
+                           <num type="book-block" value="44"/>
+                           <num type="end-flyleaf" value="0"/>
+                           <dimensions type="leaf">
+                              <height unit="mm" quantity="265"/>
+                              <width unit="mm" quantity="192"/>
+                           </dimensions>
+                        </support>
+                     <foliation>16th century foliation in black ink in Arabic numbers (87-130)</foliation>
+                     <collation>1-5IV(40);6II(44)</collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="2" writtenLines="36" ruledLines="36">
+                           <dimensions type="written">
+                              <height unit="mm" quantity="218"/>
+                              <width unit="mm" quantity="146"/>
+                           </dimensions>
+                           <catchwords></catchwords>
+                           <signatures>only one remains (eiiij)(f.122r)</signatures>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc hands="1">
+                     <handNote script="littera textualis">the Martijn Trilogy is written in littera textualis by a single hand B</handNote>
+                  </handDesc>
+                  <decoDesc><decoNote> initial (red); lombardic capital letters as strophic separation (red), colour-stroking (red) first letters</decoNote></decoDesc>
+                  <additions><p>convolute of 6 manuscripts; 346 leafs/</p><p>[i+] 1-10IV(80);11III(86);12-16IV(126);17II(130);18-23IV(178);24-30IV(234);31-33IV(258);34IV-1(265);35-36IV(281);37IV-1(288);38-43IV(336);44V(347)</p></additions>
+               </physDesc>
+<history>
+<origin>
+<origDate>1400-1425</origDate>
+<origPlace>Flanders</origPlace>
+</origin></history>
         </msDesc>
                
             </sourceDesc>

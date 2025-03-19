@@ -80,7 +80,7 @@ _M1_
 <T>e pinen om die eere
 <E>n(de) zij trac den scalken naer
 70 <D>ie raden nu hier nv daer
-<E>n(de) niet en scelden den heere.
+<E>n(de) niet «en» scelden den heere.
 
 &1va&
 
@@ -129,7 +129,7 @@ _M1_
 <H>ets el niet dan ghedwas
 <A>lso lief had my een sas
 110 <O>ft een vriese bescreuen
-<T>rouwe es broesscher dan .I. glas
+<T>rouwe es broesscher dan =.I.= glas
 <D>ie wilen eer zoe sterck was
 <E>s nu te nieute bleuen
 <I>c waens noyt heere ghenas
@@ -152,7 +152,7 @@ _M1_
 130 <M>etten scalken betale
 §11§
 <M_2><E>rten nv berecht mi dies
-<B>erecht oft .I. god die nye en wies
+<B>erecht oft =.I.= god die nye en wies
 <M>aecte alle creatueren
 <T>wij heeft die q%ua%de dan den kies
 135 <E>ntie goede valt int verlies
@@ -168,7 +168,7 @@ _M1_
 &2ra&
 §12§
 <I_2><A>cob zegt bistu verdoort
-145 <A>uontuere en es maer .I. woort
+145 <A>uontuere en es maer =.I.= woort
 <V>an gheuensder spraken
 <B>rincstu ongeloeue voort
 <G>od siet alle dinc ende hoort
@@ -177,7 +177,7 @@ _M1_
 <D>attu hels ant dlegher boort
 <D>ie papen selent smaken
 <S>o worstu v[er]brant en(de) v[er]smoort
-<E>n gaue om diin ziele niet .I. oort
+<E>n gaue om diin ziele niet =.I.= oort
 155 <M>en mach met sulken zaken
 <G>ode niet ghenaken
 §13§
@@ -324,7 +324,7 @@ _M1_
 <S>oe waer hij sonder genaden
 280 <N>een hij ne es niet soe smal
 <V>an weldaden dat ghetal
-<E>n(de) wort van grade te grade
+<E>n(de) wort van g«r»ade te grade
 <V>an gode ghedanct die nie en hal
 <D>atmen weldede ofte stal
 285 <G>herechticheyt soude scaden
@@ -497,7 +497,7 @@ _M1_
 <E>nde en es gheen futselare
 §34§
 430 <M_2><I>nne es alsmen bescreue(n) vint
-<C>racht die .ij. h[er]ten tsame(n) bint
+<C>racht die =.ij.= h[er]ten tsame(n) bint
 
 &4ra&
 
@@ -649,11 +649,11 @@ _M1_
 <E>nde beghint noch heden
 §44§
 560 <M_2><E>rten oftu cle(m)men wout
-<T>er edelheit .iij. poente(n) hout
+<T>er edelheit =.iij.= poente(n) hout
 <D>ie ic dij sal leeren.
 564 <W>es neerachtich menichfout
 563 <W>es eerachtich mi(n)ne niet tgout
-565 <D>ese .ij. hout niet voir scheren
+565 <D>ese =.ij.= hout niet voir scheren
 <W>es warsichtich ende stout 
 <D>ese drie poynten hout
 <W>ant sij siin vol eeren
@@ -928,7 +928,7 @@ _M1_
 <B>ij heylighen engyene
 800 <S>ij lieten hem blouwe(n) en(de) slaen
 <T>ormenten ende vlaen
-<O>m die helle tontvliene 
+<O>m die helle tontvl«i»ene 
 <H>ier in waert tsekerst te volstaen
 <W>ant die hem in dit doopsel dwae(n)
 805 <S>iin seker gode te siene
@@ -944,7 +944,7 @@ _M1_
 <E>n(de) doghede menighen gods hat
 815 <V>an sinen onghelike
 <A>rmoede es een pat
-<D>ie doir den hemel maect .i. gat
+<D>ie doir den hemel maect =.i.= gat
 <D>atti hem niet en bezwike
 <D>ie hem met herten wike
 §64§
@@ -1227,7 +1227,7 @@ _M2_
 <E>er zire om quame in rouwen
 §07§
 <M_2><E>rten hore ende verstant
-80 <D>ese .ij. siin in een bewant 
+80 <D>ese =.ij.= siin in een bewant 
 <D>at costen moet d[er] eenre dleue(n)
 <N>u hebbic die macht i(n) mij(n) hant
 <W>elker ic wil brekic den bant 
@@ -1281,7 +1281,7 @@ _M2_
 125 <W>ijsde haer redene de(n) rechte(n) pat 
 <A>l volghede zij den loeder 
 <M>[aer] therte was hair so mat
-<D>air mi(n)ne in hadde gemaect .j. gat
+<D>air mi(n)ne in hadde gemaect =.j.= gat
 <W>ille hielt den roeder 
 130 <A>l was die redene vroeder
 §11§
@@ -1514,7 +1514,7 @@ _M2_
 325 <S>oe ware mijn vroeden dinne
 §26§
 <W_2>aerheit iacob dits al claer
-<M>[aer] w mi was te vinde(n)ne zwaer
+<M>[aer] @w@ mi was te vinde(n)ne zwaer
 <D>attu mi hier heues ontbonden
 <I>c lye verwonnen openbaer
 330 <M>ine mi(n)ne es zielen vaer
@@ -1585,7 +1585,7 @@ _M3_
 <D>u soecs mi in allen hoeken
 <M>et rime sond[er] valsch va(n) doeke(n)
 <E>s dit goet ic wane neent/
-<D>u telles mi mette wisen cloeken
+<D>u telles mi mette «wisen» cloeken
 50 <W>aert goet ic soud[er] dy o(m) vloeke(n)
 <I>c wane diin herte dat meent/
 <D>attu mi heues verbeent
@@ -1721,7 +1721,7 @@ _M3_
 &11rb&
 
 <O>ic moet hij wilen daer om waken
-<M>acht/ const/ wille dese .iij. saken
+<M>acht/ const/ wille dese =.iij.= saken
 165 <V>intmen in die menscheyt
 <D>ie dese note wel can craken
 <H>ine derf beyden no haken
@@ -1783,7 +1783,7 @@ _M3_
 <M>aer tgheloeue sonder hone
 <D>ies en twiuelt nye
 <W>at eeren hadde(n) wijs oft wat lone
-<D>at wij dij niet weert en siin .j. bone
+<D>at wij dij niet weert en siin =.j.= bone
 220 <G>heloeue dat elc zie
 <M>et herten ende gye/
 §18§
@@ -1928,7 +1928,7 @@ _M3_
 
 &12va&
 
-<H>ier ij. iij .iiij . hier viue
+<H>ier =ij.= =iij= =.iiij.= hier viue
 <M>et hem hij eten quam
 345 <D>us es die gods zone als ic scriue
 <G>od en(de) mensche elc man bliue
@@ -1997,7 +1997,7 @@ _M3_
 <E>n(de) gheue dij volleest
 <D>atture comes onghevreest
 §32§
-<M_2><E>rten ons leert die scriftu%er%e 
+<M_2><E>rten ons leert die scriftu%ur%e 
 405 <D>at een god een natuere
 <E>mmer siin dese drie
 <A>ltoes euen na ghebuere
@@ -2006,7 +2006,7 @@ _M3_
 410 <V>ader kint verstant ter cuere
 <V>ut desen dubbelen gods duere
 <W>ie caent ghegronden wie
-<S>o comt di die gheest die zuete gure
+<S>o comt @di@ die gheest die zuete gure
 <D>ie reyne godheyt entie puere.
 
 &13ra&
@@ -2078,7 +2078,7 @@ _M3_
 <E>lc persone v[er]stant mi wale
 <E>s god dits ghene hale
 <V>an drien dairme(n) af hoort
-475 <D>och eest mer .j. die berch en(de) dale
+475 <D>och eest mer =.j.= die berch en(de) dale
 <S>ciep groot ende smale
 <D>aerme(n) af tellet alle woort
 <E>n ganc niet ouer dese pale

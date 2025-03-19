@@ -1,4 +1,4 @@
-&1ra&
+&3ra&
 _M1_
 §28§
 356 <W>aer hi daer mede gewont	
@@ -50,7 +50,7 @@ _M1_
 *<O>nder die goede werde*	 
 400 Ø
 
-&1rb&
+&3rb&
 
 <D>ie menege vaet en(de) wile(n) vine	 
 <D>ie dat wort begherde	 
@@ -85,7 +85,7 @@ _M1_
 <E>n(de) en es gee(n) futselare
 §34§
 430 <M_2>inne es alsme(n) bescreuen vi(n)t	
-<C>racht die .ij. h[er]te(n) tsame(n) bi(n)t	
+<C>racht die =.ij.= h[er]te(n) tsame(n) bi(n)t	
 <I>n eene(n) reyne(n) wane	
 <D>{at}te mi(n)ne hetet blint	
 <C>o(m)t d{at} menege(n) es soe ki(n)t	
@@ -102,7 +102,7 @@ _M1_
 *<H>et seit heere ende knecht*
 *<V>rouwen ende ioncvrouwen*
 
-&2ra&
+&3va&
 
 445 <V>rouwe(n) en(de) joffrouwe(n)	
 <I>n sanghe in rime slecht	
@@ -125,7 +125,7 @@ _M1_
 <M>[er]te(n) vrie(n)t w{at} hulpt geclag{et}
 <V>rag{et} d{at}tu wils ic v[er]drag{et}	
 <I>c wilt al v[er]dragen	
-465 <G>od hulpe mi wa(n)t hi ver#macht 
+465 <G>od hulpe mi wa(n)t hi vermacht 
 <D>{at} mij(n) sin w[er]de gevaget
 <D>{at} di moet behagen	
 <I>c wille danw[er]de wage(n)
@@ -154,7 +154,7 @@ _M1_
 Ø
 490 <T>gelt cl*aer* vande(n) terre
 
-&2rb&
+&3vb&
 
 <D>its de dinc die liede wect	
 <D>{at} menich tsine te wi(n)ne trect	
@@ -206,7 +206,7 @@ d{at} van ongerecht gewelt
 <G_2>od doget om ons mesdaet
 535 d{at} ee(n) geslachte t[er] ned[er] gaet
 
-&4ra&
+&4va&
 §49§
 626 <G>af dit wandel ertsche goet
 627 <D>er mensch%eit% ghemeene 
@@ -257,7 +257,7 @@ d{at} van ongerecht gewelt
 <D>{at} noit dorp[er] en kinde	
 670 <H>em mach hulpe(n) geen cruut	
 
-&4rb&
+&4vb&
 
 <D>ie stille mi(n)t of ou[er] luut	
 <D>a(n) he(m) deuel toe sinde	
@@ -308,7 +308,7 @@ en(de) d[aer]toe ee(n) ewelijc nijt
 <E>n(de) ic v u%ro%uwe kinne	
 715 <E>n(de) mij(n) godinne
 ____
-&5ra&
+&7ra&
 _M2_
 §09§
 114 <D>{at} he(m) ca(n) gehulpen iet
@@ -344,7 +344,7 @@ die rouede en(de) stal h[aer]s vad[er] scat
 <G>heuult met caue
 <S>oe hulpe mi sente baue
 §12§
-<M_2>erte(n) du best .j. sto(n)t seria(n)t
+<M_2>erte(n) du best =.j.= sto(n)t seria(n)t
 145 <D>{at}s ee(n) vast knoep en(de) bant
 <D>ie nieme(n) can ontbinden
 <D>ie cnoep die alexa(n)d[er] va(n)t
@@ -353,7 +353,7 @@ die rouede en(de) stal h[aer]s vad[er] scat
 150 <L>aet mi genake(n) uwe(n) ca(n)t
 <M>e(n) sal v wijsh%eit% te hant
 <T>elle(n) m{et}ten kinden
-<A>ls*oe* vele als diede(n) mach .j.// //sant 
+<A>ls*oe* vele als diede(n) mach =.j.= // //sant 
 <J>ege(n) casselb[er]ch in vlae(n)d[er]lant
 155 <S>al diede(n) h[ier] v vinden
 <A>l wae(n)di mi v[er]blinden
@@ -361,9 +361,9 @@ die rouede en(de) stal h[aer]s vad[er] scat
 <G_2>hi wilt st[er]ke(n) uwe wort
 die gi m{et} fauele(n) brinct vort
 
-&5rb&
+&7rb&
 
-<E>n(de) *...¨* poterien
+<E>n(de) *...* poterien
 160 <O>ft m*...*ea dede mort
 <E>n(de) he(m) narsisus heu{et} v[er]smoort
 <D>{at}s mi(n)ne van sottie(n)
@@ -414,7 +414,7 @@ die sine amie v[er]heffe(n) bega(n)
 <E>n(de) ane mi blijft gestade
 205 <D>a(n) h[aer] die fierlijc hare(n) kin
 
-&7ra& 
+&8ra& 
 §23§
 298 <D>{us} mach si[er]e naturen
 299 <G>hee(n) genade gebuere(n)
@@ -470,7 +470,7 @@ die dit lese(n) of scriue(n)
 <O>pde(n) hoechten ban	
 Ø
 
-&7rb&
+&8rb&
 
 5 <E>n(de) sie[re] n{iet} in en driuen	
 <W>ort lett[er]e af no an	
@@ -518,10 +518,10 @@ al vlogic boue(n) d[er] inglen v[...]
 45 <H>ets recht d{at} hijt bewee(n)t	
 <D>u sout mi in alle(n) hoeken	
 <M>{et} rine sond[er] valsch va(n) doek[...]
-Ø
 <E>s dit goet ic wane neent	
+Ø
 
-&8ra&
+&8va&
 
 50 <W>[aer]t goet ic soud[er] di om vloeken	
 <I>c wane dij(n) herte meent	
@@ -573,7 +573,7 @@ al vlogic boue(n) d[er] inglen v[...]
 *<D>ie besitter es emmermeere*	
 *<A>lles dies men weet*	
 
-&8rb&
+&8vb&
 
 95 <O>nder als in elke(n) ke[er]e 
 <S>ij(n) dinc hout moge(n)de ze[er]e	

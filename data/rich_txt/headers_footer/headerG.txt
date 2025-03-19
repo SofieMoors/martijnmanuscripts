@@ -16,7 +16,57 @@
             <idno>HS 1374 </idno>
             <msName>Heber-Serrure codex, G</msName>
           </msIdentifier>
- <p>...</p>
+<msContents>
+<msItem>
+<locus from="102r" to="119r"/>
+<title>Martijn Trilogy</title>
+<author>Jacob van Maerlant</author>
+</msItem>
+</msContents>
+
+<physDesc>
+<objectDesc form="sammelband">
+                     <supportDesc material="perch">
+                        <support>
+                           <num type="front-flyleaf" value="2"/>
+                           <num type="book-block" value="133"/>
+                           <num type="end-flyleaf" value="1"/>
+                           <dimensions type="leaf">
+                              <height unit="mm" quantity="150"/>
+                              <width unit="mm" quantity="107"/>
+                           </dimensions>
+                        </support>
+                     <foliation>modern foliation in pencil in Arabic numbers (1-134)</foliation>
+                     <collation>1I+1?(3)+2V-2(11)+3-4V(31)+5IV(39)+6V(49)+7V+1(60)+8V(70)+9III+2(78)+10IV(86)+11V(96)+12II+1(101)+13V+2(112)+14V(122)+15III(128)+16II+1(133)</collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="1" writtenLines="27" ruledLines="27-28">
+                           <dimensions type="written">
+                              <height unit="mm" quantity="118"/>
+                              <width unit="mm" quantity="80"/>
+                           </dimensions>
+			<dimensions type="line">
+                           <height unit="mm" min="4,8" max="4,8"/>
+                           </dimensions>
+			<catchwords>f.11v, 21v, 31v, 39v, 49v, 70v, 86v, 96v, 103v, 112bisv, 122v</catchwords>
+                           <signatures></signatures>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc hands="1">
+                     <handNote script="littera textualis hybrida">the Martijn Trilogy is written in littera textualis hybrida by a single hand of the Tweede Partiekopiist</handNote>
+                  </handDesc>
+                  <decoDesc>
+                   <decoNote>introductory and concluding formulas written in black ink and underlined in red and/or black ink; header: the number of the book written in black ink (i, ii, iii, iiii); initial (red); lombardic capital letters as strophic separation (red), colour-stroking (red); verses are presented as prose in the manuscript and are separated by colon</decoNote></decoDesc>
+                  <additions><p>f.112 and f.112bis</p></additions>
+               </physDesc>
+<history>
+<origin>
+<origDate notBefore="1375" notAfter="1400">1375-1400</origDate>
+<origPlace>Hainaut (Herne)</origPlace>
+</origin>
+</history>
+
         </msDesc>
             </sourceDesc>
         </fileDesc>

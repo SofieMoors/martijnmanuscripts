@@ -2022,7 +2022,7 @@ _M3_
 340 <T>vleesch dat hi vanden reyne(n) wiue
 <V>rouwe marien nam
 <H>i troeste sinen lieue keytiue.
-<H>ier .ij. hier .iij. hier .iiij. hier viue.
+<H>ier =.ij.= hier =.iij.= hier =.iiij.= hier viue.
 <M>et hem hy eten quam
 345 <D>us is die gods sone als ick schriue
 <G>od ende mensche elck man bliue:

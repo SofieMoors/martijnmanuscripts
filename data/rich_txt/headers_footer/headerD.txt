@@ -16,7 +16,57 @@
             <idno>150 F 40 </idno>
             <msName>Antwerpse druk, Hendrik den Lettersnider, D</msName>
           </msIdentifier>
- <p>...</p>
+<msContents>
+<msItem>
+<locus from="1r" to="44r"/>
+<title>Martijn Trilogy</title>
+<author>Jacob van Maerlant</author>
+</msItem>
+</msContents>
+
+
+<physDesc>
+<objectDesc form="incunable">
+                     <supportDesc material="paper">
+                        <support>
+                           <num type="front-flyleaf" value="1"/>
+                           <num type="book-block" value="44"/>
+                           <num type="end-flyleaf" value="1"/>
+                           <dimensions type="leaf">
+                              <height unit="mm" quantity="128"/>
+                              <width unit="mm" quantity="95"/>
+                           </dimensions>
+                        </support>
+                     <foliation>modern foliation in pencil in Arabic numbers (1-44)</foliation>
+                     <collation>1-5IV(40);6II(44)</collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="1" writtenLines="21" ruledLines="">
+                           <dimensions type="written">
+                              <height unit="mm" quantity="103"/>
+                              <width unit="mm" quantity="62"/>
+                           </dimensions>
+			<dimensions type="line">
+                           <height unit="mm" min="" max=""/>
+                           </dimensions>
+			<catchwords></catchwords>
+                           <signatures>ai (f.1), bi (f.9), bii (f.10), ci (f.17), bij (f.18), di (f.25), dij (f.26), ei (f. 33), fi (f. 41)</signatures>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <typeDesc><typeNote>98G, M75</typeNote></typeDesc>
+                  <decoDesc>
+                   <decoNote>handwritten initial (red); capital letters as strophic separation; colour-stroking first letters (red)</decoNote>
+                   <decoNote><watermark>WM I 55476 shield, three lilies, crown, quatrefoil; WM I 55477 wheel, single line</watermark></decoNote>
+                  </decoDesc>
+                  <additions><p></p></additions>
+               </physDesc>
+
+<history>
+<origin>
+<origDate>1496</origDate>
+<origPlace>Antwerp</origPlace>
+</origin></history>
         </msDesc>
             </sourceDesc>
         </fileDesc>

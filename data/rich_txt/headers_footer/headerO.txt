@@ -18,7 +18,58 @@
             <idno>Canonici Miscellanei 278 </idno>
             <msName>O</msName>
           </msIdentifier>
- <p>...</p>
+<msContents>
+<msItem>
+<locus from="19r" to="94v"/>
+<title>Martijn Trilogy</title>
+<author>Jacob van Maerlant</author>
+</msItem>
+</msContents>
+
+<physDesc>
+<objectDesc form="manuscript" >
+                     <supportDesc material="perch">
+                        <support>
+                           <num type="front-flyleaf" value="0"/>
+                           <num type="book-block" value="80"/>
+                           <num type="end-flyleaf" value="0"/>
+                           <dimensions type="leaf fragmented">
+                              <height unit="mm" quantity="200"/>
+                              <width unit="mm" quantity="136"/>
+                           </dimensions>
+                        </support>
+                     <foliation>foliation in ink in Arabic numbers (1-176) and foliation in pencil in Arabic numbers (1-162)</foliation>
+                     <collation>1-10IV(80)</collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="1" writtenLines="25" ruledLines="25">
+                           <dimensions type="written">
+                              <height unit="mm" quantity="120"/>
+                              <width unit="mm" quantity="71"/>
+                           </dimensions>
+			<dimensions type="line">
+                           <height unit="mm" min="" max=""/>
+                           </dimensions>
+			<catchwords>at the end of each quire, f.24v, 40v, 48v, 56v, 64v, 72v,74v, 80v, 88v, 96v</catchwords>
+                           <signatures>quires are marked a, b, c, d... k (71); the first 4 leafs are marked i, ii, iii, iiii</signatures>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc hands="1">
+                     <handNote script="littera gothica textualis hybrida">the Martijn Trilogy is written in littera gothica textualis hybrida by a single hand</handNote>
+                  </handDesc>
+                  <decoDesc>
+                   <decoNote>initial (gold, red, blue); title (red); lombardic capital letters as strophic separation (red); colour-stroking first letters (red)</decoNote>
+                  </decoDesc>
+                  <additions><p>convolute of 4 manuscripts; 177 leafs/</p><p>1VIII+1(17);2-11IV(97);12VI(109);13IV(117);14VI(129);15-20IV(177)</p><p>/with Latin translation from Johannes Bukelare</p></additions>
+               </physDesc>
+
+<history>
+<origin>              
+<origDate notBefore="" notAfter="">1480</origDate>
+<origPlace>Flanders</origPlace>
+</origin>
+</history>
         </msDesc>
             </sourceDesc>
         </fileDesc>

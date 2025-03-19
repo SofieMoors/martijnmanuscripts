@@ -55,8 +55,8 @@ den vader in den rike
 811 jnd[er] reynre magheden vat	
 814 en(de) doghede menighe(n) gods hat
 815 van sinen onghelike
-die armoede dats .i. pat	 
-die dor den hemel maect .i. gat	 
+die armoede dats =.i.= pat	 
+die dor den hemel maect =.i.= gat	 
 en(de) so niet en beswike	 
 die ha[er] met trouwe(n) wike
 §64§	 
@@ -75,6 +75,6 @@ leere weelde begheue(n)
 of du moets zware sneue(n)
 §65§	 
 <N>iet en seggic dat rijch%eit% sent	 
-dus	 
+<D>(omi)n(u)s	 
 ____
 

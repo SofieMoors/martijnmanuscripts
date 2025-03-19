@@ -129,7 +129,7 @@ _M1_
 <H>ets al niet hes een ghedwas
 <A>lse lief hadt mi een wilt sas
 110 <O>ft een vrese bescreue(n)
-<T>rouwe es broscher da(n) .I. glas
+<T>rouwe es broscher da(n) =.I.= glas
 <D>ie hier te vore(n) so sterc was
 <S>o es te broken bleuen
 <I>c wane noyt dies lands he[er]e genas
@@ -178,7 +178,7 @@ _M1_
 <D>attu helts ant legher bort
 <D>ie pape(n) sulle(n)t smaken
 <S>o werdstu v[er]brant en(de) v[er]smort
-<I>n gaue om dine ziele niet .I. ort
+<I>n gaue om dine ziele niet =.I.= ort
 155 <M>e(n) mach met dusdane(n) sake(n)
 <G>ode niet ghenake(n)
 §13§
@@ -247,7 +247,7 @@ _M1_
 <I_1>acop god die herte(n) kent
 210 <S>ent de(n) sondare recht torment
 <N>ader herte(n) ghedochte
-<O>m(m)e dat hi wilde als .I. rent
+<O>m(m)e dat hi wilde als =.I.= rent
 <A>ltoes leue(n) en(de) onghehent
 <V>p dat wesen mochte
 215 <S>o es hi ter helle(n) ghesent
@@ -299,7 +299,7 @@ _M1_
 255 <D>its meerre mesdaet da(n) mort
 <D>at si gods wort dus wonde(n)
 <H>ier naeye(n) sijt hier eyst ghescort
-<H>ier breect een naghel hier .I. bort 
+<H>ier breect een naghel hier =.I.= bort 
 <W>apene vanden honde(n)
 260 <N>u en(de) talle(n) stonde(n)
 §21§
@@ -471,7 +471,7 @@ _M1_
 <G_1><O>et te hebbene en(de) scat
 405 <E>n(de) tamelike te nuttene dat
 <D>ats een salich leuen
-<M>[aer] goets minne maect .I. gat
+<M>[aer] goets minne maect =.I.= gat
 <D>at ne(m)mermee mach werde(n) sat
 <A>l wildement he(m) al gheuen
 410 <M>inne va(n) goede wert ghehat
@@ -505,7 +505,7 @@ _M1_
 <D>attie minne heetet blint 
 <D>oet dat menich es so kint
 435 <D>at hi he(m) laet v[er]spanen
-<S>ine cone(n) minne(n) niet .I. twint
+<S>ine cone(n) minne(n) niet =.I.= twint
 <D>ie wandel sijn alse die wint
 <S>i rolle(n) buter banen
 <I>c waen mer also vele vint
@@ -565,7 +565,7 @@ _M1_
 <E>nte(n) liede(n) thare ontpect
 <S>o wille hi sonder merre
 <O>nder die edele sijn ghetrect
-<A>l ware hi .C. fout beulect
+<A>l ware hi =.C.= fout beulect
 
 &115vb&
 
@@ -674,7 +674,7 @@ _M1_
 <D>ie delheit mach me(n) af dwae(n)
 580 <W>ertme(n) arem so eist ghedaen
 <M>en valt in doude steden
-<M>[aer] reene edelheit dats .I. traen
+<M>[aer] reene edelheit dats =.I.= traen
 <D>ie dor{per} h[er]te nie conste ontfae(n)
 <D>ie gheuet dor smeinsche(n) bede(n)
 585 <G>od in sire miltheden
@@ -1182,13 +1182,13 @@ _M2_
 <V>an vrouwe(n) moeste dijn sermoen
 <O>f beghinnen of enden
 <W>aerstu een dorp[er] du spraex va(n) coen
-<N>u es dine h[er]te dies ontfloen 
+<N>u es dine h[er]te dies ontfl«o»en 
 45 <D>och willix mi ghenende(n)
 <E>n(de) steke(n) af mine(n) caproen
 <E>n(de) hore(n) watti hier toe spoen
 <D>attu den onbekenden
 <M>artine niene laets gheroen
-50 <A>l haddic ane .II. yserine scoen
+50 <A>l haddic ane =.II.= yserine scoen
 <I>n mochtu niet ontwende(n)
 <N>u sprec ic saelt ontbende(n)
 §05§
@@ -1202,7 +1202,7 @@ _M2_
 <L>ietic al om hare gaen
 <M>ochticse ghewinne(n)
 <N>ochta(n) weetic wel sond[er] waen
-60 <D>at soe mijns niet en acht .I. spaen
+60 <D>at soe mijns niet en acht =.I.= spaen
 <M>ijn h[er]te doet mi bekinne(n)
 <A>l soud[er] o(m)me die w[eer]elt v[er]gae(n)
 <D>at soe mi niet en soude ontfae(n) 
@@ -1212,10 +1212,10 @@ _M2_
 <E_1><E>ne and[er] vrouwe es die mi mint
 <B>oue(n) al dat so leue(n)de kint
 <M>et ghestader trouwen
-<D>ie mi gheprijst es niet .I. twint
+<D>ie mi gheprijst es niet =.I.= twint
 70 <M>[aer] die scoenste die men vint
 <E>n(de) bloeme va(n) alle(n) vrouwe(n)
-<N>u es mijn h[er]te so hart .I. vlint
+<N>u es mijn h[er]te so hart =.I.= vlint
 <D>at soe hare jet d[aer] toe v[er]bint
 <D>at soese wille scouwen
 75 <H>oe lieue vpsien soe mi toe sint
@@ -1232,7 +1232,7 @@ _M2_
 85 <D>eene moet[er] laten den pant
 <D>en liefsten die god oint vant
 <H>ier toe sijn si v[er]dreuen
-<N>e liech mi niet als .I. triwant
+<N>e liech mi niet als =.I.= triwant
 <M>[aer] sech mi an welken cant
 90 <D>ijn herte es bleuen
 
@@ -1281,7 +1281,7 @@ _M2_
 &120ra&
 
 <M>[aer] therte was hare so mat
-<D>[aer] minne in hadde ghemaect .I. gat
+<D>[aer] minne in hadde ghemaect =.I.= gat
 <W>ille hilt de(n) roeder
 130 <A>l was die redene vroeder
 §11§
@@ -1300,7 +1300,7 @@ _M2_
 <A>lso helpe mi sente baue
 §12§
 <I_1>acop du best een stout seriant
-145 <D>ats .I. vast cnoep en(de) .I. vast bant
+145 <D>ats =.I.= vast cnoep en(de) =.I.= vast bant
 <D>ie nieme(n) mach ontbinden
 <D>ie cnoep die alexand[er] bant
 <O>ntcnochte sijn zw[aer]t niet sijn ha(n)t
@@ -1308,7 +1308,7 @@ _M2_
 150 <L>aet ghetake(n) an uwe(n) cant
 <M>e(n) sal hu vroetscap te hant
 <T>ellen mette(n) kinden
-<A>lso vele alse diede(n) mach .I. zant
+<A>lso vele alse diede(n) mach =.I.= zant
 <I>eghe(n) casselb[er]ghe in vlaend[er]lant
 155 <S>al diede(n) hier hu vinden
 <A>l waendi mi v[er]blinden
@@ -1717,7 +1717,7 @@ _M3_
 <E>n(de) hi moet cone(n) die dinc gherake(n)
 <O>f hets he(m) al ontseit
 <O>ec moet hi d[aer] o(m)me waken
-<M>acht const wille dese .iij. sake(n)
+<M>acht const wille dese =.iij.= sake(n)
 165 <V>intme(n) in die me(n)schelicheit
 <D>ie dese note wel can craken
 <H>ine darf beide(n) nochte hake(n)
@@ -1779,7 +1779,7 @@ _M3_
 <M>[aer] tgheloue sonder hone
 <D>at en twifelde nie
 <W>at eeren hadwijs of wat lone
-<D>at wi die niet doghe(n) .I. bone
+<D>at wi die niet doghe(n) =.I.= bone
 
 &123ra&
 
@@ -1919,10 +1919,10 @@ _M3_
 <D>[aer] hise binne(n) vant
 §27§
 <D_1>ie godheit wecte va(n) dode te liue
-340 <T>vleesch dat hi va(n) de(n) reene(n) wiue
+340 <T>vleesch dat hi va(n) de(n) reene(n) «wiue»
 <V>rouwe marien nam
 <H>i troeste sine lieue keytiue
-<H>ier .IJ. hier .IIJ. hier .IIIJ. hier .V.
+<H>ier =.IJ.= hier =.IIJ.= hier =.IIIJ.= hier =.V.=
 
 &123va&
 
@@ -1931,7 +1931,7 @@ _M3_
 <G>od en(de) me(n)sche elc man bliue
 <H>ier inne ghehorsam
 <E>s oec eenich sin so stiue
-<D>ie ieghe(n) dit gheloue kiue
+<D>ie ieghe(n) dit gheloue «kiue»
 350 <H>e(m) sal themelsche lam
 <T>en joncsten wese(n) gram
 §28§
@@ -1940,7 +1940,7 @@ _M3_
 <T>es vaders rechtre hant
 355 <D>aer hi altoes sonder sparen
 <D>en vader bidt vor sine caren
-<D>ie he(m) hier sijn bekant
+<D>ie he(m) hier sijn «bekant»
 <N>och comt hi he(m) hier v[er]baren
 <D>oeme(n) die w[eer]elt met sine(n) scare(n)
 360 <E>nten helschen viant

@@ -67,7 +67,7 @@ _M1_
 <E>n es niet[...]
 <N>a dat ic[...]
 §52§
-<M_1><E>rte(n) du [...]
+<M_2><E>rte(n) du [...]
 665 <D>u spr[...]
 <D>ie noch n[...]
 <A>lrehand[...]
@@ -105,7 +105,7 @@ _M1_
 [...]uus en(de) lant
 695 [...] houde
 [...]en bant
-[...]n .I. sant
+[...]n =.I.= sant
 [...]ude
 [...]metterha(n)t
 700 [...]lke(n) pant

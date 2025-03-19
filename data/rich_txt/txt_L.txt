@@ -69,7 +69,7 @@ _M1_
 <D>en dorpers wijsde m[...]	
 <D>[aer] trouwe en(de) doget *wa* [...]
 <D>ien hiet si sijn here 		
-<N>v maken die here(n) .<I>. *g* [...]	
+<N>v maken die here(n) =.I.= *g* [...]	
 60 <E>n(de) gheuen d[er] eren *ene(n)* [...]	
 <E>n(de) en willen niet dat [...]	
 <S>egt mi wanen tfen[...]		
@@ -167,7 +167,7 @@ _M1_
 <D>ie v[er]keert telker vren
 §12§ 		
 <I_2><A>cop segt bestu verdoort	
-145 <A>uontuere en es maer .<I>. woort	
+145 <A>uontuere en es maer =.I.= woort	
 <U>an gheuinsd[er] spraeken
 <B>ringstu ongeloeue voert	
 <G>od siet alle dinc en(de) hoort 	
@@ -176,7 +176,7 @@ _M1_
 <D>attu hels aent legher boort	
 <D>ie paepen sullent smaeken	
 <W>aerstu v[er]brant ofte v[er]smoort		
-<E>n gaeue om(m)e dine ziele n{iet} .<I>. oort
+<E>n gaeue om(m)e dine ziele n{iet} =.I.= oort
 155 <M>en mach met sulken saeken	
 <G>ode niet ghenaeken
 §13§ 		
@@ -316,7 +316,7 @@ _M1_
 814 [...] gedoegede menege(n) hadt	
 815 [...]n sine(n) ongeliken		
 816 [...]moede es een pat		
-817 [...] doer den hemel maecte <I> gat
+817 [...] doer den hemel maecte =I= gat
 818 [...]*i* niet en beswike		 
 819 [...]h[are] met trouwen wike
 §64§	
@@ -343,7 +343,7 @@ _M1_
 [...]h%eit% maect menege(n) blint		 
 840 [...]i gode niet en kent 	
 [...]eet hi vande(n) lec*hte*	
-[...]wort va(n) leuene .<I>. rent	
+[...]wort va(n) leuene =.I.= rent	
 [...] valtme(n) int helsche couent 	
 [...] brinct inde hechte		
 845 [...] duuel sine knechte
@@ -528,7 +528,7 @@ _M2_
 20 <S>oe es mijn sin woorde(n) soe lam 	
 <D>at icker noede wed[er] aen quae(m) 
 <D>it doet mi verleeden 		
-<D>u wecs mi als .<I>. stotel ram 	
+<D>u wecs mi als =.I.= stotel ram 	
 <S>idi wilt ghi wert noch tam 	
 25 <L>eere dine woorde cleeden 	
 <S>oetelike en(de) ghereeden
@@ -557,7 +557,7 @@ _M2_
 <E>n(de) hoere(n) watti h[ier] toe spoen
 <D>attu den ombekinden	
 <M>erten niet en laet gheroen 	
-50 <A>l haddic aen ij. ysere(n) scoen	
+50 <A>l haddic aen =ij.= ysere(n) scoen	
 <E>n mochte di niet ontwinde(n) 	
 <N>v vraecht ic sal ontbinden
 §05§	
@@ -571,7 +571,7 @@ _M2_
 <L>ietic al om(m)e hare gaen		
 <M>ochticse gewinne(n) 		
 <N>ochtan wetic sond[er] waen	
-60 <D>at si mijns n{iet} en acht <I> spaen 	
+60 <D>at si mijns n{iet} en acht =I= spaen 	
 <M>ijn sin doet mi bekinnen 	
 <A>l souder die werelt om(m)e v[er]gaen
 <S>i en soude mi niet ontfaen	
@@ -593,7 +593,7 @@ _M2_
 78 <E>er siere om(m)e quae(m) in rouwen
 §07§ 
 79 <M_2><E>rten hore en(de) v[er]stant 	
-80 <D>ese .ij. sijn in <I> bewant 		
+80 <D>ese =.ij.= sijn in =I= bewant 		
 <D>at costen mo{et} d[er] eren leue(n)	
 <N>v hebbic die macht inde hant 	
 <W>elker ic wille breke(n) den cant 	
@@ -601,7 +601,7 @@ _M2_
 85 <E>mmer mo{et} dee(n) bite(n) den tant	
 <D>en besten die god ie vant 	 
 <H>ier toe sijn si verdreuen 	
-<E>n liecht mi niet als <I>. truwant 	
+<E>n liecht mi niet als =I.= truwant 	
 <M>[aer] segt mi aen welken cant 	
 90 <D>ijn herte es bleuen 		
 <E>n(de) welke du liets sneuen
@@ -622,7 +622,7 @@ _M3_
 340 <T>fleeschs datti van de(n) reine(n) wiue
 341 <V>rouwen marien nam		 
 342 <H>i troeste sine lieue keytiue 	
-343 *<H>ier* ij. h[ier] iij h[ier] iiij. hier viue 
+343 *<H>ier* =ij.= h[ier] =iij= h[ier] =iiij.= hier viue 
 344 <M>et hem hi eten quaem 		
 345 <D>us es die gods sone alsic *scriue*
 <G>od en(de) mensche elc ma(n) bliue 	
@@ -692,7 +692,7 @@ _M3_
 <D>atture coms ongheureest
 §32§	
 <M_2><E>rte(n) ons leert tscriftuere	
-405 <D>{at} <I>. god en(de) <I>. natuere	
+405 <D>{at} =I.= god en(de) =I.= natuere	
 <E>mmer sijn dese drie		
 <A>ltoes euen na gebuere		
 <E>n(de) v[er]schede(n) te ghere uren	
@@ -769,7 +769,7 @@ _M3_
 			
 &4vb&	
 
-475 <D>och eest maer .<I>. die berch en(de) daele 
+475 <D>och eest maer =.I.= die berch en(de) daele 
 <S>ciep al groet ende smaele 	
 <D>[aer] af tellen alle woort 		
 <E>n ganc niet ou[er] dese paele 	

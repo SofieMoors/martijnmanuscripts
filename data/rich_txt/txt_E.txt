@@ -68,7 +68,7 @@ _M1_
 429 <E>n(de) en es ghee(n) futselare
 §34§
 430 <M_2>i(n)ne es alsme(n) bescreue(n) vint
-<C>racht die II. h[er]te(n) tsame(n) bint
+<C>racht die =II.= h[er]te(n) tsame(n) bint
 <I>n ene(n) reyne(n) wane
 <D>attie mi(n)ne hetet blint
 <C>omt d{at} menich es so kint
@@ -249,7 +249,7 @@ _M3_
 <D>{at} sijt reine late(n) bliue(n)
 5 <E>n(de) zie[re] n{iet} toe en driuen
 <W>ort l[ette]re(n) af noch an
-<D>oe(n) sijt oec he(m) sal becliue(n)
+<D>oe(n) sist oec he(m) sal becliue(n)
 <M>ine(n) ban sine sele(n) af wriue(n)
 <N>iet moghe(n) nochtan
 10 <E>n es ghee(n) spot va(n) keytiue(n)

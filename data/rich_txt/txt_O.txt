@@ -615,7 +615,7 @@ den dorpere. ende den wijsen dan
 
 &39r&
 §38§
-<M_2><A>rtin menich dinc es bedect dinc 
+<M_2><A>rtin menich «dinc» es bedect 
 <E>nde dijnct he(m) groot d[aer] hi vp mect
 <M>aer du sprekes wel verre
 485 <A>l heeft een persemier gheplect
@@ -836,7 +836,7 @@ den dorpere. ende den wijsen dan
 <D>it euel ten beghinne
 <I>c liet my costen wel een pont
 <D>at icx vroet ware te deser stont
-<M>aect d my dies te binne
+<M>aect @d@ my dies te binne
 660 <M>ine herte bliues onghesont
 <M>y en besceede daer af dijn mont 
 <W>iens wijsheit niet es dinne
@@ -861,7 +861,7 @@ den dorpere. ende den wijsen dan
 
 &47r&
 §53§
-<E_2>en zwaer oerloghe en(de) .j. strijt
+<E_2>en zwaer oerloghe en(de) =.j.= strijt
 <E>nde daer toe een ewich nijt
 <E>s tussche(n) d[er] herten en(de) den oeghen
 680 <T>herte den oeghen verwijt 
@@ -893,7 +893,7 @@ den dorpere. ende den wijsen dan
 
 &48r&
 §55§
-<T_2>herte zwech en(de) de oeghe sprac 
+<T_2>herte zwech en(de) d«e» oeghe sprac 
 <M>y dijnct dat di zins ghebrac
 705 <V>rauwe coninghinne
 <D>at ghi my tiet v onghemac
@@ -913,7 +913,7 @@ den dorpere. ende den wijsen dan
 <D>at ghi ouer my ghebiet 
 <A>ls ouer alle uwe leede
 <M>en conste v ghescaden niet
-720 <W>aert zo dat ghi van v tijt stiet
+720 <W>aert zo dat ghi van v @tijt@ stiet
 <A>lle dorperhede
 <M>aer als ghi by mi bespiet
 <D>inghen die ghi aan v tiet
@@ -1037,8 +1037,8 @@ den dorpere. ende den wijsen dan
 <D>aer hy cume ye was zat
 <E>nde leet menich quaet ghewat
 815 <D>an zijnen onghelijke
-<R>eyne aermoede es .j. pat
-<D>ie doer den hemel maect .j. gat
+<R>eyne aermoede es =.j.= pat
+<D>ie doer den hemel maect =.j.= gat
 <W>ant zij niet en zal bezwike
 <D>ie haer met herten wijke
 
@@ -1094,7 +1094,7 @@ den dorpere. ende den wijsen dan
 §67§
 <D_2><E> wech es nauwe en(de) hoech
 860 <D>aer ih[esu]s bi ten hemel vloech
-<D>ats passie ende aermoede
+<D>at«s» passie ende aermoede
 <O>ftu meer hebs dan di doech
 <O>m die gods hulde poech
 <D>eele van dinen goede
@@ -1337,7 +1337,7 @@ _M2_
 <E>nde speghel van alle(n) vrauwen
 <N>u es mijn herte zo hart een vlint
 <D>at het daer toe hem yet verbint
-<D>at    haer wille scauwen
+<D>at haer wille scauwen
 
 &62v&
 
@@ -1409,7 +1409,7 @@ _M2_
 125 <W>ijsde haer redene de(n) rechte(n) pat
 <A>l volgde zij den loeder
 <M>aer therte was haer zo mat
-<D>aer mi(n)ne in hadde ghemaect .j. gat
+<D>aer mi(n)ne in hadde ghemaect =.j.= gat
 <W>ille hilt den roeder
 130 <A>l was redene vroeder
 
@@ -1431,8 +1431,8 @@ _M2_
 
 &65v&
 §12§
-<M_2><A>rtin du best .j. stout sergant
-145 <D>ats een vast cnoop en(de) .j. bant
+<M_2><A>rtin du best =.j.= stout sergant
+145 <D>ats een vast cnoop en(de) =.j.= bant
 <D>ie niement mach ontbinden
 <D>en cnoop die alexander bant
 <O>ntknochte zij(n) zweert niet zij(n) hant
@@ -1440,7 +1440,7 @@ _M2_
 150 <L>aet my ghenake(n) an uwen cant
 <G>hi zult v vroescap al te hant
 <T>ellen metten kinde
-<A>lzo vele als diden mach .j. sant
+<A>lzo vele als diden mach =.j.= sant
 <J>eghen casselberch in vlaend[er]lant
 155 <S>al dieden nu v vinden
 <A>l waendi my verblinden
@@ -1534,7 +1534,7 @@ _M2_
 225 <D>aer en es ieghe(n) gheen doen
 <S>orobabel in zijn sermoen
 <D>oet ons wel bekinne(n)
-<W>ien dat vrauwe mi(n)ne ontspoen ont 
+<W>ien dat vrauwe mi(n)ne «ont»spoen  
 <H>i en mochte niet gheroen
 230 <J>n zijn herte binnen
 
@@ -1551,18 +1551,18 @@ _M2_
 <E>lc letterkin diet wel beziet
 <H>out een wort in haer bespiet
 240 <D>er minne(n) cracht daer jnne
-<A>ldus ontbant my en(de) bes*t/c*iet
+<A>ldus ontbant my en(de) bestiet
 
 &69v&
 
 <P>orringhe die die den zin wech tiet
 <D>er minne(n) cracht daer inne
-<D>ie redene te ghemoete(n) pliet 
-245 <A>ldus ontbant my en(de) bes*t/c*iet
+245 <A>ldus ontbant my en(de) bestiet
 <M>ijn meester alzo ict kinne
 <O>f mijn verstaen es dinne
+244 <D>ie redene te ghemoete(n) pliet
 §20§
-<O_2><F> dat minne es alst es
+248 <O_2><F> dat minne es alst es
 <S>o wes zeker en(de) ghewes
 250 <J>c volgs minen eerste(n) woorde
 <O>uer waerhede lye ic des
@@ -1955,11 +1955,11 @@ _M3_
 &82v&
 
 <Z>ijn dese enighe drie
-215 <R>edene en dracht hier niet de crone
+215 <R>edene en drach«t» hier niet de crone
 <M>aer tgheloue zonder hoene
 <D>ies en twiuel ic nye
 <W>at eeren hadde(n) wij of wat loene
-<O>f wij die niet en doghe(n) .j. boene
+<O>f wij die niet en doghe(n) =.j.= boene
 220 <G>helouen dat elc zie.
 <N>u andwoordt my en ghie
 §18§
@@ -2226,7 +2226,7 @@ _M3_
 
 &91v&
 §34§
-430 <D_2>its svaders en(de) soens gaue
+430 <D_2>its svaders en(de) so«e»ns gaue
 <R>icheit boue(n) alle haue
 <F>onteyne des leuens al
 <W>ie zo gheporret wert hier aue
