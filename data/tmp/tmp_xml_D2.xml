@@ -14,17 +14,59 @@
             <idno>LTK 1021</idno>
             <msName>D2</msName>
           </msIdentifier>
- <p>...</p>
+<msContents>
+<msItem>
+<locus from="1r" to="44r"/>
+<title>Martijn Trilogy</title>
+<author>Jacob van Maerlant</author>
+</msItem>
+</msContents>
+<physDesc>
+<objectDesc form="incunable">
+                     <supportDesc material="paper">
+                        <support>
+                           <num type="front-flyleaf" value="1"/>
+                           <num type="book-block" value="44?"/>
+                           <num type="end-flyleaf" value="?"/>
+                           <dimensions type="leaf">
+                              <height unit="mm" quantity="130"/>
+                              <width unit="mm" quantity="95"/>
+                           </dimensions>
+                        </support>
+                     <foliation>modern foliation in pencil</foliation>
+                     <collation>1-5IV(40);6II(44)</collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="1" writtenLines="21" ruledLines="">
+                           <dimensions type="written">
+                              <height unit="mm" quantity="103"/>
+                              <width unit="mm" quantity="62"/>
+                           </dimensions>
+			<dimensions type="line">
+                           <height unit="mm" min="" max=""/>
+                           </dimensions>
+			<catchwords></catchwords>
+                           <signatures></signatures>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <typeDesc><typeNote>98G, M75</typeNote></typeDesc>
+                  <decoDesc>
+                   <decoNote>lombardic capital letters as strophic separation (black) (not in vs. 118; 209; 222; 313)</decoNote>
+                   <decoNote><watermark>licorne sanglée</watermark></decoNote>
+                  </decoDesc>
+                  <additions><p>reconstruction, only part of quire 4 remains</p></additions>
+               </physDesc>
+
+<history>
+<origin>
+<origDate>1496-1500</origDate>
+<origPlace>Antwerp(?)</origPlace>
+</origin></history>
         </msDesc>
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
- <charDecl><char xml:id="rrot">
-                <charName>LATIN SMALL LETTER R ROTUNDA</charName>
-                <mapping type="junicode">ꝛ</mapping>
-                <mapping type="mufi">ꝛ</mapping>
-                <mapping type="standard">ꝛ</mapping>
-            </char></charDecl>
             <xi:include href="http://www.huygensinstituut.knaw.nl/projecten/mvn/webfiles/charDecl.xml"  
                 xmlns:xi="http://www.w3.org/2001/XInclude">
                 <xi:fallback>

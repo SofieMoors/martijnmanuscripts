@@ -680,7 +680,7 @@ O_M1_37_481 Want het dijnct mi ontame
 
 
 
-O_M1_38_482 MArtin menich dinc es bedect dinc
+O_M1_38_482 MArtin menich dinc es bedect
 O_M1_38_483 Ende dijnct hē groot dʼ hi vp mect
 O_M1_38_484 Maer du sprekes wel verre
 O_M1_38_485 Al heeft een persemier gheplect
@@ -922,7 +922,7 @@ O_M1_51_655 Ofte cōmet vut dʼ hertē gront
 O_M1_51_656 Dit euel ten beghinne
 O_M1_51_657 Ic liet my costen wel een pont
 O_M1_51_658 Dat icx vroet ware te deser stont
-O_M1_51_659 Maect d my dies te binne
+O_M1_51_659 Maect d̶ my dies te binne
 O_M1_51_660 Mine herte bliues onghesont
 O_M1_51_661 My en besceede daer af dijn mont
 O_M1_51_662 Wiens wijsheit niet es dinne
@@ -1008,7 +1008,7 @@ O_M1_56_716 MErket vrauwe en̄ besiet
 O_M1_56_717 Dat ghi ouer my ghebiet
 O_M1_56_718 Als ouer alle uwe leede
 O_M1_56_719 Men conste v ghescaden niet
-O_M1_56_720 Waert zo dat ghi van v tijt stiet
+O_M1_56_720 Waert zo dat ghi van v t̶i̶j̶t̶ stiet
 O_M1_56_721 Alle dorperhede
 O_M1_56_722 Maer als ghi by mi bespiet
 O_M1_56_723 Dinghen die ghi aan v tiet
@@ -1687,7 +1687,7 @@ O_M2_18_224 Jeghen de cracht vā minnē
 O_M2_18_225 Daer en es ieghē gheen doen
 O_M2_18_226 Sorobabel in zijn sermoen
 O_M2_18_227 Doet ons wel bekinnē
-O_M2_18_228 Wien dat vrauwe mīne ontspoen ont
+O_M2_18_228 Wien dat vrauwe mīne ontspoen
 O_M2_18_229 Hi en mochte niet gheroen
 O_M2_18_230 Jn zijn herte binnen
 
@@ -1705,16 +1705,16 @@ O_M2_19_237 Dat in duutsche luut minne
 O_M2_19_238 Elc letterkin diet wel beziet
 O_M2_19_239 Hout een wort in haer bespiet
 O_M2_19_240 Der minnē cracht daer jnne
-O_M2_19_241 Aldus ontbant my en̄ best/ciet
+O_M2_19_241 Aldus ontbant my en̄ bestiet
 
 
 
 O_M2_19_242 Porringhe die die den zin wech tiet
 O_M2_19_243 Der minnē cracht daer inne
-O_M2_19_244 Die redene te ghemoetē pliet
-O_M2_19_245 Aldus ontbant my en̄ best/ciet
+O_M2_19_245 Aldus ontbant my en̄ bestiet
 O_M2_19_246 Mijn meester alzo ict kinne
 O_M2_19_247 Of mijn verstaen es dinne
+O_M2_19_244 Die redene te ghemoetē pliet
 
 
 O_M2_20_248 OF dat minne es alst es

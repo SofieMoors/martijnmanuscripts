@@ -1616,7 +1616,7 @@ F_M2_25_325 Soe ware mijn vroeden dinne
 
 
 F_M2_26_326 Waerheit iacob dits al claer
-F_M2_26_327 Mʼ w mi was te vindēne zwaer
+F_M2_26_327 Mʼ w̶ mi was te vindēne zwaer
 F_M2_26_328 Dattu mi hier heues ontbonden
 F_M2_26_329 Ic lye verwonnen openbaer
 F_M2_26_330 Mine mīne es zielen vaer
@@ -2059,7 +2059,7 @@ F_M3_27_342 Hij trooste sine lieue kerstine
 
 
 
-F_M3_27_343 Hier ij. iij .iiij . hier viue
+F_M3_27_343 Hier ij. iij .iiij. hier viue
 F_M3_27_344 Met hem hij eten quam
 F_M3_27_345 Dus es die gods zone als ic scriue
 F_M3_27_346 God en̄ mensche elc man bliue
@@ -2142,7 +2142,7 @@ F_M3_32_409 Noch en verscheeden nye
 F_M3_32_410 Vader kint verstant ter cuere
 F_M3_32_411 Vut desen dubbelen gods duere
 F_M3_32_412 Wie caent ghegronden wie
-F_M3_32_413 So comt di die gheest die zuete gure
+F_M3_32_413 So comt d̶i̶ die gheest die zuete gure
 F_M3_32_414 Die reyne godheyt entie puere.
 
 

@@ -14,17 +14,61 @@
             <idno>HS 1F 180</idno>
             <msName>Y</msName>
           </msIdentifier>
- <p>...</p>
+<msContents>
+<msItem>
+<locus from="1r" to="10v"/>
+<title>Martijn Trilogy</title>
+<author>Jacob van Maerlant</author>
+</msItem>
+</msContents>
+<physDesc>
+<objectDesc form="single-quire-manuscript" >
+                     <supportDesc material="perch">
+                        <support>
+                           <num type="front-flyleaf" value="0"/>
+                           <num type="book-block" value="10"/>
+                           <num type="end-flyleaf" value="0"/>
+                           <dimensions type="leaf fragmented">
+                              <height unit="mm" quantity="216"/>
+                              <width unit="mm" quantity="159"/>
+                           </dimensions>
+                        </support>
+                     <foliation></foliation>
+                     <collation>1V(10)</collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="2" writtenLines="45" ruledLines="45">
+                           <dimensions type="written">
+                              <height unit="mm" quantity="183"/>
+                              <width unit="mm" quantity="125"/>
+                           </dimensions>
+			<dimensions type="line">
+                           <height unit="mm" min="" max=""/>
+                           </dimensions>
+			<catchwords></catchwords>
+                           <signatures></signatures>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc hands="1">
+                     <handNote script="littera textualis">the Martijn Trilogy is written in littera textualis by a single hand</handNote>
+                  </handDesc>
+                  <decoDesc>
+                   <decoNote>initial (red); title (red); lombardic capital letters as strophic separation (red)</decoNote>
+                  </decoDesc>
+                  <additions><p>reconstruction, only f.1/10 remains</p></additions>
+               </physDesc>
+
+<history>
+<origin>
+<origDate notBefore="" notAfter="">1400</origDate>
+<origPlace>Brabant</origPlace>
+</origin>
+</history>
         </msDesc>
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
- <charDecl><char xml:id="rrot">
-                <charName>LATIN SMALL LETTER R ROTUNDA</charName>
-                <mapping type="junicode">ꝛ</mapping>
-                <mapping type="mufi">ꝛ</mapping>
-                <mapping type="standard">ꝛ</mapping>
-            </char></charDecl>
             <xi:include href="http://www.huygensinstituut.knaw.nl/projecten/mvn/webfiles/charDecl.xml"  
                 xmlns:xi="http://www.w3.org/2001/XInclude">
                 <xi:fallback>
@@ -180,7 +224,7 @@
 <lb n="18" xml:id="Yf1va.18"/><l n="Y_M1_09_106"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> brieue die <choice><abbr>gewage<g ref="#bar"/></abbr><expan>gewage<ex>n</ex></expan></choice> das</l>
 <lb n="19" xml:id="Yf1va.19"/><l n="Y_M1_09_107"><choice><abbr><hi rend="capitalsize1">V</hi>a<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">V</hi>a<ex>n</ex></expan></choice> dat <choice><abbr>lansheere<g ref="#bar"/></abbr><expan>lansheere<ex>n</ex></expan></choice> gheuen</l>
 <lb n="20" xml:id="Yf1va.20"/><l n="Y_M1_09_108"><hi rend="capitalsize1">H</hi>ets el niet dan gedwas</l>
-<lb n="21" xml:id="Yf1va.21"/><l n="Y_M1_09_109"><hi rend="capitalsize1">A</hi>lsoe lief hadt mi .<hi rend="capitalsize1">I</hi>. sas</l>
+<lb n="21" xml:id="Yf1va.21"/><l n="Y_M1_09_109"><hi rend="capitalsize1">A</hi>lsoe lief hadt mi <num type="roman">.I.</num> sas</l>
 <lb n="22" xml:id="Yf1va.22"/><l n="Y_M1_09_110"><hi rend="capitalsize1">O</hi>ft <choice><abbr>ee<g ref="#bar"/></abbr><expan>ee<ex>n</ex></expan></choice> vriese bescreue</l>
 <lb n="23" xml:id="Yf1va.23"/><l n="Y_M1_09_111"><hi rend="capitalsize1">T</hi>rouwe es broescer <choice><abbr>da<g ref="#bar"/></abbr><expan>da<ex>n</ex></expan></choice> gelas</l>
 <lb n="24" xml:id="Yf1va.24"/><l n="Y_M1_09_112"><hi rend="capitalsize1">D</hi>ie wilen soe starc was</l>
@@ -225,7 +269,7 @@
 </lg>
 <lg type="stanza" n="12">
 <lb n="11" xml:id="Yf1vb.11"/><l n="Y_M1_12_144"><hi rend="capitalsize2">I</hi>acob segt bestu verdoort</l>
-<lb n="12" xml:id="Yf1vb.12"/><l n="Y_M1_12_145"><hi rend="capitalsize1">A</hi>uonture nes maer .<hi rend="capitalsize1">I</hi>. woert</l>
+<lb n="12" xml:id="Yf1vb.12"/><l n="Y_M1_12_145"><hi rend="capitalsize1">A</hi>uonture nes maer <num type="roman">.I.</num> woert</l>
 <lb n="13" xml:id="Yf1vb.13"/><l n="Y_M1_12_146"><hi rend="capitalsize1">U</hi>an gheueinster spraken</l>
 <lb n="14" xml:id="Yf1vb.14"/><l n="Y_M1_12_147"><hi rend="capitalsize1">B</hi>rincstu ongeloue voert</l>
 <lb n="15" xml:id="Yf1vb.15"/><l n="Y_M1_12_148"><hi rend="capitalsize1">G</hi>od siet alle dinc ende hoert</l>
@@ -234,7 +278,7 @@
 <lb n="18" xml:id="Yf1vb.18"/><l n="Y_M1_12_151"><hi rend="capitalsize1">D</hi>attu hels aen dleger boort</l>
 <lb n="19" xml:id="Yf1vb.19"/><l n="Y_M1_12_152"><hi rend="capitalsize1">D</hi>ie papen selent smaken</l>
 <lb n="20" xml:id="Yf1vb.20"/><l n="Y_M1_12_153"><hi rend="capitalsize1">S</hi>oe waerstu <choice><abbr>v<g ref="#apomod"/>brant</abbr><expan>v<ex>er</ex>brant</expan></choice> <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> <choice><abbr>v<g ref="#apomod"/>smort</abbr><expan>v<ex>er</ex>smort</expan></choice></l>
-<lb n="21" xml:id="Yf1vb.21"/><l n="Y_M1_12_154"><hi rend="capitalsize1">E</hi>n gaue <choice><abbr>o<g ref="#bar"/></abbr><expan>o<ex>m</ex></expan></choice> dijn ziele niet .<hi rend="capitalsize1">I</hi>. oert</l>
+<lb n="21" xml:id="Yf1vb.21"/><l n="Y_M1_12_154"><hi rend="capitalsize1">E</hi>n gaue <choice><abbr>o<g ref="#bar"/></abbr><expan>o<ex>m</ex></expan></choice> dijn ziele niet <num type="roman">.I.</num> oert</l>
 <lb n="22" xml:id="Yf1vb.22"/><l n="Y_M1_12_155"><hi rend="capitalsize1">M</hi>en mach met <choice><abbr>sulke<g ref="#bar"/></abbr><expan>sulke<ex>n</ex></expan></choice> saken</l>
 <lb n="23" xml:id="Yf1vb.23"/><l n="Y_M1_12_156"><hi rend="capitalsize1">G</hi>ode niet ghenaken</l>
 </lg>
@@ -297,7 +341,7 @@
 <lb n="16" xml:id="Yf2ra.16"/><l n="Y_M3_27_340"><hi rend="capitalsize1">T</hi>fleesch dat hi <choice><abbr>vande<g ref="#bar"/></abbr><expan>vande<ex>n</ex></expan></choice> <choice><abbr>reine<g ref="#bar"/></abbr><expan>reine<ex>n</ex></expan></choice> wiue</l>
 <lb n="17" xml:id="Yf2ra.17"/><l n="Y_M3_27_341"><hi rend="capitalsize1">V</hi>rouwen marien nam</l>
 <lb n="18" xml:id="Yf2ra.18"/><l n="Y_M3_27_342"><hi rend="capitalsize1">H</hi>i troeste sijn lieue keytiue</l>
-<lb n="19" xml:id="Yf2ra.19"/><l n="Y_M3_27_343"><hi rend="capitalsize1">H</hi>ier .ij. hier .iij. hier .iiij. hier viue</l>
+<lb n="19" xml:id="Yf2ra.19"/><l n="Y_M3_27_343"><hi rend="capitalsize1">H</hi>ier <num type="roman">.ij.</num> hier <num type="roman">.iij.</num> hier <num type="roman">.iiij.</num> hier viue</l>
 <lb n="20" xml:id="Yf2ra.20"/><l n="Y_M3_27_344"><hi rend="capitalsize1">M</hi>et hem hi eten quam</l>
 <lb n="21" xml:id="Yf2ra.21"/><l n="Y_M3_27_345"><hi rend="capitalsize1">D</hi>us es die gods sone alsic scriue</l>
 <lb n="22" xml:id="Yf2ra.22"/><l n="Y_M3_27_346"><hi rend="capitalsize1">G</hi>od <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> mensche elc <choice><abbr>ma<g ref="#bar"/></abbr><expan>ma<ex>n</ex></expan></choice> bliue</l>
@@ -436,7 +480,7 @@
 <lb n="17" xml:id="Yf2va.17"/><l n="Y_M3_35_444"><damage><gap></gap></damage>s caritate daer altoes inne</l>
 <lb n="18" xml:id="Yf2va.18"/><l n="Y_M3_35_445"><damage><gap></gap></damage>die triniteyt</l>
 <lb n="19" xml:id="Yf2va.19"/><l n="Y_M3_35_446"><damage><gap></gap></damage> die der <choice><abbr>prophete<g ref="#bar"/></abbr><expan>prophete<ex>n</ex></expan></choice> <hi rend="capitalsize1">S</hi>inne</l>
-<lb n="20" xml:id="Yf2va.20"/><l n="Y_M3_35_447"><damage><gap></gap></damage>e <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> maecte .<hi rend="capitalsize1">I</hi>. inne</l>
+<lb n="20" xml:id="Yf2va.20"/><l n="Y_M3_35_447"><damage><gap></gap></damage>e <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> maecte <num type="roman">.I.</num> inne</l>
 <lb n="21" xml:id="Yf2va.21"/><l n="Y_M3_35_448"><damage><gap></gap></damage>soens menschelicheit</l>
 <lb n="22" xml:id="Yf2va.22"/><l n="Y_M3_35_449"><damage><gap></gap></damage>s coninc noch <choice><abbr>coningin<g ref="#bar"/>e</abbr><expan>coningin<ex>n</ex>e</expan></choice></l>
 <lb n="23" xml:id="Yf2va.23"/><l n="Y_M3_35_450"><damage><gap></gap></damage>emmermeer aflaet <choice><abbr>gewinne<g ref="#bar"/></abbr><expan>gewinne<ex>n</ex></expan></choice></l>

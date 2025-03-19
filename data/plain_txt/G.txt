@@ -15,7 +15,7 @@ G_M1_01_009 En̄ pluckē vā dē stoue:
 G_M1_01_010 En̄ ic sie dē rechtē slaen:
 G_M1_01_011 Beide bespottē en̄ vaē:
 G_M1_01_012 Alse die meese ī die cloue:
-G_M1_01_013 Rechte ochtene god vʼscroue
+G_M1_01_013 Rechte ochtene god vʼscrouen̶
 
 
 G_M1_02_014 Hoe lange sal gedoegen dit:
@@ -97,7 +97,7 @@ G_M1_06_078 Ende wedʼstaē tē keere:
 
 
 G_M1_07_079 Nv mʼct bi dʼ sōnē lecht:
-G_M1_07_080 Die aldʼ wʼelt oegē berecht:
+G_M1_07_080 Die d̶ꝫ aldʼ wʼelt oegē berecht:
 G_M1_07_081 Bi siʼe edelre natꝛen:
 G_M1_07_082 Alse dꝫ swʼc daʼ iegē vecht:
 G_M1_07_083 En̄ die neuel mꝫ siʼe dᵉft:
@@ -405,7 +405,7 @@ G_M1_24_312 Ten iōxstē dage no getē:
 
 
 G_M1_25_313 Mertē menech ꝑlem̄t:
-G_M1_25_314 Es om die minne dat si es blent .
+G_M1_25_314 En̄ seggē dꝫ die m es blēt
 G_M1_25_315 Oec eest een woert gemeene:
 G_M1_25_316 Om dꝫ ic bē een ōwijs rēt:
 G_M1_25_317 So maect mi dese woʼde bekēt:
@@ -453,7 +453,7 @@ G_M1_27_351 Ende sine m oppēberde:
 
 
 G_M1_28_352 Wiē dꝫ selke m es cōt:
-G_M1_28_353 Als ca#ritate hi es gewōt:
+G_M1_28_353 Als caritate hi es gewōt:
 G_M1_28_354 Mē mach en nᵗ vʼblēdē:
 G_M1_28_355 Al lage hi ī dʼ hellē gᵒnt:
 G_M1_28_356 Op dꝫ hi ware daʼ mede gewōt:
@@ -643,8 +643,8 @@ G_M1_38_487 Hi wilt nochtā sōdʼ mʼre:
 G_M1_38_488 Ondʼ dedele sij̄ getrect:
 G_M1_38_489 Al ware hi dusētech wʼf bevlect:
 G_M1_38_490 Tgelt claertene van den tʼre:
-G_M1_38_491 Dits de die de liede wect:
-G_M1_38_492 Dat menech dīc tsine sī te wīnēne trect:
+G_M1_38_491 Dits de dīc die de liede wect:
+G_M1_38_492 Dat menech tsine sī te wīnēne trect:
 G_M1_38_493 En̄ maectʼ gode mede erre:
 G_M1_38_494 En̄ die siele ī wʼre:
 
@@ -893,9 +893,9 @@ G_M1_54_693 Wapē dꝫ natꝛe dit vant:
 G_M1_54_694 Ware di vʼbodē huꝰ en̄ lāt:
 G_M1_54_695 En̄ des mēschē houde:
 G_M1_54_696 So ē bōde mi geen bāt:
-G_M1_54_697 Lichtʼ war en daʼ .i. sant:
+G_M1_54_697 Lichtʼ wari̶c̶en daʼ .i. sant:
 G_M1_54_698 Algadʼ mine scoude:
-G_M1_54_699 Mē stake bat wt mettʼ hāt:
+G_M1_54_699 Mē staken̶ bat wt mettʼ hāt:
 
 
 
@@ -934,7 +934,7 @@ G_M1_56_727 Dij̄ ōgestadechhede:
 G_M1_56_728 Maect v dē ōvᵉde:
 
 
-G_M1_57_729 Dit orloge heeft gegevelt:
+G_M1_57_729 Dit orloge heeft ge gegevelt:
 G_M1_57_730 Als mē hare dē twist vʼtelt:
 G_M1_57_731 Vᵒuwe redene bi besceede:
 G_M1_57_732 Beide gadʼ sise scelt:
@@ -987,7 +987,7 @@ G_M1_60_769 Welc sekʼst es ī dbehout:
 G_M1_60_770 So rijchᵗ so armoede:
 G_M1_60_771 Eest clerc leec iōc of out:
 G_M1_60_772 Hꝫ dūct mi al gadʼ wesē bout:
-G_M1_60_773 En̄ si staē naden goede:
+G_M1_60_773 En̄ si staē naden goeden̶:
 G_M1_60_774 Armoede pᶦsic menechfout:
 G_M1_60_775 Wāt hꝫ es sekʼ en̄ stout:
 G_M1_60_776 Vore roeuers sondʼ hoede:
@@ -1374,7 +1374,7 @@ G_M2_09_111 Hāt en̄ mōt hi daʼ toe biedt:
 G_M2_09_112 Hi bidt hi claecht sij̄ vʼdriet:
 G_M2_09_113 Natꝛe ē wouts nᵗ gehīgē:
 G_M2_09_114 Dꝫ hē cōste gehulpē iet:
-G_M2_09_115 Hi doelde also hi selue siet:
+G_M2_09_115 Hi doelde also hi ghi selue siet ghiet:
 G_M2_09_116 Hine cōste sij̄ hʼte bedwīgen:
 G_M2_09_117 Hine sterf bi desē dīgē:
 
@@ -1396,7 +1396,7 @@ G_M2_10_130 Al was de redene vᵒedʼ:
 
 G_M2_11_131 Exempel vīdic sondʼ getal:
 G_M2_11_132 Die mꝫ mi soudē lien al:
-G_M2_11_133 Dꝫ ic hare dleuē gaue:
+G_M2_11_133 Dꝫ ic hare dleuē gauen̶:
 G_M2_11_134 Die mi thʼte roefde en̄ stal:
 G_M2_11_135 Jacop ē maect mi geen gescal:
 G_M2_11_136 Hier ē schedics nᵗ aue:
@@ -1459,7 +1459,7 @@ G_M2_15_184 Sine amie verheffē began:
 G_M2_15_185 Hare bouē harre vᵒuwē:
 G_M2_15_186 Daer ē was geen houdē an:
 G_M2_15_187 Hi deedse wech ō redene daʼ van:
-G_M2_15_188 Sij̄ hʼte was voltrouwen:
+G_M2_15_188 Sij̄ hʼten̶ was voltrouwen:
 G_M2_15_189 Negeen heilech man noch wijf ē cā:
 G_M2_15_190 Ghemīnē sonder redene dan:
 G_M2_15_191 Dꝫ mach mē wel bescouwen:
@@ -1491,7 +1491,7 @@ G_M2_17_209 Iacob ocht gi nᵗ en acht:
 G_M2_17_210 Exēple die ic vort hebbe bᵃcht:
 G_M2_17_211 So willic tʼ bybelē kerē:
 G_M2_17_212 Die m hadde op adame macht:
-G_M2_17_213 Si uʼwan mꝫ harre cᵃcht:
+G_M2_17_213 Si uʼwan̶ne mꝫ harre cᵃcht:
 G_M2_17_214 Den vᵒemstē van allē hʼen:
 G_M2_17_215 Vā hē si wi alle gewᵃcht:
 G_M2_17_216 So eest recht dꝫ hem elc slacht:
@@ -1621,7 +1621,7 @@ G_M2_25_317 En̄ hi geeft ōs themelsche bᵒet:
 G_M2_25_318 Op dꝫ mēne weder mīne:
 G_M2_25_319 Om ne geenē weder stoet:
 G_M2_25_320 Daer ōs sonde ie mede scoet:
-G_M2_25_321 En laet hi ōs daʼ īne:
+G_M2_25_321 End̶e̶ laet hi ōs daʼ īne:
 G_M2_25_322 Leggē wi thoeft ī sinē scoꝫ:
 G_M2_25_323 Soudt si smakē dan die doot:
 G_M2_25_324 Die ic mi so hout kīne:
@@ -1632,7 +1632,7 @@ G_M2_26_326 En tᵒuwē iacob dit es waʼ:
 G_M2_26_327 Mʼ mi was te vīdene swaʼ:
 G_M2_26_328 Dattu mi heefs ōtbōdē:
 G_M2_26_329 Jc lie uʼwōnē oppēbaʼ:
-G_M2_26_330 Mine m es sielē swaʼ:
+G_M2_26_330 Mine m es sielē swaʼ vaer:
 G_M2_26_331 En̄ besmet mꝫ sondē:
 G_M2_26_332 Du segs daʼ ane wel en̄ waʼ:
 G_M2_26_333 Redene heeft minē waen ōmaʼ:
@@ -1705,7 +1705,7 @@ G_M3_04_046 Du soecs mi ī allē hoekē:
 G_M3_04_047 Mꝫ rimen sonder valschᵗ vlas vā doekē:
 G_M3_04_048 Es dit goꝫ ic wane neent:
 G_M3_04_049 Du tels mi mettē wisen cloekē:
-G_M3_04_050 Waʼt goꝫ ic soudʼ di ō vloekē:
+G_M3_04_050 Waʼt goꝫ ic soudʼ di ō vlon̶ekē:
 G_M3_04_051 Jc wane dij̄ hʼte meent:
 G_M3_04_052 Dattu mi heefs vʼbeent:
 
@@ -1722,7 +1722,7 @@ G_M3_05_058 Te verre nᵗ ē doech gesocht:
 G_M3_05_059 Al waʼt dꝫ alle dīge qᵃmē:
 G_M3_05_060 Sine cōstē die godheit nᵗ geramē:
 G_M3_05_061 Dits elkē af gecnocht:
-G_M3_05_062 Mʼ leere minē cᵃnckē sin minē lamen:
+G_M3_05_062 Mʼ leere minē cᵃnckē sin m̶i̶n̶ē̶ lamen:
 G_M3_05_063 Ghewōt mettʼ sondē bramē:
 G_M3_05_064 Vā dattu vʼmocht:
 G_M3_05_065 So es mij̄ wille volbᵒcht:
@@ -1911,7 +1911,7 @@ G_M3_17_214 Sij̄ dese enege drie:
 G_M3_17_215 Redene dᵃecht hier mꝫ die cᵒene:
 G_M3_17_216 Mʼ tgeloeue sonder hone:
 G_M3_17_217 Dat ē twiuelde nie:
-G_M3_17_218 Wat erē hadde wijs ofte wat loene:
+G_M3_17_218 Wan̶t erē hadde wijs ofte wat loene:
 G_M3_17_219 Dꝫ wi die nᵗ ē dogē ene boene:
 G_M3_17_220 Gheloefdē dꝫ elc sie:
 G_M3_17_221 Nu ātwʼdt mi en̄ gie:
@@ -1932,7 +1932,7 @@ G_M3_18_233 Nu ātwʼt mi bat voert:
 G_M3_18_234 Op dꝫ ics nᵗ ē hebbe vʼboʼt:
 
 
-G_M3_19_235 Ane dē vadʼ vā hemelrike:
+G_M3_19_235 Ane dē van̶dʼ vā hemelrike:
 G_M3_19_236 En̄ ane dē sone dies gelike:
 G_M3_19_237 En̄ aen den heilegē geest:
 G_M3_19_238 Es mij̄ geloeue also rike:
@@ -1943,7 +1943,7 @@ G_M3_19_239 Dat een god es diē ic wike:
 G_M3_19_240 Hoe dꝫ ic wʼde gevreest:
 G_M3_19_241 Mʼ segt mi so claʼ dꝫ hꝫ blike:
 G_M3_19_242 Hoe die sone die eewelike:
-G_M3_19_243 Dē vader es alre meest:
+G_M3_19_243 Dē van̶der es alre meest:
 G_M3_19_244 Mēschᵗ ōtfīc vā onsē slike:
 G_M3_19_245 Dꝫ di de gene nᵗ ē beswike:
 G_M3_19_246 En̄ hi di doe volleest:
@@ -2135,7 +2135,7 @@ G_M3_31_398 Hebbic bi di dꝫ v god loene:
 G_M3_31_399 Scone berecht vʼvreescht:
 G_M3_31_400 Dies dancke di die martilie vᵒne:
 G_M3_31_401 Daʼ bouē ī dē hogē tᵒne:
-G_M3_31_402 En̄ geue di volleest:
+G_M3_31_402 En̄ geuen̶ di volleest:
 G_M3_31_403 Dattuere moets comē ōgevreest:
 
 

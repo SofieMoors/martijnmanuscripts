@@ -62,7 +62,7 @@ W_M3_04_046 Du soecs mi ī allen hoeken
 W_M3_04_047 Met rimen sonder vlas vā doekē
 W_M3_04_048 Es dit goet ic wane neent
 W_M3_04_049 Du tels mi mettē wisē cloekē
-W_M3_04_050 Waer tgoꝫ ic soudʼ +di om vloekē
+W_M3_04_050 Waer tgoꝫ ic soudʼ di om vloekē
 W_M3_04_051 Jc wane dine herte meent
 W_M3_04_052 Dattu mi heefs verbeent
 
@@ -76,7 +76,7 @@ W_M3_05_058 Te vʼre nᵗ en doech gesocht
 W_M3_05_059 Al waert dat alle dīge quamē
 W_M3_05_060 Sine cōstē de godhᵗ niet geramē
 W_M3_05_061 Dits elken afgecnocht
-W_M3_05_062 Maʼ leere minē crankē sin +minē lamē
+W_M3_05_062 Maʼ leere minē crankē sin minē lamē
 W_M3_05_063 Ghewōdt metter sondē bramen
 W_M3_05_064 Van dattu vermocht
 W_M3_05_065 So es mijn wille volbrocht
@@ -153,7 +153,7 @@ W_M3_10_122 Soe gᵒt ē noemē no so cleenē :
 W_M3_10_123 Dattʼ iemē es meest
 W_M3_10_124 Enē god seggē wi enē reenen
 W_M3_10_125 Noch vervoecht no verbeenen:
-W_M3_10_126 En esser +ane vʼvʼescht
+W_M3_10_126 En esser ane vʼvʼescht
 W_M3_10_127 Die sinen sin soe laet versteenen
 W_M3_10_128 Dat hi des loechent hi moet weenen
 W_M3_10_129 En̄ eweleke sij̄ gevreest :

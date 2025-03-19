@@ -310,7 +310,7 @@ Br_M1_54_702 Op dꝫ natuere woude
 
 
 Br_M1_55_703 Therte sweech doge sprac
-Br_M1_55_704 Jc wane dꝫ v sms gebrac
+Br_M1_55_704 Jc wane dꝫ v sins gebrac
 Br_M1_55_705 Vrouwe coninghinne
 Br_M1_55_706 Dꝫ ghi mi tijt v ongemac
 Br_M1_55_707 Want mi noit tuwʼt lac

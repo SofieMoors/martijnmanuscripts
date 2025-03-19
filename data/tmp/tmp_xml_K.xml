@@ -16,17 +16,60 @@
             <idno>Best. 701 Nr. 262</idno>
             <msName>K</msName>
           </msIdentifier>
- <p>...</p>
+<msContents>
+<msItem>
+<locus from="173r" to="173r"/>
+<title>Martijn Trilogy</title>
+<author>Jacob van Maerlant</author>
+</msItem>
+</msContents>
+
+<head>
+<title>Jacob van Maerlant, Martijn Trilogy</title>
+<origDate notBefore="1380" notAfter="1400">1380-1400</origDate>
+<origPlace>Brabant</origPlace>
+</head>
+<physDesc>
+<objectDesc form="excerpt">
+                     <supportDesc material="paper">
+                        <support>
+                           <num type="front-flyleaf" value=""/>
+                           <num type="book-block" value="14"/>
+                           <num type="end-flyleaf" value=""/>
+                           <dimensions type="leaf fragmented">
+                              <height unit="mm" quantity="210"/>
+                              <width unit="mm" quantity="145"/>
+                           </dimensions>
+                        </support>
+                     <foliation>modern foliation in pencil in Arabic numbers (1-182)</foliation>
+                     <collation>1VII-1(174)</collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="2" writtenLines="45" ruledLines="">
+                           <dimensions type="written">
+                              <height unit="mm" quantity="175"/>
+                              <width unit="mm" quantity="110"/>
+                           </dimensions>
+			<dimensions type="line">
+                           <height unit="mm" min="" max=""/>
+                           </dimensions>
+			<catchwords></catchwords>
+                           <signatures></signatures>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc hands="1">
+                     <handNote script="gothic cursive">the Martijn Trilogy is written in gothic cursiva by a single hand</handNote>
+                  </handDesc>
+                  <decoDesc>
+                   <decoNote>lombardic capital letters as strophic separation</decoNote>
+                  </decoDesc>
+                  <additions><p>convolute of 3 manuscripts; 182 leafs/</p><p>1IV(8);1V-1(17);3V(27);4VII(41);5VII-5(50);6-7VI(74);8VII(88);9VI(96);10VII(110);11VI(122);12VII(136);14IV(144);15III(149);16VI(161);17VII-1(174);18IV(182)</p></additions>
+               </physDesc>
         </msDesc>
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
- <charDecl><char xml:id="rrot">
-                <charName>LATIN SMALL LETTER R ROTUNDA</charName>
-                <mapping type="junicode">ꝛ</mapping>
-                <mapping type="mufi">ꝛ</mapping>
-                <mapping type="standard">ꝛ</mapping>
-            </char></charDecl>
             <xi:include href="http://www.huygensinstituut.knaw.nl/projecten/mvn/webfiles/charDecl.xml"  
                 xmlns:xi="http://www.w3.org/2001/XInclude">
                 <xi:fallback>
@@ -107,8 +150,8 @@
 <lb n="1" xml:id="Kf173rb.1"/><l n="K_M1_63_811"><choice><abbr>jnd<g ref="#apomod"/></abbr><expan>jnd<ex>er</ex></expan></choice> reynre magheden vat</l>
 <lb n="2" xml:id="Kf173rb.2"/><l n="K_M1_63_814"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> doghede <choice><abbr>menighe<g ref="#bar"/></abbr><expan>menighe<ex>n</ex></expan></choice> gods hat</l>
 <lb n="3" xml:id="Kf173rb.3"/><l n="K_M1_63_815">van sinen onghelike</l>
-<lb n="4" xml:id="Kf173rb.4"/><l n="K_M1_63_816">die armoede dats .i. pat</l>
-<lb n="5" xml:id="Kf173rb.5"/><l n="K_M1_63_817">die dor den hemel maect .i. gat</l>
+<lb n="4" xml:id="Kf173rb.4"/><l n="K_M1_63_816">die armoede dats <num type="roman">.i.</num> pat</l>
+<lb n="5" xml:id="Kf173rb.5"/><l n="K_M1_63_817">die dor den hemel maect <num type="roman">.i.</num> gat</l>
 <lb n="6" xml:id="Kf173rb.6"/><l n="K_M1_63_818"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> so niet en beswike</l>
 <lb n="7" xml:id="Kf173rb.7"/><l n="K_M1_63_819">die <choice><abbr>ha<g ref="#apomod"/></abbr><expan>ha<ex>er</ex></expan></choice> met <choice><abbr>trouwe<g ref="#bar"/></abbr><expan>trouwe<ex>n</ex></expan></choice> wike</l>
 </lg>
@@ -129,7 +172,7 @@
 </lg>
 <lg type="stanza" n="65">
 <lb n="21" xml:id="Kf173rb.21"/><l n="K_M1_65_833"><hi rend="capitalsize1">N</hi>iet en seggic dat <choice><abbr>rijch<hi rend="superscript">t</hi></abbr><expan>rijch<ex>eit</ex></expan></choice> sent</l>
-<lb n="22" xml:id="Kf173rb.22"/><l n="K_M1_65_834">dus</l>
+<lb n="22" xml:id="Kf173rb.22"/><l n="K_M1_65_834"><choice><abbr><hi rend="capitalsize1">D</hi><g ref="#bar"/>n<g ref="#bar"/>s</abbr><expan><hi rend="capitalsize1">D</hi><ex>omi</ex>n<ex>u</ex>s</expan></choice></l>
 </lg>
 </p>
 </body>

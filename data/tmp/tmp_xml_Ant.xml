@@ -14,17 +14,60 @@
             <idno>MAG-P 64.20</idno>
             <msName>Ant</msName>
           </msIdentifier>
- <p>...</p>
+<msContents>
+<msItem>
+<locus from="1r" to="12v"/>
+<title>Martijn Trilogy</title>
+<author>Jacob van Maerlant</author>
+</msItem>
+</msContents>
+<physDesc>
+<objectDesc form="single-quire-manuscript">
+                     <supportDesc material="perch">
+                        <support>
+			 <num type="front-flyleaf" value="0"/>
+                           <num type="book-block" value="12"/>
+			<num type="end-flyleaf" value="0"/>
+                           <dimensions type="leaf_fragmented">
+                              <height unit="mm" quantity="142"/>
+                              <width unit="mm" quantity="31"/>
+                           </dimensions>
+                        </support>
+                     <foliation></foliation>
+                     <collation>1VI(12)</collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="2" writtenLines="38" ruledLines="">
+                           <dimensions type="written">
+                              <height unit="mm" quantity="190"/>
+                              <width unit="mm" quantity=""/>
+                           </dimensions>
+                           <dimensions type="line">
+                           <height unit="mm" min="5" max="5"/>
+                           </dimensions>
+			<catchwords></catchwords>
+                           <signatures></signatures>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc hands="1">
+                     <handNote script="littera textualis">the Martijn Trilogy is written in littera textualis by a single hand</handNote>
+                  </handDesc>
+                  <decoDesc>
+                 <decoNote>plain initials (red), colour-stroking (red)</decoNote>
+                  </decoDesc>
+                  <additions><p>reconstruction, only part of f.5 remains</p></additions>
+               </physDesc>
+<history>
+<origin>
+<origDate>1400</origDate>
+<origPlace>Low Countries</origPlace>
+</origin>
+</history>
         </msDesc>
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
- <charDecl><char xml:id="rrot">
-                <charName>LATIN SMALL LETTER R ROTUNDA</charName>
-                <mapping type="junicode">ꝛ</mapping>
-                <mapping type="mufi">ꝛ</mapping>
-                <mapping type="standard">ꝛ</mapping>
-            </char></charDecl>
             <xi:include href="http://www.huygensinstituut.knaw.nl/projecten/mvn/webfiles/charDecl.xml"  
                 xmlns:xi="http://www.w3.org/2001/XInclude">
                 <xi:fallback>
@@ -159,7 +202,7 @@
 <lb n="13" xml:id="Antf5va.13"/><l n="Ant_M1_54_694"><damage><gap></gap></damage>uus <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> lant</l>
 <lb n="14" xml:id="Antf5va.14"/><l n="Ant_M1_54_695"><damage><gap></gap></damage> houde</l>
 <lb n="15" xml:id="Antf5va.15"/><l n="Ant_M1_54_696"><damage><gap></gap></damage>en bant</l>
-<lb n="16" xml:id="Antf5va.16"/><l n="Ant_M1_54_697"><damage><gap></gap></damage>n .I. sant</l>
+<lb n="16" xml:id="Antf5va.16"/><l n="Ant_M1_54_697"><damage><gap></gap></damage>n <num type="roman">.I.</num> sant</l>
 <lb n="17" xml:id="Antf5va.17"/><l n="Ant_M1_54_698"><damage><gap></gap></damage>ude</l>
 <lb n="18" xml:id="Antf5va.18"/><l n="Ant_M1_54_699"><choice><abbr><damage><gap></gap></damage>metterha<g ref="#bar"/>t</abbr><expan><damage><gap></gap></damage>metterha<ex>n</ex>t</expan></choice></l>
 <lb n="19" xml:id="Antf5va.19"/><l n="Ant_M1_54_700"><choice><abbr><damage><gap></gap></damage>lke<g ref="#bar"/></abbr><expan><damage><gap></gap></damage>lke<ex>n</ex></expan></choice> pant</l>

@@ -350,7 +350,7 @@ C_M3_22_286 daer hi af was blent.
 
 C_M3_23_287 Die godszoene zach den man vʼraden
 C_M3_23_288 en̄ den viant van ouerdaden
-C_M3_23_289 in roeme e zeer groet
+C_M3_23_289 in roeme zeer groet
 C_M3_23_290 en̄ wil hem staen in staden
 C_M3_23_291 zo dat hi bi zier ghenaden
 C_M3_23_292 marien dat ontboet
@@ -418,7 +418,7 @@ C_M3_27_342 hi troeste zine lieue keytiue
 C_M3_27_343 hier twe: hier drie. hier vier. hier viue
 C_M3_27_344 met hem hi eten quam
 C_M3_27_345 dus is die godsoene alsic scriue
-C_M3_27_346 god en̄ mensche elc man bliue
+C_M3_27_346 god en̄ mensche elc v̶man bliue
 C_M3_27_347 in desen ghehoersam
 C_M3_27_348 is enich zin so stiue
 C_M3_27_349 die jeghen dit gheloue kiue
@@ -440,7 +440,7 @@ C_M3_28_361 zonne en̄ mane zal hi verclaren
 
 
 C_M3_28_362 die bi adaem verdonkert waren
-C_M3_28_363 locht water en̄ lant
+C_M3_28_363 lo̶vcht water en̄ lant
 C_M3_28_364 zal purgeren een brant.
 
 

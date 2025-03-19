@@ -134,7 +134,7 @@ B_M1_09_105 Wat zal seighel en̄ was
 B_M1_09_106 En̄ brieuē die ghewaghē das
 B_M1_09_107 Van dat lantsherē gheuē
 B_M1_09_108 Hets al niet ende een ghedwas
-B_M1_09_109 Also lief had mi een tsas tsas
+B_M1_09_109 Also lief had mi een t̶s̶a̶s̶ tsas
 B_M1_09_110 Off een vriese bescreuē
 B_M1_09_111 Trouwe es broschʼ dan glas
 B_M1_09_112 Die hier te voren so starc was
@@ -187,7 +187,7 @@ B_M1_12_149 Wiltu den duuel makē
 B_M1_12_150 Wat heeft dine hʼte becort
 B_M1_12_151 Dattu helts an leggher boirt
 B_M1_12_152 Die papen sullent smake
-B_M1_12_153 So vʼt wʼtstu vʼbrant of vʼsmoirt
+B_M1_12_153 So v̶ʼt wʼtstu vʼbrant of vʼsmoirt
 B_M1_12_154 Inne en gaue om dijn ziel nᵗ I toirt
 B_M1_12_155 Men mach mit sulken sakē
 B_M1_12_156 Gode niet genakē
@@ -247,7 +247,7 @@ B_M1_16_198 Soude ic di gairne vraghen
 B_M1_16_199 Twi sijn die sondē gode so leet
 B_M1_16_200 Dat hi es den sondare so heet
 B_M1_16_201 Met wraken en̄ mit plaghen
-B_M1_16_202 Want gheen sondair in sondē ste# et
+B_M1_16_202 Want gheen sondair in sondē steet
 B_M1_16_203 Langhʼ dan sijn lijf es breet
 B_M1_16_204 Twi tormentē hine met slaghē
 B_M1_16_205 Ewelike sondʼ vʼsceet
@@ -403,7 +403,7 @@ B_M1_25_325 Brochten in desen wene
 
 B_M1_26_326 Iacop dijn vraghen es zwair
 B_M1_26_327 Doch prouftmē mit redenen clair
-B_M1_26_328 clair Drierande minne
+B_M1_26_328 c̶l̶a̶i̶r̶ Drierande minne
 B_M1_26_329 Deerste es caritate dats wair
 B_M1_26_330 Die es sondʼ pine en̄ vaer
 B_M1_26_331 Ende dair woent god inne
@@ -456,7 +456,7 @@ B_M1_29_368 Dits die mīne die dickē doet
 B_M1_29_369 Riddʼscap wesen vʼwoet
 B_M1_29_370 Ende dē woukʼ eere
 B_M1_29_371 Want die riddeʼ niet gheuroet
-B_M1_29_372 Hi vʼsleet verslijt vleesch en̄ bloet
+B_M1_29_372 Hi v̶ʼsleet verslijt vleesch en̄ bloet
 B_M1_29_373 Vp dat zijn prijs niet mere
 
 
@@ -600,7 +600,7 @@ B_M1_38_485 Want heeft een personier gheplect
 B_M1_38_486 Ende dē liedē thare ontpect
 B_M1_38_487 Hi wille sondʼ merre
 B_M1_38_488 Ondʼ deydele sijn ghetrect
-B_M1_38_489 Al ware hi m . vout beulect
+B_M1_38_489 Al ware hi m. vout beulect
 B_M1_38_490 Tghelt claerstene vandē sterre
 B_M1_38_491 Dits die dinc die liedē wect
 B_M1_38_492 Dat menich zin te winne trect
@@ -645,7 +645,7 @@ B_M1_41_521 Martin thoude loy vʼtelt
 B_M1_41_522 Dat van onrechtʼ ghewelt
 B_M1_41_523 Eyghendom es comē
 B_M1_41_524 Als een pʼnche wan wijch op tvelt
-B_M1_41_525 Tvolc datmē te liue helt d
+B_M1_41_525 Tvolc datmē te liue helt d̶
 B_M1_41_526 Dat deide hi vʼdomē
 B_M1_41_527 Ende vʼcopen om ghelt
 B_M1_41_528 Dits volc datmē eyghen scelt
@@ -656,7 +656,7 @@ B_M1_41_532 Den meneghen te onvromē
 B_M1_41_533 Ende te ōnerē hē somen
 
 
-B_M1_42_534 God ghehinghet ōme de mis#daet
+B_M1_42_534 God ghehinghet ōme de misdaet
 B_M1_42_535 Dat een gheslachte neidʼ gaet
 
 
@@ -791,12 +791,12 @@ B_M1_50_638 Wairhede iacop ic heb vʼstaen
 B_M1_50_639 Dattet wair is sondʼ waen
 B_M1_50_640 Dattu hier heefs ontbonden
 B_M1_50_641 Goets es genoich lietment gaē
-B_M1_50_642 gaen Int gheemeē en̄ hē ōtfaen
+B_M1_50_642 g̶a̶e̶n̶ Int gheemeē en̄ hē ōtfaen
 B_M1_50_643 Die airme worden vondē
 B_M1_50_644 So vele alle oirloghe zaen
 B_M1_50_645 So mochtmē de ziele dwaen
 B_M1_50_646 En̄ claerse vandē zonden
-B_M1_50_647 Miltheit heeft hare macht gedi/aen
+B_M1_50_647 Miltheit heeft hare macht gedaen
 B_M1_50_648 Vrecheit leert die weʼlt vlaen
 B_M1_50_649 Dat prouen en̄ orconden
 B_M1_50_650 Die minres vandē ponden
@@ -908,7 +908,7 @@ B_M1_57_735 Baensculdich so de hʼte stelt
 B_M1_57_736 Als diese ouer voeghet helt
 B_M1_57_737 Ende vrouwe bi harē ede
 B_M1_57_738 Mʼ des gheualles ghewelt
-B_M1_57_739 Dat bi sine thʼte ghe dwelt
+B_M1_57_739 Dat bi sine thʼte g̶h̶e̶ dwelt
 B_M1_57_740 Tiet so des oghen ghelede
 B_M1_57_741 Dus deelt so de vede
 
@@ -1082,7 +1082,7 @@ B_M1_68_875 Want eua viel dē eerstē val
 B_M1_68_876 Dair wi ōme int erdsche dal
 B_M1_68_877 Noch alle zijn vʼdreuē
 B_M1_68_878 So segghen si dat groot en̄ smal
-B_M1_68_879 Dat so adaem thʼte stal die
+B_M1_68_879 Dat so adaem thʼte stal d̶i̶e̶
 B_M1_68_880 Die hē hare liet vʼgheuē
 B_M1_68_881 Segt my wiement tyen sal
 B_M1_68_882 Dit vʼlies sondʼ getal
@@ -1584,7 +1584,7 @@ B_M2_24_304 So die hē niet mīnē heet
 B_M2_24_305 Onderdaen es bleuē
 B_M2_24_306 Jc dart wel segghē vp minē eet
 B_M2_24_307 Sine houescheit ware onghecleet
-B_M2_24_308 Liete hi dē gonē sneuē
+B_M2_24_308 I̶ Liete hi dē gonē sneuē
 B_M2_24_309 Die al te zinē dienste steet
 B_M2_24_310 Des ghelijcs wil ic ghereet
 B_M2_24_311 Den loon hair wedʼ gheuē
@@ -1707,7 +1707,7 @@ B_M3_05_065 So es mijn wille volbrocht
 
 
 B_M3_06_066 Mairtijn nv merct in dinē zinne
-B_M3_06_067 God es een wisen wesē vor alle begīne
+B_M3_06_067 God es een w̶i̶s̶e̶n̶ wesē vor alle begīne
 B_M3_06_068 Tedelste bouē al
 B_M3_06_069 Sijn wesen es als ict bekinne
 
@@ -1765,7 +1765,7 @@ B_M3_09_109 Want hē ne moeyt rustē no jaghen.
 B_M3_09_110 Sijn wesen es so vast
 B_M3_09_111 Butē ne breet nauwʼ sine daghē
 B_M3_09_112 Want hi es altois sondʼ vraghen
-B_M3_09_113 Werdt g voghet en̄ met gast
+B_M3_09_113 Werdt g̶ voghet en̄ met gast
 B_M3_09_114 Binnē vʼuolt hijt jeghen plaghē
 B_M3_09_115 Dat zijn werc met ghenē vlaghē
 B_M3_09_116 Ne sijn ongherast
@@ -1795,7 +1795,7 @@ B_M3_11_135 Van hē ghewonnē als wijt horē
 B_M3_11_136 Eer oyt beghin ghinc jn
 B_M3_11_137 Den heilighen gheest lerē wi de doren
 B_M3_11_138 Wte desen comēde ondoe sine oren
-B_M3_11_139 Elc mensche zine en̄ zinē sin
+B_M3_11_139 Elc mensche z̶i̶n̶e̶ en̄ zinē sin
 B_M3_11_140 En̄ latet gheloue niet te storen
 B_M3_11_141 Want al hadt alde weʼlt ghezworē
 B_M3_11_142 So en conde ōme gheen ghewin
@@ -1888,7 +1888,7 @@ B_M3_17_210 Dits een god in drien ꝑsone
 B_M3_17_211 Dair ic of spreke die
 B_M3_17_212 Euen gheweldich euen scone
 B_M3_17_213 Euē ghelijc in weʼlt in throne
-B_M3_17_214 ne Sijn dese enighe drie
+B_M3_17_214 n̶e̶ Sijn dese enighe drie
 B_M3_17_215 Redene en draecht hier nᵗ de crone
 B_M3_17_216 Mʼ tgheloue sondʼ hone
 B_M3_17_217 Des en twifele nie
@@ -2031,7 +2031,7 @@ B_M3_26_326 Die mēscheit liet hair besnidē
 B_M3_26_327 Dopē prouuen in dien tydē
 B_M3_26_328 Vandē helschē viant
 B_M3_26_329 So liet hi hare vaen en̄ beniden
-B_M3_26_330 Doirborē handē en̄ v voetē en zidē
+B_M3_26_330 Doirborē handē en̄ v̶ voetē en zidē
 B_M3_26_331 So starf dus est becant
 B_M3_26_332 Die ziele wilde tʼ hellē tiden
 B_M3_26_333 Dair ze de gone wilde vʼblidē
@@ -2144,7 +2144,7 @@ B_M3_33_419 Leert hi blide zijn
 B_M3_33_420 Hi es in pinē altois feeste
 B_M3_33_421 Hi doet meneghen die was beeste
 B_M3_33_422 Sijn zuuer en̄ fijn
-B_M3_33_423 Waphene god die dat b vʼheeste
+B_M3_33_423 Waphene god die dat b̶ vʼheeste
 B_M3_33_424 Dat hi van sinē vulleeste
 B_M3_33_425 Smaicte een dropelkijn
 B_M3_33_426 Hi ware gode die alre neeste

@@ -133,8 +133,8 @@ L_M1_08_104 [...]iere moort mꝫ wrochte
 L_M1_09_105 [...]segel en̄ was
 L_M1_09_106 [...] brieue die gewaegē das
 L_M1_09_107 [...] lantsherē gheuen
-L_M1_09_108 [...] l niet dā ghedwas
-L_M1_09_109 [...] f hadt mi eē sas
+L_M1_09_108 [...]l niet dā ghedwas
+L_M1_09_109 [...]f hadt mi eē sas
 L_M1_09_110 [...] vriese bescreuen
 L_M1_09_111 [...] es broescher dā gelas
 L_M1_09_112 [...]en soe sterc was

@@ -136,7 +136,7 @@ Z_M1_36_461 Neēt wistict wiē clagē
 Z_M1_36_462 Mʼtē vriēt wꝫ hulpt geclagꝫ
 Z_M1_36_463 Vragꝫ dꝫtu wils ic vʼdragꝫ
 Z_M1_36_464 Ic wilt al vʼdragen
-Z_M1_36_465 God hulpe mi wāt hi ver#macht
+Z_M1_36_465 God hulpe mi wāt hi vermacht
 Z_M1_36_466 Dꝫ mij̄ sin wʼde gevaget
 Z_M1_36_467 Dꝫ di moet behagen
 Z_M1_36_468 Ic wille danwʼde wagē
@@ -384,7 +384,7 @@ Z_M2_12_149 Alse hijs hē w...e bewīden
 Z_M2_12_150 Laet mi genakē uwē cāt
 Z_M2_12_151 Mē sal v wijshᵗ te hant
 Z_M2_12_152 Tellē mꝫten kinden
-Z_M2_12_153 Alsoe vele als diedē mach .j.// //sant
+Z_M2_12_153 Alsoe vele als diedē mach .j. // //sant
 Z_M2_12_154 Jegē casselbʼch in vlaēdʼlant
 Z_M2_12_155 Sal diedē hʼ v vinden
 Z_M2_12_156 Al waēdi mi vʼblinden

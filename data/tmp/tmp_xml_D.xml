@@ -16,17 +16,61 @@
             <idno>150 F 40 </idno>
             <msName>Antwerpse druk, Hendrik den Lettersnider, D</msName>
           </msIdentifier>
- <p>...</p>
+<msContents>
+<msItem>
+<locus from="1r" to="44r"/>
+<title>Martijn Trilogy</title>
+<author>Jacob van Maerlant</author>
+</msItem>
+</msContents>
+
+
+<physDesc>
+<objectDesc form="incunable">
+                     <supportDesc material="paper">
+                        <support>
+                           <num type="front-flyleaf" value="1"/>
+                           <num type="book-block" value="44"/>
+                           <num type="end-flyleaf" value="1"/>
+                           <dimensions type="leaf">
+                              <height unit="mm" quantity="128"/>
+                              <width unit="mm" quantity="95"/>
+                           </dimensions>
+                        </support>
+                     <foliation>modern foliation in pencil in Arabic numbers (1-44)</foliation>
+                     <collation>1-5IV(40);6II(44)</collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="1" writtenLines="21" ruledLines="">
+                           <dimensions type="written">
+                              <height unit="mm" quantity="103"/>
+                              <width unit="mm" quantity="62"/>
+                           </dimensions>
+			<dimensions type="line">
+                           <height unit="mm" min="" max=""/>
+                           </dimensions>
+			<catchwords></catchwords>
+                           <signatures>ai (f.1), bi (f.9), bii (f.10), ci (f.17), bij (f.18), di (f.25), dij (f.26), ei (f. 33), fi (f. 41)</signatures>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <typeDesc><typeNote>98G, M75</typeNote></typeDesc>
+                  <decoDesc>
+                   <decoNote>handwritten initial (red); capital letters as strophic separation; colour-stroking first letters (red)</decoNote>
+                   <decoNote><watermark>WM I 55476 shield, three lilies, crown, quatrefoil; WM I 55477 wheel, single line</watermark></decoNote>
+                  </decoDesc>
+                  <additions><p></p></additions>
+               </physDesc>
+
+<history>
+<origin>
+<origDate>1496</origDate>
+<origPlace>Antwerp</origPlace>
+</origin></history>
         </msDesc>
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
- <charDecl><char xml:id="rrot">
-                <charName>LATIN SMALL LETTER R ROTUNDA</charName>
-                <mapping type="junicode">ꝛ</mapping>
-                <mapping type="mufi">ꝛ</mapping>
-                <mapping type="standard">ꝛ</mapping>
-            </char></charDecl>
             <xi:include href="http://www.huygensinstituut.knaw.nl/projecten/mvn/webfiles/charDecl.xml"  
                 xmlns:xi="http://www.w3.org/2001/XInclude">
                 <xi:fallback>
@@ -2217,7 +2261,7 @@
 <lb n="2" xml:id="Df40v.2"/><l n="D_M3_27_340"><hi rend="capitalsize1">T</hi>vleesch dat hi vanden <choice><abbr>reyne<g ref="#bar"/></abbr><expan>reyne<ex>n</ex></expan></choice> wiue</l>
 <lb n="3" xml:id="Df40v.3"/><l n="D_M3_27_341"><hi rend="capitalsize1">V</hi>rouwe marien nam</l>
 <lb n="4" xml:id="Df40v.4"/><l n="D_M3_27_342"><hi rend="capitalsize1">H</hi>i troeste sinen lieue keytiue.</l>
-<lb n="5" xml:id="Df40v.5"/><l n="D_M3_27_343"><hi rend="capitalsize1">H</hi>ier .ij. hier .iij. hier .iiij. hier viue.</l>
+<lb n="5" xml:id="Df40v.5"/><l n="D_M3_27_343"><hi rend="capitalsize1">H</hi>ier <num type="roman">.ij.</num> hier <num type="roman">.iij.</num> hier <num type="roman">.iiij.</num> hier viue.</l>
 <lb n="6" xml:id="Df40v.6"/><l n="D_M3_27_344"><hi rend="capitalsize1">M</hi>et hem hy eten quam</l>
 <lb n="7" xml:id="Df40v.7"/><l n="D_M3_27_345"><hi rend="capitalsize1">D</hi>us is die gods sone als ick schriue</l>
 <lb n="8" xml:id="Df40v.8"/><l n="D_M3_27_346"><hi rend="capitalsize1">G</hi>od ende mensche elck man bliue:</l>

@@ -17,17 +17,61 @@
             <idno>HS 200 (olim: HS. 362a, 83) </idno>
             <msName>E</msName>
           </msIdentifier>
- <p>...</p>
+<msContents>
+<msItem>
+<locus from="1r" to="10v"/>
+<title>Martijn Trilogy</title>
+<author>Jacob van Maerlant</author>
+</msItem>
+</msContents>
+<physDesc>
+<objectDesc form="single-quire-manuscript">
+                     <supportDesc material="perch">
+                        <support>
+                           <num type="front-flyleaf" value="0"/>
+                           <num type="book-block" value="10"/>
+                           <num type="end-flyleaf" value="0"/>
+                           <dimensions type="leaf fragmented">
+                              <height unit="mm" quantity="215"/>
+                              <width unit="mm" quantity="174"/>
+                           </dimensions>
+                        </support>
+                     <foliation>numbers in black ink from F.J. Mone</foliation>
+                     <collation>1V(10)</collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="2" writtenLines="46" ruledLines="">
+                           <dimensions type="written">
+                              <height unit="mm" quantity="195"/>
+                              <width unit="mm" quantity="140"/>
+                           </dimensions>
+                           <dimensions type="line">
+                           <height unit="mm" min="" max=""/>
+                           </dimensions>
+                           <catchwords></catchwords>
+                           <signatures></signatures>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc hands="1">
+                     <handNote script="littera textualis">the Martijn Trilogy is written in littera textualis by a single hand</handNote>
+                  </handDesc>
+                  <decoDesc>
+                 <decoNote>initial (red); title (red); lombardic capital letters as strophic separation (red), colour-stroking (red) first letters</decoNote>
+                  </decoDesc>
+                  <additions><p>reconstruction, only part of f.3/8 remains</p><p>(description from https://handschriftencensus.de/10538)</p></additions>
+               </physDesc>
+
+<history>
+<origin>
+<origDate>1375-1400</origDate>
+<origPlace>Flanders</origPlace>
+</origin>
+</history>
         </msDesc>
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
- <charDecl><char xml:id="rrot">
-                <charName>LATIN SMALL LETTER R ROTUNDA</charName>
-                <mapping type="junicode">ꝛ</mapping>
-                <mapping type="mufi">ꝛ</mapping>
-                <mapping type="standard">ꝛ</mapping>
-            </char></charDecl>
             <xi:include href="http://www.huygensinstituut.knaw.nl/projecten/mvn/webfiles/charDecl.xml"  
                 xmlns:xi="http://www.w3.org/2001/XInclude">
                 <xi:fallback>
@@ -124,7 +168,7 @@
 </lg>
 <lg type="stanza" n="34">
 <lb n="14" xml:id="Ef1rb.14"/><l n="E_M1_34_430"><choice><abbr><hi rend="capitalsize2">M</hi>i<g ref="#bar"/>ne</abbr><expan><hi rend="capitalsize2">M</hi>i<ex>n</ex>ne</expan></choice> es <choice><abbr>alsme<g ref="#bar"/></abbr><expan>alsme<ex>n</ex></expan></choice> <choice><abbr>bescreue<g ref="#bar"/></abbr><expan>bescreue<ex>n</ex></expan></choice> vint</l>
-<lb n="15" xml:id="Ef1rb.15"/><l n="E_M1_34_431"><hi rend="capitalsize1">C</hi>racht die II. <choice><abbr>h<g ref="#apomod"/>te<g ref="#bar"/></abbr><expan>h<ex>er</ex>te<ex>n</ex></expan></choice> <choice><abbr>tsame<g ref="#bar"/></abbr><expan>tsame<ex>n</ex></expan></choice> bint</l>
+<lb n="15" xml:id="Ef1rb.15"/><l n="E_M1_34_431"><hi rend="capitalsize1">C</hi>racht die <num type="roman">II.</num> <choice><abbr>h<g ref="#apomod"/>te<g ref="#bar"/></abbr><expan>h<ex>er</ex>te<ex>n</ex></expan></choice> <choice><abbr>tsame<g ref="#bar"/></abbr><expan>tsame<ex>n</ex></expan></choice> bint</l>
 <lb n="16" xml:id="Ef1rb.16"/><l n="E_M1_34_432"><hi rend="capitalsize1">I</hi>n <choice><abbr>ene<g ref="#bar"/></abbr><expan>ene<ex>n</ex></expan></choice> <choice><abbr>reyne<g ref="#bar"/></abbr><expan>reyne<ex>n</ex></expan></choice> wane</l>
 <lb n="17" xml:id="Ef1rb.17"/><l n="E_M1_34_433"><hi rend="capitalsize1">D</hi>attie <choice><abbr>mi<g ref="#bar"/>ne</abbr><expan>mi<ex>n</ex>ne</expan></choice> hetet blint</l>
 <lb n="18" xml:id="Ef1rb.18"/><l n="E_M1_34_434"><hi rend="capitalsize1">C</hi>omt <choice><abbr>d<g ref="#etfin"/></abbr><expan>d<ex>at</ex></expan></choice> menich es so kint</l>
