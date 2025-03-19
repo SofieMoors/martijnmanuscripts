@@ -14,12 +14,58 @@
             <idno>MS 19570</idno>
             <msName>Br</msName>
           </msIdentifier>
- <p>...</p>
+<msContents>
+<msItem>
+<locus from="1r" to="12v"/>
+<title>Martijn Trilogy</title>
+<author>Jacob van Maerlant</author>
+</msItem>
+</msContents>
+
+<physDesc>
+<objectDesc form="single-quire-manuscript">
+                     <supportDesc material="perch">
+                        <support>
+                           <num type="front-flyleaf" value="0"/>
+                           <num type="book-block" value="12"/>
+                           <num type="end-flyleaf" value="0"/>
+                           <dimensions type="leaf">
+                              <height unit="mm" quantity="202"/>
+                              <width unit="mm" quantity="159"/>
+                           </dimensions>
+                        </support>
+                     <foliation></foliation>
+                     <collation>1VI(12)</collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="2" writtenLines="38" ruledLines="">
+                           <dimensions type="written">
+                              <height unit="mm" quantity="170"/>
+                              <width unit="mm" quantity="125"/>
+                           </dimensions>
+			<catchwords></catchwords>
+                           <signatures></signatures>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc hands="1">
+                     <handNote script="littera textualis hybrida">the Martijn Trilogy is written in littera textualis hybrida by a single hand</handNote>
+                  </handDesc>
+                  <decoDesc>
+                   <decoNote>initial (red); title (red); lombardic capital letters as strophic separation (red), colour-stroking (red) first letters</decoNote></decoDesc>
+                  <additions><p>reconstruction, only f.4/9 and f.5/8 remain</p></additions>
+               </physDesc>
+
+<history>
+<origin>
+<origDate>1400</origDate>
+<origPlace>Brabant</origPlace>
+</origin>
+</history>
         </msDesc>
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
- <charDecl></charDecl>
             <xi:include href="http://www.huygensinstituut.knaw.nl/projecten/mvn/webfiles/charDecl.xml"  
                 xmlns:xi="http://www.w3.org/2001/XInclude">
                 <xi:fallback>
@@ -293,7 +339,7 @@
 <lb n="11" xml:id="Brf3rb.11"/><l n="Br_M1_51_654"><hi rend="capitalsize1">D</hi>oet <choice><abbr>d<g ref="#apomod"/></abbr><expan>d<ex>er</ex></expan></choice> ogen wandel vont</l>
 <lb n="12" xml:id="Brf3rb.12"/><l n="Br_M1_51_655"><hi rend="capitalsize1">O</hi>ft cornet vter <choice><abbr>herte<g ref="#bar"/></abbr><expan>herte<ex>n</ex></expan></choice> gront</l>
 <lb n="13" xml:id="Brf3rb.13"/><l n="Br_M1_51_656"><hi rend="capitalsize1">D</hi>it euel ten beghinne</l>
-<lb n="14" xml:id="Brf3rb.14"/><l n="Br_M1_51_657"><hi rend="capitalsize1">J</hi>c liet mi costen .j. pont</l>
+<lb n="14" xml:id="Brf3rb.14"/><l n="Br_M1_51_657"><hi rend="capitalsize1">J</hi>c liet mi costen <num type="roman">.j.</num> pont</l>
 <lb n="15" xml:id="Brf3rb.15"/><l n="Br_M1_51_658"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> ics vroet ware teser stont</l>
 <lb n="16" xml:id="Brf3rb.16"/><l n="Br_M1_51_659"><hi rend="capitalsize1">M</hi>aect mi des an jnne</l>
 <lb n="17" xml:id="Brf3rb.17"/><l n="Br_M1_51_660"><hi rend="capitalsize1">M</hi>ijn <choice><abbr>h<g ref="#apomod"/>te</abbr><expan>h<ex>er</ex>te</expan></choice> bliuet ongesont</l>
@@ -342,7 +388,7 @@
 <lb n="13" xml:id="Brf3va.13"/><l n="Br_M1_54_694"><choice><abbr><hi rend="capitalsize1">W</hi><g ref="#apomod"/></abbr><expan><hi rend="capitalsize1">W</hi><ex>aer</ex></expan></choice> di verboden huis <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> lant</l>
 <lb n="14" xml:id="Brf3va.14"/><l n="Br_M1_54_695"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> des menschen houde</l>
 <lb n="15" xml:id="Brf3va.15"/><l n="Br_M1_54_696"><hi rend="capitalsize1">S</hi>one bonde mi geen bant</l>
-<lb n="16" xml:id="Brf3va.16"/><l n="Br_M1_54_697"><hi rend="capitalsize1">L</hi>ichter waric dan .j. sant</l>
+<lb n="16" xml:id="Brf3va.16"/><l n="Br_M1_54_697"><hi rend="capitalsize1">L</hi>ichter waric dan <num type="roman">.j.</num> sant</l>
 <lb n="17" xml:id="Brf3va.17"/><l n="Br_M1_54_698"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> alle mine scoude</l>
 <lb n="18" xml:id="Brf3va.18"/><l n="Br_M1_54_699"><hi rend="capitalsize1">M</hi>en stake bat wt metter hant</l>
 <lb n="19" xml:id="Brf3va.19"/><l n="Br_M1_54_700"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> versmoorde <choice><abbr>sulke<g ref="#bar"/></abbr><expan>sulke<ex>n</ex></expan></choice> pant</l>
@@ -351,7 +397,7 @@
 </lg>
 <lg type="stanza" n="55">
 <lb n="22" xml:id="Brf3va.22"/><l n="Br_M1_55_703"><hi rend="capitalsize2">T</hi><unclear>herte</unclear> sweech doge sprac</l>
-<lb n="23" xml:id="Brf3va.23"/><l n="Br_M1_55_704"><hi rend="capitalsize1">J</hi>c wane <choice><abbr>d<g ref="#etfin"/></abbr><expan>d<ex>at</ex></expan></choice> v sms gebrac</l>
+<lb n="23" xml:id="Brf3va.23"/><l n="Br_M1_55_704"><hi rend="capitalsize1">J</hi>c wane <choice><abbr>d<g ref="#etfin"/></abbr><expan>d<ex>at</ex></expan></choice> v sins gebrac</l>
 <lb n="24" xml:id="Brf3va.24"/><l n="Br_M1_55_705"><hi rend="capitalsize1">V</hi>rouwe coninghinne</l>
 <lb n="25" xml:id="Brf3va.25"/><l n="Br_M1_55_706"><choice><abbr><hi rend="capitalsize1">D</hi><g ref="#etfin"/></abbr><expan><hi rend="capitalsize1">D</hi><ex>at</ex></expan></choice> ghi mi tijt v ongemac</l>
 <lb n="26" xml:id="Brf3va.26"/><l n="Br_M1_55_707"><hi rend="capitalsize1">W</hi>ant mi noit <choice><abbr>tuw<g ref="#apomod"/>t</abbr><expan>tuw<ex>aer</ex>t</expan></choice> lac</l>
@@ -478,7 +524,7 @@
 <lb n="1" xml:id="Brf4rb.1"/><l n="Br_M2_10_125"><hi rend="capitalsize1">W</hi>ijsde <choice><abbr>h<g ref="#apomod"/></abbr><expan>h<ex>aer</ex></expan></choice> redene den <choice><abbr>rechte<g ref="#bar"/></abbr><expan>rechte<ex>n</ex></expan></choice> pat</l>
 <lb n="2" xml:id="Brf4rb.2"/><l n="Br_M2_10_126"><hi rend="capitalsize1">A</hi>l volget si den loeder</l>
 <lb n="3" xml:id="Brf4rb.3"/><l n="Br_M2_10_127"><choice><abbr><hi rend="capitalsize1">M</hi><g ref="#apomod"/></abbr><expan><hi rend="capitalsize1">M</hi><ex>aer</ex></expan></choice> <choice><abbr>th<g ref="#apomod"/>te</abbr><expan>th<ex>er</ex>te</expan></choice> was <choice><abbr>h<g ref="#apomod"/></abbr><expan>h<ex>aer</ex></expan></choice> soe mat</l>
-<lb n="4" xml:id="Brf4rb.4"/><l n="Br_M2_10_128"><choice><abbr><hi rend="capitalsize1">D</hi><g ref="#apomod"/></abbr><expan><hi rend="capitalsize1">D</hi><ex>aer</ex></expan></choice> minne in had gemaect .j. g<unclear>at</unclear></l>
+<lb n="4" xml:id="Brf4rb.4"/><l n="Br_M2_10_128"><choice><abbr><hi rend="capitalsize1">D</hi><g ref="#apomod"/></abbr><expan><hi rend="capitalsize1">D</hi><ex>aer</ex></expan></choice> minne in had gemaect <num type="roman">.j.</num> g<unclear>at</unclear></l>
 <lb n="5" xml:id="Brf4rb.5"/><l n="Br_M2_10_129"><hi rend="capitalsize1">W</hi>ille hielt den loeder</l>
 <lb n="6" xml:id="Brf4rb.6"/><l n="Br_M2_10_130"><hi rend="capitalsize1">A</hi>l was die redene vroed<unclear>er</unclear></l>
 </lg>
@@ -508,7 +554,7 @@
 <lb n="25" xml:id="Brf4rb.25"/><l n="Br_M2_12_150"><hi rend="capitalsize1">L</hi>aet mi genaken an <choice><abbr>dine<g ref="#bar"/></abbr><expan>dine<ex>n</ex></expan></choice> cant</l>
 <lb n="26" xml:id="Brf4rb.26"/><l n="Br_M2_12_151"><hi rend="capitalsize1">M</hi>en sal v vroetscap al te hant</l>
 <lb n="27" xml:id="Brf4rb.27"/><l n="Br_M2_12_152"><hi rend="capitalsize1">T</hi>ellen metten kinden</l>
-<lb n="28" xml:id="Brf4rb.28"/><l n="Br_M2_12_153"><hi rend="capitalsize1">A</hi>lsoe vele als <choice><abbr>diede<g ref="#bar"/></abbr><expan>diede<ex>n</ex></expan></choice> mach .j. s<unclear>.</unclear>e</l>
+<lb n="28" xml:id="Brf4rb.28"/><l n="Br_M2_12_153"><hi rend="capitalsize1">A</hi>lsoe vele als <choice><abbr>diede<g ref="#bar"/></abbr><expan>diede<ex>n</ex></expan></choice> mach <num type="roman">.j.</num> s<unclear>.</unclear>e</l>
 <lb n="29" xml:id="Brf4rb.29"/><l n="Br_M2_12_154"><hi rend="capitalsize1">J</hi>egen casselberch in <choice><abbr>vla<unclear>e</unclear>nd<g ref="#apomod"/>lant</abbr><expan>vla<unclear>e</unclear>nd<ex>er</ex>lant</expan></choice></l>
 <lb n="30" xml:id="Brf4rb.30"/><l n="Br_M2_12_155"><hi rend="capitalsize1">S</hi>al di<unclear>.d</unclear>en hier v vinden</l>
 <lb n="31" xml:id="Brf4rb.31"/><l n="Br_M2_12_156"><hi rend="capitalsize1">A</hi>l waendi mi <choice><abbr>v<g ref="#apomod"/>blinden</abbr><expan>v<ex>er</ex>blinden</expan></choice></l>
@@ -719,7 +765,7 @@
 <lb n="7" xml:id="Brf2va.7"/><l n="Br_M2_25_320"><choice><abbr><hi rend="capitalsize1">D</hi><g ref="#apomod"/></abbr><expan><hi rend="capitalsize1">D</hi><ex>aer</ex></expan></choice> ons ie sonde mede scoot</l>
 <lb n="8" xml:id="Brf2va.8"/><l n="Br_M2_25_321"><hi rend="capitalsize1">E</hi>n laet hi ons <choice><abbr>d<g ref="#apomod"/></abbr><expan>d<ex>aer</ex></expan></choice> jnne</l>
 <lb n="9" xml:id="Brf2va.9"/><l n="Br_M2_25_322"><hi rend="capitalsize1">L</hi>eggen <damage><gap></gap></damage> hooft in <choice><abbr>sine<g ref="#bar"/></abbr><expan>sine<ex>n</ex></expan></choice> scoot</l>
-<lb n="10" xml:id="Brf2va.10"/><l n="Br_M2_25_323"><hi rend="capitalsize1">S</hi>oude <damage><gap></gap></damage>aken dan die doot</l>
+<lb n="10" xml:id="Brf2va.10"/><l n="Br_M2_25_323"><hi rend="capitalsize1">S</hi>oude s<damage><gap></gap></damage>maken dan die doot</l>
 <lb n="11" xml:id="Brf2va.11"/><l n="Br_M2_25_324"><hi rend="capitalsize1">D</hi>ie ic mi soe hout kinne</l>
 <lb n="12" xml:id="Brf2va.12"/><l n="Br_M2_25_325"><hi rend="capitalsize1">S</hi>oe <damage><gap></gap></damage>aer <choice><abbr>mij<g ref="#bar"/></abbr><expan>mij<ex>n</ex></expan></choice> vroude dinne</l>
 </lg>

@@ -14,14 +14,61 @@
             <settlement>Groningen </settlement>
             <institution>University of Groningen Library </institution>
             <idno>HS 405</idno>
-            <msName>Gronings-Zutphens Maerlant Manuscrip, C</msName>
+            <msName>Gronings-Zutphens Maerlant Manuscript, C</msName>
           </msIdentifier>
- <p>...</p>
+<msContents>
+<msItem>
+<locus from="217ra" to="224rb"/>
+<title>Martijn Trilogy</title>
+<author>Jacob van Maerlant</author>
+</msItem>
+</msContents>
+
+<physDesc>
+<objectDesc form="sammelband">
+                     <supportDesc material="perch">
+                        <support>
+                           <num type="front-flyleaf" value="7"/>
+                           <num type="book-block" value="235"/>
+                           <num type="end-flyleaf" value="9"/>
+                           <dimensions type="leaf">
+                              <height unit="mm" quantity="315"/>
+                              <width unit="mm" quantity="210"/>
+                           </dimensions>
+                        </support>
+                     <foliation>foliation in red ink in roman numbers and modern foliation in pencil</foliation>
+                     <collation>1II(4);2V(14);3-20IV(158);21IV+1(167);22-26IV(207);27IV+1(216);28-29IV(232);30,1+I or II-1(235)</collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="2" writtenLines="51" ruledLines="">
+                           <dimensions type="written">
+                              <height unit="mm" quantity="247"/>
+                              <width unit="mm" quantity="140"/>
+                           </dimensions>
+			<dimensions type="line">
+                           <height unit="mm" min="" max=""/>
+                           </dimensions>
+			<catchwords></catchwords>
+                           <signatures></signatures>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc hands="1">
+                     <handNote script="littera textualis">the Martijn Trilogy is written in littera textualis by a single hand B</handNote>
+                  </handDesc>
+                  <decoDesc>
+                   <decoNote>title (red); initial (gold, blue; red); lombardic capital letters as strophic separation (red; blue)</decoNote></decoDesc>
+                  <additions><p></p></additions>
+               </physDesc>
+<history>
+<origin>
+<origDate notBefore="1325" notAfter="1347">1325-1347</origDate>
+<origPlace>Brabant or Gelre</origPlace>
+</origin></history>
         </msDesc>
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
- <charDecl></charDecl>
             <xi:include href="http://www.huygensinstituut.knaw.nl/projecten/mvn/webfiles/charDecl.xml"  
                 xmlns:xi="http://www.w3.org/2001/XInclude">
                 <xi:fallback>
@@ -73,7 +120,7 @@
 <lb n="24" xml:id="Cf217ra.24"/><l n="C_M3_02_023">dits waereit claer <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> biechtinghe</l>
 <lb n="25" xml:id="Cf217ra.25"/><l n="C_M3_02_024">subtijl waer therte diet beuinghe</l>
 <lb n="26" xml:id="Cf217ra.26"/><l n="C_M3_02_025">want hogher dinc en is engheen</l>
-<lb n="27" xml:id="Cf217ra.27"/><l n="C_M3_02_026">nu andworde mi tusghen ons tween.</l>
+<lb n="27" xml:id="Cf217ra.27"/><l n="C_M3_02_026">nu andworde <add>mi</add> tusghen ons tween.</l>
 </lg>
 <lg type="stanza" n="03">
 <lb n="28" xml:id="Cf217ra.28"/><l n="C_M3_03_027"><hi rend="capitalsize2">M</hi>artijn du vraghes mi tehoghe</l>
@@ -187,7 +234,7 @@
 <lb n="13" xml:id="Cf217va.13"/><l n="C_M3_09_117">noch ghequest van enen bast.</l>
 </lg>
 <lg type="stanza" n="10">
-<lb n="14" xml:id="Cf217va.14"/><l n="C_M3_10_118"><hi rend="capitalsize2">V</hi>an enen god spreke wij <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> van enen</l>
+<lb n="14" xml:id="Cf217va.14"/><l n="C_M3_10_118"><hi rend="capitalsize2">V</hi>an enen god spreke <add>wij</add> <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> van enen</l>
 <lb n="15" xml:id="Cf217va.15"/><l n="C_M3_10_119">dien wij vader <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> zoene menen</l>
 <lb n="16" xml:id="Cf217va.16"/><l n="C_M3_10_120"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> den heylighen gheest</l>
 <lb n="17" xml:id="Cf217va.17"/><l n="C_M3_10_121"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> weet wel dat wire enghenen</l>
@@ -240,7 +287,7 @@
 <lb n="3" xml:id="Cf217vb.3"/><l n="C_M3_13_159">eenrehande triniteit</l>
 <lb n="4" xml:id="Cf217vb.4"/><l n="C_M3_13_160">want hi moet moeghen ter dinc <choice><abbr>ghenake<g ref="#bar"/></abbr><expan>ghenake<ex>n</ex></expan></choice></l>
 <lb n="5" xml:id="Cf217vb.5"/><l n="C_M3_13_161"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> hi moet om die dinc gheraken</l>
-<lb n="6" xml:id="Cf217vb.6"/><l n="C_M3_13_162">of hets hem al ontseit</l>
+<lb n="6" xml:id="Cf217vb.6"/><l n="C_M3_13_162">of hets hem al on<add>t</add>seit</l>
 <lb n="7" xml:id="Cf217vb.7"/><l n="C_M3_13_163">oec moet hi daer omme waken</l>
 <lb n="8" xml:id="Cf217vb.8"/><l n="C_M3_13_164">cracht const <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> wille dese drie zaken</l>
 <lb n="9" xml:id="Cf217vb.9"/><l n="C_M3_13_165">vijntmen <choice><abbr>i<g ref="#bar"/></abbr><expan>i<ex>n</ex></expan></choice> die menschlicheit</l>
@@ -383,7 +430,7 @@
 <lb n="19" xml:id="Cf218rb.19"/><l n="C_M3_22_278">onze vorders ghedaen verdomen</l>
 <lb n="20" xml:id="Cf218rb.20"/><l n="C_M3_22_279"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> swaerlike ghescent</l>
 <lb n="21" xml:id="Cf218rb.21"/><l n="C_M3_22_280">dit was zijn zonderlinghe beromen</l>
-<lb n="22" xml:id="Cf218rb.22"/><l n="C_M3_22_281">dat hi alle gader niet hem zomen</l>
+<lb n="22" xml:id="Cf218rb.22"/><l n="C_M3_22_281">dat <add>hi</add> alle gader niet hem zomen</l>
 <lb n="23" xml:id="Cf218rb.23"/><l n="C_M3_22_282">dat volc heeft verblent</l>
 <lb n="24" xml:id="Cf218rb.24"/><l n="C_M3_22_283">dus wil hi vten hemel dromen</l>
 <lb n="25" xml:id="Cf218rb.25"/><l n="C_M3_22_284">den mensche dat hem die hemelsce <choice><abbr>blome<g ref="#bar"/></abbr><expan>blome<ex>n</ex></expan></choice></l>
@@ -393,7 +440,7 @@
 <lg type="stanza" n="23">
 <lb n="28" xml:id="Cf218rb.28"/><l n="C_M3_23_287"><hi rend="capitalsize2">D</hi>ie godszoene zach den man <choice><abbr>v<g ref="#apomod"/>raden</abbr><expan>v<ex>er</ex>raden</expan></choice></l>
 <lb n="29" xml:id="Cf218rb.29"/><l n="C_M3_23_288"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> den viant van ouerdaden</l>
-<lb n="30" xml:id="Cf218rb.30"/><l n="C_M3_23_289">in roeme e zeer groet</l>
+<lb n="30" xml:id="Cf218rb.30"/><l n="C_M3_23_289">in ro<add>e</add>me zeer groet</l>
 <lb n="31" xml:id="Cf218rb.31"/><l n="C_M3_23_290"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> wil hem staen in staden</l>
 <lb n="32" xml:id="Cf218rb.32"/><l n="C_M3_23_291">zo dat hi bi zier ghenaden</l>
 <lb n="33" xml:id="Cf218rb.33"/><l n="C_M3_23_292">marien dat ontboet</l>
@@ -461,7 +508,7 @@
 <lb n="33" xml:id="Cf218va.33"/><l n="C_M3_27_343">hier twe: hier drie. hier vier. hier viue</l>
 <lb n="34" xml:id="Cf218va.34"/><l n="C_M3_27_344">met hem hi eten quam</l>
 <lb n="35" xml:id="Cf218va.35"/><l n="C_M3_27_345">dus is die godsoene alsic scriue</l>
-<lb n="36" xml:id="Cf218va.36"/><l n="C_M3_27_346">god <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> mensche elc man bliue</l>
+<lb n="36" xml:id="Cf218va.36"/><l n="C_M3_27_346">god <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> mensche elc <del>v</del><add>m</add>an bliue</l>
 <lb n="37" xml:id="Cf218va.37"/><l n="C_M3_27_347">in desen ghehoersam</l>
 <lb n="38" xml:id="Cf218va.38"/><l n="C_M3_27_348">is enich zin so stiue</l>
 <lb n="39" xml:id="Cf218va.39"/><l n="C_M3_27_349">die jeghen dit gheloue kiue</l>
@@ -482,8 +529,8 @@
 
 
 <pb xml:id="C.f218vb" n="218vb"/>
-<lb n="1" xml:id="Cf218vb.1"/><l n="C_M3_28_362">die bi adaem verdonkert waren</l>
-<lb n="2" xml:id="Cf218vb.2"/><l n="C_M3_28_363">locht water <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> lant</l>
+<lb n="1" xml:id="Cf218vb.1"/><l n="C_M3_28_362">die bi adaem verdonker<add>t</add> waren</l>
+<lb n="2" xml:id="Cf218vb.2"/><l n="C_M3_28_363">l<del>o</del><add>v</add>cht water <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> lant</l>
 <lb n="3" xml:id="Cf218vb.3"/><l n="C_M3_28_364">zal purgeren een brant.</l>
 </lg>
 <lg type="stanza" n="29">
@@ -589,7 +636,7 @@
 <lb n="37" xml:id="Cf219ra.37"/><l n="C_M3_35_449">hen is coninc noch coninghinne</l>
 <lb n="38" xml:id="Cf219ra.38"/><l n="C_M3_35_450">die emmermeer aflaet ghewinne</l>
 <lb n="39" xml:id="Cf219ra.39"/><l n="C_M3_35_451">van zijnre onsaelicheit</l>
-<lb n="40" xml:id="Cf219ra.40"/><l n="C_M3_35_452">hi ne hebbe een traen al waert oec dinne</l>
+<lb n="40" xml:id="Cf219ra.40"/><l n="C_M3_35_452">hi ne hebbe een traen al waert <add>oec</add> dinne</l>
 <lb n="41" xml:id="Cf219ra.41"/><l n="C_M3_35_453">van desen dauwe te zinen beghinne</l>
 <lb n="42" xml:id="Cf219ra.42"/><l n="C_M3_35_454">al weluaren is ontfeit</l>
 <lb n="43" xml:id="Cf219ra.43"/><l n="C_M3_35_455">daer dese is onghereit</l>

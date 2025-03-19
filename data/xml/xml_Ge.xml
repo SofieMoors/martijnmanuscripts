@@ -16,12 +16,61 @@
             <idno>Cod. Bodmer 101</idno>
             <msName>Ge</msName>
           </msIdentifier>
- <p>...</p>
+<msContents>
+<msItem>
+<locus from="1ra" to="12vb"/>
+<title>Martijn Trilogy</title>
+<author>Jacob van Maerlant</author>
+</msItem>
+</msContents>
+
+<physDesc>
+<objectDesc form="single-quire-manuscript">
+                     <supportDesc material="perch">
+                        <support>
+                           <num type="front-flyleaf" value="0"/>
+                           <num type="book-block" value="12"/>
+                           <num type="end-flyleaf" value="0"/>
+                           <dimensions type="leaf fragmented">
+                              <height unit="mm" quantity="196"/>
+                              <width unit="mm" quantity="130"/>
+                           </dimensions>
+                        </support>
+                     <foliation></foliation>
+                     <collation>1VI(12)</collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="2" writtenLines="38" ruledLines="">
+                           <dimensions type="written">
+                              <height unit="mm" quantity="179"/>
+                              <width unit="mm" quantity="124"/>
+                           </dimensions>
+			<dimensions type="line">
+                           <height unit="mm" min="4" max="5"/>
+                           </dimensions>
+			<catchwords></catchwords>
+                           <signatures></signatures>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc hands="1">
+                     <handNote script="littera textualis">the Martijn Trilogy is written in littera textualis by a single hand</handNote>
+                  </handDesc>
+                  <decoDesc>
+                   <decoNote>title (red); lombardic capital letters as strophic separation (red), colour-stroking (red) first letters</decoNote></decoDesc>
+ <additions><p>reconstruction, only f.6/7 remains</p><p>(description from https://fragmentarium.ms/description/export/3666/F-0ovy-3666.xml)</p></additions>
+               </physDesc>
+
+<history>
+<origin>
+<origDate notBefore="1375" notAfter="1400">1375-1400</origDate>
+<origPlace>Brabant</origPlace>
+</origin>
+</history>
         </msDesc>
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
- <charDecl></charDecl>
             <xi:include href="http://www.huygensinstituut.knaw.nl/projecten/mvn/webfiles/charDecl.xml"  
                 xmlns:xi="http://www.w3.org/2001/XInclude">
                 <xi:fallback>
@@ -50,10 +99,10 @@
 <lb n="3" xml:id="Gef1va.3"/><l n="Ge_M1_65_836"><damage><gap></gap></damage>erst es te <choice><abbr>vlie<g ref="#bar"/></abbr><expan>vlie<ex>n</ex></expan></choice> tserpent</l>
 <lb n="4" xml:id="Gef1va.4"/><l n="Ge_M1_65_837"><damage><gap></gap></damage>n te wandelen <choice><abbr>d<g ref="#apomod"/></abbr><expan>d<ex>aer</ex></expan></choice> <choice><abbr>o<g ref="#bar"/>trent</abbr><expan>o<ex>m</ex>trent</expan></choice></l>
 <lb n="5" xml:id="Gef1va.5"/><l n="Ge_M1_65_838"><damage><gap></gap></damage>atti niet en beulecte</l>
-<lb n="6" xml:id="Gef1va.6"/><l n="Ge_M1_65_839"><choice><abbr><hi rend="capitalsize1">R</hi>ijch<g ref="#etfin"/></abbr><expan><hi rend="capitalsize1">R</hi>ijch<ex>eit</ex></expan></choice> maect .j. so blint</l>
+<lb n="6" xml:id="Gef1va.6"/><l n="Ge_M1_65_839"><choice><abbr><hi rend="capitalsize1">R</hi>ijch<g ref="#etfin"/></abbr><expan><hi rend="capitalsize1">R</hi>ijch<ex>eit</ex></expan></choice> maect <num type="roman">.j.</num> so blint</l>
 <lb n="7" xml:id="Gef1va.7"/><l n="Ge_M1_65_840"><hi rend="capitalsize1">D</hi>atti gode niet en kint</l>
 <lb n="8" xml:id="Gef1va.8"/><l n="Ge_M1_65_841"><hi rend="capitalsize1">D</hi>us sceetmen <choice><abbr>vande<g ref="#bar"/></abbr><expan>vande<ex>n</ex></expan></choice> lichte</l>
-<lb n="9" xml:id="Gef1va.9"/><l n="Ge_M1_65_842"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> wort van <choice><abbr>leue<g ref="#bar"/></abbr><expan>leue<ex>n</ex></expan></choice> .j. rent</l>
+<lb n="9" xml:id="Gef1va.9"/><l n="Ge_M1_65_842"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> wort van <choice><abbr>leue<g ref="#bar"/></abbr><expan>leue<ex>n</ex></expan></choice> <num type="roman">.j.</num> rent</l>
 <lb n="10" xml:id="Gef1va.10"/><l n="Ge_M1_65_843"><hi rend="capitalsize1">E</hi>nde valt int thelle <choice><abbr>torme<g ref="#bar"/>t</abbr><expan>torme<ex>n</ex>t</expan></choice></l>
 <lb n="11" xml:id="Gef1va.11"/><l n="Ge_M1_65_844"><hi rend="capitalsize1">D</hi>us brincti indie hechte</l>
 <lb n="12" xml:id="Gef1va.12"/><l n="Ge_M1_65_845"><hi rend="capitalsize1">D</hi>ie duuel sine knechte</l>
@@ -205,7 +254,7 @@
 <lb n="18" xml:id="Gef2rb.18"/><l n="Ge_M1_75_965"><hi rend="capitalsize1">I</hi>c wanict best gedoge</l>
 <lb n="19" xml:id="Gef2rb.19"/><l n="Ge_M1_75_966"><hi rend="capitalsize1">I</hi>c <choice><abbr>v<g ref="#apomod"/>geue</abbr><expan>v<ex>er</ex>geue</expan></choice> al ongedout</l>
 <lb n="20" xml:id="Gef2rb.20"/><l n="Ge_M1_75_967"><hi rend="capitalsize1">A</hi>llen <choice><abbr>vrouwe<g ref="#bar"/></abbr><expan>vrouwe<ex>n</ex></expan></choice> ionc <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> out</l>
-<lb n="21" xml:id="Gef2rb.21"/><l n="Ge_M1_75_968"><hi rend="capitalsize1">O</hi>m .j. vrouwe hoge</l>
+<lb n="21" xml:id="Gef2rb.21"/><l n="Ge_M1_75_968"><hi rend="capitalsize1">O</hi>m <num type="roman">.j.</num> vrouwe hoge</l>
 <lb n="22" xml:id="Gef2rb.22"/><l n="Ge_M1_75_969"><choice><abbr><hi rend="capitalsize1">D</hi><g ref="#apomod"/></abbr><expan><hi rend="capitalsize1">D</hi><ex>aer</ex></expan></choice> af quam ons behout</l>
 <lb n="23" xml:id="Gef2rb.23"/><l n="Ge_M1_75_970"><hi rend="capitalsize1">G</hi>edanct sise menichfout</l>
 <lb n="24" xml:id="Gef2rb.24"/><l n="Ge_M1_75_971"><hi rend="capitalsize1">D</hi>at sine op hielt <choice><abbr>m<g ref="#etfin"/></abbr><expan>m<ex>et</ex></expan></choice> soge</l>

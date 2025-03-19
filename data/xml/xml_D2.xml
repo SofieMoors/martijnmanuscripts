@@ -14,12 +14,59 @@
             <idno>LTK 1021</idno>
             <msName>D2</msName>
           </msIdentifier>
- <p>...</p>
+<msContents>
+<msItem>
+<locus from="1r" to="44r"/>
+<title>Martijn Trilogy</title>
+<author>Jacob van Maerlant</author>
+</msItem>
+</msContents>
+<physDesc>
+<objectDesc form="incunable">
+                     <supportDesc material="paper">
+                        <support>
+                           <num type="front-flyleaf" value="1"/>
+                           <num type="book-block" value="44?"/>
+                           <num type="end-flyleaf" value="?"/>
+                           <dimensions type="leaf">
+                              <height unit="mm" quantity="130"/>
+                              <width unit="mm" quantity="95"/>
+                           </dimensions>
+                        </support>
+                     <foliation>modern foliation in pencil</foliation>
+                     <collation>1-5IV(40);6II(44)</collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="1" writtenLines="21" ruledLines="">
+                           <dimensions type="written">
+                              <height unit="mm" quantity="103"/>
+                              <width unit="mm" quantity="62"/>
+                           </dimensions>
+			<dimensions type="line">
+                           <height unit="mm" min="" max=""/>
+                           </dimensions>
+			<catchwords></catchwords>
+                           <signatures></signatures>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <typeDesc><typeNote>98G, M75</typeNote></typeDesc>
+                  <decoDesc>
+                   <decoNote>lombardic capital letters as strophic separation (black) (not in vs. 118; 209; 222; 313)</decoNote>
+                   <decoNote><watermark>licorne sanglée</watermark></decoNote>
+                  </decoDesc>
+                  <additions><p>reconstruction, only part of quire 4 remains</p></additions>
+               </physDesc>
+
+<history>
+<origin>
+<origDate>1496-1500</origDate>
+<origPlace>Antwerp(?)</origPlace>
+</origin></history>
         </msDesc>
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
- <charDecl></charDecl>
             <xi:include href="http://www.huygensinstituut.knaw.nl/projecten/mvn/webfiles/charDecl.xml"  
                 xmlns:xi="http://www.w3.org/2001/XInclude">
                 <xi:fallback>
@@ -102,7 +149,7 @@
 <lb n="18" xml:id="D2f1v.18"/><l n="D2_M2_03_028"><damage><gap></gap></damage>eteren bereyt</l>
 <lb n="19" xml:id="D2f1v.19"/><l n="D2_M2_03_029"><damage><gap></gap></damage> v bliuen</l>
 <lb n="20" xml:id="D2f1v.20"/><l n="D2_M2_03_030"><damage><gap></gap></damage> et mi <choice><abbr>eu<g ref="#bar"/></abbr><expan>eu<ex>de</ex></expan></choice> ontbeyt</l>
-<lb n="21" xml:id="D2f1v.21"/><l n="D2_M2_03_031"><damage><gap></gap></damage>mi opt he<unclear>r</unclear>tte leyt</l>
+<lb n="21" xml:id="D2f1v.21"/><l n="D2_M2_03_031"><damage><gap></gap></damage>mi opt he<damage><gap></gap></damage>tte leyt</l>
 
 
 <pb xml:id="D2.f2r" n="2r"/>
@@ -154,16 +201,16 @@
 <lb n="16" xml:id="D2f2v.16"/><l n="D2_M2_06_068"><damage><gap></gap></damage> ghestadiger trouwen</l>
 <lb n="17" xml:id="D2f2v.17"/><l n="D2_M2_06_069"><damage><gap></gap></damage>in mi gheprijst es twint</l>
 <lb n="18" xml:id="D2f2v.18"/><l n="D2_M2_06_070"><damage><gap></gap></damage>er si is die scoonste <choice><abbr>dieme<g ref="#bar"/></abbr><expan>dieme<ex>n</ex></expan></choice> vindt</l>
-<lb n="19" xml:id="D2f2v.19"/><l n="D2_M2_06_071"><damage><gap></gap></damage><unclear>b</unclear>loeme bouen alle <choice><abbr>vrouwe<g ref="#bar"/></abbr><expan>vrouwe<ex>n</ex></expan></choice></l>
+<lb n="19" xml:id="D2f2v.19"/><l n="D2_M2_06_071"><damage><gap></gap></damage>bloeme bouen alle <choice><abbr>vrouwe<g ref="#bar"/></abbr><expan>vrouwe<ex>n</ex></expan></choice></l>
 <lb n="20" xml:id="D2f2v.20"/><l n="D2_M2_06_072"><damage><gap></gap></damage>es <choice><abbr>mij<g ref="#bar"/></abbr><expan>mij<ex>n</ex></expan></choice> herte soe verblint</l>
 <lb n="21" xml:id="D2f2v.21"/><l n="D2_M2_06_073"><damage><gap></gap></damage> <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> daertoe niet en verbint</l>
 
 
 <pb xml:id="D2.f3r" n="3r"/>
 <lb n="1" xml:id="D2f3r.1"/><l n="D2_M2_06_074"><hi rend="capitalsize1">D</hi>at icse yet wille scouwen</l>
-<lb n="2" xml:id="D2f3r.2"/><l n="D2_M2_06_075"><hi rend="capitalsize1">H</hi>oe lie<unclear>f</unclear> opsien <pc>/</pc> si mi toe sindt</l>
+<lb n="2" xml:id="D2f3r.2"/><l n="D2_M2_06_075"><hi rend="capitalsize1">H</hi>oe lief opsien <pc>/</pc> si mi toe sindt</l>
 <lb n="3" xml:id="D2f3r.3"/><l n="D2_M2_06_076"><hi rend="capitalsize1">H</hi>et dunct <choice><abbr>mijnd<g ref="#apomod"/></abbr><expan>mijnd<ex>er</ex></expan></choice> <choice><abbr>herte<g ref="#bar"/></abbr><expan>herte<ex>n</ex></expan></choice> alsen <damage><gap></gap></damage></l>
-<lb n="4" xml:id="D2f3r.4"/><l n="D2_M2_06_077"><hi rend="capitalsize1">S</hi>ij liet h<unclear>a</unclear>er eer in stucken hou<damage><gap></gap></damage></l>
+<lb n="4" xml:id="D2f3r.4"/><l n="D2_M2_06_077"><hi rend="capitalsize1">S</hi>ij liet h<damage><gap></gap></damage>er eer in stucken hou<damage><gap></gap></damage></l>
 <lb n="5" xml:id="D2f3r.5"/><l n="D2_M2_06_078"><hi rend="capitalsize1">E</hi>er sij daer om quam in rouw<damage><gap></gap></damage></l>
 </lg>
 <lg type="stanza" n="07">
@@ -368,7 +415,7 @@
 <lb n="18" xml:id="D2f8r.18"/><l n="D2_M2_24_301"><hi rend="capitalsize1">D</hi>at god niemant en heeft leet</l>
 <lb n="19" xml:id="D2f8r.19"/><l n="D2_M2_24_302"><hi rend="capitalsize1">W</hi>ien gheeft hi tlanghe leuen</l>
 <lb n="20" xml:id="D2f8r.20"/><l n="D2_M2_24_303"><hi rend="capitalsize1">S</hi>o den ghenen die <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> es wreet</l>
-<lb n="21" xml:id="D2f8r.21"/><l n="D2_M2_24_304"><hi rend="capitalsize1">S</hi>o die hem me<unclear>t</unclear> <choice><abbr>m<unclear>linne</unclear><g ref="#bar"/></abbr><expan>m<unclear>linne</unclear><ex>n</ex></expan></choice> heet</l>
+<lb n="21" xml:id="D2f8r.21"/><l n="D2_M2_24_304"><hi rend="capitalsize1">S</hi>o die hem met <choice><abbr>minne<g ref="#bar"/></abbr><expan>minne<ex>n</ex></expan></choice> heet</l>
 
 
 <pb xml:id="D2.f8v" n="8v"/>
