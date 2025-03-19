@@ -35,7 +35,7 @@ For most of the witnesses, [existing editions](#references) of the text could be
 | 14. F (Clignett-Serrure-handschrift)|The Hague National Library of the Netherlands 73 F 19  | M1, M2, M3 | Verdam & Leendertz (1918); Mertens (1978) | / |
 | 15. O   |  Oxford Bodleian Library Canonici Miscellanei 278 | M1, M2, M3 | Verdam and Leendertz (1918); Mertens (1978)| / |
 | 16. D (Antwerpse druk, Hendrik den Lettersnider) | The Hague National Library of the Netherlands 150 F 40  | M1, M2, M3 | Verdam & Leendertz (1918); Mertens (1978) | [Digital](https://books.google.be/books?id=n2RXCGiiqusC&printsec=frontcover&hl=nl&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false) |
-| 17. D2 (Print) | Leiden University Library LTK 1021 | Fragmentary M1, M2 | Breugelmans (1986) | / |
+| 17. D2 (Print) | Leiden University Library 21233 A 1: 3 | Fragmentary M1, M2 | Breugelmans (1986) | / |
 
 ## REFERENCES: 
 1) Bosmans, G. and Sleiderink, R. (2019). Maerlant in Yvelines. Een nieuw fragment van de Martijns van Jacob van Maerlant (Montigny-le-Bretonneux, Archives départementales des Yvelines, 1F 180). *Queeste*, 26: 66–93.
