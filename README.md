@@ -6,11 +6,13 @@ Cite this repository as: [![DOI](https://zenodo.org/badge/719645106.svg)](https:
 
 This repository holds the code and data accompanying the following paper: Moors, S., Kestemont, M. & Sleiderink, R. (2024). "The Martijn Trilogy Manuscripts: An Open Dataset for Analyzing Scribal Variation." *Research Data Journal for the Humanities and Social Sciences.* 
 
+UPDATE: On July 31, 2025, a new 18th witness 'H' was added to this repository. The README and data have been updated accordingly.
+
 ## ABSTRACT: 
-We present a dataset containing transcriptions of manuscripts of the Middle Dutch strophic poem *Martijn Trilogy* by the Flemish poet Jacob van Maerlant. Of his very large oeuvre, Maerlant’s *Strophic Poems* had the longest tradition: originally written in the thirteenth century, copyists and printers continued to disseminate them until about 1500. These ten shorter poems on social, religious, and ethical issues stand out for their unusual and complex stanza form. The *Martijn Trilogy* was his most successful strophic poem: 17 text witnesses are extant, and the trilogy was imitated and even translated into French and Latin. This dataset contains hyper-diplomatic transcriptions of all witnesses, amounting to a total of  15,814 verses or 79,337 tokens. This open access dataset abides by the FAIR principles, is licensed under a CC-BY-SA license, and is made available in multiple, complementary file formats. Since these transcriptions are strictly diplomatic, this corpus offers valuable possibilities for research on scribal attributions (scribal profiling), abbreviations, stemmatology, textual stability and more.
+We present a dataset containing transcriptions of manuscripts of the Middle Dutch strophic poem *Martijn Trilogy* by the Flemish poet Jacob van Maerlant. Of his very large oeuvre, Maerlant’s *Strophic Poems* had the longest tradition: originally written in the thirteenth century, copyists and printers continued to disseminate them until about 1500. These ten shorter poems on social, religious, and ethical issues stand out for their unusual and complex stanza form. The *Martijn Trilogy* was his most successful strophic poem: 18 text witnesses are extant, and the trilogy was imitated and even translated into French and Latin. This dataset contains hyper-diplomatic transcriptions of all witnesses, amounting to a total of 15,814 verses or 79,337 tokens. This open access dataset abides by the FAIR principles, is licensed under a CC-BY-SA license, and is made available in multiple, complementary file formats. Since these transcriptions are strictly diplomatic, this corpus offers valuable possibilities for research on scribal attributions (scribal profiling), abbreviations, stemmatology, textual stability and more.
 
 ## DATA COLLECTION: 
-To study the manuscript tradition of the *Martijn Trilogy*, we collected diplomatic, digital transcriptions of all 17 currently extant text witnesses. These witnesses included (intact) manuscripts as well as fragmentary witnesses (with text loss), which amount to 15,814 (parallel) verses or 79,337 words in total. Originally written in the thirteenth century, copyists and printers continued to disseminate them until about 1500.
+To study the manuscript tradition of the *Martijn Trilogy*, we collected diplomatic, digital transcriptions of all 18 currently extant text witnesses. These witnesses included (intact) manuscripts as well as fragmentary witnesses (with text loss), which amount to 15,814 (parallel) verses or 79,337 words in total. Originally written in the thirteenth century, copyists and printers continued to disseminate them until about 1500.
 <p align="center">
   <img src="https://github.com/SofieMoors/martijnmanuscripts/blob/main/data/viz/mytimeline.png" />
 </p>
@@ -20,22 +22,24 @@ For most of the witnesses, [existing editions](#references) of the text could be
 | SIGLA (ALTERNATIVE TITLE)  |  REPOSITORY AND SIGNATURE | CURRENT CONDITION AND CONTENT | EDITION | IMAGES |
 |----------|----------|----------|----------|----------|
 |1. C (Gronings-Zutphens Maerlant Manuscript)| Groningen University Library HS 405|M1, M3|Staring van den Wildenborch (1834); Meijer (1838) | [Digital](https://facsimile.ub.rug.nl/digital/collection/manuscripts/id/3332) |
-| 2. E | Heidelberg University Library HS 200 (olim: HS. 362a, 83) | Fragmentary M1, M2, M3 | Mone (1838); Mertens (1978) |[Digital](https://digi.ub.uni-heidelberg.de/diglit/heidhs200/0001/image,info)|
-| 3. Ge  | Cologny Fondation Martin Bodmer Cod. Bodmer 101 | Fragmentary M1, M2 | Gruijs & Mertens (1975) | [IIIF](https://www.e-codices.unifr.ch/en/fmb/cb-0101/bindingE/0/) |
-| 4. K  | Koblenz Landeshauptarchiv Best. 701 Nr. 262 | Fragmentary M1 | Overgaauw (1996) |[Digital](https://apertus.rlp.de/index.php?PLINK=1&ID=ca23ec55-096e-4c81-aaca-9cfef51067dd) |
-| 5. G (Heber-Serrure codex)| Ghent University Library HS 1374 |M1, M2, M3| Gabriël & Kestemont (2023) | [IIIF](https://lib.ugent.be/viewer/archive.ugent.be%3A293E7132-AABB-11E7-8DE6-2C4519B1B84C#?c=&m=&s=&cv=&xywh=-668%2C-151%2C3454%2C2956) |
-| 6. W    |Vienna Austrian National Library Cod. 13708 | M3 | Gabriël & Kestemont (2023, Appendix 2) | [Digital](https://digital.onb.ac.at/RepViewer/viewer.faces?doc=DTL_8500569&order=1&view=SINGLE) |
-| 7. L  | Lyon Bibliothèque Municipal MS 6848 | Fragmentary M1, M2, M3| Moors (2022)| / |
-| 8. Ant |  Antwerp University Library Special Collections MAG-P 64.20 | Fragmentary M1 | Sleiderink, Moors, & De Schepper (2020)|[IIIF](https://anet.be/brocade/imageviewer/universalviewer/uv.html#?manifest=/iiif/de5dca9511b65c5195720e597f32a207f1737d7a/manifest&config=/iiif/viewercfg.phtml%3Fcg=uauniversalviewer)|
-| 9. Y | Montigny-le-Bretonneux - Archives départementales des Yvelines HS 1F 180 | Fragmentary M1, M3 | Bosmans & Sleiderink (2019)| / |
-| 10. Br | Brussels Royal Library of Belgium MS 19570  | Fragmentary M1, M2, M3 | Mertens (1978) | [Digital](https://uurl.kbr.be/2059677) |
-| 11. A (Comburg manuscript) |  Stuttgart Württemberg State Library Cod. Poet. Et phil. 2° 22 | M1, M2, M3| Brinkman & Schenkel (1997) | [Digital](https://digital.wlb-stuttgart.de/index.php?id=6&tx_dlf%5Bid%5D=14451&tx_dlf%5Bpage%5D=227) |
-| 12. B (Haagse Pelgrimage-handschrift) | The Hague National Library of the Netherlands 76 E 6 | M1, M2, M3 | Verdam & Leendertz (1918); Mertens (1978) | / |
-| 13. Z   |  Ghent Royal Academy of Dutch Language and Literature KANTL: 6 | Fragmentary M1, M2, M3 |  Gailliard (1905); Mertens (1978) | [IIIF](https://fragmentarium.ms/overview/F-lllu)  |
-| 14. F (Clignett-Serrure-handschrift)|The Hague National Library of the Netherlands 73 F 19  | M1, M2, M3 | Verdam & Leendertz (1918); Mertens (1978) | / |
-| 15. O   |  Oxford Bodleian Library Canonici Miscellanei 278 | M1, M2, M3 | Verdam and Leendertz (1918); Mertens (1978)| / |
-| 16. D (Antwerpse druk, Hendrik den Lettersnider) | The Hague National Library of the Netherlands 150 F 40  | M1, M2, M3 | Verdam & Leendertz (1918); Mertens (1978) | [Digital](https://books.google.be/books?id=n2RXCGiiqusC&printsec=frontcover&hl=nl&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false) |
-| 17. D2 (Print) | Leiden University Library 21233 A 1: 3 | Fragmentary M1, M2 | Breugelmans (1986) | / |
+| 2. H | Brussels Royal Library of Belgium MS 77-78 | Fragmentary M1, M2 | Moors (in progress) | / |
+| 3. E | Heidelberg University Library HS 200 (olim: HS. 362a, 83) | Fragmentary M1, M2, M3 | Mone (1838); Mertens (1978) |[Digital](https://digi.ub.uni-heidelberg.de/diglit/heidhs200/0001/image,info)|
+| 4. Ge  | Cologny Fondation Martin Bodmer Cod. Bodmer 101 | Fragmentary M1, M2 | Gruijs & Mertens (1975) | [IIIF](https://www.e-codices.unifr.ch/en/fmb/cb-0101/bindingE/0/) |
+| 5. K  | Koblenz Landeshauptarchiv Best. 701 Nr. 262 | Fragmentary M1 | Overgaauw (1996) |[Digital](https://apertus.rlp.de/index.php?PLINK=1&ID=ca23ec55-096e-4c81-aaca-9cfef51067dd) |
+| 6. G (Heber-Serrure codex)| Ghent University Library HS 1374 |M1, M2, M3| Gabriël & Kestemont (2023) | [IIIF](https://lib.ugent.be/viewer/archive.ugent.be%3A293E7132-AABB-11E7-8DE6-2C4519B1B84C#?c=&m=&s=&cv=&xywh=-668%2C-151%2C3454%2C2956) |
+| 7. W    |Vienna Austrian National Library Cod. 13708 | M3 | Gabriël & Kestemont (2023, Appendix 2) | [Digital](https://digital.onb.ac.at/RepViewer/viewer.faces?doc=DTL_8500569&order=1&view=SINGLE) |
+| 8. L  | Lyon Bibliothèque Municipal MS 6848 | Fragmentary M1, M2, M3| Moors (2022)| / |
+| 9. Ant |  Antwerp University Library Special Collections MAG-P 64.20 | Fragmentary M1 | Sleiderink, Moors, & De Schepper (2020)|[IIIF](https://anet.be/brocade/imageviewer/universalviewer/uv.html#?manifest=/iiif/de5dca9511b65c5195720e597f32a207f1737d7a/manifest&config=/iiif/viewercfg.phtml%3Fcg=uauniversalviewer)|
+| 10. Y | Montigny-le-Bretonneux - Archives départementales des Yvelines HS 1F 180 | Fragmentary M1, M3 | Bosmans & Sleiderink (2019)| / |
+| 11. Br | Brussels Royal Library of Belgium MS 19570  | Fragmentary M1, M2, M3 | Mertens (1978) | [Digital](https://uurl.kbr.be/2059677) |
+| 12. A (Comburg manuscript) |  Stuttgart Württemberg State Library Cod. Poet. Et phil. 2° 22 | M1, M2, M3| Brinkman & Schenkel (1997) | [Digital](https://digital.wlb-stuttgart.de/index.php?id=6&tx_dlf%5Bid%5D=14451&tx_dlf%5Bpage%5D=227) |
+| 13. B (Haagse Pelgrimage-handschrift) | The Hague National Library of the Netherlands 76 E 6 | M1, M2, M3 | Verdam & Leendertz (1918); Mertens (1978) | / |
+| 14. Z   |  Ghent Royal Academy of Dutch Language and Literature KANTL: 6 | Fragmentary M1, M2, M3 |  Gailliard (1905); Mertens (1978) | [IIIF](https://fragmentarium.ms/overview/F-lllu)  |
+| 15. F (Clignett-Serrure-handschrift)|The Hague National Library of the Netherlands 73 F 19  | M1, M2, M3 | Verdam & Leendertz (1918); Mertens (1978) | / |
+| 16. O   |  Oxford Bodleian Library Canonici Miscellanei 278 | M1, M2, M3 | Verdam and Leendertz (1918); Mertens (1978)| / |
+| 17. D (Antwerpse druk, Hendrik den Lettersnider) | The Hague National Library of the Netherlands 150 F 40  | M1, M2, M3 | Verdam & Leendertz (1918); Mertens (1978) | [Digital](https://books.google.be/books?id=n2RXCGiiqusC&printsec=frontcover&hl=nl&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false) |
+| 18. D2 (Print) | Leiden University Library 21233 A 1: 3 | Fragmentary M1, M2 | Breugelmans (1986) | / |
+
 
 ## REFERENCES: 
 1) Bosmans, G. and Sleiderink, R. (2019). Maerlant in Yvelines. Een nieuw fragment van de Martijns van Jacob van Maerlant (Montigny-le-Bretonneux, Archives départementales des Yvelines, 1F 180). *Queeste*, 26: 66–93.
@@ -56,13 +60,13 @@ For most of the witnesses, [existing editions](#references) of the text could be
 
 ## DATA PREPROCESSING: 
 **data**:
-- `html`: 17 html files with abbreviations expanded, 17 html files with abbreviations unexpanded and extra folders with mvnhtml.css (the css view is optimized for macOS en iOS browsers)
+- `html`: 18 html files with abbreviations expanded, 18 html files with abbreviations unexpanded and extra folders with mvnhtml.css (the css view is optimized for macOS en iOS browsers)
 - `mvn`: framework used (https://github.com/HuygensING/mvn-xml/tree/main/framework)
-- `plain_txt`: 17 text files generated from `xml` with markup applied (scripts > `xml2txt.ipynb`)
-- `rich_txt`: 17 raw text files, manually enriched them with semantic markup: [legend](#legend-rich_txt)
+- `plain_txt`: 18 text files generated from `xml` with markup applied (scripts > `xml2txt.ipynb`)
+- `rich_txt`: 18 raw text files, manually enriched them with semantic markup: [legend](#legend-rich_txt)
 - `viz`: Folder with timeline and pixelplot
-- `xlsx`: Folder with synoptic presentation of all 17 witnesses (abbreviations expanded). Open `synoptic.html` in a spreadsheet application, like MS Excel, to view the synoptic presentation of the aligned transcriptions (`synoptic.xlsx`) 
-- `xml`: 17 xml files generated from the `rich_txt` (scripts > `txt2xml.ipynb`)
+- `xlsx`: Folder with synoptic presentation of all 18 witnesses (abbreviations expanded). Open `synoptic.html` in a spreadsheet application, like MS Excel, to view the synoptic presentation of the aligned transcriptions (`synoptic.xlsx`) 
+- `xml`: 18 xml files generated from the `rich_txt` (scripts > `txt2xml.ipynb`)
 
 **scripts**:
 - `txt2xml.ipynb`: Code to convert `rich_txt` to `xml`
