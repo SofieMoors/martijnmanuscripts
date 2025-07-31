@@ -169,8 +169,8 @@ _M2_
 <D>its minne va(n) sottyen
 <M>inne en(de) datter toebehoort
 <E>n was met sonden nye betoort
-<N>och oec met rybaudien
-165 <W>ien dat reyne minne becoort
+165 <N>och oec met rybaudien
+<W>ien dat reyne minne becoort
 <H>i en mach niet sijn verdoort
 
 &5v& 

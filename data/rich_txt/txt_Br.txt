@@ -398,7 +398,8 @@ _M2_
 <S>i liet conincrike en(de) scat
 
 &4rb&
-
+[...]
+[...]
 125 <W>ijsde h[aer] redene den rechte(n) pat
 <A>l volget si den loeder
 <M>[aer] th[er]te was h[aer] soe mat
@@ -429,7 +430,7 @@ _M2_
 150 <L>aet mi genaken an dine(n) cant
 <M>en sal v vroetscap al te hant
 <T>ellen metten kinden
-<A>lsoe vele als diede(n) mach =.j.= s*.*e
+<A>lsoe vele als diede(n) mach =.j.= s*...*e
 <J>egen casselberch in vla*e*nd[er]lant
 155 <S>al di*.d*en hier v vinden
 <A>l waendi mi v[er]blinden

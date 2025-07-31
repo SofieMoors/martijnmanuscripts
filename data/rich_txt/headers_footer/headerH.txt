@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MVN xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Jacob van Maerlant, Martijn</title><editor xml:id="SM">Sofie Moors</editor></titleStmt>
+            <publicationStmt><p>Transcription made by Sofie Moors</p>
+            </publicationStmt>
+            <sourceDesc>
+               <msDesc>
+          <msIdentifier>
+            <settlement>Brussels</settlement>
+            <institution>Royal Library of Belgium</institution>
+            <idno>MS 77-78</idno>
+            <msName>H</msName>
+          </msIdentifier>
+<msContents>
+<msItem>
+<locus from="1r" to="10v"/>
+<title>Martijn Trilogy</title>
+<author>Jacob van Maerlant</author>
+</msItem>
+</msContents>
+<physDesc>
+<objectDesc form="single-quire-manuscript">
+                     <supportDesc material="perch">
+                        <support>
+                           <num type="front-flyleaf" value="0"/>
+                           <num type="book-block" value="10"/>
+                           <num type="end-flyleaf" value="0"/>
+                           <dimensions type="leaf_fragmented">
+                              <height unit="mm" quantity=""/>
+                              <width unit="mm" quantity="180"/>
+                           </dimensions>
+                        </support>
+                     <foliation>e</foliation>
+                     <collation>1V(10)</collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="2" writtenLines="46" ruledLines="">
+                           <dimensions type="written">
+                              <height unit="mm" quantity=""/>
+                              <width unit="mm" quantity="150"/>
+                           </dimensions>
+                           <dimensions type="line">
+                           <height unit="mm" min="" max=""/>
+                           </dimensions>
+                           <catchwords></catchwords>
+                           <signatures></signatures>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc hands="1">
+                     <handNote script="littera textualis">the Martijn Trilogy is written in littera textualis by a single hand</handNote>
+                  </handDesc>
+                  <decoDesc>
+                 <decoNote>initial (red); title (red); lombardic capital letters as strophic separation (red), colour-stroking (red) first letters</decoNote>
+                  </decoDesc>
+                  <additions><p>reconstruction, only f.4/7 and f.5/6 remain</p><p></p></additions>
+               </physDesc>
+
+<history>
+<origin>
+<origDate>1350-1400</origDate>
+<origPlace>Brabant</origPlace>
+</origin>
+</history>
+        </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <xi:include href="http://www.huygensinstituut.knaw.nl/projecten/mvn/webfiles/charDecl.xml"  
+                xmlns:xi="http://www.w3.org/2001/XInclude">
+                <xi:fallback>
+                    <xi:include href="charDecl/charDecl.xml"/>
+                </xi:fallback>
+            </xi:include>
+            <editorialDecl>
+                <p><!-- Verantwoording van de editie --></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <handNotes>
+                <handNote xml:id="h1"><p>...</p></handNote>
+            </handNotes>
+        </profileDesc>
+    </teiHeader>
+    <text xml:id="Martijn">
+        <group>

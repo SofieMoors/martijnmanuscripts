@@ -842,7 +842,7 @@ plege(n) o(m)me te gane:
 §58§
 <M_1>erte(n) hi[er] bi mogedi sie(n): 
 <W>ed[er] doege(n) th[er]te tie(n): 
-<S>o th[e]te die oege(n): 
+<S>o th[er]te die oege(n): 
 745 <A>lse d{at} h[er]te wille vlie(n): 
 <S>o es o(m) n%iet% d[er] oege(n) gespie(n):
 <D>aer e(n) es geen gedoege(n): 
@@ -1547,7 +1547,7 @@ moete(n) sij(n) gesteent:
 <T>e nauwe o(m) die godh%eit% loeke(n): 
 45 <H>ets recht d{at} hijt bewee(n)t
 <D>u soecs mi i(n) alle(n) hoeke(n): 
-<M>{et} rimen sonder valsch%eit% vlas va(n) doeke(n): 
+<M>{et} rimen sonder valsch%eit% «vlas» va(n) doeke(n): 
 <E>s dit go{et} ic wane neent:
 <D>u tels mi mette(n) wisen cloeke(n): 
 50 <W>a[er]t go{et} ic soud[er] di o(m) vlo@n@eke(n): 
