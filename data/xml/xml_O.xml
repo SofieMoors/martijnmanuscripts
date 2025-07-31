@@ -252,22 +252,22 @@
 <lb n="9" xml:id="Of23r.9"/><l n="O_M1_09_111"><hi rend="capitalsize1">T</hi>rauwe es broocher <choice><abbr>da<g ref="#bar"/></abbr><expan>da<ex>n</ex></expan></choice> een glas</l>
 <lb n="10" xml:id="Of23r.10"/><l n="O_M1_09_112"><hi rend="capitalsize1">D</hi>ie wijlen so staerc was</l>
 <lb n="11" xml:id="Of23r.11"/><l n="O_M1_09_113"><hi rend="capitalsize1">E</hi>s nu te broken bleuen</l>
-<lb n="12" xml:id="Of23r.12"/><l n="O_M1_09_114"><hi rend="capitalsize1">I</hi>c waene noyt herte en ghenas</l>
-<lb n="13" xml:id="Of23r.13"/><l n="O_M1_09_115"><hi rend="capitalsize1">D</hi>ie scalke tsinen rade las</l>
-<lb n="14" xml:id="Of23r.14"/><l n="O_M1_09_116"><hi rend="capitalsize1">H</hi>ien moste int eynde sneuen:</l>
-<lb n="15" xml:id="Of23r.15"/><l n="O_M1_09_117"><hi rend="capitalsize1">E</hi>nde sulck sijns lants verdreuen</l>
 
 
 <pb xml:id="O.f23v" n="23v"/>
+<lb n="1" xml:id="Of23v.1"/><l n="O_M1_09_114"><hi rend="capitalsize1">I</hi>c waene noyt <choice><abbr>he<g ref="#apomod"/>e</abbr><expan>he<ex>er</ex>e</expan></choice> dies ghenas</l>
+<lb n="2" xml:id="Of23v.2"/><l n="O_M1_09_115"><hi rend="capitalsize1">D</hi>ie scalke met <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> te rade las</l>
+<lb n="3" xml:id="Of23v.3"/><l n="O_M1_09_116"><hi rend="capitalsize1">H</hi>y en moeste int hende <choice><abbr>sneue<g ref="#bar"/></abbr><expan>sneue<ex>n</ex></expan></choice></l>
+<lb n="4" xml:id="Of23v.4"/><l n="O_M1_09_117"><hi rend="capitalsize1">E</hi>nde sulc zijns lants <choice><abbr>v<g ref="#apomod"/>dreue<g ref="#bar"/></abbr><expan>v<ex>er</ex>dreue<ex>n</ex></expan></choice></l>
 </lg>
 <lg type="stanza" n="10">
-<lb n="1" xml:id="Of23v.1"/><l n="O_M1_10_118"><hi rend="capitalsize2">M</hi>artin du berechts mi wel</l>
-<lb n="2" xml:id="Of23v.2"/><l n="O_M1_10_119"><hi rend="capitalsize1">H</hi>ier bi zijn die <choice><abbr>he<g ref="#apomod"/>en</abbr><expan>he<ex>er</ex>en</expan></choice> fel</l>
-<lb n="3" xml:id="Of23v.3"/><l n="O_M1_10_120"><hi rend="capitalsize1">E</hi>nde wandel in de taele</l>
-<lb n="4" xml:id="Of23v.4"/><l n="O_M1_10_121"><hi rend="capitalsize1">I</hi>n weeter wat toe segghen el</l>
-<lb n="5" xml:id="Of23v.5"/><l n="O_M1_10_122"><hi rend="capitalsize1">D</hi>e scalke hout boesheit <choice><abbr>ou<g ref="#apomod"/></abbr><expan>ou<ex>er</ex></expan></choice> spel</l>
-<lb n="6" xml:id="Of23v.6"/><l n="O_M1_10_123"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> pijnt hoe hi die duecht <choice><abbr>u<g ref="#apomod"/>smaele</abbr><expan>u<ex>er</ex>smaele</expan></choice></l>
-<lb n="7" xml:id="Of23v.7"/><l n="O_M1_10_124"><hi rend="capitalsize1">C</hi>ayn slouch doot <choice><abbr>de<g ref="#bar"/></abbr><expan>de<ex>n</ex></expan></choice> edel abel.</l>
+<lb n="5" xml:id="Of23v.5"/><l n="O_M1_10_118"><hi rend="capitalsize2">M</hi>artin du berechts mi wel</l>
+<lb n="6" xml:id="Of23v.6"/><l n="O_M1_10_119"><hi rend="capitalsize1">H</hi>ier bi zijn die <choice><abbr>he<g ref="#apomod"/>en</abbr><expan>he<ex>er</ex>en</expan></choice> fel</l>
+<lb n="7" xml:id="Of23v.7"/><l n="O_M1_10_120"><hi rend="capitalsize1">E</hi>nde wandel in de taele</l>
+<lb n="8" xml:id="Of23v.8"/><l n="O_M1_10_121"><hi rend="capitalsize1">I</hi>n weeter wat toe segghen el</l>
+<lb n="9" xml:id="Of23v.9"/><l n="O_M1_10_122"><hi rend="capitalsize1">D</hi>e scalke hout boesheit <choice><abbr>ou<g ref="#apomod"/></abbr><expan>ou<ex>er</ex></expan></choice> spel</l>
+<lb n="10" xml:id="Of23v.10"/><l n="O_M1_10_123"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> pijnt hoe hi die duecht <choice><abbr>u<g ref="#apomod"/>smaele</abbr><expan>u<ex>er</ex>smaele</expan></choice></l>
+<lb n="11" xml:id="Of23v.11"/><l n="O_M1_10_124"><hi rend="capitalsize1">C</hi>ayn slouch doot <choice><abbr>de<g ref="#bar"/></abbr><expan>de<ex>n</ex></expan></choice> edel abel.</l>
 
 
 <pb xml:id="O.f24r" n="24r"/>
