@@ -54,7 +54,7 @@ D2_M2_03_027 [...] vrient heb ic messeyt
 D2_M2_03_028 [...]eteren bereyt
 D2_M2_03_029 [...] v bliuen
 D2_M2_03_030 [...] et mi eū ontbeyt
-D2_M2_03_031 [...]mi opt hertte leyt
+D2_M2_03_031 [...]mi opt he[...]tte leyt
 
 
 
@@ -115,7 +115,7 @@ D2_M2_06_073 [...] hē daertoe niet en verbint
 D2_M2_06_074 Dat icse yet wille scouwen
 D2_M2_06_075 Hoe lief opsien / si mi toe sindt
 D2_M2_06_076 Het dunct mijndʼ hertē alsen [...]
-D2_M2_06_077 Sij liet haer eer in stucken hou[...]
+D2_M2_06_077 Sij liet h[...]er eer in stucken hou[...]
 D2_M2_06_078 Eer sij daer om quam in rouw[...]
 
 
@@ -186,8 +186,8 @@ D2_M2_13_162 Dits minne vā sottyen
 D2_M2_13_163 Minne en̄ datter toebehoort
 D2_M2_13_164 En was met sonden nye betoort
 D2_M2_13_165 Noch oec met rybaudien
-D2_M2_13_165 Wien dat reyne minne becoort
-D2_M2_13_166 Hi en mach niet sijn verdoort
+D2_M2_13_166 Wien dat reyne minne becoort
+D2_M2_13_167 Hi en mach niet sijn verdoort
 
 
 
@@ -320,7 +320,7 @@ D2_M2_24_300 Oft men dit bi reden weet
 D2_M2_24_301 Dat god niemant en heeft leet
 D2_M2_24_302 Wien gheeft hi tlanghe leuen
 D2_M2_24_303 So den ghenen die hē es wreet
-D2_M2_24_304 So die hem met mlinnē heet
+D2_M2_24_304 So die hem met minnē heet
 
 
 

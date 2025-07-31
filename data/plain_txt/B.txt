@@ -426,7 +426,7 @@ B_M1_27_342 Jane trac so themelsche broot
 B_M1_27_343 Hier nedʼ indʼ maichden scoot
 B_M1_27_344 Ondʼ dʼ ioden zwairde
 B_M1_27_345 Minne es goet merc al bloot
-B_M1_27_346 Wie mochte els bringhē inde no#ot
+B_M1_27_346 Wie mochte els bringhē inde noot
 B_M1_27_347 Hem diet al vʼuairde
 B_M1_27_348 Dat hi hem seluē dair in sloet
 B_M1_27_349 Die dʼ mīē zijn bloet root

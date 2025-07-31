@@ -157,13 +157,13 @@ O_M1_09_110 Oft een vriese bescreuen
 O_M1_09_111 Trauwe es broocher dā een glas
 O_M1_09_112 Die wijlen so staerc was
 O_M1_09_113 Es nu te broken bleuen
-O_M1_09_114 Ic waene noyt herte en ghenas
-O_M1_09_115 Die scalke tsinen rade las
-O_M1_09_116 Hien moste int eynde sneuen:
-O_M1_09_117 Ende sulck sijns lants verdreuen
 
 
 
+O_M1_09_114 Ic waene noyt heʼe dies ghenas
+O_M1_09_115 Die scalke met hē te rade las
+O_M1_09_116 Hy en moeste int hende sneuē
+O_M1_09_117 Ende sulc zijns lants vʼdreuē
 
 
 O_M1_10_118 Martin du berechts mi wel

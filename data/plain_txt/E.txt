@@ -266,7 +266,7 @@ E_M3_01_003 Opten hoechsten ban
 E_M3_01_004 Dꝫ sijt reine latē bliuē
 E_M3_01_005 En̄ zieʼ nꝫ toe en driuen
 E_M3_01_006 Wort lʼrē af noch an
-E_M3_01_007 Doē sijt oec hē sal becliuē
+E_M3_01_007 Doē sist oec hē sal becliuē
 E_M3_01_008 Minē ban sine selē af wriuē
 E_M3_01_009 Niet moghē nochtan
 E_M3_01_010 En es gheē spot vā keytiuē

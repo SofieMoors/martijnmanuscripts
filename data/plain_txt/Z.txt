@@ -395,7 +395,7 @@ Z_M2_13_158 die gi mꝫ fauelē brinct vort
 
 
 
-Z_M2_13_159 En̄ ...¨ poterien
+Z_M2_13_159 En̄ ... poterien
 Z_M2_13_160 Oft m...ea dede mort
 Z_M2_13_161 En̄ hē narsisus heuꝫ vʼsmoort
 Z_M2_13_162 Dꝫs mīne van sottiē
@@ -565,9 +565,9 @@ Z_M3_04_044 Te nauwe om de godhᵗ loe[...]
 Z_M3_04_045 Hets recht dꝫ hijt beweēt
 Z_M3_04_046 Du sout mi in allē hoeken
 Z_M3_04_047 Mꝫ rine sondʼ valsch vā doek[...]
+Z_M3_04_048 Es dit goet ic wane neent
 
-Line_number 048 is missing
-Z_M3_04_049 Es dit goet ic wane neent
+Line_number 049 is missing
 
 
 

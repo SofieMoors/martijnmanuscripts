@@ -427,6 +427,8 @@ Br_M2_10_122 Si liet conincrike en̄ scat
 
 
 
+Br_M2_10_123 [...]
+Br_M2_10_124 [...]
 Br_M2_10_125 Wijsde hʼ redene den rechtē pat
 Br_M2_10_126 Al volget si den loeder
 Br_M2_10_127 Mʼ thʼte was hʼ soe mat
@@ -460,7 +462,7 @@ Br_M2_12_149 Als hijs hē wilde bewindē
 Br_M2_12_150 Laet mi genaken an dinē cant
 Br_M2_12_151 Men sal v vroetscap al te hant
 Br_M2_12_152 Tellen metten kinden
-Br_M2_12_153 Alsoe vele als diedē mach .j. s.e
+Br_M2_12_153 Alsoe vele als diedē mach .j. s...e
 Br_M2_12_154 Jegen casselberch in vlaendʼlant
 Br_M2_12_155 Sal di.den hier v vinden
 Br_M2_12_156 Al waendi mi vʼblinden
@@ -671,7 +673,7 @@ Br_M2_25_319 Om ne ghenen wedʼstoot
 Br_M2_25_320 Dʼ ons ie sonde mede scoot
 Br_M2_25_321 En laet hi ons dʼ jnne
 Br_M2_25_322 Leggen [...] hooft in sinē scoot
-Br_M2_25_323 Soude [...]aken dan die doot
+Br_M2_25_323 Soude s[...]maken dan die doot
 Br_M2_25_324 Die ic mi soe hout kinne
 Br_M2_25_325 Soe [...]aer mij̄ vroude dinne
 
