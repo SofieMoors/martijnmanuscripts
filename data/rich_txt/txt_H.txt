@@ -440,7 +440,7 @@ _M1_
 938 *...* hare(n) wille de(n) *...* 
 939 <D>at wi noch alle besteruen
 940 <I>c wae(n)der ons voerdeel af qua(m)
-941<H>ier om w[er]rt ma(n) hemels lam
+941 <H>ier om w[er]rt ma(n) hemels lam
 942 *...*uen
 943 <H>i versoende de(n) vader gram
 944 <E>n(de) wijsde ons de(n) wech en(de) de(n) dam
